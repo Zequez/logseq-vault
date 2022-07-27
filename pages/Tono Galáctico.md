@@ -20,3 +20,5 @@
 	- Acción: Atraer
 	- Poder: Unificar
 	- Esencia: Propósito
+- ## Lunar
+	- Acción:
