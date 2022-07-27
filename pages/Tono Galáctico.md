@@ -53,18 +53,18 @@
 	- Poder: Pulsar
 	- Esencia: Intención
 - ## Planetario
-	- Acción:
-	- Poder:
-	- Esencia:
+	- Acción: Producir
+	- Poder: Perfeccionar
+	- Esencia: Manifestación
 - ## Espectral
+	- Acción: Divulgar
+	- Poder: Disolver
+	- Esencia: Liberación
+- ## Cristal
 	- Acción:
 	- Poder:
 	- Esencia:
-- ## Cristal
-- Acción:
-- Poder:
-- Esencia:
 - ## Cósmico
-- Acción:
-- Poder:
-- Esencia:
+	- Acción:
+	- Poder:
+	- Esencia:
