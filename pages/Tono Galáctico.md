@@ -49,4 +49,22 @@
 	- Poder: Armonizar
 	- Esencia: Integridad
 - ## Solar
+	- Acción: Realizar
+	- Poder: Pulsar
+	- Esencia: Intención
+- ## Planetario
 	- Acción:
+	- Poder:
+	- Esencia:
+- ## Espectral
+	- Acción:
+	- Poder:
+	- Esencia:
+- ## Cristal
+- Acción:
+- Poder:
+- Esencia:
+- ## Cósmico
+- Acción:
+- Poder:
+- Esencia:
