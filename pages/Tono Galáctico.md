@@ -70,4 +70,4 @@
 	- Acción: Trascender
 	- Poder: Perdurar
 	- Esencia: Presencia
--
+- [[draws/2022-07-27-00-50-29.excalidraw]]
