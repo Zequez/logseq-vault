@@ -1,4 +1,5 @@
 - ![murcielago.jpg](../assets/murcielago_1658893970707_0.jpg)
+- #tzolkin
 - Primera luna (1/13) del calendario de las 13 lunas
 	- Cada luna corresponde a un [[Tono Galáctico]]
 - Pregunta: ¿Cuál es mi propósito?
