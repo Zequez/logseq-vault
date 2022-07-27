@@ -28,6 +28,7 @@
 	- Acción: Vincular
 	- Poder: Activar
 	- Esencia: Servicio
+	- ¿Quiénes?: [[Coral]]
 - ## Auto-Existente
 	- Acción: Medir
 	- Poder: Definir
@@ -69,3 +70,4 @@
 	- Acción: Trascender
 	- Poder: Perdurar
 	- Esencia: Presencia
+-
