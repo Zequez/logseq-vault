@@ -44,4 +44,9 @@
 	- Acción: Inspirar
 	- Poder: Canalizar
 	- Esencia: Armonización
-- ## GAl
+- ## Galáctico
+	- Acción: Modelar
+	- Poder: Armonizar
+	- Esencia: Integridad
+- ## Solar
+	- Acción:
