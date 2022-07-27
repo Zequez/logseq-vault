@@ -2,7 +2,4 @@
 	- Cada luna corresponde a un [[Tono Galáctico]]
 - Pregunta: ¿Cuál es mi propósito?
 - {{embed ((62e0b31e-b0ca-441e-892b-1c4bdcf40fff))}}
-- Tono Magnético
-	- Acción: Atraer
-	- Poder: Unificar
-	- Esencia: Propósito
+-
