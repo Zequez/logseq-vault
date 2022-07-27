@@ -17,6 +17,7 @@
 	- Poder
 	- Esencia
 - ## Magnético
+  id:: 62e0b31e-b0ca-441e-892b-1c4bdcf40fff
 	- Acción: Atraer
 	- Poder: Unificar
 	- Esencia: Propósito
@@ -70,4 +71,3 @@
 	- Acción: Trascender
 	- Poder: Perdurar
 	- Esencia: Presencia
-- [[draws/2022-07-27-00-50-29.excalidraw]]
