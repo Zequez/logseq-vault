@@ -38,4 +38,10 @@
 	- Esencia: Esplendor
 - ## Rítmico
 	- Acción: Equilibrar
-	-
+	- Poder: Organizar
+	- Esencia: Igualdad
+- ## Resonante
+	- Acción: Inspirar
+	- Poder: Canalizar
+	- Esencia: Armonización
+- ## GAl
