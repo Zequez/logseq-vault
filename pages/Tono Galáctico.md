@@ -1,2 +1,15 @@
 - Hay 13 tonos galácticos
-	-
+	- Magnético
+	- Lunar
+	- Eléctrico
+	- Auto-Existente
+	- Entonado
+	- Rítmico
+	- Resonante
+	- Galáctico
+	- Solar
+	- Planetario
+	- Espectral
+	- Cristal
+	- Cósmico
+- Cada tono tiene asociado un
