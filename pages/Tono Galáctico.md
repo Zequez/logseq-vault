@@ -12,4 +12,11 @@
 	- Espectral
 	- Cristal
 	- Cósmico
-- Cada tono tiene asociado un
+- Cada tono tiene asociados
+	- Acción
+	- Poder
+	- Esencia
+- ## Magnético
+	- Acción: Atraer
+	- Poder: Unificar
+	- Esencia: Propósito
