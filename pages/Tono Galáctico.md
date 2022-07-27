@@ -21,4 +21,12 @@
 	- Poder: Unificar
 	- Esencia: Propósito
 - ## Lunar
-	- Acción:
+	- Acción: Estabilizar
+	- Poder: Polarizar
+	- Esencia: Desafío
+- ## Eléctrico
+	- Acción: Vincular
+	- Poder: Activar
+	- Esencia: Servicio
+- ## Auto-Existente
+-
