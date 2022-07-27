@@ -1,0 +1,3 @@
+- Primera luna (1/13) del calendario de las 13 lunas
+- Pregunta: ¿Cuál es mi propósito?
+- Tono Magnético: Atraer / Unificar / Propósito
