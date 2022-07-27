@@ -60,11 +60,12 @@
 	- Acción: Divulgar
 	- Poder: Disolver
 	- Esencia: Liberación
+	- ¿Quiénes?: [[Ezequiel]] [[Celeste]]
 - ## Cristal
-	- Acción:
-	- Poder:
-	- Esencia:
+	- Acción: Universalizar
+	- Poder: Dedicarse
+	- Esencia: Cooperación
 - ## Cósmico
-	- Acción:
-	- Poder:
-	- Esencia:
+	- Acción: Trascender
+	- Poder: Perdurar
+	- Esencia: Presencia
