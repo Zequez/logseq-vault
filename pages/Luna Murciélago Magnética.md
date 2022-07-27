@@ -1,3 +1,7 @@
 - Primera luna (1/13) del calendario de las 13 lunas
+	- Cada luna corresponde a un [[Tono Galáctico]]
 - Pregunta: ¿Cuál es mi propósito?
-- Tono Magnético: Atraer / Unificar / Propósito
+- Tono Magnético
+	- Acción: Atraer
+	- Poder: Unificar
+	- Esencia: Propósito
