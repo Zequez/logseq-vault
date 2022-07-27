@@ -29,4 +29,13 @@
 	- Poder: Activar
 	- Esencia: Servicio
 - ## Auto-Existente
--
+	- Acción: Medir
+	- Poder: Definir
+	- Esencia: Forma
+- ## Entonado
+	- Acción: Comandar
+	- Poder: Confiere poder
+	- Esencia: Esplendor
+- ## Rítmico
+	- Acción: Equilibrar
+	-
