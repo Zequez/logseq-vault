@@ -1,2 +1,2 @@
-- {{query NOW}}
+- {{query (and (todo todo))}}
 -
