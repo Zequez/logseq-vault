@@ -1,3 +1,3 @@
-- Tasks
+- # Tasks
 - {{query (and (todo  todo doing now later) [[Ubiquity]])}}
 -
