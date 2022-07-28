@@ -1,5 +1,8 @@
-- Email
-- Telegram
-- Whatsapp
-- Github
-- Discord
+- Priority:
+	- Telegram
+	- Whatsapp
+	- Email
+	- Github
+	- Discord
+-
+-
