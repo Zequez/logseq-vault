@@ -19,6 +19,9 @@
  {:block/name "b",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
+ {:block/name "bed-time",
+  :block/created-at 1659022235424,
+  :block/updated-at 1659022235424}
  {:block/name "c",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
@@ -37,6 +40,9 @@
  {:block/name "celeste",
   :block/created-at 1659021837109,
   :block/updated-at 1659021837109}
+ {:block/name "chino",
+  :block/created-at 1659022427622,
+  :block/updated-at 1659022427622}
  {:block/name "contents",
   :block/created-at 1658887939550,
   :block/updated-at 1658887939550}
@@ -58,6 +64,9 @@
  {:block/name "done",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
+ {:block/name "elimination communication",
+  :block/created-at 1659022295728,
+  :block/updated-at 1659022295728}
  {:block/name "ezequiel",
   :block/created-at 1659021837110,
   :block/updated-at 1659021837110}
@@ -75,19 +84,25 @@
   :block/updated-at 1659021837305}
  {:block/name "jul 26th, 2022",
   :block/created-at 1658886679756,
-  :block/updated-at 1658886926619}
+  :block/updated-at 1659022523787}
  {:block/name "jul 27th, 2022",
   :block/created-at 1659021837316,
   :block/updated-at 1659021837316}
  {:block/name "jul 28th, 2022",
   :block/created-at 1659021836718,
-  :block/updated-at 1659021859756}
+  :block/updated-at 1659024408941}
+ {:block/name "juli",
+  :block/created-at 1659022427623,
+  :block/updated-at 1659022427623}
  {:block/name "later",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
  {:block/name "luna murciélago magnética",
   :block/created-at 1659021836906,
   :block/updated-at 1659021836906}
+ {:block/name "luna nueva en leo",
+  :block/created-at 1659022386866,
+  :block/updated-at 1659022386866}
  {:block/name "matrixcodes",
   :block/created-at 1658887387620,
   :block/updated-at 1658887387620}
@@ -130,9 +145,39 @@
  {:block/name "matías de stefano",
   :block/created-at 1659021837304,
   :block/updated-at 1659021837304}
+ {:block/name "meditacion",
+  :block/created-at 1659021898968,
+  :block/updated-at 1659021898968}
+ {:block/name "morning-journal",
+  :block/created-at 1659022471138,
+  :block/updated-at 1659022471138}
  {:block/name "now",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
+ {:block/name "possibility management",
+  :block/created-at 1659022731810,
+  :block/updated-at 1659022731810}
+ {:block/name "procesos de sanación emocional",
+  :block/created-at 1659022731809,
+  :block/updated-at 1659022731809}
+ {:block/name "projects",
+  :block/created-at 1659022063184,
+  :block/updated-at 1659022063184}
+ {:block/name "proyecto: ecoaldea",
+  :block/created-at 1659022553318,
+  :block/updated-at 1659022553318}
+ {:block/name "proyecto: sincronario",
+  :block/created-at 1659022081316,
+  :block/updated-at 1659022081316}
+ {:block/name "sello: sol",
+  :block/created-at 1659023697062,
+  :block/updated-at 1659023866312}
+ {:block/name "sincronario de bolsillo",
+  :block/created-at 1659024408940,
+  :block/updated-at 1659024408940}
+ {:block/name "sincronario galáctico",
+  :block/created-at 1659022386867,
+  :block/updated-at 1659022386867}
  {:block/name "todo",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
@@ -142,6 +187,9 @@
  {:block/name "tzolkin",
   :block/created-at 1659021836900,
   :block/updated-at 1659021836900}
+ {:block/name "ubiquity",
+  :block/created-at 1659022644570,
+  :block/updated-at 1659022644570}
  {:block/name "unmix emotions",
   :block/created-at 1658887383680,
   :block/updated-at 1658887710351}
@@ -151,9 +199,9 @@
  {:block/name "waiting",
   :block/created-at 1658887939550,
   :block/updated-at 1658887939550}
- {:block/name "wake-up-time",
-  :block/created-at 1659021837538,
-  :block/updated-at 1659021837538}
+ {:block/name "wake-up",
+  :block/created-at 1659022233252,
+  :block/updated-at 1659022233252}
  {:block/name "youtube",
   :block/created-at 1659021837309, 
   :block/updated-at 1659021837309}]
