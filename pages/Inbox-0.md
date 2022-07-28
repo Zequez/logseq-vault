@@ -4,5 +4,6 @@
 	- Email
 	- Github
 	- Discord
+	- LinkedIn
 -
 -
