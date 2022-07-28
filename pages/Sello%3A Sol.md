@@ -71,15 +71,11 @@ title:: Sello: Sol
 	  mismos, lo mejor es que lo veas como si estuviera “completo”.
 	- Si tu pareja es Sol puede que a veces sientas que no es suficientemente 
 	  demostrativo. No te alarmes y acércate con honestidad y sin apego. Un 
-	  Sol alineado no podrá estar contigo si quieres manipularlo o si tú mism@
-	   no te amas. Son súper malos para aguantar dramas y son los que más 
+	  Sol alineado no podrá estar contigo si quieres manipularlo o si tú mism@ no te amas. Son súper malos para aguantar dramas y son los que más 
 	  fácilmente se mantienen bien cuando se lo proponen.
 	- Si, para todo el mundo es todo un tema el bienestar, para ellos, en general, es como demasiado fácil.
-	- Es
-	   por esto que, muchos soles, tienen como la vida regalada y se dedican a
-	   actividades placenteras y expandidas. Eso es correcto. En cambio, es 
+	- Es por esto que, muchos soles, tienen como la vida regalada y se dedican a actividades placenteras y expandidas. Eso es correcto. En cambio, es 
 	  incorrecto que se esfuercen demasiado.
-	- Es
-	   alineado que la vida para ellos sea algo hermoso y sencillo, 
+	- Es alineado que la vida para ellos sea algo hermoso y sencillo, 
 	  independientemente de sus circunstancias, ellos vienen a vivir una vida 
 	  “iluminada”. Sean adinerados o no, los soles se expanden sin esfuerzo.
