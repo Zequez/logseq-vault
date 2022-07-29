@@ -20,14 +20,15 @@
 		- Voz mental que constantemente nos habla de juicios ganar-perder; nos distrae.
 		- Participantes pueden accionar Pinakarri con señal (por ejemplo campana) en cualquier momento
 			- Cuando se acciona todes se quedarán en silencio durante un tiempo de relajación y entrega profunda
-		- Guía:
+		- Guía resumida:
 			- 1. Conecta con tu cuerpo
 			  2. Siente el peso del cuerpo
 			  3. Respira profundamente
 			  4. Puedes secuchar el latido de tu corazón?
 			  5. Respira hacia el punto más fuerte de tensión en el cuerpo; relaja, suelta tensión al espirar.
-			  6. Exi
-			-
+			  6. Existen muchas maneras de conseguir Pinakarri; experimenta!
+	- Comunicación Carismática
+		-
 		-
 		-
 		-
