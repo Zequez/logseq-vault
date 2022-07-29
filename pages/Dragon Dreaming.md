@@ -18,7 +18,9 @@
 		- Palabra aborigen significa "Escucha profunda"
 		- Escuchar con empatía
 		- Voz mental que constantemente nos habla de juicios ganar-perder; nos distrae.
-		- Participantes pueden accionar Pinakarri con campanilla en cualquier momento
+		- Participantes pueden accionar Pinakarri con señal (por ejemplo campana) en cualquier momento
+			- Cuando se acciona todes se quedarán en silencio durante un tiempo
+			-
 		-
 		-
 		-
