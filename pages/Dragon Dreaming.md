@@ -1,9 +1,11 @@
 - ![DragonDreaming_eBook_spanish_V02.09.pdf](../assets/DragonDreaming_eBook_spanish_V02.09_1659066669651_0.pdf)
 - ## Filosofía
-	- Servicio a la tierra
-	- Construir comunidades
-	- Crecimiento Personal
-		- Momentos "Ajá"
+	- Tres objetivos
+		- Servicio a la tierra
+		- Construir comunidades
+		- Crecimiento Personal
+			- Momentos "Ajá"
+	-
 	-
 - ![image.png](../assets/image_1659066438949_0.png){:width 500}
 -
