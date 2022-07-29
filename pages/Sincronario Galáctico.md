@@ -1,1 +1,5 @@
 - ![NS1.35-sincro-bolsillo-K69.pdf](../assets/NS1.35-sincro-bolsillo-K69_1659024448107_0.pdf)
+- ## Plasmas Radiales
+- ![Plasmas Radiales-ok.pdf](../assets/Plasmas_Radiales-ok_1659069805109_0.pdf)
+- ![Screen Shot 2022-07-29 at 01.46.26.png](../assets/Screen_Shot_2022-07-29_at_01.46.26_1659069994787_0.png){:width 250}
+-
