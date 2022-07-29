@@ -28,6 +28,9 @@
 			  5. Respira hacia el punto más fuerte de tensión en el cuerpo; relaja, suelta tensión al espirar.
 			  6. Existen muchas maneras de conseguir Pinakarri; experimenta!
 	- Comunicación Carismática
+		- El lenguaje de ganar-ganar
+		- Decir lo que realmente queremos de forma profunda
+		- Basada en la confianza
 		-
 		-
 		-
