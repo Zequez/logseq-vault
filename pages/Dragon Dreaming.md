@@ -35,8 +35,8 @@
 		- Utilizamos nuestra intuición para que el proyecto se exprese a través de nosotres
 		- Guía:
 			- 1. Practicar Pinakarri
-			  2. Mover atención hacia el centro físico (centrarse). En DD se le dice Hara, 
-			  3.
+			  2. Mover atención hacia el centro físico (centrarse). En DD se le dice Hara, centro de equilibrio.
+			  3. Bu
 			-
 		-
 		-
