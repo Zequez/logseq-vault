@@ -15,7 +15,10 @@
 		- Invitación abierta para atraer algo no conocido. Manifestar el elemento que falta, cuyo contenido marcará la diferencia.
 		- Eje central de Dragon Dreaming
 	- El Pinakarri
-		- Escucha profunda
+		- Palabra aborigen significa "Escucha profunda"
+		- Escuchar
+		-
+		-
 		-
 - ## Anexo
 	-
