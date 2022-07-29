@@ -3,6 +3,7 @@
 	- Servicio a la tierra
 	- Construir comunidades
 	- Crecimiento Personal
+		- Momentos "Ajá"
 	-
 - ![image.png](../assets/image_1659066438949_0.png){:width 500}
 -
