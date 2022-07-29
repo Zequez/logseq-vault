@@ -19,7 +19,7 @@
 		- Escuchar con empatía
 		- Voz mental que constantemente nos habla de juicios ganar-perder; nos distrae.
 		- Participantes pueden accionar Pinakarri con señal (por ejemplo campana) en cualquier momento
-			- Cuando se acciona todes se quedarán en silencio durante un tiempo
+			- Cuando se acciona todes se quedarán en silencio durante un tiempo de relajación y entrega profunda
 			-
 		-
 		-
