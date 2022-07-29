@@ -1,6 +1,7 @@
 title:: Movie: Accepted
 
 - MatrixCodes:: MOVIE/102.00
+- lang:: en
 - (German title is* **S.H.I.T.*** which stands for *South Hampton Institute of Technology*...)
   This is a funny and inspiring story showing a number of useful procedures, for example:
   1. How to create a gameworld using [Declaration](http://declaring.mystrikingly.com) (from the PM thoughtmap *Map of [3 Powers](http://3powers.mystrikingly.com)*, including Declaring, Choosing, and Asking),
