@@ -20,6 +20,11 @@
 		- Voz mental que constantemente nos habla de juicios ganar-perder; nos distrae.
 		- Participantes pueden accionar Pinakarri con señal (por ejemplo campana) en cualquier momento
 			- Cuando se acciona todes se quedarán en silencio durante un tiempo de relajación y entrega profunda
+		- Guía:
+			- 1. Conecta con tu cuerpo
+			  2. Siente el peso del cuerpo
+			  3. Respira profundamente
+			  4.
 			-
 		-
 		-
