@@ -18,8 +18,10 @@
 			- "Mi linaje es la unión de la consciencia intrínseca y la esfera última, yo alcanzo el poder de la paz"
 		- KALI
 		  background-color:: #264c9b
-			- Agente catalítico (Establece)
-			- "Mi nombre es el glorioso nacido del loto, yo catalizo la luz y calor interior"
+		  id:: 62e367ef-7bb7-4a40-9356-6be73509c085
+			- Poder: Agente catalítico (Establece)
+			- Chakra: Sacro
+			- Afirmación: "Mi nombre es el glorioso nacido del loto, yo catalizo la luz y calor interior"
 		- ALFA
 		  background-color:: #978626
 			- Electrón doble extendido (Libera)
