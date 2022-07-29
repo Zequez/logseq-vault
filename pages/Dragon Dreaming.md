@@ -36,7 +36,7 @@
 		- Guía:
 			- 1. Practicar Pinakarri
 			  2. Mover atención hacia el centro físico (centrarse). En DD se le dice Hara, centro de equilibrio.
-			  3. Bu
+			  3. Visualiza burbuja en tu burbuja que se expande hacia cada persona con la que hables.
 			-
 		-
 		-
