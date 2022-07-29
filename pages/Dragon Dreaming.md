@@ -9,9 +9,11 @@
 		- Soñar se vive como una experiencia colectiva y objetiva
 	- Lineas de Canción
 	- Juego de ganar-ganar (Qué tal la idea de [[Possibility Management]] de [[Winning Happening]]?)
+- ## Comunicación
 	-
+- ## Anexo
 	-
-- ![image.png](../assets/image_1659066438949_0.png){:width 500}
+	- ![image.png](../assets/image_1659066438949_0.png){:width 500}
 -
 - ![Fact-Sheet-Number-01-The-Universal-Mandala-and-the-Mystery-of-the-Meaning-of-Life.pdf](../assets/Fact-Sheet-Number-01-The-Universal-Mandala-and-the-Mystery-of-the-Meaning-of-Life_1659066224999_0.pdf)
 	- Given this replacement of matter, my
