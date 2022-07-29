@@ -24,7 +24,9 @@
 			- 1. Conecta con tu cuerpo
 			  2. Siente el peso del cuerpo
 			  3. Respira profundamente
-			  4.
+			  4. Puedes secuchar el latido de tu corazón?
+			  5. Respira hacia el punto más fuerte de tensión en el cuerpo; relaja, suelta tensión al espirar.
+			  6. Exi
 			-
 		-
 		-
