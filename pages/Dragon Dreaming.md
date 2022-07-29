@@ -1,6 +1,5 @@
 - ![DragonDreaming_eBook_spanish_V02.09.pdf](../assets/DragonDreaming_eBook_spanish_V02.09_1659066669651_0.pdf)
 - ## Filosofía
-  collapsed:: true
 	- Tres objetivos
 		- Servicio a la tierra
 		- Construir comunidades
