@@ -49,7 +49,7 @@
 		- Cuatro características personales
 			- Soñadore, Planificadore, Realizadore, Celebradore
 			- Todes tenemos un poco de las cuatro características y cambiamos de roles dependiendo de la situación
-			-
+		-
 		-
 		-
 		-
