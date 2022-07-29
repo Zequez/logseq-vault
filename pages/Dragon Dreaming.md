@@ -47,10 +47,11 @@
 		- Pasar de planificar a realizar suele ser muy dificil porque requiere un compromiso real de les involucrades
 			- Celebrar es una parte importante de cruzar las líneas entre cuadrantes
 		- Cuatro características personales
-			- Soñador
-			- Planificador
+			- Soñadore
+			- Planificadore
 			- Realizadore
 			- Celebradore
+		-
 		-
 		-
 		-
