@@ -46,7 +46,11 @@
 			- Cada cuadrante comienza con la fase de sueño, luego planificación, luego realización, y siempre en el borde de un cuadrante hay una celebración
 		- Pasar de planificar a realizar suele ser muy dificil porque requiere un compromiso real de les involucrades
 			- Celebrar es una parte importante de cruzar las líneas entre cuadrantes
-		-
+		- Cuatro características personales
+			- Soñador
+			- Planificador
+			- Realizadore
+			- Celebradore
 		-
 		-
 		-
