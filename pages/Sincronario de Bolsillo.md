@@ -1,3 +1,3 @@
-- ![NS1.35-sincro-bolsillo-K69.pdf](../assets/NS1.35-sincro-bolsillo-K69_1659024448107_0.pdf)
+-
 -
 -
