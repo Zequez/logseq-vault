@@ -42,7 +42,7 @@
 	- Rueda de Proyectos
 		- Soñar, Planificar, Realizar, Celebrar
 		- ![Screen Shot 2022-07-29 at 01.17.16.png](../assets/Screen_Shot_2022-07-29_at_01.17.16_1659068263906_0.png){:width 300}
-		-
+		- Los proyectos son de naturaleza fractal
 		-
 		-
 		-
