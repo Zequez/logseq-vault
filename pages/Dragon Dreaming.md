@@ -5,7 +5,8 @@
 		- Construir comunidades
 		- Crecimiento Personal
 			- Momentos "Ajá"
-	-
+	- Concepto aborigen del Tiempo
+		- Soñar se vive como una experiencia colectiva y objetiva
 	-
 - ![image.png](../assets/image_1659066438949_0.png){:width 500}
 -
