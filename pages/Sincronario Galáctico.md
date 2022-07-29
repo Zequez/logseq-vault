@@ -6,14 +6,19 @@
 	- Plasmas
 		- DALI
 			- Fuerza térmica (Atina)
+			- "Mi padre es la conciencia intrínseca, yo siento el calor"
 		- SELI
 			- Fuerza lumínica (Fluye)
+			- "Mi madre es la esfera última, yo veo la luz"
 		- GAMA
 			- Fuerza lumínico-térmica (Pacifica)
+			- "Mi linaje es la unión de la consciencia intrínseca y la esfera última, yo alcanzo el poder de la paz"
 		- KALI
 			- Agente catalítico (Establece)
+			- "Mi nombre es el glorioso nacido del loto, yo catalizo la luz y calor interior"
 		- ALFA
 			- Electrón doble extendido (Libera)
+			-
 		- LIMI
 			- Electrón mental (Purifica)
 		- SILIO
