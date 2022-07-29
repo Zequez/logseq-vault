@@ -18,8 +18,10 @@
 			- "Mi nombre es el glorioso nacido del loto, yo catalizo la luz y calor interior"
 		- ALFA
 			- Electrón doble extendido (Libera)
-			-
+			- "Mi país es la esfera última no nacida yo libero el electrón doble extendido en el polo sur"
 		- LIMI
 			- Electrón mental (Purifica)
+			- "Yo consumo pensamientos dualistas como alimento, yo purifico el electrón mental en el polo norte."
 		- SILIO
 			- Electrón neutrón mental (Descarga)
+			- "Mi función es llevar a cabo las acciones del Buda, yo descargo el electrón neutrón mental en el centro de la tierra."
