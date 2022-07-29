@@ -16,7 +16,9 @@
 		- Eje central de Dragon Dreaming
 	- El Pinakarri
 		- Palabra aborigen significa "Escucha profunda"
-		- Escuchar
+		- Escuchar con empatía
+		- Voz mental que constantemente nos habla de juicios ganar-perder; nos distrae.
+		- Participantes pueden accionar Pinakarri con campanilla en cualquier momento
 		-
 		-
 		-
