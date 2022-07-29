@@ -49,6 +49,7 @@
 		- Cuatro características personales
 			- Soñadore, Planificadore, Realizadore, Celebradore
 			- Todes tenemos un poco de las cuatro características y cambiamos de roles dependiendo de la situación
+		- LATER Investigar la práctica para determinar la característica personal; fijarse si encontrás un video explicativo porque no entendí muy bien la descripción escrita
 		-
 		-
 		-
