@@ -1,11 +1,12 @@
 - ![NS1.35-sincro-bolsillo-K69.pdf](../assets/NS1.35-sincro-bolsillo-K69_1659024448107_0.pdf)
 - ## Plasmas Radiales
+	- > los siete Plasmas Radiales: los fluidos eléctricos que son los componentes básicos de la creación (¡incluso antes de los quarks!). Estos plasmas emergen desde el centro de la galaxia -  ellos también son absorbidos  y radiados a partir de los siete chakras. Estos plasmas son la base de una nueva tecnología telepática, por la que incluso podemos crear el puente arco iris alrededor de la Tierra.
 	- ![Plasmas Radiales-ok.pdf](../assets/Plasmas_Radiales-ok_1659069805109_0.pdf)
 	- ![Screen Shot 2022-07-29 at 01.46.26.png](../assets/Screen_Shot_2022-07-29_at_01.46.26_1659069994787_0.png){:width 250}
 	- DALI: Fuerza térmica (Atina)
 	- SELI: Fuerza lumínica (Fluye)
-	- GAMA
-	- KALI
-	- ALFA
-	- LIMI
-	- SILIO
+	- GAMA: Fuerza lumínico-térmica (Pacifica)
+	- KALI: Agente catalítico (Establece)
+	- ALFA: Electrón doble extendido (Libera)
+	- LIMI: Electrón mental (Purifica)
+	- SILIO: Electrón neutrón mental ()
