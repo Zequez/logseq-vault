@@ -8,6 +8,8 @@
 	- Concepto aborigen del Tiempo
 		- Soñar se vive como una experiencia colectiva y objetiva
 	- Lineas de Canción
+	- Juego de ganar-ganar (Qué tal la idea de [[Possibility Management]] de [[Winning Happening]]?)
+	-
 	-
 - ![image.png](../assets/image_1659066438949_0.png){:width 500}
 -
