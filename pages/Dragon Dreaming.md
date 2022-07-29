@@ -34,6 +34,9 @@
 			- Necesito confiar en el otro para poder compartir mis sentimientos y mis sueños sin que pueda reírse o burlarse
 		- Utilizamos nuestra intuición para que el proyecto se exprese a través de nosotres
 		- Guía:
+			- 1. Practicar Pinakarri
+			  2. Mover atención hacia el centro físico (centrarse). En DD se le dice Hara, 
+			  3.
 			-
 		-
 		-
