@@ -36,7 +36,9 @@
 		- Guía:
 			- 1. Practicar Pinakarri
 			  2. Mover atención hacia el centro físico (centrarse). En DD se le dice Hara, centro de equilibrio.
-			  3. Visualiza burbuja en [[Tu burbuja]] que se expande  hacia cada persona con la .
+			  3. Visualiza burbuja en [[Tu burbuja]] que se expande y abraza, sostiene y mantiene amorosamente las burbujas de cada cada persona con la hables.
+			  4. Imagina la sensación de presencia que deseas crear. ¿Qué tono de voz necesitas utilizar para crear esa presencia?
+			  5.
 			-
 		-
 		-
