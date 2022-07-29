@@ -40,7 +40,8 @@
 			  4. Imagina la sensación de presencia que deseas crear. ¿Qué tono de voz necesitas utilizar para crear esa presencia?
 			  5. Utiliza este tono de voz y pratica los 4 pasos simultaneamente: permitirás que las palabras fluyan
 	- Rueda de Proyectos
-		-
+		- Soñar, Planificar, Realizar, Celebrar
+		- ![Screen Shot 2022-07-29 at 01.17.16.png](../assets/Screen_Shot_2022-07-29_at_01.17.16_1659068263906_0.png){:width 300}
 		-
 		-
 		-
