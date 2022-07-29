@@ -5,23 +5,30 @@
 	- ![Screen Shot 2022-07-29 at 01.46.26.png](../assets/Screen_Shot_2022-07-29_at_01.46.26_1659069994787_0.png){:width 250}
 	- Plasmas
 		- DALI
+		  background-color:: #978626
 			- Fuerza térmica (Atina)
 			- "Mi padre es la conciencia intrínseca, yo siento el calor"
 		- SELI
+		  background-color:: #793e3e
 			- Fuerza lumínica (Fluye)
 			- "Mi madre es la esfera última, yo veo la luz"
 		- GAMA
+		  background-color:: #787f97
 			- Fuerza lumínico-térmica (Pacifica)
 			- "Mi linaje es la unión de la consciencia intrínseca y la esfera última, yo alcanzo el poder de la paz"
 		- KALI
+		  background-color:: #264c9b
 			- Agente catalítico (Establece)
 			- "Mi nombre es el glorioso nacido del loto, yo catalizo la luz y calor interior"
 		- ALFA
+		  background-color:: #978626
 			- Electrón doble extendido (Libera)
 			- "Mi país es la esfera última no nacida yo libero el electrón doble extendido en el polo sur"
 		- LIMI
+		  background-color:: #793e3e
 			- Electrón mental (Purifica)
 			- "Yo consumo pensamientos dualistas como alimento, yo purifico el electrón mental en el polo norte."
 		- SILIO
+		  background-color:: #787f97
 			- Electrón neutrón mental (Descarga)
 			- "Mi función es llevar a cabo las acciones del Buda, yo descargo el electrón neutrón mental en el centro de la tierra."
