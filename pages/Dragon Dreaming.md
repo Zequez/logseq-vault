@@ -1,5 +1,6 @@
 - ![DragonDreaming_eBook_spanish_V02.09.pdf](../assets/DragonDreaming_eBook_spanish_V02.09_1659066669651_0.pdf)
 - ## Filosofía
+  collapsed:: true
 	- Tres objetivos
 		- Servicio a la tierra
 		- Construir comunidades
@@ -10,6 +11,7 @@
 	- Lineas de Canción
 	- Juego de ganar-ganar (Qué tal la idea de [[Possibility Management]] de [[Winning Happening]]?)
 - ## Comunicación
+  collapsed:: true
 	- Preguntas generativas
 		- Demanda de empoderamiento personal
 		- Invitación abierta para atraer algo no conocido. Manifestar el elemento que falta, cuyo contenido marcará la diferencia.
@@ -39,21 +41,22 @@
 			  3. Visualiza burbuja en [[Tu burbuja]] que se expande y abraza, sostiene y mantiene amorosamente las burbujas de cada cada persona con la hables.
 			  4. Imagina la sensación de presencia que deseas crear. ¿Qué tono de voz necesitas utilizar para crear esa presencia?
 			  5. Utiliza este tono de voz y pratica los 4 pasos simultaneamente: permitirás que las palabras fluyan
-	- Rueda de Proyectos
-		- Soñar, Planificar, Realizar, Celebrar
-		- ![Screen Shot 2022-07-29 at 01.17.16.png](../assets/Screen_Shot_2022-07-29_at_01.17.16_1659068263906_0.png){:width 300}
-		- Los proyectos son de naturaleza fractal
-			- Cada cuadrante comienza con la fase de sueño, luego planificación, luego realización, y siempre en el borde de un cuadrante hay una celebración
-		- Pasar de planificar a realizar suele ser muy dificil porque requiere un compromiso real de les involucrades
-			- Celebrar es una parte importante de cruzar las líneas entre cuadrantes
-		- Cuatro características personales
-			- Soñadore, Planificadore, Realizadore, Celebradore
-			- Todes tenemos un poco de las cuatro características y cambiamos de roles dependiendo de la situación
-		- LATER Investigar la práctica para determinar la característica personal; fijarse si encontrás un video explicativo porque no entendí muy bien la descripción escrita
-		-
-		-
-		-
-		-
+- ## Rueda de Proyectos
+  collapsed:: true
+	- Soñar, Planificar, Realizar, Celebrar
+	- ![Screen Shot 2022-07-29 at 01.17.16.png](../assets/Screen_Shot_2022-07-29_at_01.17.16_1659068263906_0.png){:width 300}
+	- Los proyectos son de naturaleza fractal
+		- Cada cuadrante comienza con la fase de sueño, luego planificación, luego realización, y siempre en el borde de un cuadrante hay una celebración
+	- Pasar de planificar a realizar suele ser muy dificil porque requiere un compromiso real de les involucrades
+		- Celebrar es una parte importante de cruzar las líneas entre cuadrantes
+	- Cuatro características personales
+		- Soñadore, Planificadore, Realizadore, Celebradore
+		- Todes tenemos un poco de las cuatro características y cambiamos de roles dependiendo de la situación
+	- LATER Investigar la práctica para determinar la característica personal; fijarse si encontrás un video explicativo porque no entendí muy bien la descripción escrita
+	-
+- ## Soñar
+	-
+	-
 - ## Anexo
 	-
 	- ![image.png](../assets/image_1659066438949_0.png){:width 500}
