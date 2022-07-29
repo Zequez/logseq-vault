@@ -32,7 +32,9 @@
 		- Decir lo que realmente queremos de forma profunda
 		- Basada en la confianza
 			- Necesito confiar en el otro para poder compartir mis sentimientos y mis sueños sin que pueda reírse o burlarse
-		- Utilizamos nuestra intuición para
+		- Utilizamos nuestra intuición para que el proyecto se exprese a través de nosotres
+		- Guía:
+			-
 		-
 		-
 		-
