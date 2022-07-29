@@ -10,7 +10,10 @@
 	- Lineas de Canción
 	- Juego de ganar-ganar (Qué tal la idea de [[Possibility Management]] de [[Winning Happening]]?)
 - ## Comunicación
-	-
+	- Preguntas generativas
+		- Demanda de empoderamiento personal
+		- Invitación abierta para atraer algo no conocido
+		-
 - ## Anexo
 	-
 	- ![image.png](../assets/image_1659066438949_0.png){:width 500}
