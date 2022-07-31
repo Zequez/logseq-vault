@@ -1,21 +1,27 @@
 - ![NS1.35-sincro-bolsillo-K69.pdf](../assets/NS1.35-sincro-bolsillo-K69_1659024448107_0.pdf)
-- ## Sellos
-- Dragón
-- Viento
-- Noche
-- Semilla
-- Serpiente
-- Enlazador de Mundos
-- Mano
-- Estrella
-- Luna
-- Perro
-- Mono
-- Humano
-- Caminante del Cielo
--
--
+- ## Sellos Solares
+	- Dragón
+	- Viento
+	- Noche
+	- Semilla
+	- Serpiente
+	- Enlazador de Mundos
+	- Mano
+	- Estrella
+	- Luna
+	- Perro
+	- Mono
+	- Humano
+	- Caminante del Cielo
+	- Mago
+	- Águila
+	- Guerrero
+	- Tierra
+	- Espejo
+	- Tormenta
+	- Sol
 - ## Tonos
+	-
 - ## Plasmas Radiales
   id:: 62e367b6-ac5b-4623-b770-08a4098f8e7e
 	- > los siete Plasmas Radiales: los fluidos eléctricos que son los componentes básicos de la creación (¡incluso antes de los quarks!). Estos plasmas emergen desde el centro de la galaxia -  ellos también son absorbidos  y radiados a partir de los siete chakras. Estos plasmas son la base de una nueva tecnología telepática, por la que incluso podemos crear el puente arco iris alrededor de la Tierra.
