@@ -29,6 +29,7 @@
 			- "Mi país es la esfera última no nacida yo libero el electrón doble extendido en el polo sur"
 		- LIMI
 		  background-color:: #793e3e
+		  id:: 62e367f3-164b-451e-94ac-5c11d02aebdd
 			- Electrón mental (Purifica)
 			- "Yo consumo pensamientos dualistas como alimento, yo purifico el electrón mental en el polo norte."
 		- SILIO
