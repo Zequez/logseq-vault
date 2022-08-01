@@ -1,5 +1,7 @@
 public:: true
 
+- language:: es
+-
 - ![NS1.35-sincro-bolsillo-K69.pdf](../assets/NS1.35-sincro-bolsillo-K69_1659024448107_0.pdf)
 	- >Así como el aire es la atmósfera del cuerpo, así el tiempo
 	  es la atmósfera de la mente.

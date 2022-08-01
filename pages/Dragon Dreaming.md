@@ -1,3 +1,6 @@
+public:: true
+
+- language::  es
 - ![DragonDreaming_eBook_spanish_V02.09.pdf](../assets/DragonDreaming_eBook_spanish_V02.09_1659066669651_0.pdf)
 - ## Filosofía
 	- Tres objetivos
