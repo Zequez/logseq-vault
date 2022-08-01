@@ -1,6 +1,21 @@
 [{:block/name "62e0b31e-b0ca-441e-892b-1c4bdcf40fff",
   :block/created-at 1659021836904,
   :block/updated-at 1659021836904}
+ {:block/name "62e367ef-7bb7-4a40-9356-6be73509c085",
+  :block/created-at 1659070823948,
+  :block/updated-at 1659070823948}
+ {:block/name "62e367f3-164b-451e-94ac-5c11d02aebdd",
+  :block/created-at 1659284208147,
+  :block/updated-at 1659284208147}
+ {:block/name "62e367f5-63d7-43f7-9889-fb9aa52fc90c",
+  :block/created-at 1659355826859,
+  :block/updated-at 1659355826859}
+ {:block/name "62e6adae-c36a-4760-95db-01f7e33f6097",
+  :block/created-at 1659357053854,
+  :block/updated-at 1659357053854}
+ {:block/name "62e6ae04-10a3-4dba-8b52-4d8b01f0ce6d",
+  :block/created-at 1659357062891,
+  :block/updated-at 1659357062891}
  {:block/name "a",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
@@ -16,6 +31,9 @@
  {:block/name "app:gaia",
   :block/created-at 1659021836795,
   :block/updated-at 1659021836795}
+ {:block/name "aug 1st, 2022",
+  :block/created-at 1659325878751,
+  :block/updated-at 1659357062892}
  {:block/name "b",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
@@ -43,6 +61,12 @@
  {:block/name "chino",
   :block/created-at 1659022427622,
   :block/updated-at 1659022427622}
+ {:block/name "cogov.tech",
+  :block/created-at 1659108126475,
+  :block/updated-at 1659108138522}
+ {:block/name "comí",
+  :block/created-at 1659284605535,
+  :block/updated-at 1659284605535}
  {:block/name "contents",
   :block/created-at 1658887939550,
   :block/updated-at 1658887939550}
@@ -52,6 +76,12 @@
  {:block/name "creation of the galactic confederation",
   :block/created-at 1659021836815,
   :block/updated-at 1659021836815}
+ {:block/name "cris",
+  :block/created-at 1659064414077,
+  :block/updated-at 1659064414077}
+ {:block/name "cuentas-servicios",
+  :block/created-at 1659111331727,
+  :block/updated-at 1659111331727}
  {:block/name "declaración",
   :block/created-at 1659021837549,
   :block/updated-at 1659021837549}
@@ -64,6 +94,12 @@
  {:block/name "done",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
+ {:block/name "dragon dreaming",
+  :block/created-at 1659065025582,
+  :block/updated-at 1659069322942}
+ {:block/name "el chino",
+  :block/created-at 1659063684756,
+  :block/updated-at 1659063684756}
  {:block/name "elimination communication",
   :block/created-at 1659022295728,
   :block/updated-at 1659022295728}
@@ -73,6 +109,9 @@
  {:block/name "favorites",
   :block/created-at 1658887939550,
   :block/updated-at 1658887939550}
+ {:block/name "feelings",
+  :block/created-at 1659107724412,
+  :block/updated-at 1659107724412}
  {:block/name "file",
   :block/created-at 1659024492532,
   :block/updated-at 1659024492532}
@@ -82,12 +121,19 @@
  {:block/name "fleeting",
   :block/created-at 1659021837308,
   :block/updated-at 1659021837308}
+ {:block/name
+  "hls__fact-sheet-number-01-the-universal-mandala-and-the-mystery-of-the-meaning-of-life_1659066224999_0",
+  :block/created-at 1659066282920,
+  :block/updated-at 1659066282920}
  {:block/name "hls__ns1.35-sincro-bolsillo-k69_1659024448107_0",
   :block/created-at 1659024492523,
   :block/updated-at 1659024492523}
  {:block/name "in-progress",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
+ {:block/name "inbox-0",
+  :block/created-at 1659032108814,
+  :block/updated-at 1659038032956}
  {:block/name "initiation",
   :block/created-at 1659021837305,
   :block/updated-at 1659021837305}
@@ -96,16 +142,31 @@
   :block/updated-at 1659022523787}
  {:block/name "jul 27th, 2022",
   :block/created-at 1659021837316,
-  :block/updated-at 1659021837316}
+  :block/updated-at 1659071134297}
  {:block/name "jul 28th, 2022",
   :block/created-at 1659021836718,
-  :block/updated-at 1659029125150}
+  :block/updated-at 1659103689922}
+ {:block/name "jul 29th, 2022",
+  :block/created-at 1659063602201,
+  :block/updated-at 1659113013878}
+ {:block/name "jul 30th, 2022",
+  :block/created-at 1659150007718,
+  :block/updated-at 1659284269486}
+ {:block/name "jul 31st, 2022",
+  :block/created-at 1659284096910,
+  :block/updated-at 1659284806519}
  {:block/name "juli",
   :block/created-at 1659022427623,
   :block/updated-at 1659022427623}
+ {:block/name "lang",
+  :block/created-at 1659064791208,
+  :block/updated-at 1659064791208}
  {:block/name "later",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
+ {:block/name "logseq",
+  :block/created-at 1659108305792,
+  :block/updated-at 1659108305792}
  {:block/name "luna murciélago magnética",
   :block/created-at 1659021836906,
   :block/updated-at 1659021836906}
@@ -114,7 +175,13 @@
   :block/updated-at 1659022386866}
  {:block/name "matrixcodes",
   :block/created-at 1658887387620,
-  :block/updated-at 1658887387620}
+  :block/updated-at 1659064746838}
+ {:block/name "matrixcodes/movie",
+  :block/created-at 1659064694166,
+  :block/updated-at 1659064694166}
+ {:block/name "matrixcodes/movie/102.00",
+  :block/created-at 1659064694164,
+  :block/updated-at 1659064694164}
  {:block/name "matrixcodes/unmixemo",
   :block/created-at 1658887387621,
   :block/updated-at 1658887387621}
@@ -157,9 +224,15 @@
  {:block/name "meditacion",
   :block/created-at 1659021898968,
   :block/updated-at 1659021898968}
+ {:block/name "meditation",
+  :block/created-at 1659284248351,
+  :block/updated-at 1659284248351}
  {:block/name "morning-journal",
   :block/created-at 1659022471138,
   :block/updated-at 1659022471138}
+ {:block/name "movie: accepted",
+  :block/created-at 1659064588788,
+  :block/updated-at 1659064799604}
  {:block/name "now",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
@@ -178,27 +251,39 @@
  {:block/name "proyecto: sincronario",
   :block/created-at 1659022081316,
   :block/updated-at 1659022081316}
+ {:block/name "pulso",
+  :block/created-at 1659063652894,
+  :block/updated-at 1659063652894}
+ {:block/name "push-ups",
+  :block/created-at 1659071077255,
+  :block/updated-at 1659071077255}
+ {:block/name "reading",
+  :block/created-at 1659284779017,
+  :block/updated-at 1659284779017}
  {:block/name "sello: sol",
   :block/created-at 1659023697062,
   :block/updated-at 1659023866312}
- {:block/name "sincronario de bolsillo",
-  :block/created-at 1659024408940,
-  :block/updated-at 1659024448654}
  {:block/name "sincronario galáctico",
   :block/created-at 1659022386867,
-  :block/updated-at 1659022386867}
+  :block/updated-at 1659376022447}
+ {:block/name "star maker",
+  :block/created-at 1659284806517,
+  :block/updated-at 1659284806517}
  {:block/name "todo",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
  {:block/name "tono galáctico",
   :block/created-at 1659021836902,
   :block/updated-at 1659021836902}
+ {:block/name "tu burbuja",
+  :block/created-at 1659068102543,
+  :block/updated-at 1659068102543}
  {:block/name "tzolkin",
   :block/created-at 1659021836900,
   :block/updated-at 1659021836900}
  {:block/name "ubiquity",
   :block/created-at 1659022644570,
-  :block/updated-at 1659022644570}
+  :block/updated-at 1659037496059}
  {:block/name "unmix emotions",
   :block/created-at 1658887383680,
   :block/updated-at 1658887710351}
@@ -208,9 +293,12 @@
  {:block/name "waiting",
   :block/created-at 1658887939550,
   :block/updated-at 1658887939550}
- {:block/name "wake-up",
+ {:block/name "wake-time",
   :block/created-at 1659022233252,
   :block/updated-at 1659022233252}
+ {:block/name "winning happening",
+  :block/created-at 1659067041527,
+  :block/updated-at 1659067041527}
  {:block/name "youtube",
   :block/created-at 1659021837309, 
   :block/updated-at 1659021837309}]
