@@ -2,7 +2,9 @@
 	- >Así como el aire es la atmósfera del cuerpo, así el tiempo
 	  es la atmósfera de la mente.
 - ## Sitios
--
+	- https://lawoftime.org/
+	- https://www.13lunas.net/
+	-
 - ## Sellos Solares
   collapsed:: true
 	- Dragón
