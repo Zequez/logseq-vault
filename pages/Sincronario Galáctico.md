@@ -36,7 +36,7 @@
 	- Galáctico
 	- Solar
 	- Planetario
-		-
+		- Perfecciono Produciendo Manifestación
 	- Espectral
 	- Cristal
 	- Cósmico
