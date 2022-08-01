@@ -75,5 +75,6 @@
 			- "Yo consumo pensamientos dualistas como alimento, yo purifico el electrón mental en el polo norte."
 		- SILIO
 		  background-color:: #787f97
+		  id:: 62e367f5-63d7-43f7-9889-fb9aa52fc90c
 			- Electrón neutrón mental (Descarga)
 			- "Mi función es llevar a cabo las acciones del Buda, yo descargo el electrón neutrón mental en el centro de la tierra."
