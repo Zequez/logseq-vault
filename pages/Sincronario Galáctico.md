@@ -27,6 +27,7 @@
 	- Tormenta
 	- Sol
 - ## Tonos Galácticos
+  collapsed:: true
 	- Magnético
 	- Lunar
 	- Eléctrico
@@ -82,3 +83,5 @@
 			- Electrón neutrón mental (Descarga)
 			- "Mi función es llevar a cabo las acciones del Buda, yo descargo el electrón neutrón mental en el centro de la tierra."
 			- Meditación global por la paz puente arcoiris!
+- ## Meditación por la paz
+	-
