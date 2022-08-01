@@ -1,4 +1,9 @@
--
+- Possibility Management
+- Web Development
+- Emotional Practitioner
+- Based on Archearchy culture
+	- Radical Responsibility
+	- In service of Gaia
 - ## Stream
 	- What do I want to do?
 	-
