@@ -18,7 +18,7 @@
 	- Humano
 	- Caminante del Cielo
 	- Mago
-	- Águila
+	- Águila [15/20]
 	  id:: 62e6adae-c36a-4760-95db-01f7e33f6097
 		- Crear Mente Visión
 	- Guerrero
@@ -36,7 +36,7 @@
 	- Resonante
 	- Galáctico
 	- Solar
-	- Planetario
+	- Planetario [10/13]
 	  id:: 62e6ae04-10a3-4dba-8b52-4d8b01f0ce6d
 		- Producir Perfeccionar Manifestación
 	- Espectral
