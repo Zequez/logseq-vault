@@ -1,9 +1,11 @@
 - Possibility Management
 - Web Development
-- Emotional Practitioner
 - Based on Archearchy culture
 	- Radical Responsibility
 	- In service of Gaia
+	- Spaceholding
+	- Gameworld Builder
+	- Emotional Practitioner
 - ## Stream
 	- What do I want to do?
 	-
