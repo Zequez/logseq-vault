@@ -19,6 +19,7 @@
 	- Caminante del Cielo
 	- Mago
 	- Águila
+		-
 	- Guerrero
 	- Tierra
 	- Espejo
