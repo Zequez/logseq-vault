@@ -19,14 +19,13 @@
 	- Caminante del Cielo
 	- Mago
 	- Águila
-		-
+		- Crear Mente Visión
 	- Guerrero
 	- Tierra
 	- Espejo
 	- Tormenta
 	- Sol
 - ## Tonos Galácticos
-  collapsed:: true
 	- Magnético
 	- Lunar
 	- Eléctrico
@@ -37,6 +36,7 @@
 	- Galáctico
 	- Solar
 	- Planetario
+		-
 	- Espectral
 	- Cristal
 	- Cósmico
