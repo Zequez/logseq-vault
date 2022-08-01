@@ -1,3 +1,4 @@
+- I'm a servant to Bright Principles and my Archetypal Lineage
 - Possibility Management
 - Web Development
 - Based on Archearchy culture
