@@ -5,4 +5,5 @@
 	- [[The Language Of Emotions - Karla McLaren]]
 	- [[Directing the Power of Conscious Feelings - Callahan Clinton]]
 	- https://stellating.mystrikingly.com/
+	- https://numbnessbar.mystrikingly.com/
 	-
