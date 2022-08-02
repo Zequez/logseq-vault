@@ -30,6 +30,10 @@ public:: true
 		- Crear Mente Visión
 	- Guerrero
 	  id:: 62e6adb2-c722-4655-983f-f8ab4b7ec2ac
+	  background-color:: #978626
+		- Acción: Cuestionar
+		- Poder: Inteligencia
+		- Esencia: Intrepidez
 	- Tierra
 	- Espejo
 	- Tormenta
@@ -52,7 +56,7 @@ public:: true
 	  id:: 62e6ae06-af1d-4d4d-86f4-eae45ec547d7
 		- Acción: Divulgar
 		- Poder: Disolver
-		-
+		- Esencia: Liberación
 	- Cristal
 	- Cósmico
 - ## Plasmas Radiales
