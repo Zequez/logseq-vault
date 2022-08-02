@@ -1,6 +1,6 @@
 title:: Proyecto: Introducciones a Temas
 
-- V
+- Voy a hacer una sección
 - ## Videos para hacer
 	- [[Las 4 Emociones]]
 -
