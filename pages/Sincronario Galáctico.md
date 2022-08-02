@@ -50,6 +50,9 @@ public:: true
 		- Producir Perfeccionar Manifestación
 	- Espectral
 	  id:: 62e6ae06-af1d-4d4d-86f4-eae45ec547d7
+		- Acción: Divulgar
+		- Poder: Disolver
+		-
 	- Cristal
 	- Cósmico
 - ## Plasmas Radiales
@@ -61,6 +64,7 @@ public:: true
 	- Plasmas
 		- DALI
 		  background-color:: #978626
+		  id:: 62e367c6-f215-405a-a07f-ec94a04c9823
 			- Fuerza térmica (Atina)
 			- "Mi padre es la conciencia intrínseca, yo siento el calor"
 		- SELI
