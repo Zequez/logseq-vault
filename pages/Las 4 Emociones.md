@@ -1,4 +1,6 @@
 - Referencia:
 	- https://4emotions.mystrikingly.com/
 	- https://unmixemotions.mystrikingly.com
-	- []
+	- [[The Language Of Emotions - Karla McLaren]]
+	- [[Directing the Power of Conscious Feelings - Callahan Clinton]]
+	-
