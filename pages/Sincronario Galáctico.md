@@ -29,6 +29,7 @@ public:: true
 	  id:: 62e6adae-c36a-4760-95db-01f7e33f6097
 		- Crear Mente Visión
 	- Guerrero
+	  id:: 62e6adb2-c722-4655-983f-f8ab4b7ec2ac
 	- Tierra
 	- Espejo
 	- Tormenta
@@ -48,6 +49,7 @@ public:: true
 	  id:: 62e6ae04-10a3-4dba-8b52-4d8b01f0ce6d
 		- Producir Perfeccionar Manifestación
 	- Espectral
+	  id:: 62e6ae06-af1d-4d4d-86f4-eae45ec547d7
 	- Cristal
 	- Cósmico
 - ## Plasmas Radiales
