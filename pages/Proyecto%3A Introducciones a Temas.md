@@ -3,7 +3,7 @@ title:: Proyecto: Introducciones a Temas
 - ## Estrategia
   id:: 62e8fd20-b029-400b-affb-cd9f669a1f69
 	- Voy a hacer una sección por cada parte del video o presentación
-		- Para esto voy a utilizar como base una página de Startover.xyz
+		- Para esto voy a utilizar como base una página de Startover.xyz y de paso traducirla al español
 	- Estas partes son las que van a estar marcadas en el video en YouTube
 	- Cada parte tendrá una imagen que la acompaña
 	- Me voy a grabar hablando parte por parte
