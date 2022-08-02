@@ -6,8 +6,7 @@ title:: Proyecto: Introducciones a Temas
 	- Cada parte tendrá una imagen que la acompaña
 	- Me voy a grabar hablando parte por parte
 		- Puedo hacer todo de corrido (más desafiante) o pausar después de cada parte y pasar a la siguiente escena (más tranca)
-	-
-	- Voy a grabarme parado y con una pizarra
+	- Voy a grabarme parado y con una pizarra para escribir o indicar cosas
 	-
 - ## Videos para hacer
 	- [[Las 4 Emociones]]
