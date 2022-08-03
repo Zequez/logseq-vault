@@ -3,9 +3,13 @@ title:: Kin 180: Sol Espectral Amarillo
 
 - ![image.png](../assets/image_1659565793204_0.png)
 - {{embed ((62e6ae06-af1d-4d4d-86f4-eae45ec547d7))}}
+-
 - Yo disuelvo con el fin de iluminar
 - Divulgando la vida
 - Sello la matriz del fuego universal
 - Con el tono espectral de la liberación
 - Me guía mi propio poder duplicado
 - Soy un kin polar. Transporto el espectro galáctico amarillo.
+-
+- Interpretaciones
+	- https://conlasalasdelalma.com/2021/06/12/kin-180-sol-espectral-amarillo-vida/
