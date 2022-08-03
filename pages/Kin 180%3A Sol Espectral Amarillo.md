@@ -3,6 +3,7 @@ title:: Kin 180: Sol Espectral Amarillo
 
 - ![image.png](../assets/image_1659565793204_0.png)
 - {{embed ((62e6ae06-af1d-4d4d-86f4-eae45ec547d7))}}
+- ![image.png](../assets/image_1659566604505_0.png)
 - Onda encantada del perro
 - Sol
 	- Gobernado por plutón
@@ -11,8 +12,6 @@ title:: Kin 180: Sol Espectral Amarillo
 		- Circula el meridiano del pulmón
 	- Nombre maya: Ahau
 	- Raza: Amarilla -> Maduradora
--
-	-
 -
 - Mantra
 	- Yo disuelvo con el fin de iluminar
