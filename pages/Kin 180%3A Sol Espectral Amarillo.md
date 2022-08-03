@@ -12,4 +12,4 @@ title:: Kin 180: Sol Espectral Amarillo
 	- Soy un kin polar. Transporto el espectro galáctico amarillo.
 - Interpretaciones
 	- https://conlasalasdelalma.com/2021/06/12/kin-180-sol-espectral-amarillo-vida/
-		- "Yo soy otro tú"
+		- In Lak'ech: "Yo soy otro tú" / "Tú eres otro yo"
