@@ -27,3 +27,4 @@ title:: Kin 180: Sol Espectral Amarillo
 	- http://elyhoy.blogspot.com/2014/04/sol-espectral-amarillo-bolon-ahau-kin.html
 		- "Verdad es Amor, Tolerancia es Justicia-La Paz es para Siempre"
 	-
+	-
