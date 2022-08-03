@@ -52,14 +52,15 @@ public:: true
 	- Planetario [10/13]
 	  id:: 62e6ae04-10a3-4dba-8b52-4d8b01f0ce6d
 		- Producir Perfeccionar Manifestación
-	- Espectral
+	- Espectral [11/13]
 	  id:: 62e6ae06-af1d-4d4d-86f4-eae45ec547d7
 		- Acción: Divulgar
 		- Poder: Disolver
 		- Esencia: Liberación
+		- Va hacia la evolución superior
 		- Cuerpo: Cadera izquierda
 		- Musical: La+
-		-
+		- Relacionado con la energía femenina
 	- Cristal
 	- Cósmico
 - ## Plasmas Radiales
