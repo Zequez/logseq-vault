@@ -10,7 +10,8 @@ title:: Kin 180: Sol Espectral Amarillo
 	- Dedo pulgar de la mano derecha
 		- Circula el meridiano del pulmón
 	- Nombre maya: Ahau
-- Espectral
+	- Raza: Amarilla -> Maduradora
+-
 	-
 -
 - Mantra
@@ -24,4 +25,5 @@ title:: Kin 180: Sol Espectral Amarillo
 	- https://conlasalasdelalma.com/2021/06/12/kin-180-sol-espectral-amarillo-vida/
 		- In Lak'ech: "Yo soy otro tú" / "Tú eres otro yo"
 	- http://elyhoy.blogspot.com/2014/04/sol-espectral-amarillo-bolon-ahau-kin.html
+		- "Verdad es Amor, Tolerancia es Justicia-La Paz es para Siempre"
 	-
