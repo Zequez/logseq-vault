@@ -57,6 +57,9 @@ public:: true
 		- Acción: Divulgar
 		- Poder: Disolver
 		- Esencia: Liberación
+		- Cuerpo: Cadera izquierda
+		- Musical: La+
+		-
 	- Cristal
 	- Cósmico
 - ## Plasmas Radiales
