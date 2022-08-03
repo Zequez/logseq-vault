@@ -1,6 +1,8 @@
-title:: Kin 180: Sol Espectral Amarillo
 id:: 62eaf657-d7e1-4597-8d08-8dd7ee6d112f
+title:: Kin 180: Sol Espectral Amarillo
 
+- ![image.png](../assets/image_1659565793204_0.png)
+- {{embed ((62e6ae06-af1d-4d4d-86f4-eae45ec547d7))}}
 - Yo disuelvo con el fin de iluminar
 - Divulgando la vida
 - Sello la matriz del fuego universal
