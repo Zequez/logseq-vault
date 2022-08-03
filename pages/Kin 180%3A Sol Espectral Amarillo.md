@@ -3,6 +3,9 @@ title:: Kin 180: Sol Espectral Amarillo
 
 - ![image.png](../assets/image_1659565793204_0.png)
 - {{embed ((62e6ae06-af1d-4d4d-86f4-eae45ec547d7))}}
+- Onda encantada del perro
+- Gobernado por plutón
+-
 - Mantra
 	- Yo disuelvo con el fin de iluminar
 	- Divulgando la vida
