@@ -26,5 +26,7 @@ title:: Kin 180: Sol Espectral Amarillo
 		- In Lak'ech: "Yo soy otro tú" / "Tú eres otro yo"
 	- http://elyhoy.blogspot.com/2014/04/sol-espectral-amarillo-bolon-ahau-kin.html
 		- "Verdad es Amor, Tolerancia es Justicia-La Paz es para Siempre"
-	-
+	- https://groups.google.com/g/foro-esencia/c/J3JWKq7lpZA/m/9feWnWcF6OEJ?pli=1
+		- ![Screen Shot 2022-08-03 at 19.41.03.png](../assets/Screen_Shot_2022-08-03_at_19.41.03_1659566480180_0.png)
+		-
 	-
