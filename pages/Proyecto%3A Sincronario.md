@@ -3,6 +3,7 @@ title:: Proyecto: Sincronario
 - title:: Proyecto: Sincronario
 - web:: Tzolkin.me
 - ## Existing web/apps related to Tzolkin
+  collapsed:: true
 	- Web
 		- https://www.13lunas.net/
 			- Español
@@ -33,5 +34,9 @@ title:: Proyecto: Sincronario
 		- [Mayan Nawal](https://play.google.com/store/apps/details?id=com.huawei.android.mayannawal)
 		-
 			-
--
+- ## Scope of the app
+	- Calendar app with the ability to add and share events
+	- Sync with Google Calendar
+	- Connections list with their galactic signature
+		- Shows
 -
