@@ -105,7 +105,7 @@ public:: true
 			- "Mi función es llevar a cabo las acciones del Buda, yo descargo el electrón neutrón mental en el centro de la tierra."
 			- Meditación global por la paz puente arcoiris!
 	- Cards
-		- #Card Cuales son los días de la semana
+		- #Card Cuales son los días de la semana del calendario de las 13 Lunas? {{cloze dali seli gama kali alfa limi silio}}
 - ## Meditación del puente arcoiris
   id:: 62e80878-44d6-440a-8a20-b705e9687ac9
 	- https://www.13lunas.net/MeditacionArcoirisDetallada.htm
