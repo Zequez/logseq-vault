@@ -43,6 +43,8 @@ title:: Proyecto: Sincronario
 	- Tzolkin view
 	- Posibilidad de clickear cualquier cosa y que te muestre información sobre ello
 	- Public NPM library for Tzolkin
+- ## Tasks
+	-
 - ## Log
 	- 34.1.10
 		- 13:19
