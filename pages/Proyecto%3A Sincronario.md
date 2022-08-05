@@ -83,7 +83,7 @@ title:: Proyecto: Sincronario
 			  CLOCK: [2022-08-05 Fri 13:33:46]
 			  CLOCK: [2022-08-05 Fri 13:33:47]--[2022-08-05 Fri 13:33:50] =>  00:00:03
 			  :END:
-			-
+			- Cannot figure out how to make a query for the tasks
 			-
 	-
 -
