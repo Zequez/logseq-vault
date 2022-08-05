@@ -46,8 +46,7 @@ title:: Proyecto: Sincronario
 - ## Tasks
 	- {{query (and (todo todo doing now) (page <% current_page %>))}}
 	  query-table:: false
-	- ```
-	  #+BEGIN_QUERY
+	- #+BEGIN_QUERY
 	  {:title "📚Backlog"
 	  :query [:find (pull ?todo [*]) :in $ ?current-page
 	  :where
@@ -55,7 +54,7 @@ title:: Proyecto: Sincronario
 	  [?todo :block/marker ?marker]
 	  (not [?todo :block/page ?p])
 	  (not [_ :block/refs ?todo])
-	  [(contains? #{"TODO" "DOING"} ?marker)]
+	  [(contains? #{"TODO" "DOING" "NOW"} ?marker)]
 	  (or-join [?todo]
 	         (and  [?todo :block/page ?page]
 	                  [?page :block/properties ?props]
@@ -69,8 +68,6 @@ title:: Proyecto: Sincronario
 	  ) ]
 	  :inputs [:current-page]}
 	  #+END_QUERY
-	  ```
-	-
 	-
 	-
 - ## Log
