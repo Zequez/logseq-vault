@@ -2,7 +2,7 @@ title:: Proyecto: Sincronario
 
 - title:: Proyecto: Sincronario
 - web:: Tzolkin.me
-- ## Existing web apps related to Tzolkin
+- ## Existing web/apps related to Tzolkin
 - https://www.13lunas.net/
 	- Español
 	- Fundación Para La Ley Del Tiempo
@@ -15,5 +15,7 @@ title:: Proyecto: Sincronario
 	- Foundation For the Law Of Time
 	- Contact
 		- info@lawoftime.org
+- www.galacticspacebook.com
+-
 -
 -
