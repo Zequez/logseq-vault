@@ -38,5 +38,7 @@ title:: Proyecto: Sincronario
 	- Calendar app with the ability to add and share events
 	- Sync with Google Calendar
 	- Connections list with their galactic signature
-		- Shows
+		- Mostrar conexiones en el calendario
+	- Tzolkin view
+	-
 -
