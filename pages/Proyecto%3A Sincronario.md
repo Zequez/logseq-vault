@@ -23,7 +23,11 @@ title:: Proyecto: Sincronario
 	- [Dreamspell Calendar](https://play.google.com/store/apps/details?id=net.anotherworld.maya)
 	- [MCP Mayan Tzolkin](https://play.google.com/store/apps/details?id=air.tzolkin)
 		- Non-free
-	-
+		- [Lite Version](https://play.google.com/store/apps/details?id=air.com.lucitainc.MCPTzolkinLite)
+		- [Renamed version?](https://play.google.com/store/apps/details?id=air.com.lucitainc.TzolkinMaya)
+		-
+	- [Sincronário 13:20](https://play.google.com/store/apps/details?id=com.tzolkin.sincronario1320)
+		-
 		-
 -
 -
