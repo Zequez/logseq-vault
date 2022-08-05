@@ -19,6 +19,11 @@ title:: Proyecto: Sincronario
 	- www.galacticspacebook.com
 - Android
 	- [Tzolkin Explorer](https://play.google.com/store/apps/details?id=com.tlt.tzolkin)
-	- Alma Maya
+	- [Alma Maya](https://play.google.com/store/apps/details?id=alma.maya)
+	- [Dreamspell Calendar](https://play.google.com/store/apps/details?id=net.anotherworld.maya)
+	- [MCP Mayan Tzolkin](https://play.google.com/store/apps/details?id=air.tzolkin)
+		- Non-free
+	-
+		-
 -
 -
