@@ -44,7 +44,7 @@ title:: Proyecto: Sincronario
 	- Posibilidad de clickear cualquier cosa y que te muestre información sobre ello
 	- Public NPM library for Tzolkin
 - ## Tasks
-	- {{query (and (todo todo doing now) (page <% current_page %>))}}
+	- {{query (and (todo later now done) (page <% current_page %>))}}
 	  query-table:: false
 	- #+BEGIN_QUERY
 	  {:title "📚Backlog"
@@ -89,6 +89,7 @@ title:: Proyecto: Sincronario
 			  CLOCK: [2022-08-05 Fri 13:36:01]
 			  :END:
 			- Cannot figure out how to make a query for the tasks 😣
+			- LATER Move
 			-
 			-
 	-
