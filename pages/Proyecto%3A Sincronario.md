@@ -3,35 +3,35 @@ title:: Proyecto: Sincronario
 - title:: Proyecto: Sincronario
 - web:: Tzolkin.me
 - ## Existing web/apps related to Tzolkin
-- Web
-	- https://www.13lunas.net/
-		- Español
-		- Fundación Para La Ley Del Tiempo
-		- Bioregión del Guerrero
-		- Contact
-			- https://www.13lunas.net/contacto.htm
-			- 13lunas.es@gmail.com
-	- https://lawoftime.org/
-		- English
-		- Foundation For the Law Of Time
-		- Contact
-			- info@lawoftime.org
-	- www.galacticspacebook.com
-- Android
-	- [Tzolkin Explorer](https://play.google.com/store/apps/details?id=com.tlt.tzolkin)
-	- [Alma Maya](https://play.google.com/store/apps/details?id=alma.maya)
-	- [Dreamspell Calendar](https://play.google.com/store/apps/details?id=net.anotherworld.maya)
-	- [MCP Mayan Tzolkin](https://play.google.com/store/apps/details?id=air.tzolkin)
-		- Non-free
-		- [Lite Version](https://play.google.com/store/apps/details?id=air.com.lucitainc.MCPTzolkinLite)
-		- [Renamed version?](https://play.google.com/store/apps/details?id=air.com.lucitainc.TzolkinMaya)
+	- Web
+		- https://www.13lunas.net/
+			- Español
+			- Fundación Para La Ley Del Tiempo
+			- Bioregión del Guerrero
+			- Contact
+				- https://www.13lunas.net/contacto.htm
+				- 13lunas.es@gmail.com
+		- https://lawoftime.org/
+			- English
+			- Foundation For the Law Of Time
+			- Contact
+				- info@lawoftime.org
+		- www.galacticspacebook.com
+	- Android
+		- [Tzolkin Explorer](https://play.google.com/store/apps/details?id=com.tlt.tzolkin)
+		- [Alma Maya](https://play.google.com/store/apps/details?id=alma.maya)
+		- [Dreamspell Calendar](https://play.google.com/store/apps/details?id=net.anotherworld.maya)
+		- [MCP Mayan Tzolkin](https://play.google.com/store/apps/details?id=air.tzolkin)
+			- Non-free
+			- [Lite Version](https://play.google.com/store/apps/details?id=air.com.lucitainc.MCPTzolkinLite)
+			- [Renamed version?](https://play.google.com/store/apps/details?id=air.com.lucitainc.TzolkinMaya)
+			-
+		- [Sincronário 13:20](https://play.google.com/store/apps/details?id=com.tzolkin.sincronario1320)
+		- [Tzolkin](https://play.google.com/store/apps/details?id=social.plah.tzolkin)
+			- Sort of social-media thing?
+		- [MayaCal](https://play.google.com/store/apps/details?id=b4a.mayacal)
+		- [Mayan Nawal](https://play.google.com/store/apps/details?id=com.huawei.android.mayannawal)
 		-
-	- [Sincronário 13:20](https://play.google.com/store/apps/details?id=com.tzolkin.sincronario1320)
-	- [Tzolkin](https://play.google.com/store/apps/details?id=social.plah.tzolkin)
-		- Sort of social-media thing?
-	- [MayaCal](https://play.google.com/store/apps/details?id=b4a.mayacal)
-	- [Mayan Nawal](https://play.google.com/store/apps/details?id=com.huawei.android.mayannawal)
-	-
-		-
+			-
 -
 -
