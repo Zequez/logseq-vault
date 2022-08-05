@@ -29,6 +29,8 @@ title:: Proyecto: Sincronario
 	- [Sincronário 13:20](https://play.google.com/store/apps/details?id=com.tzolkin.sincronario1320)
 	- [Tzolkin](https://play.google.com/store/apps/details?id=social.plah.tzolkin)
 		- Sort of social-media thing?
+	- [MayaCal](https://play.google.com/store/apps/details?id=b4a.mayacal)
+	- [Mayan Nawal](https://play.google.com/store/apps/details?id=com.huawei.android.mayannawal)
 	-
 		-
 -
