@@ -71,7 +71,11 @@ title:: Proyecto: Sincronario
 				- Figured out! It was "current page" instead of "current_page"; I'm still unsure about the LogSeq query language, gotta research that later.
 			- LATER Create Moon calendar view and show current moon and day
 			- LATER Publish app on Github and start deploying on Tzolkin.me
-			-
+			- Updated readme:
+				- I'll be building 3 starting sections:
+					- - 13 Moon calendar view
+					  - Tzolkin view
+					  - Conections list to store people you have calculated their galactic signature and show them on the other two views
 			-
 			-
 	-
