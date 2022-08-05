@@ -70,6 +70,8 @@ title:: Proyecto: Sincronario
 			- Cannot figure out how to make a query for the tasks 😣
 				- Figured out! It was "current page" instead of "current_page"; I'm still unsure about the LogSeq query language, gotta research that later.
 			- LATER Create Moon calendar view and show current moon and day
+			- LATER Publish app on Github and start deploying on Tzolkin.me
+			-
 			-
 			-
 	-
