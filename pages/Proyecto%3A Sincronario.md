@@ -43,5 +43,8 @@ title:: Proyecto: Sincronario
 	- Posibilidad de clickear cualquier cosa y que te muestre información sobre ello
 	- Public NPM library for Tzolkin
 - ## Log
+	- 34.1.10
+		- 13:19
+			- I'm not sure how to manage a project with LogSeq but I'll be learning
 	-
 -
