@@ -67,8 +67,8 @@ title:: Proyecto: Sincronario
 			  CLOCK: [2022-08-05 Fri 13:36:01]
 			  :END:
 			- Cannot figure out how to make a query for the tasks 😣
-				- Figured out!
-			- LATER Move
+				- Figured out! It was "current page" instead of "current_page"; I'm still unsure about the LogSeq query language, gotta research that later.
+			- LATER Create
 			-
 			-
 	-
