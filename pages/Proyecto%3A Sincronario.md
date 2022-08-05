@@ -41,5 +41,5 @@ title:: Proyecto: Sincronario
 		- Mostrar conexiones en el calendario
 	- Tzolkin view
 	- Posibilidad de clickear cualquier cosa y que te muestre información sobre ello
-	- Sync with
+	- Public NPM library for Tzolkin
 -
