@@ -1,7 +1,7 @@
 title:: Proyecto: Sincronario
 
 - title:: Proyecto: Sincronario
-- Domain:: Tzolkin.me
--
+- web:: Tzolkin.me
+- ## Existing apps related to Tzolkin
 -
 -
