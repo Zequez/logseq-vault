@@ -47,6 +47,6 @@ title:: Proyecto: Sincronario
 		- 13:19
 			- I'm not sure how to manage a project with LogSeq but I'll be learning, so here is my first attempt.
 			- {{embed ((62ed30ac-81a9-47cd-a334-bc68ff3e9ffd))}}
-			- I
+			- I did a quick research on existing Android apps and webs for the Tzolkin calendar. In terms of web apps there is the one from the Law of Time and on spanish the 13 Lunas; but none is
 	-
 -
