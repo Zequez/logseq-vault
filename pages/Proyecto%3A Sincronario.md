@@ -44,7 +44,8 @@ title:: Proyecto: Sincronario
 	- Posibilidad de clickear cualquier cosa y que te muestre información sobre ello
 	- Public NPM library for Tzolkin
 - ## Tasks
-	- {{query (and (todo todo doing now done) (<% current_page %>))}}
+	- {{query (and (todo todo doing now done) (page <% current_page %>))}}
+	  query-table:: false
 	-
 	-
 	-
