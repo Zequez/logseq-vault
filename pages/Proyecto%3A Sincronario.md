@@ -13,6 +13,7 @@ title:: Proyecto: Sincronario
 - https://lawoftime.org/
 	- English
 	- Foundation For the Law Of Time
-	-
+	- Contact
+		- info@lawoftime.org
 -
 -
