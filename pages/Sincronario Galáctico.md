@@ -106,6 +106,12 @@ public:: true
 			- Meditación global por la paz puente arcoiris!
 	- Cards
 		- #Card Cuales son los días de la semana del calendario de las 13 Lunas? {{cloze dali seli gama kali alfa limi silio}}
+		  card-last-interval:: 4
+		  card-repeats:: 1
+		  card-ease-factor:: 2.36
+		  card-next-schedule:: 2022-08-09T21:29:41.749Z
+		  card-last-reviewed:: 2022-08-05T21:29:41.753Z
+		  card-last-score:: 3
 - ## Meditación del puente arcoiris
   id:: 62e80878-44d6-440a-8a20-b705e9687ac9
 	- https://www.13lunas.net/MeditacionArcoirisDetallada.htm
