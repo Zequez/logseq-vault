@@ -54,7 +54,7 @@ title:: Proyecto: Sincronario
 	  [?todo :block/marker ?marker]
 	  (not [?todo :block/page ?p])
 	  (not [_ :block/refs ?todo])
-	  [(contains? #{"TODO" "DOING" "NOW"} ?marker)]
+	  [(contains? #{"TODO" "DOING"} ?marker)]
 	  (or-join [?todo]
 	         (and  [?todo :block/page ?page]
 	                  [?page :block/properties ?props]
@@ -77,7 +77,12 @@ title:: Proyecto: Sincronario
 			- {{embed ((62ed30ac-81a9-47cd-a334-bc68ff3e9ffd))}}
 			- I did a quick research on existing Android apps and webs for the Tzolkin calendar. In terms of web apps there is the one from the Law of Time and on spanish the 13 Lunas; but none is build is a web app but as a general informational portal; which is fine, it complements what I'm attempting to create.
 			- So I'll be moving the existing TODO stuff to another directory and creating a UI for the 13-moon calendar.
-			- NOW Move TODO things to another directory
+			- TODO Move TODO things to another directory
+			  :LOGBOOK:
+			  CLOCK: [2022-08-05 Fri 13:33:42]--[2022-08-05 Fri 13:33:43] =>  00:00:01
+			  CLOCK: [2022-08-05 Fri 13:33:46]
+			  CLOCK: [2022-08-05 Fri 13:33:47]--[2022-08-05 Fri 13:33:50] =>  00:00:03
+			  :END:
 			-
 			-
 	-
