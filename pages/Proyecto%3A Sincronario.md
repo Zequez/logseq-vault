@@ -64,11 +64,12 @@ title:: Proyecto: Sincronario
 			  CLOCK: [2022-08-05 Fri 13:35:56]--[2022-08-05 Fri 13:35:57] =>  00:00:01
 			  CLOCK: [2022-08-05 Fri 13:35:59]--[2022-08-05 Fri 13:36:00] =>  00:00:01
 			  CLOCK: [2022-08-05 Fri 13:36:01]--[2022-08-05 Fri 13:36:01] =>  00:00:00
-			  CLOCK: [2022-08-05 Fri 13:36:01]
+			  CLOCK: [2022-08-05 Fri 13:36:01]--[2022-08-05 Fri 13:41:57] =>  00:05:56
+			  CLOCK: [2022-08-05 Fri 13:41:57]
 			  :END:
 			- Cannot figure out how to make a query for the tasks 😣
 				- Figured out! It was "current page" instead of "current_page"; I'm still unsure about the LogSeq query language, gotta research that later.
-			- LATER Create
+			- LATER Create Moon calendar view and show current moon and day
 			-
 			-
 	-
