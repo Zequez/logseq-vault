@@ -44,7 +44,7 @@ title:: Proyecto: Sincronario
 	- Posibilidad de clickear cualquier cosa y que te muestre información sobre ello
 	- Public NPM library for Tzolkin
 - ## Tasks
-	- {{query (and (todo todo doing) (<% current_page %>))}}
+	- {{query (and (todo todo doing now done) (<% current_page %>))}}
 	-
 	-
 	-
@@ -56,6 +56,8 @@ title:: Proyecto: Sincronario
 			- {{embed ((62ed30ac-81a9-47cd-a334-bc68ff3e9ffd))}}
 			- I did a quick research on existing Android apps and webs for the Tzolkin calendar. In terms of web apps there is the one from the Law of Time and on spanish the 13 Lunas; but none is build is a web app but as a general informational portal; which is fine, it complements what I'm attempting to create.
 			- So I'll be moving the existing TODO stuff to another directory and creating a UI for the 13-moon calendar.
-			- TODO
+			- NOW Move TODO things to another directory
+			-
+			-
 	-
 -
