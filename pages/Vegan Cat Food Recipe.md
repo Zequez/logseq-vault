@@ -28,7 +28,8 @@
   
   g_vegecat = calories / 100
   
-  b12_per_g = 
+  b12_mg_per_g = 0.00114
+  vitamin_a_ui_per_g = 
   
   
   ```
