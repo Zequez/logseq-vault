@@ -19,3 +19,9 @@
 	- > If you do not follow our recipes, add 1⁄4 tsp. (1g) of Vegecat for every 100 calories in your recipe or use the daily serving size chart on the label.
 -
 - So let’s take 26 calories per pound and Meri weight as 4.5; so 4500g / 454g * 26 = 258 calories; that traslates into about 2.5g of vegecat; so we multiply the values by 2.5.
+-
+- ```calc
+  4500 / 454 * 26 # Calories
+  
+  ```
+-
