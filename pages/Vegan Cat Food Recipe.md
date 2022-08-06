@@ -29,7 +29,15 @@
   g_vegecat = calories / 100
   
   b12_mg_per_g = 0.00114
-  vitamin_a_ui_per_g = 
+  vitamin_a_ui_per_g = 120
+  taurine_mg_per_g = 63
+  
+  # Daily
+  b12_mg_per_g * g_vegecat
+  
+  # 7-days
+  
+  # 28 days
   
   
   ```
