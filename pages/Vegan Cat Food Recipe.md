@@ -21,7 +21,8 @@
 - So let’s take 26 calories per pound and Meri weight as 4.5; so 4500g / 454g * 26 = 258 calories; that traslates into about 2.5g of vegecat; so we multiply the values by 2.5.
 -
 - ```calc
+  # 26 calories per pound
+  # Meri weights about 4500g
   4500 / 454 * 26 # Calories
-  
   ```
--
+- So about 2.5g of vegecat
