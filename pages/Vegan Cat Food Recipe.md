@@ -34,11 +34,20 @@
   
   # Daily
   b12_mg_per_g * g_vegecat
+  vitamin_a_ui_per_g * g_vegecat
+  taurine_mg_per_g * g_vegecat
   
   # 7-days
+  b12_mg_per_g * g_vegecat * 7
+  vitamin_a_ui_per_g * g_vegecat * 7
+  taurine_mg_per_g * g_vegecat * 7
   
   # 28 days
+  b12_mg_per_g * g_vegecat * 7 * 4
+  vitamin_a_ui_per_g * g_vegecat * 7 * 4
+  taurine_mg_per_g * g_vegecat * 7 * 4
   
   
   ```
-- So about 2.5g of vegecat
+-
+- So
