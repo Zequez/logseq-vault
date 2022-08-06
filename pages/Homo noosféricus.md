@@ -1,0 +1,2 @@
+- https://www.13lunas.net/boletines/Rinri/proyecto_rinri2.htm
+	- ![Screen Shot 2022-08-06 at 00.58.43.png](../assets/Screen_Shot_2022-08-06_at_00.58.43_1659758333181_0.png)
