@@ -5,3 +5,4 @@
 	  codificadas diagonalmente desde el polo norte al polo sur, del este al oeste, como las cuatro
 	  familias de color de 5 Kin; estos tres códigos actúan como el giroscopio del holón planetario
 	  del tiempo galáctico.
+- https://www.13lunas.net/magos/geomanciaplanetaria1320.htm
