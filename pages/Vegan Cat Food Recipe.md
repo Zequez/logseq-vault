@@ -60,4 +60,6 @@
 - B12 is 1mg, so 1/2 pill for 6 moons
 - Taurine is powder, so we just weight it
 -
+- 27.33
+-
 -
