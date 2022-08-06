@@ -47,6 +47,11 @@
   vitamin_a_ui_per_g * g_vegecat * 7 * 4
   taurine_mg_per_g * g_vegecat * 7 * 4
   
+  # 3 moons / 84 days
+  b12_mg_per_g * g_vegecat * 7 * 4
+  vitamin_a_ui_per_g * g_vegecat * 7 * 4 * 3
+  taurine_mg_per_g * g_vegecat * 7 * 4 * 3
+  
   
   ```
 -
