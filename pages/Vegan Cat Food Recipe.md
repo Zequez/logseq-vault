@@ -50,4 +50,6 @@
   
   ```
 -
-- So
+- So we make a mix for 28 days; whatever weight we get we  divide by 28 and that's what we give to Meri each day.
+-
+-
