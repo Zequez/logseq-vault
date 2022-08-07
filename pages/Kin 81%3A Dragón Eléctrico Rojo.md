@@ -4,6 +4,8 @@ title:: Kin 81: Dragón Eléctrico Rojo
 - Tono: 3
 - Sello: 1
 	- Expresa la cualidad del ser, liberados de causas y consecuencias
+	- ACCIÓN: NUTRIR; PODER: NACIMIENTO; ESENCIA: SER
+	- Fuente de Vida, Dragón, Agua Primordial, Sangre, Nutrición, Seno, Energía Materna, Poder del Nacimiento. ESTE.
 - Afirmación diaria
 	- Yo activo con el fin de nutrir 
 	  Vinculando el ser 
