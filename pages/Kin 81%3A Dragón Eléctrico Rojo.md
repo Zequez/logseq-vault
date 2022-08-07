@@ -2,11 +2,7 @@ title:: Kin 81: Dragón Eléctrico Rojo
 
 - https://www.13lunas.net/sincronizaciongalactica.htm?dia=7&mes=8&ano=2022&x=51&y=34
 - {{embed [[Tono: Eléctrico (3/13)]]}}
--
-- Sello: 1
-	- Expresa la cualidad del ser, liberados de causas y consecuencias
-	- ACCIÓN: NUTRIR; PODER: NACIMIENTO; ESENCIA: SER
-	- Fuente de Vida, Dragón, Agua Primordial, Sangre, Nutrición, Seno, Energía Materna, Poder del Nacimiento. ESTE.
+- {{embed [[Sello: Dragón (1/20)]]}}
 - Afirmación diaria
 	- Yo activo con el fin de nutrir 
 	  Vinculando el ser 
