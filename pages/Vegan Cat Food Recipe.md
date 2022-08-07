@@ -63,6 +63,8 @@
 - 125g of hydrated soja texturizada
 - 100g of legumes
 -
+- Alright, pills of vitamin A turned out to be liquid inside; so I'm going to give her 1 per week;
+-
 - 27.33g / 164
 -
 -
