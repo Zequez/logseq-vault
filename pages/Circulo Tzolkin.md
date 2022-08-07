@@ -1,5 +1,7 @@
 - Día 2
-	- ![image.png](../assets/image_1659833398884_0.png){:width 250})
+	-
+	- ![image.png](../assets/image_1659833486083_0.png)
+	-
 	-
 	- ![Genesis del Encantamiento del Sueno.pdf](../assets/Genesis_del_Encantamiento_del_Sueno_1659833359118_0.pdf)
 	- ![image.png](../assets/image_1659833316296_0.png)
