@@ -63,7 +63,7 @@
 - 125g of hydrated soja texturizada
 - 100g of legumes
 -
-- Alright, pills of vitamin A turned out to be liquid inside; so I'm going to give her 1 per week;
+- Alright, pills of vitamin A turned out to be liquid inside; so I'm going to give her 1 per week; literature says 10000UI is used per KG of feed; so that makes 2500UI for us; vegecat is using values way lower, not sure why, maybe it's not THAT neccesary
 -
 - 27.33g / 164
 -
