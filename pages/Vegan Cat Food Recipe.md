@@ -50,7 +50,7 @@
   # 6 moons / 168 days
   b12_mg_per_g * g_vegecat * 7 * 4 * 6
   vitamin_a_ui_per_g * g_vegecat * 7 * 4 * 6
-  taurine_mg_per_g * g_vegecat * 7 * 4 * 6
+  mass = taurine_mg_per_g * g_vegecat * 7 * 4 * 6
   
   
   ```
@@ -58,7 +58,7 @@
 - So we make a mix for 28 days; whatever weight we get we  divide by 28 and that's what we give to Meri each day.
 - Vitamin A capsules are 50000UI, so 1 cap for 6 moons
 - B12 is 1mg, so 1/2 pill for 6 moons
-- Taurine is powder, so we just weight it
+- Taurine is powder, so we just weight it daily; 162mg
 -
 - 27.33g / 164
 -
