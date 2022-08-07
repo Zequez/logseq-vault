@@ -8,3 +8,4 @@ title:: Sello: Dragón (1/20)
 	- ESENCIA: SER
 	- Fuente de Vida, Dragón, Agua Primordial, Sangre, Nutrición, Seno, Energía Materna, Poder del Nacimiento
 	- Dirección: ESTE.
+	- Tres: Yoga del servicio
