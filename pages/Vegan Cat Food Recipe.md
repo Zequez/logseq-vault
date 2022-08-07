@@ -47,7 +47,7 @@
   vitamin_a_ui_per_g * g_vegecat * 7 * 4
   taurine_mg_per_g * g_vegecat * 7 * 4
   
-  # 6 moons / 164 days
+  # 6 moons / 168 days
   b12_mg_per_g * g_vegecat * 7 * 4 * 6
   vitamin_a_ui_per_g * g_vegecat * 7 * 4 * 6
   taurine_mg_per_g * g_vegecat * 7 * 4 * 6
@@ -60,6 +60,6 @@
 - B12 is 1mg, so 1/2 pill for 6 moons
 - Taurine is powder, so we just weight it
 -
-- 27.33
+- 27.33g / 164
 -
 -
