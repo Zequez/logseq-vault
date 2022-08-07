@@ -43,6 +43,7 @@ public:: true
 	- Magnético
 	- Lunar
 	- Eléctrico
+	  id:: 62eaf300-ced8-4601-a1c1-403faafd745e
 	- Auto-existente
 	- Entonado
 	- Rítmico
