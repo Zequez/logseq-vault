@@ -9,4 +9,3 @@ title:: Kin 81: Dragón Eléctrico Rojo
 	  Sello la entrada del nacimiento 
 	  Con el tono eléctrico del servicio 
 	  Me guía el poder de la fuerza vital
-- Dragón: La compasión por los seres sintientes 'ya está conformada desde el principio'. El Dragón nutre de compasión a todos los seres.
