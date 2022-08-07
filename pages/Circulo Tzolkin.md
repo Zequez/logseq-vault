@@ -1,4 +1,5 @@
 - Día 2
+	- ![image.png](../assets/image_1659833498786_0.png)
 	-
 	- ![image.png](../assets/image_1659833486083_0.png)
 	-
