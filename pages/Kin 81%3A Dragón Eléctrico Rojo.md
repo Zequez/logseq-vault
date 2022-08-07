@@ -1,6 +1,9 @@
 title:: Kin 81: Dragón Eléctrico Rojo
 
 - https://www.13lunas.net/sincronizaciongalactica.htm?dia=7&mes=8&ano=2022&x=51&y=34
+- Tono: 3
+- Sello: 1
+	- Expresa la cualidad del ser, liberados de causas y consecuencias
 - Afirmación diaria
 	- Yo activo con el fin de nutrir 
 	  Vinculando el ser 
