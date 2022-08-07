@@ -60,6 +60,9 @@
 - B12 is 1mg, so 1/2 pill for 6 moons
 - Taurine is powder, so we just weight it daily; 162mg
 -
+- 125g of hydrated soja texturizada
+- 100g of legumes
+-
 - 27.33g / 164
 -
 -
