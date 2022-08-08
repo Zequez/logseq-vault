@@ -1,6 +1,8 @@
 - ![Programa Circulo Tormenta.pdf](../assets/Programa_Circulo_Tormenta_1659939814239_0.pdf)
 -
 - Día 1
+	- ![Screen Shot 2022-08-05 at 21.54.33.png](../assets/Screen_Shot_2022-08-05_at_21.54.33_1659940138285_0.png)
+	- ![Screen Shot 2022-08-05 at 21.58.12.png](../assets/Screen_Shot_2022-08-05_at_21.58.12_1659940132515_0.png)
 	-
 - Día 2
 	- ![image.png](../assets/image_1659833498786_0.png){:width 100}
