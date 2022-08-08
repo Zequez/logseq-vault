@@ -3,6 +3,7 @@
 	- Lunar
 	- Eléctrico
 	- Auto-Existente
+	  id:: 62e2aa0d-2295-429f-a33c-f41986814596
 	- Entonado
 	- Rítmico
 	- Resonante
