@@ -11,8 +11,11 @@
 	  El sagrado Tzolkin Maya
 	  Los 13 tonos Galácticos y los 20 sellos
 	- Grabaciones
-		-
-	- ![image.png](../assets/image_1659833498786_0.png)
+		- [1ra parte. Sol Lunar Amarillo.mp4](../assets/1ra_parte._Sol_Lunar_Amarillo_1659940000174_0.mp4)
+		- [2da parte. SoLunar Amarillo.mp4](../assets/2da_parte._SoLunar_Amarillo_1659939996549_0.mp4)
+		- [3ra parte. Sol Lunar Amarllo.mp4](../assets/3ra_parte._Sol_Lunar_Amarllo_1659939992320_0.mp4)
+		- [4ta parte. Sol Lunar Amarillo.mp4](../assets/4ta_parte._Sol_Lunar_Amarillo_1659939976727_0.mp4)
+	- ![image.png](../assets/image_1659833498786_0.png){:width 100}
 	-
 	- ![image.png](../assets/image_1659833486083_0.png)
 	-
