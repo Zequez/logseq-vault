@@ -10,6 +10,8 @@
 	- 2da Hora:
 	  El sagrado Tzolkin Maya
 	  Los 13 tonos Galácticos y los 20 sellos
+	- Grabaciones
+		-
 	- ![image.png](../assets/image_1659833498786_0.png)
 	-
 	- ![image.png](../assets/image_1659833486083_0.png)
