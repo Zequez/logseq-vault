@@ -1,10 +1,12 @@
 - ![Programa Circulo Tormenta.pdf](../assets/Programa_Circulo_Tormenta_1659939814239_0.pdf)
 -
 - Día 1
+  collapsed:: true
 	- ![Screen Shot 2022-08-05 at 21.54.33.png](../assets/Screen_Shot_2022-08-05_at_21.54.33_1659940138285_0.png)
 	- ![Screen Shot 2022-08-05 at 21.58.12.png](../assets/Screen_Shot_2022-08-05_at_21.58.12_1659940132515_0.png)
 	-
 - Día 2
+  collapsed:: true
 	- ![image.png](../assets/image_1659833498786_0.png){:width 100}
 	- Programa
 		- 1ra Hora:
@@ -27,4 +29,17 @@
 	- ![image.png](../assets/image_1659833316296_0.png)
 	- ![image.png](../assets/image_1659833799959_0.png)
 	-
--
+- Día 3
+	-
+- Día 4
+	- MARTES 9/8 - 21 A 22 HS
+	  TRANSMISIÓN DE INVOCACIÓN
+	  Noche Entonada Azul
+	  Noción del Servicio:
+	  Activar  los Sueños
+	- La Profecía. 
+	  El poder de los sueños: 
+	  la relación mente – holograma y las capacidades de proyección. 
+	  Viajes en el tiempo: Ciclo SP y GK.
+	  La Noosfera y la matriz PSICRONO.
+	-
