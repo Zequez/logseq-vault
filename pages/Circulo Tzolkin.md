@@ -30,6 +30,7 @@
 	- ![image.png](../assets/image_1659833799959_0.png)
 	-
 - Día 3
+  collapsed:: true
 	-
 - Día 4
 	- MARTES 9/8 - 21 A 22 HS
