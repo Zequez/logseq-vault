@@ -1,2 +1,4 @@
 - ![image.png](../assets/image_1659985390677_0.png)
 -
+- https://www.13lunas.net/La_Cultura_Galactica_Advenimiento_Civilizacion_Cosmica.htm
+-
