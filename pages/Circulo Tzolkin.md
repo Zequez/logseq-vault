@@ -50,6 +50,7 @@
 		  la relación mente – holograma y las capacidades de proyección. 
 		  Viajes en el tiempo: Ciclo SP y GK.
 		  La Noosfera y la matriz PSICRONO.
+	-
 	- Compartido por Whatsapp
 		- ![Manifiesto Noosfera_20190923120352.pdf](../assets/Manifiesto Noosfera_20190923120352_1660450661698_0.pdf) - Pendiente
 		- ![libro de prácticas de la ley del tiempo.pdf](../assets/libro_de_prácticas_de_la_ley_del_tiempo_1660450692853_0.pdf) - Pendiente
