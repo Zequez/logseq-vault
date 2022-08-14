@@ -23,6 +23,10 @@ title:: LogSeq Design/Frontend Engineer Application
 		- Based on Argentina, timezone is GMT-3.
 		- Parenting Coral
 			- ![20220801_113220.jpg](../assets/20220801_113220_1660485149596_0.jpg){:width 100}
-		- Born on December 14 1992 at 11:40am in Mar del Plata, Argentina (I stil lil)
+		- Born on December 14 1992 at 11:40am in Mar del Plata, Argentina
+			- Zodiac
+				- Sun sign: Sagitarius
+				- Moon sign: Leo
+				- Ascendant: Aquarius
 	-
 - I'm not interested in the full-time position, I have
