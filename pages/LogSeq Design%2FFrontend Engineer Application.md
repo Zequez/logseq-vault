@@ -14,4 +14,4 @@ title:: LogSeq Design/Frontend Engineer Application
 -
 -
 - Title: Hey! About the open position for Design/Frontend Engineer
--
+- I'm not interested in a full-time position, I have neither the time nor the integrity
