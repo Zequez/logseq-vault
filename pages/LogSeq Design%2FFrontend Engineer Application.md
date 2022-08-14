@@ -12,3 +12,6 @@ title:: LogSeq Design/Frontend Engineer Application
 	- Reference call with 3 of your (former) colleagues (15min each)
 	- We make an offer
 -
+-
+- Title: Hey! About the open position for Design/Frontend Engineer
+-
