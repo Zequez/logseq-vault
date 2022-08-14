@@ -33,10 +33,6 @@
 	- ![image.png](../assets/image_1659833799959_0.png)
 	-
 - Día 3 - Tono 5/13 Entonado - ~~Martes 9/8~~ 1.15 Dali - INVOCACIÓN - 21-22hs
-  collapsed:: true
-	-
-- Día 4 - Tono 8/13 Galáctico - ~~Viernes 12/8~~  1.18 Kali  - INVOCACIÓN
-  collapsed:: true
 	- MARTES 9/8 - 21 A 22 HS
 	  TRANSMISIÓN DE INVOCACIÓN
 	  Noche Entonada Azul
@@ -47,6 +43,7 @@
 	  la relación mente – holograma y las capacidades de proyección. 
 	  Viajes en el tiempo: Ciclo SP y GK.
 	  La Noosfera y la matriz PSICRONO.
+- Día 4 - Tono 8/13 Galáctico - ~~Viernes 12/8~~  1.18 Kali  - MESA REDONDA - **No estuvimos**
 - Día 5 - MESA REDONDA - **No estuvimos**
 	- Mesa redonda
 - Día 6 - No estuvimos
