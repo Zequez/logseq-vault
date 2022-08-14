@@ -32,7 +32,7 @@
 	- ![image.png](../assets/image_1659833316296_0.png)
 	- ![image.png](../assets/image_1659833799959_0.png)
 	-
-- Día 3 - Tono 5/13 Entonado
+- Día 3 - Tono 5/13 Entonado - ~~Martes 9/8~~ - 21-
 - Día 4 -
 	- MARTES 9/8 - 21 A 22 HS
 	  TRANSMISIÓN DE INVOCACIÓN
