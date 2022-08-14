@@ -28,8 +28,12 @@
 		- [4ta parte. Sol Lunar Amarillo.mp4](../assets/4ta_parte._Sol_Lunar_Amarillo_1659939976727_0.mp4)
 	- Día
 		- ![image.png](../assets/image_1659833498786_0.png){:width 100}
+		- Polarizo con el fin de iluminar
+		  Estabilizando la vida.
+		  Sello la matriz del fuego universal
+		  con el tono lunar del desafío.
+		  Me guía el poder de la libre voluntad.
 	-
-	- ![image.png](../assets/image_1659833486083_0.png)
 	- ![Genesis del Encantamiento del Sueno.pdf](../assets/Genesis_del_Encantamiento_del_Sueno_1659833359118_0.pdf)
 	- ![image.png](../assets/image_1659833316296_0.png)
 	- ![image.png](../assets/image_1659833799959_0.png)
