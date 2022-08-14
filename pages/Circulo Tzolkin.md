@@ -50,6 +50,9 @@
 		  la relación mente – holograma y las capacidades de proyección. 
 		  Viajes en el tiempo: Ciclo SP y GK.
 		  La Noosfera y la matriz PSICRONO.
+	- ![Manifiesto Noosfera_20190923120352.pdf](../assets/Manifiesto Noosfera_20190923120352_1660450661698_0.pdf)
+	- ![libro de prácticas de la ley del tiempo.pdf](../assets/libro_de_prácticas_de_la_ley_del_tiempo_1660450692853_0.pdf)
+	-
 - Día 4 - Tono 8/13 Galáctico - ~~Viernes 12/8~~  1.18 Kali - 21-22hs  - MESA REDONDA - **No estuvimos**
 	- [Enlazador Galáctico - Parte 1.mp4](../assets/Enlazador_Galáctico_-_Parte_1_1660449023681_0.mp4)
 	- [Enlazador Galáctico - Parte 2.mp4](../assets/Enlazador_Galáctico_-_Parte_2_1660449031197_0.mp4)
