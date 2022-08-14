@@ -41,6 +41,7 @@
 	- ![image.png](../assets/image_1659833799959_0.png)
 	-
 - Día 3 - Tono 5/13 Entonado - ~~Martes 9/8~~ 1.15 Dali - INVOCACIÓN - 21-22hs
+  collapsed:: true
 	- Programa
 		- Noche Entonada Azul
 		  Noción del Servicio:
@@ -50,7 +51,11 @@
 		  la relación mente – holograma y las capacidades de proyección. 
 		  Viajes en el tiempo: Ciclo SP y GK.
 		  La Noosfera y la matriz PSICRONO.
-	-
+	- Grabaciones
+		- [Noche Entonada - Primera Parte.mp4](../assets/Noche_Entonada_-_Primera_Parte_1660450887061_0.mp4)
+		- [noche entonada - 2da Parte.mp4](../assets/noche_entonada_-_2da_Parte_1660450892352_0.mp4)
+		- [Noche Entonada - Parte 1.m4a](../assets/Noche_Entonada_-_Parte_1_1660450926523_0.m4a)
+		- [Noche Entonada - Parte 2.m4a](../assets/Noche_Entonada_-_Parte_2_1660450930793_0.m4a)
 	- Compartido por Whatsapp
 		- ![Manifiesto Noosfera_20190923120352.pdf](../assets/Manifiesto Noosfera_20190923120352_1660450661698_0.pdf) - Pendiente
 		- ![libro de prácticas de la ley del tiempo.pdf](../assets/libro_de_prácticas_de_la_ley_del_tiempo_1660450692853_0.pdf) - Pendiente
