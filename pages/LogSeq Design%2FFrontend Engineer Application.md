@@ -21,6 +21,8 @@ title:: LogSeq Design/Frontend Engineer Application
 		- I've worked on many companies as a professional, got hooked on money, but work was devoid of meaning.
 	- About person:
 		- Based on Argentina, timezone is GMT-3.
-		- Parent to [Coral]
+		- Parenting Coral
+			- ![20220801_113220.jpg](../assets/20220801_113220_1660485149596_0.jpg){:width 100}
+		- Born on December 14 1992 at 11:40am in Mar del Plata, Argentina (I stil lil)
 	-
 - I'm not interested in the full-time position, I have
