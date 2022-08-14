@@ -2,7 +2,7 @@
 -
 - ## Onda encantada de la Tormenta
 	- ![image.png](../assets/image_1660449203857_0.png)
-- 20
+-
 	-
 - Día 1 - Tono 1/13 Magnético  - ~~Viernes 5/8~~ 1.11 Kali - 21-22hs - INVOCACIÓN
   collapsed:: true
@@ -10,6 +10,7 @@
 	- ![Screen Shot 2022-08-05 at 21.58.12.png](../assets/Screen_Shot_2022-08-05_at_21.58.12_1659940132515_0.png)
 	-
 - Día 2 - Tono 2/13 Lunar - ~~Sábado 6/8~~ 1.12 Alfa - 14-17hs - DATA - **No estuvimos**
+  collapsed:: true
 	- Programa
 	  collapsed:: true
 		- 1ra Hora:
@@ -39,15 +40,15 @@
 	- ![image.png](../assets/image_1659833316296_0.png)
 	- ![image.png](../assets/image_1659833799959_0.png)
 	-
-	- Día 3 - Tono 5/13 Entonado - ~~Martes 9/8~~ 1.15 Dali - INVOCACIÓN - 21-22hs
-	  Noche Entonada Azul
+- Día 3 - Tono 5/13 Entonado - ~~Martes 9/8~~ 1.15 Dali - INVOCACIÓN - 21-22hs
+	- Noche Entonada Azul
 	  Noción del Servicio:
 	  Activar  los Sueños
-		- La Profecía. 
-		  El poder de los sueños: 
-		  la relación mente – holograma y las capacidades de proyección. 
-		  Viajes en el tiempo: Ciclo SP y GK.
-		  La Noosfera y la matriz PSICRONO.
+	- La Profecía. 
+	  El poder de los sueños: 
+	  la relación mente – holograma y las capacidades de proyección. 
+	  Viajes en el tiempo: Ciclo SP y GK.
+	  La Noosfera y la matriz PSICRONO.
 - Día 4 - Tono 8/13 Galáctico - ~~Viernes 12/8~~  1.18 Kali - 21-22hs  - MESA REDONDA - **No estuvimos**
 	- [Enlazador Galáctico - Parte 1.mp4](../assets/Enlazador_Galáctico_-_Parte_1_1660449023681_0.mp4)
 	- [Enlazador Galáctico - Parte 2.mp4](../assets/Enlazador_Galáctico_-_Parte_2_1660449031197_0.mp4)
