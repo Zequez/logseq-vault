@@ -32,9 +32,10 @@
 	- ![image.png](../assets/image_1659833316296_0.png)
 	- ![image.png](../assets/image_1659833799959_0.png)
 	-
-- Día 3 - Tono 5/13 Entonado - ~~Martes 9/8~~ - INVOCACIÓN - 21-22hs
+- Día 3 - Tono 5/13 Entonado - ~~Martes 9/8~~ 1.15 - INVOCACIÓN - 21-22hs
+  collapsed:: true
 	-
-- Día 4 -
+- Día 4 - Tono 8/13 Galáctico - ~~Viernes 12/8~~  - MESA REDONDA
 	- MARTES 9/8 - 21 A 22 HS
 	  TRANSMISIÓN DE INVOCACIÓN
 	  Noche Entonada Azul
