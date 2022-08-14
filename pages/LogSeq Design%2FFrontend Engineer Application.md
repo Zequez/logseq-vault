@@ -15,9 +15,11 @@ title:: LogSeq Design/Frontend Engineer Application
 -
 - Title: Hey! About the open position for Design/Frontend Engineer
 - Here is my situation:
-	- I'm an amateur web developer with many years of half-finished projects which you can find on my Github profile.
-	- Proficient with React & TypeScript and the standard web stack; completely  of Clojurescript
-	- I've worked on many companies as a professional, got hooked on money, but work was devoid of meaning.
-	- Based on Argentina, timezone is GMT-3
+	- About relevant:
+		- I'm an amateur web developer with many years of half-finished projects which you can find on my Github profile.
+		- Proficient with React & TypeScript and the standard web stack; completely lacking in Clojurescript.
+		- I've worked on many companies as a professional, got hooked on money, but work was devoid of meaning.
+	- About person
+	- Based on Argentina, timezone is GMT-3.
 	-
 - I'm not interested in the full-time position, I have
