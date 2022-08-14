@@ -44,7 +44,7 @@
 	  Viajes en el tiempo: Ciclo SP y GK.
 	  La Noosfera y la matriz PSICRONO.
 - Día 4 - Tono 8/13 Galáctico - ~~Viernes 12/8~~  1.18 Kali  - MESA REDONDA - **No estuvimos**
-- Día 5 - MESA REDONDA - **No estuvimos**
+- Día 5 - Tono 9/13 Solar - ~~Sábado 13/8~~ 1.19 Alfa - DATA - **No estuvimos**
 	- Mesa redonda
 - Día 6 - No estuvimos
 	- [Enlazador Galáctico - Parte 1.mp4](../assets/Enlazador_Galáctico_-_Parte_1_1660449023681_0.mp4)
