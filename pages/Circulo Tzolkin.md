@@ -2,6 +2,7 @@
 -
 - ## Onda encantada de la Tormenta
 	- ![image.png](../assets/image_1660449203857_0.png)
+- 20
 	-
 - Día 1 - Tono 1/13 Magnético  - ~~Viernes 5/8~~ 1.11 Kali - 21-22hs - INVOCACIÓN
   collapsed:: true
