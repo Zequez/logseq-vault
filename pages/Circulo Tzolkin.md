@@ -3,12 +3,12 @@
 - ## Onda encantada de la tormenta azul
 	- ![image.png](../assets/image_1660449203857_0.png)
 	-
-- Día 1 - Tono 1/13 Magnético  - ~~Viernes 5/8~~ 1.11 Kali - 21-22hs
+- Día 1 - Tono 1/13 Magnético  - ~~Viernes 5/8~~ 1.11 Kali - 21-22hs - INVOCACIÓN
   collapsed:: true
 	- ![Screen Shot 2022-08-05 at 21.54.33.png](../assets/Screen_Shot_2022-08-05_at_21.54.33_1659940138285_0.png)
 	- ![Screen Shot 2022-08-05 at 21.58.12.png](../assets/Screen_Shot_2022-08-05_at_21.58.12_1659940132515_0.png)
 	-
-- Día 2 - Tono 2/13 Lunar - ~~Sábado 6/8~~ 1.12 Alfa - 14-17hs - **No estuvimos**
+- Día 2 - Tono 2/13 Lunar - ~~Sábado 6/8~~ 1.12 Alfa - 14-17hs - DATA - **No estuvimos**
   collapsed:: true
 	- ![image.png](../assets/image_1659833498786_0.png){:width 100}
 	- Programa
@@ -32,7 +32,8 @@
 	- ![image.png](../assets/image_1659833316296_0.png)
 	- ![image.png](../assets/image_1659833799959_0.png)
 	-
-- Día 3 - Tono 5/13 Entonado - ~~Martes 9/8~~ - 21-
+- Día 3 - Tono 5/13 Entonado - ~~Martes 9/8~~ - INVOCACIÓN - 21-22hs
+	-
 - Día 4 -
 	- MARTES 9/8 - 21 A 22 HS
 	  TRANSMISIÓN DE INVOCACIÓN
