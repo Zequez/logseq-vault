@@ -43,4 +43,7 @@
 	  la relación mente – holograma y las capacidades de proyección. 
 	  Viajes en el tiempo: Ciclo SP y GK.
 	  La Noosfera y la matriz PSICRONO.
+- Día 5
+	- Mesa redonda
+- Día 6
 	-
