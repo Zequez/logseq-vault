@@ -15,5 +15,5 @@ title:: LogSeq Design/Frontend Engineer Application
 -
 - Title: Hey! About the open position for Design/Frontend Engineer
 - Here is my situation:
-	- I'm an amateur web developer with many years of both never-fini
+	- I'm an amateur web developer with many years of half-finished projects.
 - I'm not interested in the full-time position, I have
