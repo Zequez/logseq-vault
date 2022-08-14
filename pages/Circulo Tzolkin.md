@@ -9,8 +9,8 @@
 	- ![Screen Shot 2022-08-05 at 21.58.12.png](../assets/Screen_Shot_2022-08-05_at_21.58.12_1659940132515_0.png)
 	-
 - Día 2 - Tono 2/13 Lunar - ~~Sábado 6/8~~ 1.12 Alfa - 14-17hs - DATA - **No estuvimos**
-	- ![image.png](../assets/image_1659833498786_0.png){:width 100}
 	- Programa
+	  collapsed:: true
 		- 1ra Hora:
 		  Matrices de orden y de desorden:
 		  La historia del calendario gregoriano
@@ -21,10 +21,13 @@
 		  El sagrado Tzolkin Maya
 		  Los 13 tonos Galácticos y los 20 sellos
 	- Grabaciones
+	  collapsed:: true
 		- [1ra parte. Sol Lunar Amarillo.mp4](../assets/1ra_parte._Sol_Lunar_Amarillo_1659940000174_0.mp4)
 		- [2da parte. SoLunar Amarillo.mp4](../assets/2da_parte._SoLunar_Amarillo_1659939996549_0.mp4)
 		- [3ra parte. Sol Lunar Amarllo.mp4](../assets/3ra_parte._Sol_Lunar_Amarllo_1659939992320_0.mp4)
 		- [4ta parte. Sol Lunar Amarillo.mp4](../assets/4ta_parte._Sol_Lunar_Amarillo_1659939976727_0.mp4)
+	- Día
+		- ![image.png](../assets/image_1659833498786_0.png){:width 100}
 	-
 	- ![image.png](../assets/image_1659833486083_0.png)
 	- ![Genesis del Encantamiento del Sueno.pdf](../assets/Genesis_del_Encantamiento_del_Sueno_1659833359118_0.pdf)
