@@ -28,5 +28,7 @@ title:: LogSeq Design/Frontend Engineer Application
 				- Sun sign: Sagitarius
 				- Moon sign: Leo
 				- Ascendant: Aquarius
+			- Tzolkin
+				-
 	-
 - I'm not interested in the full-time position, I have
