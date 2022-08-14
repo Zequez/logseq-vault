@@ -46,4 +46,9 @@
 - Día 5
 	- Mesa redonda
 - Día 6
+	- [Enlazador Galáctico - Parte 1.mp4](../assets/Enlazador_Galáctico_-_Parte_1_1660449023681_0.mp4)
+	- [Enlazador Galáctico - Parte 2.mp4](../assets/Enlazador_Galáctico_-_Parte_2_1660449031197_0.mp4)
+	- [Mano Solar Azul - Parte 1.mp4](../assets/Mano_Solar_Azul_-_Parte_1_1660449043416_0.mp4)
+	- [Mano Solar Azul - Parte 2.mp4](../assets/Mano_Solar_Azul_-_Parte_2_1660449036524_0.mp4)
+	-
 	-
