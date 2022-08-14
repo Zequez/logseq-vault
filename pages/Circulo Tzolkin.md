@@ -5,7 +5,7 @@
 	- ![Screen Shot 2022-08-05 at 21.54.33.png](../assets/Screen_Shot_2022-08-05_at_21.54.33_1659940138285_0.png)
 	- ![Screen Shot 2022-08-05 at 21.58.12.png](../assets/Screen_Shot_2022-08-05_at_21.58.12_1659940132515_0.png)
 	-
-- Día 2
+- Día 2 - No estuvimos
   collapsed:: true
 	- ![image.png](../assets/image_1659833498786_0.png){:width 100}
 	- Programa
@@ -30,8 +30,7 @@
 	- ![image.png](../assets/image_1659833799959_0.png)
 	-
 - Día 3
-	-
-- Día 4
+- Día 4 -
 	- MARTES 9/8 - 21 A 22 HS
 	  TRANSMISIÓN DE INVOCACIÓN
 	  Noche Entonada Azul
@@ -42,9 +41,9 @@
 	  la relación mente – holograma y las capacidades de proyección. 
 	  Viajes en el tiempo: Ciclo SP y GK.
 	  La Noosfera y la matriz PSICRONO.
-- Día 5
+- Día 5 - No estuvimos
 	- Mesa redonda
-- Día 6
+- Día 6 - No estuvimos
 	- [Enlazador Galáctico - Parte 1.mp4](../assets/Enlazador_Galáctico_-_Parte_1_1660449023681_0.mp4)
 	- [Enlazador Galáctico - Parte 2.mp4](../assets/Enlazador_Galáctico_-_Parte_2_1660449031197_0.mp4)
 	- [Mano Solar Azul - Parte 1.mp4](../assets/Mano_Solar_Azul_-_Parte_1_1660449043416_0.mp4)
