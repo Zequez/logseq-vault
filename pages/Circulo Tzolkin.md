@@ -46,7 +46,7 @@
 - Día 4 - Tono 8/13 Galáctico - ~~Viernes 12/8~~  1.18 Kali  - MESA REDONDA - **No estuvimos**
 - Día 5 - Tono 9/13 Solar - ~~Sábado 13/8~~ 1.19 Alfa - DATA - **No estuvimos**
 	- Mesa redonda
-- Día 6 - No estuvimos
+- Día 6 - Tono 10/13 Planetario - ~~Domingo 14/8 1.20
 	- [Enlazador Galáctico - Parte 1.mp4](../assets/Enlazador_Galáctico_-_Parte_1_1660449023681_0.mp4)
 	- [Enlazador Galáctico - Parte 2.mp4](../assets/Enlazador_Galáctico_-_Parte_2_1660449031197_0.mp4)
 	- [Mano Solar Azul - Parte 1.mp4](../assets/Mano_Solar_Azul_-_Parte_1_1660449043416_0.mp4)
