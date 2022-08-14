@@ -3,12 +3,12 @@
 - ## Onda encantada de la tormenta azul
 	- ![image.png](../assets/image_1660449203857_0.png)
 	-
-- Día 1 - Tono 1/13 Magnético  - ~~Viernes 5~~ 1.11 Kali - 21 a 22hs
+- Día 1 - Tono 1/13 Magnético  - ~~Viernes 5/8~~ 1.11 Kali - 21 a 22hs
   collapsed:: true
 	- ![Screen Shot 2022-08-05 at 21.54.33.png](../assets/Screen_Shot_2022-08-05_at_21.54.33_1659940138285_0.png)
 	- ![Screen Shot 2022-08-05 at 21.58.12.png](../assets/Screen_Shot_2022-08-05_at_21.58.12_1659940132515_0.png)
 	-
-- Día 2 - No estuvimos
+- Día 2 - Tono 2/13 Lunar - ~~Sábado 6/8~~ 1.12 - **No estuvimos**
   collapsed:: true
 	- ![image.png](../assets/image_1659833498786_0.png){:width 100}
 	- Programa
