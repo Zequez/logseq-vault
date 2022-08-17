@@ -59,13 +59,18 @@ title:: Proyecto: Sincronario
 				- Done!
 		- 12:22
 			- Small bathroom break and I'll come back to add a new page to calculate the galactic signature.
+		- 13:00
+			- Separated into pages, added navbar and routing!
+			- Up next tomorrow:
+				- LATER Create kin calculator widget and save to localstorage
+				- LATER
 	- 34.1.10
 		- 13:19
 			- I'm not sure how to manage a project with LogSeq but I'll be learning, so here is my first attempt.
 			- {{embed ((62ed30ac-81a9-47cd-a334-bc68ff3e9ffd))}}
 			- I did a quick research on existing Android apps and webs for the Tzolkin calendar. In terms of web apps there is the one from the Law of Time and on spanish the 13 Lunas; but none is build is a web app but as a general informational portal; which is fine, it complements what I'm attempting to create.
 			- So I'll be moving the existing TODO stuff to another directory and creating a UI for the 13-moon calendar.
-			- NOW Move TODO things to another directory
+			- DONE Move TODO things to another directory
 			  :LOGBOOK:
 			  CLOCK: [2022-08-05 Fri 13:33:42]--[2022-08-05 Fri 13:33:43] =>  00:00:01
 			  CLOCK: [2022-08-05 Fri 13:33:46]
@@ -75,7 +80,7 @@ title:: Proyecto: Sincronario
 			  CLOCK: [2022-08-05 Fri 13:35:59]--[2022-08-05 Fri 13:36:00] =>  00:00:01
 			  CLOCK: [2022-08-05 Fri 13:36:01]--[2022-08-05 Fri 13:36:01] =>  00:00:00
 			  CLOCK: [2022-08-05 Fri 13:36:01]--[2022-08-05 Fri 13:41:57] =>  00:05:56
-			  CLOCK: [2022-08-05 Fri 13:41:57]
+			  CLOCK: [2022-08-05 Fri 13:41:57]--[2022-08-17 Wed 13:00:01] =>  287:18:04
 			  :END:
 			- Cannot figure out how to make a query for the tasks 😣
 				- Figured out! It was "current page" instead of "current_page"; I'm still unsure about the LogSeq query language, gotta research that later.
