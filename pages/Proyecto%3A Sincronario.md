@@ -51,12 +51,14 @@ title:: Proyecto: Sincronario
 - ## Log
 	- 34.1.23
 	  id:: 62fd024b-85c5-4bdd-b7f0-788ab2ecf9d1
-		- DONE I'll be finishing the Favicon! 
-		  :LOGBOOK:
-		  CLOCK: [2022-08-17 Wed 12:00:15]--[2022-08-17 Wed 12:22:36] =>  00:22:21
-		  :END:
-			- Done!
-			-
+		- 12:05
+			- DONE I'll be finishing the Favicon! 
+			  :LOGBOOK:
+			  CLOCK: [2022-08-17 Wed 12:00:15]--[2022-08-17 Wed 12:22:36] =>  00:22:21
+			  :END:
+				- Done!
+		- 12:22
+			- Small bathroom break and I'll come back to add a new page to calculate the
 	- 34.1.10
 		- 13:19
 			- I'm not sure how to manage a project with LogSeq but I'll be learning, so here is my first attempt.
