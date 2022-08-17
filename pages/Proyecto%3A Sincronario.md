@@ -58,7 +58,7 @@ title:: Proyecto: Sincronario
 			  :END:
 				- Done!
 		- 12:22
-			- Small bathroom break and I'll come back to add a new page to calculate the
+			- Small bathroom break and I'll come back to add a new page to calculate the galactic signature.
 	- 34.1.10
 		- 13:19
 			- I'm not sure how to manage a project with LogSeq but I'll be learning, so here is my first attempt.
