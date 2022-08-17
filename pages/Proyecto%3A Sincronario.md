@@ -62,8 +62,11 @@ title:: Proyecto: Sincronario
 		- 13:00
 			- Separated into pages, added navbar and routing!
 			- Up next tomorrow:
-				- LATER Create kin calculator widget and save to localstorage
-				- LATER
+				- LATER Create kin calculator widget
+					- LATER Allow to add multiple kins
+					- LATER Save to localstorage
+					- LATER Sync to Supabase
+					-
 	- 34.1.10
 		- 13:19
 			- I'm not sure how to manage a project with LogSeq but I'll be learning, so here is my first attempt.
