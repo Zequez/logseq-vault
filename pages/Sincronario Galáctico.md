@@ -11,11 +11,13 @@ public:: true
 	-
 - ## Sellos Solares
   collapsed:: true
-	- Dragón
-	- Viento
-	  id:: 62eaf300-4843-4283-95ce-4a62f1f9f1d7
-	- Noche
-	- Semilla
+	- Inicio
+		- Dragón
+		- Viento
+		  id:: 62eaf300-4843-4283-95ce-4a62f1f9f1d7
+		- Noche
+		- Semilla
+		-
 	- Serpiente
 	- Enlazador de Mundos
 	- Mano
@@ -26,8 +28,8 @@ public:: true
 	- Humano
 	  id:: 62eaf300-5578-49a5-bcd7-18e276b0ad26
 	  background-color:: #978626
-		- Acción:
-		- Poder:
+		- Acción: Influenciar
+		- Poder: Sabiduría
 		- Esencia: Libre Voluntad
 	- Caminante del Cielo
 	- Mago
