@@ -52,6 +52,8 @@ title:: Proyecto: Sincronario
 	- 34.1.23
 	  id:: 62fe5331-fbb1-4b13-a66d-e2d0b6ba7084
 		- 11:57
+			- I feel super angry because I cannot make tests works, the fucking thing just hangs. SO FUCKING ANGRY. #feelings
+			- ![Screen Shot 2022-08-18 at 13.03.57.png](../assets/Screen_Shot_2022-08-18_at_13.03.57_1660838645323_0.png)
 			-
 		-
 	- 34.1.22
