@@ -24,6 +24,11 @@ public:: true
 	- Perro
 	- Mono
 	- Humano
+	  id:: 62eaf300-5578-49a5-bcd7-18e276b0ad26
+	  background-color:: #978626
+		- Acción:
+		- Poder:
+		- Esencia: Libre Voluntad
 	- Caminante del Cielo
 	- Mago
 	- Águila [15/20]
@@ -42,6 +47,7 @@ public:: true
 - ## Tonos Galácticos
   collapsed:: true
 	- Magnético
+	  id:: 62eaf300-c98e-4c13-a7da-6660328d8f67
 	- Lunar
 	- [[Tono: Eléctrico (3/13)]]
 	  id:: 62eaf300-ced8-4601-a1c1-403faafd745e
