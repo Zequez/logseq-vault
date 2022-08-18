@@ -50,6 +50,9 @@ title:: Proyecto: Sincronario
 	-
 - ## Log
 	- 34.1.23
+		- 11:57
+		-
+	- 34.1.22
 	  id:: 62fd024b-85c5-4bdd-b7f0-788ab2ecf9d1
 		- 12:05
 			- DONE I'll be finishing the Favicon! 
