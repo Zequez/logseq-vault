@@ -1,0 +1,4 @@
+- https://thehumandesignlab.com/que-es-diseno-humano/
+- Auras
+	- Generadores
+	- Manifestadores
