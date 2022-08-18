@@ -102,6 +102,7 @@ public:: true
 			- "Mi madre es la esfera última, yo veo la luz"
 		- GAMA
 		  background-color:: #787f97
+		  id:: 62eaf300-f010-49dd-8653-c09c4ecbe179
 			- Fuerza lumínico-térmica (Pacifica)
 			- "Mi linaje es la unión de la consciencia intrínseca y la esfera última, yo alcanzo el poder de la paz"
 		- KALI
