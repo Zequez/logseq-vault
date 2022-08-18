@@ -2,3 +2,5 @@
 - Auras
 	- Generadores
 	- Manifestadores
+	- Proyectores (Fede dice que yo debo ser proyector)
+	- Reflectores
