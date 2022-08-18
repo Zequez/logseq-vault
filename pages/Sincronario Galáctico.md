@@ -29,12 +29,12 @@ public:: true
 		- Luna
 		- Perro
 		- Mono
-		- Humano
-		  id:: 62eaf300-5578-49a5-bcd7-18e276b0ad26
-		  background-color:: #978626
-			- Acción: Influenciar
-			- Poder: Libre Voluntad
-			- Esencia: Sabiduría
+			- Humano
+			  id:: 62eaf300-5578-49a5-bcd7-18e276b0ad26
+			  background-color:: #978626
+				- Acción: Influenciar
+				- Poder: Libre Voluntad
+				- Esencia: Sabiduría
 	- Salida
 	  background-color:: #978626
 		- Caminante del Cielo
