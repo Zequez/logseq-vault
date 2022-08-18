@@ -58,6 +58,9 @@ public:: true
   collapsed:: true
 	- Magnético
 	  id:: 62eaf300-c98e-4c13-a7da-6660328d8f67
+		- Acción: Atrayendo
+		- Poder: Unifico
+		- Función: Propósito
 	- Lunar
 	- [[Tono: Eléctrico (3/13)]]
 	  id:: 62eaf300-ced8-4601-a1c1-403faafd745e
