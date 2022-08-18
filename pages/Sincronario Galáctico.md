@@ -12,40 +12,48 @@ public:: true
 - ## Sellos Solares
   collapsed:: true
 	- Inicio
+	  background-color:: #793e3e
 		- Dragón
 		- Viento
 		  id:: 62eaf300-4843-4283-95ce-4a62f1f9f1d7
 		- Noche
 		- Semilla
-		-
-	- Serpiente
-	- Enlazador de Mundos
-	- Mano
-	- Estrella
-	- Luna
-	- Perro
-	- Mono
-	- Humano
-	  id:: 62eaf300-5578-49a5-bcd7-18e276b0ad26
+	- Entrada
+	  background-color:: #787f97
+		- Serpiente
+		- Enlazador de Mundos
+		- Mano
+		- Estrella
+	- Proceso
+	  background-color:: #264c9b
+		- Luna
+		- Perro
+		- Mono
+		- Humano
+		  id:: 62eaf300-5578-49a5-bcd7-18e276b0ad26
+		  background-color:: #978626
+			- Acción: Influenciar
+			- Poder: Sabiduría
+			- Esencia: Libre Voluntad
+	- Salida
 	  background-color:: #978626
-		- Acción: Influenciar
-		- Poder: Sabiduría
-		- Esencia: Libre Voluntad
-	- Caminante del Cielo
-	- Mago
-	- Águila [15/20]
-	  id:: 62e6adae-c36a-4760-95db-01f7e33f6097
-		- Crear Mente Visión
-	- Guerrero
-	  id:: 62e6adb2-c722-4655-983f-f8ab4b7ec2ac
-	  background-color:: #978626
-		- Acción: Cuestionar
-		- Poder: Inteligencia
-		- Esencia: Intrepidez
-	- Tierra
-	- Espejo
-	- Tormenta
-	- Sol
+		- Caminante del Cielo
+		- Mago
+		- Águila [15/20]
+		  id:: 62e6adae-c36a-4760-95db-01f7e33f6097
+			- Crear Mente Visión
+		- Guerrero
+		  id:: 62e6adb2-c722-4655-983f-f8ab4b7ec2ac
+		  background-color:: #978626
+			- Acción: Cuestionar
+			- Poder: Inteligencia
+			- Esencia: Intrepidez
+	- Matriz
+	  background-color:: #497d46
+		- Tierra
+		- Espejo
+		- Tormenta
+		- Sol
 - ## Tonos Galácticos
   collapsed:: true
 	- Magnético
