@@ -11,14 +11,14 @@ public:: true
 	-
 - ## Sellos Solares
   collapsed:: true
-	- Inicio
+	- Entrada
 	  background-color:: #793e3e
 		- Dragón
 		- Viento
 		  id:: 62eaf300-4843-4283-95ce-4a62f1f9f1d7
 		- Noche
 		- Semilla
-	- Entrada
+	- Almacén
 	  background-color:: #787f97
 		- Serpiente
 		- Enlazador de Mundos
@@ -33,8 +33,8 @@ public:: true
 		  id:: 62eaf300-5578-49a5-bcd7-18e276b0ad26
 		  background-color:: #978626
 			- Acción: Influenciar
-			- Poder: Sabiduría
-			- Esencia: Libre Voluntad
+			- Poder: Libre Voluntad
+			- Esencia: Sabiduría
 	- Salida
 	  background-color:: #978626
 		- Caminante del Cielo
