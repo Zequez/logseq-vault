@@ -6,7 +6,7 @@
 	- Maintain log of work
 	- Decide which tasks to accept and maintain an updated list here
 		- Regularly do code reviews for pull requests
-	- Make a summary of work done at the end of each Moon and prompt Alex for feedback and
+	- Make a summary of work done at the end of each Moon and prompt Alex for feedback and exchange
 - ## Log
 	- 34.1.25
 		- 19:52
