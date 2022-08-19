@@ -1,6 +1,8 @@
 - ## Pages
 - Github https://github.com/ubiquity
-	-
+-
+- ## Responsibilities
+	- Do
 - ## Tasks
 - {{query (and (todo  todo doing now later) [[Ubiquity]])}}
 -
