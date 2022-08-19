@@ -10,7 +10,7 @@
 - ## Log
 	- 34.1.25
 		- 19:52
-			- Working on responsibilities I'm willing to take on and
+			- Working on this page, on responsibilities I'm willing to take on
 - ## Tasks
-- {{query (and (todo  todo doing now later) [[Ubiquity]])}}
+- {query (and (todo  todo doing now later) [[Ubiquity]])}}
 -
