@@ -1,1 +1,8 @@
 - ![MAPA_DE_VISION_DE_9_ANILLOS.pdf](../assets/MAPA_DE_VISION_DE_9_ANILLOS_1660951989801_0.pdf)
+-
+- Cuatro planetas contienen karma para ser redimidos
+	- Marte: Cultos del miedo a la muerte
+	- Maldek: Crímenes sexuales
+	- Júpiter: Falsa luz / Abuso de poder
+	- Saturno: Sistema monetario corrupto. Un anillo para gobernarlos a todos.
+	-
