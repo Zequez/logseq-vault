@@ -2,10 +2,10 @@
 - Github https://github.com/ubiquity
 -
 - ## Responsibilities
-	- Do code reviews for pull requests
 	- Maintain communication with Alex and Serg
 	- Maintain log of work
-	- TAke
+	- Decide which tasks to accept and maintain an updated list here
+		- Regularly do code reviews for pull requests
 	- Make a summary of work done at the end of each Moon and prompt Alex for feedback and
 - ## Log
 	- 34.1.25
