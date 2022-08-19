@@ -5,10 +5,12 @@
 	- Do code reviews for pull requests
 	- Maintain communication with Alex and Serg
 	- Maintain log of work
+	- TAke
 	- Make a summary of work done at the end of each Moon and prompt Alex for feedback and
 - ## Log
 	- 34.1.25
-		-
+		- 19:52
+			- Working on responsibilities I'm willing to take on and
 - ## Tasks
 - {{query (and (todo  todo doing now later) [[Ubiquity]])}}
 -
