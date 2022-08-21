@@ -27,7 +27,9 @@
 	- ## Sin definir
 		- Puertas
 			- Diseño:
-				- 8:
+				- 8: La solidaridad; La Puerta de la Contribución
+					- Yo puedo contribuir o no
+					- Autoexpresión única
 			- Personalidad:
 				- 62: La preponderancia de lo pequeño; La Puerta del Detalle
 					- Yo pienso o no
