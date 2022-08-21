@@ -13,6 +13,7 @@
   collapsed:: true
 	- Rojo = Diseño inconsciente
 	- Negro = Personalidad consciente
+	- ![Screen Shot 2022-08-21 at 17.47.18.png](../assets/Screen_Shot_2022-08-21_at_17.47.18_1661114856688_0.png)
 	- ![Screen Shot 2022-08-21 at 17.17.22.png](../assets/Screen_Shot_2022-08-21_at_17.17.22_1661113056087_0.png)
 	- ![Screen Shot 2022-08-21 at 17.18.34.png](../assets/Screen_Shot_2022-08-21_at_17.18.34_1661113125375_0.png)
 	- ![Screen Shot 2022-08-21 at 17.20.43.png](../assets/Screen_Shot_2022-08-21_at_17.20.43_1661113250140_0.png)
