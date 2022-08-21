@@ -44,4 +44,4 @@
 		- La inspiración de la cabeza es como una presión que impulsa a nuestra actividad mental
 		- Inicia pensamientos cotidiatnos e interorgantes más elevados acerca de los misterios de la existencia
 		- Es la presión para hacer preguntas y esperar respuestas
-		-
+		- > Desgraciadamente cuando el no-ser usurpa el papel de nuestra Autoridad personal, el Centro de la Cabeza inicia una corriente de preguntas y pensamientos irrelevantes acreca de cosas que no importan realmente.
