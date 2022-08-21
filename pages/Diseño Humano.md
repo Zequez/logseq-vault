@@ -50,4 +50,5 @@
 		- > No saben en qué enfocarse, especialmente en esta abrumadora era de la información.
 		- > O se pueden distraer con facilidad debido a la presión de idear respuestas
 - # Centro de la Raíz
-	-
+	- ## Sin definir
+		- Con el paso del tiempo, este tipo de condicionamiento puede convertirse en hiperactividad, inquidtud incontroloable e incapacidad de centrarse.
