@@ -20,4 +20,8 @@
 	  de controlar lo que dicen; están diseñadas para hablar espontáneamente y disfrutar las di-
 	  ferentes voces o formas de expresión que experimentan.
 	- ## Sin definir
-		- Puerta 62 Consciente:
+		- Puertas
+			- Diseño:
+				- 62: La preponderancia de lo pequeño; La Puerta del Detalle
+					-
+				-
