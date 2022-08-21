@@ -41,5 +41,7 @@
 					- Cauteloso socialmente
 - Centro de la Cabeza
 	- ## Completamente abierta
-		- Presión que impulsa a nuestra actividad mental
+		- La inspiración de la cabeza es como una presión que impulsa a nuestra actividad mental
+		- Inicia pensamientos cotidiatnos e interorgantes más elevados acerca de los misterios de la existencia
+		- Es la presión para hacer preguntas y esperar respuestas
 		-
