@@ -5,8 +5,8 @@
 	- Manifestadores
 	- Proyectores (Fede dice que yo debo ser proyector)
 	- Reflectores
--
 - ---
+-
 - ![Screen Shot 2022-08-21 at 00.09.59.png](../assets/Screen_Shot_2022-08-21_at_00.09.59_1661113027003_0.png)
 - ## Como leer los diagramas
   collapsed:: true
@@ -18,8 +18,6 @@
 - ## Preguntas para centros abiertos
   collapsed:: true
 	- ![Screen Shot 2022-08-21 at 17.31.14.png](../assets/Screen_Shot_2022-08-21_at_17.31.14_1661113892423_0.png)
--
--
 - # Garganta
 	- El enfoque más saludable para las personas con la Garganta abierta es dejar de tratar
 	  de controlar lo que dicen; están diseñadas para hablar espontáneamente y disfrutar las di-
