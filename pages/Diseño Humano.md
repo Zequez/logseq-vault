@@ -39,4 +39,6 @@
 				- 12: La paralización; La Puerta de la Cautela
 					- Yo sé que puedo intentarlo o no
 					- Cauteloso socialmente
--
+- Centro de la Cabeza
+	- ## Completamente abierta
+		-
