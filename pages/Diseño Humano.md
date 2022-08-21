@@ -41,4 +41,5 @@
 					- Cauteloso socialmente
 - Centro de la Cabeza
 	- ## Completamente abierta
+		- Presión que impulsa a nuestra actividad mental
 		-
