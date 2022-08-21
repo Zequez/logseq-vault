@@ -22,6 +22,11 @@
 	- ## Sin definir
 		- Puertas
 			- Diseño:
+				- 8:
+			- Personalidad:
 				- 62: La preponderancia de lo pequeño; La Puerta del Detalle
-					-
+					- Yo pienso o no
+					- Comunicar el detalle de los hechos
+				-
+			- Diseño/Personalidad:
 				-
