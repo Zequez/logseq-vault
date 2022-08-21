@@ -20,7 +20,8 @@
 	- At some point during a summer when I was a kid I made an attempt at entrepreneurship. I created a sort of play-doh kit to sell to parents for their children. So after having build some of these, I walked on the beach and offered it to a group of people. I got rejected. That was the last time I ever tried to sell something to someone. The kits were left at home in a forgotten corner.
 	- In my adolescence my father suddenly got very interested in investing, after having read the book Rich Dad Poor Dad. I ended up reading the book too. And he even bought some board games based on that book to learn by playing. What I got from all that was the following: don't be an employee, have things that make money for you. So that started my long failed career to make things that made money for me and my years of resented employment.
 	- I've known how to make websites since I was 14 years old. I'm 29 right now and worked professionally as a web developer for many years. In all those years my focus has been to "create something that made money". I never tried to sell a website to anyone. But I did end up working as an employee or contractor for many companies.
-		- The idea was to make something so popular that I could just put Google Adsense and get let the cash flow
+		- The idea was to make something so popular that I could just put Google Adsense and get let the cash flow to me. So basically a big advertising thing; let Google sell for me. Now I hate advertisement so that's not an option either.
+	- So s
 	-
 	-
 	-
