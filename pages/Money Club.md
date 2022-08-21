@@ -15,7 +15,7 @@
 	- I was told studying is my only job. And my father, _in his attempt to control us_,  made sure we did the job well, by paying us for getting good grades. And punishing us (by taking computer time away) if we got bad grades.
 	- Once we were hooked on money, he would give it to us to do things we didn't want to do, like picking up dog poop from the garden.
 	- When I saved enough money, I remember having bought a fishing rod; we didn't even went fishing that much, but it was something we did together with my father.
-	- Somewhere along my childhood, I discovered what it meant to be rich. A wealthy great-aunt, the wealthiest of the family, took my brother and I to a toy store and told us to pick one item, whatever we wanted. So being rich meant not bothering about the price of things
+	- Somewhere along my childhood, I discovered what it meant to be rich. A wealthy great-aunt, the wealthiest of the family, took my brother and I to a toy store and told us to pick one item, whatever we wanted. So being rich meant not bothering oneself about the price of things. This was not how we did things at our family, the price of things was an important and limiting factor
 	- There was a lot of worry about money in my home. I was born in an economically unstable country. On 2001 there was an economic crisis that left my parents with big debts and empty savings. Menem and he peronists had stolen all the money in the country and made us all poor with their _neoliberalismo_ idea.
 	-
 	-
