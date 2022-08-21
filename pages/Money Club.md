@@ -1,7 +1,7 @@
 - ## Money Story as a Victim
 	- I am born to a family of father, mother and a brother
-	- When I was a kid my father got all the money in the house. He would work long hours and come back at night. I was told studying is my only job. And my father, _in his  made sure we did the job well, by paying us for getting good grades. And punishing us if we
-	- He also payed us to do things that we otherwise wouldn't do, like picking up dog poop.
+	- When I was a kid my father got all the money in the house. He would work long hours and come back at night. I was told studying is my only job. And my father, _in his attempt to control us_,  made sure we did the job well, by paying us for getting good grades. And punishing us (by taking computer time away) if we got bad grades.
+	- He also payed us to do things that we otherwise wouldn't do, like picking up dog poop. He was teaching us
 	- With the money saved, I remember having bought a fishing rod; fishing was an activity that we did together with my father; although not very often.
 	- There was a lot of worry about money in my home. I was born toa
 	-
