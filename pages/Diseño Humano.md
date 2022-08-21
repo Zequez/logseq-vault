@@ -52,3 +52,6 @@
 - # Centro de la Raíz
 	- ## Sin definir
 		- Con el paso del tiempo, este tipo de condicionamiento puede convertirse en hiperactividad, inquidtud incontroloable e incapacidad de centrarse.
+		- Cuando operan correctamente
+			- No se juzgan a si mismas como holgazanas o imcompetentes si no logran trabajar deprisa o simplemente no quieren hacerlo.
+-
