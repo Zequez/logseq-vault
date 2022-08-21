@@ -1,3 +1,4 @@
 - ## Money Story as a Victim
 	- I am born to a family of father, mother and a brother
+	- When I was a kid my father got all the money in the house. He would work long hours and come back at night. I was told studying is my only job. And my father made ru
 	-
