@@ -4,3 +4,7 @@
 	- Manifestadores
 	- Proyectores (Fede dice que yo debo ser proyector)
 	- Reflectores
+-
+- ---
+- ![Screen Shot 2022-08-21 at 00.09.59.png](../assets/Screen_Shot_2022-08-21_at_00.09.59_1661113027003_0.png)
+-
