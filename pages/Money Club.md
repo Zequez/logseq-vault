@@ -14,7 +14,8 @@
 	- When I was a kid my father hammered down the importance of money of us by disappearing the whole day and coming back at night with money that he would give us so we could put on a tin (to save it). That was his job, being somewhere else and getting money.
 	- I was told studying is my only job. And my father, _in his attempt to control us_,  made sure we did the job well, by paying us for getting good grades. And punishing us (by taking computer time away) if we got bad grades.
 	- Once we were hooked on money, he would give it to us to do things we didn't want to do, like picking up dog poop from the garden.
-	- When I saved enough money, I remember having bought a fishing rod; I didn't even went fishing that much, I guess I just wanted more time with my father.
+	- When I saved enough money, I remember having bought a fishing rod; we didn't even went fishing that much, but it was something we did together with my father.
+	- Somewhere along my childhood, I discovered what it meant to be rich. A wealthy aunt
 	- There was a lot of worry about money in my home. I was born in an economically unstable country. On 2001 there was an economic crisis that left my parents with big debts and empty savings. Menem and he peronists had stolen all the money in the country and made us all poor with their _neoliberalismo_ idea.
 	-
 	-
