@@ -1,1 +1,3 @@
 - ## Money Story as a Victim
+	- I am born to a family of two parents and a brother
+	-
