@@ -34,7 +34,10 @@
 				- 62: La preponderancia de lo pequeño; La Puerta del Detalle
 					- Yo pienso o no
 					- Comunicar el detalle de los hechos
-				- 45:
+				- 45: La reunión; La Puerta del Recolector
+					- Yo tengo o no
+					- El Rey/la reina que guía mediante la educación
 			- Diseño/Personalidad:
-				- 12:
+				- 12: La paralización; La Puerta de la Cautela
+					- Yo
 				-
