@@ -45,4 +45,5 @@
 	- Es la presión para hacer preguntas y esperar respuestas
 	- > Desgraciadamente cuando el no-ser usurpa el papel de nuestra Autoridad personal, el Centro de la Cabeza inicia una corriente de preguntas y pensamientos irrelevantes acerca de cosas que no importan realmente. Esto puede convertirse en una presión incesante por saber, que nos llena de dudas y confusión, alejándonos más de nosotros mismos.
 	- ## Completamente abierta
-		-
+		- > No saben en qué enfocarse, especialmente en esta abrumadora era de la información.
+		- > O se pueden distraer con facilidad debido a la presión de idear respuestas
