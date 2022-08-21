@@ -21,6 +21,7 @@
   collapsed:: true
 	- ![Screen Shot 2022-08-21 at 17.31.14.png](../assets/Screen_Shot_2022-08-21_at_17.31.14_1661113892423_0.png)
 - # Garganta
+  collapsed:: true
 	- El enfoque más saludable para las personas con la Garganta abierta es dejar de tratar de controlar lo que dicen; están diseñadas para hablar espontáneamente y disfrutar las diferentes voces o formas de expresión que experimentan.
 	- ## Sin definir
 		- Puertas
@@ -40,6 +41,7 @@
 					- Yo sé que puedo intentarlo o no
 					- Cauteloso socialmente
 - # Centro de la Cabeza
+  collapsed:: true
 	- La inspiración de la cabeza es como una presión que impulsa a nuestra actividad mental
 	- Inicia pensamientos cotidiatnos e interorgantes más elevados acerca de los misterios de la existencia
 	- Es la presión para hacer preguntas y esperar respuestas
@@ -47,3 +49,5 @@
 	- ## Completamente abierta
 		- > No saben en qué enfocarse, especialmente en esta abrumadora era de la información.
 		- > O se pueden distraer con facilidad debido a la presión de idear respuestas
+- # Centro de la Raíz
+	-
