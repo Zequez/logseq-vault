@@ -6,6 +6,7 @@
 	- Proyectores (Fede dice que yo debo ser proyector)
 	- Reflectores
 - ---
+- ![Diseño Humano - Lynda Bunnell.pdf](../assets/Diseño_Humano_-_Lynda_Bunnell_1661114679977_0.pdf)
 -
 - ![Screen Shot 2022-08-21 at 00.09.59.png](../assets/Screen_Shot_2022-08-21_at_00.09.59_1661113027003_0.png)
 - ## Como leer los diagramas
