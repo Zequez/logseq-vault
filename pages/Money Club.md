@@ -18,7 +18,7 @@
 	- Somewhere along my childhood, I discovered what it meant to be rich. A wealthy great-aunt, the wealthiest of the family, took my brother and I to a toy store and told us to pick one item, whatever we wanted. So being rich meant not bothering oneself about the price of things. This was not how we did things at our family, the price of things was always somethings to be worried about.
 	- And prices always went up all the time. I was born in an economically unstable country and inflation was and is an everyday thing. On 2001 there was an economic crisis that left my parents with big debts and empty savings. Menem and the Peronist party had stolen all the money in the country and made us all poor with their _neoliberalismo_ idea that failed miserably.
 	- At some point during a summer when I was a kid I made an attempt at entrepreneurship. I created a sort of play-doh kit to sell to parents for their children. So after having build some of these, I walked on the beach and offered it to a group of people. I got rejected. That was the last time I ever tried to sell something to someone. The kits were left at home in a forgotten corner.
-	- In my adolescence my father suddenly got very interested in investing, after having read the book Rich Dad Poor Dad. I ended up reading the book
+	- In my adolescence my father suddenly got very interested in investing, after having read the book Rich Dad Poor Dad. I ended up reading the book too. And he even bought some board games based on that book to learn by playing. What I got from all that was the following: don't be an employee, have things that make money for you.
 	-
 	-
 	-
