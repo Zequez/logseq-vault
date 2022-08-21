@@ -24,7 +24,7 @@
 	- So since I couldn't sell any creation to anyone out of the fear of being rejected, I sold what I was taught to sell in my childhood, my time. I created what I was told to create, that way I wouldn't get rejected.
 	- Fast forward to early adulthood; my web development path took me many places. As it turns out learning to program on the Internet shoves you into learning English too. So as a bilingual web developer I was in a privileged position for global remote employment. After a failed project that got the attention of a local software-factory company, I got hired by them. This put me on a path of ever-increasing income from my craft. I was paid by the hour worked and over the years it went from 5-10USD per hour to about 45 USD per hour on my last job. Always creating things I don't resonate with for people that control me with money.
 	- Right now my last employment facade (I was invited in the premise that it was a cooperative organization; I was still building things just because I was paid) is ending. I have a tendency to become disenhearted with the jobs I take until it becomes the situation where the days pass and I don't do them until the relationship with the "employer" breaks down and I end up leaving.
-	- So now I'm a parent, I have a son, Coral and a partner Celeste. I'm the sole provider in the home, and we have about US$700 left with a monthly expense of about US
+	- So now I'm a parent, I have a son, Coral and a partner Celeste. I'm the sole provider in the home, and we have about US$700 left with a monthly expense of about US$ 400 (rent and all). I'm not excessively worried, because this happened already many times (being about to run out of money) and
 	-
 	-
 	-
