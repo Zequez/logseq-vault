@@ -4,6 +4,9 @@
  {:block/name "62e0b31e-b0ca-441e-892b-1c4bdcf40fff",
   :block/created-at 1659021836904,
   :block/updated-at 1659021836904}
+ {:block/name "62e2aa0d-2295-429f-a33c-f41986814596",
+  :block/created-at 1659940230242,
+  :block/updated-at 1659940230242}
  {:block/name "62e367c6-f215-405a-a07f-ec94a04c9823",
   :block/created-at 1659564799963,
   :block/updated-at 1659564799963}
@@ -31,6 +34,27 @@
  {:block/name "62e80878-44d6-440a-8a20-b705e9687ac9",
   :block/created-at 1659564801223,
   :block/updated-at 1659564801223}
+ {:block/name "62eaf300-4843-4283-95ce-4a62f1f9f1d7",
+  :block/created-at 1659940211955,
+  :block/updated-at 1659940211955}
+ {:block/name "62eaf300-5578-49a5-bcd7-18e276b0ad26",
+  :block/created-at 1660832251353,
+  :block/updated-at 1660832251353}
+ {:block/name "62eaf300-c98e-4c13-a7da-6660328d8f67",
+  :block/created-at 1660832262824,
+  :block/updated-at 1660832262824}
+ {:block/name "62eaf300-f010-49dd-8653-c09c4ecbe179",
+  :block/created-at 1660832629147,
+  :block/updated-at 1660832629147}
+ {:block/name "62ed30ac-81a9-47cd-a334-bc68ff3e9ffd",
+  :block/created-at 1659716466915,
+  :block/updated-at 1659716466915}
+ {:block/name "62fd024b-85c5-4bdd-b7f0-788ab2ecf9d1",
+  :block/created-at 1660748402326,
+  :block/updated-at 1660748402326}
+ {:block/name "62fe5331-fbb1-4b13-a66d-e2d0b6ba7084",
+  :block/created-at 1660834644581,
+  :block/updated-at 1660834644581}
  {:block/name "a",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
@@ -46,12 +70,51 @@
  {:block/name "app:gaia",
   :block/created-at 1659021836795,
   :block/updated-at 1659021836795}
+ {:block/name "arquearquía",
+  :block/created-at 1659966712976,
+  :block/updated-at 1660390859862}
  {:block/name "ashtanga-yoga",
   :block/created-at 1659565095541,
   :block/updated-at 1659565095541}
+ {:block/name "aug 10th, 2022",
+  :block/created-at 1660102894923,
+  :block/updated-at 1660162597083}
+ {:block/name "aug 11th, 2022",
+  :block/created-at 1660186852588,
+  :block/updated-at 1660186852588}
+ {:block/name "aug 12th, 2022",
+  :block/created-at 1660273206874,
+  :block/updated-at 1660273206874}
+ {:block/name "aug 13th, 2022",
+  :block/created-at 1660389889231,
+  :block/updated-at 1660389889231}
+ {:block/name "aug 14th, 2022",
+  :block/created-at 1660448814136,
+  :block/updated-at 1660448814136}
+ {:block/name "aug 15th, 2022",
+  :block/created-at 1660551876401,
+  :block/updated-at 1660551876401}
+ {:block/name "aug 16th, 2022",
+  :block/created-at 1660644005366,
+  :block/updated-at 1660669166096}
+ {:block/name "aug 17th, 2022",
+  :block/created-at 1660743449510,
+  :block/updated-at 1660748402329}
+ {:block/name "aug 18th, 2022",
+  :block/created-at 1660791652553,
+  :block/updated-at 1660834644582}
+ {:block/name "aug 19th, 2022",
+  :block/created-at 1660882032835,
+  :block/updated-at 1660951979932}
  {:block/name "aug 1st, 2022",
   :block/created-at 1659325878751,
   :block/updated-at 1659357062892}
+ {:block/name "aug 20th, 2022",
+  :block/created-at 1660965197368,
+  :block/updated-at 1661006317340}
+ {:block/name "aug 21st, 2022",
+  :block/created-at 1661051287283,
+  :block/updated-at 1661113008700}
  {:block/name "aug 2nd, 2022",
   :block/created-at 1659564799982,
   :block/updated-at 1659564999095}
@@ -63,7 +126,19 @@
   :block/updated-at 1659582008473}
  {:block/name "aug 5th, 2022",
   :block/created-at 1659708163601,
-  :block/updated-at 1659711932035}
+  :block/updated-at 1659716453570}
+ {:block/name "aug 6th, 2022",
+  :block/created-at 1659754802063,
+  :block/updated-at 1659758653219}
+ {:block/name "aug 7th, 2022",
+  :block/created-at 1659842309303,
+  :block/updated-at 1659891945644}
+ {:block/name "aug 8th, 2022",
+  :block/created-at 1659927625277,
+  :block/updated-at 1659987523547}
+ {:block/name "aug 9th, 2022",
+  :block/created-at 1660014006122,
+  :block/updated-at 1660014006122}
  {:block/name "ayuno",
   :block/created-at 1659564799971,
   :block/updated-at 1659564799971}
@@ -94,6 +169,9 @@
  {:block/name "chino",
   :block/created-at 1659022427622,
   :block/updated-at 1659022427622}
+ {:block/name "circulo tzolkin",
+  :block/created-at 1659833309088,
+  :block/updated-at 1660451376942}
  {:block/name "cogov.tech",
   :block/created-at 1659108126475,
   :block/updated-at 1659108138522}
@@ -122,6 +200,12 @@
   "directing the power of conscious feelings - callahan clinton",
   :block/created-at 1659564799401,
   :block/updated-at 1659564799401}
+ {:block/name "diseño humano",
+  :block/created-at 1660833400885,
+  :block/updated-at 1661114614397}
+ {:block/name "distraction",
+  :block/created-at 1660743809188,
+  :block/updated-at 1660743809188}
  {:block/name "diy",
   :block/created-at 1659021837551,
   :block/updated-at 1659021837551}
@@ -134,9 +218,15 @@
  {:block/name "dragon dreaming",
   :block/created-at 1659065025582,
   :block/updated-at 1659069322942}
+ {:block/name "día: limi",
+  :block/created-at 1659891022785,
+  :block/updated-at 1659891037784}
  {:block/name "el chino",
   :block/created-at 1659063684756,
   :block/updated-at 1659063684756}
+ {:block/name "el poder o kin oculto",
+  :block/created-at 1659891945643,
+  :block/updated-at 1659891959450}
  {:block/name "elimination communication",
   :block/created-at 1659022295728,
   :block/updated-at 1659022295728}
@@ -174,6 +264,12 @@
  {:block/name "holochain",
   :block/created-at 1659711755502,
   :block/updated-at 1659711755502}
+ {:block/name "holon planetario",
+  :block/created-at 1659758653218,
+  :block/updated-at 1659760381936}
+ {:block/name "homo noosféricus",
+  :block/created-at 1659758319299,
+  :block/updated-at 1659758341287}
  {:block/name "in-progress",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
@@ -209,7 +305,13 @@
   :block/updated-at 1659022427623}
  {:block/name "kin 180: sol espectral amarillo",
   :block/created-at 1659565653011,
-  :block/updated-at 1659566613173}
+  :block/updated-at 1659796560820}
+ {:block/name "kin 81: dragón eléctrico rojo",
+  :block/created-at 1659890641038,
+  :block/updated-at 1659892457912}
+ {:block/name "lak'ech",
+  :block/created-at 1659796560818,
+  :block/updated-at 1659796596872}
  {:block/name "lang",
   :block/created-at 1659064791208,
   :block/updated-at 1659064791208}
@@ -233,7 +335,7 @@
   :block/updated-at 1659564799561}
  {:block/name "logseq design/frontend engineer application",
   :block/created-at 1659564799557,
-  :block/updated-at 1659564799557}
+  :block/updated-at 1660485275714}
  {:block/name "luna murciélago magnética",
   :block/created-at 1659021836906,
   :block/updated-at 1659021836906}
@@ -246,6 +348,9 @@
  {:block/name "mamás que ayudan",
   :block/created-at 1659564799612,
   :block/updated-at 1659564799612}
+ {:block/name "mapa de visión de 9 anillos",
+  :block/created-at 1660951979931,
+  :block/updated-at 1660952098172}
  {:block/name "matrixcodes",
   :block/created-at 1658887387620,
   :block/updated-at 1659064746838}
@@ -300,6 +405,9 @@
  {:block/name "meditation",
   :block/created-at 1659284248351,
   :block/updated-at 1659284248351}
+ {:block/name "money club",
+  :block/created-at 1661081602260,
+  :block/updated-at 1661084929207}
  {:block/name "morning-journal",
   :block/created-at 1659022471138,
   :block/updated-at 1659022471138}
@@ -312,6 +420,9 @@
  {:block/name "now",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
+ {:block/name "permaculture",
+  :block/created-at 1660669166094,
+  :block/updated-at 1660669167859}
  {:block/name "possibility management",
   :block/created-at 1659022731810,
   :block/updated-at 1659022731810}
@@ -329,7 +440,7 @@
   :block/updated-at 1659564799844}
  {:block/name "proyecto: sincronario",
   :block/created-at 1659022081316,
-  :block/updated-at 1659716197055}
+  :block/updated-at 1660838645847}
  {:block/name "pulso",
   :block/created-at 1659063652894,
   :block/updated-at 1659063652894}
@@ -342,12 +453,21 @@
  {:block/name "running",
   :block/created-at 1659565047359,
   :block/updated-at 1659565047359}
+ {:block/name "sello: dragón (1/20)",
+  :block/created-at 1659892322825,
+  :block/updated-at 1659892480730}
+ {:block/name "sello: dragón [1",
+  :block/created-at 1659892322824,
+  :block/updated-at 1659892322824}
  {:block/name "sello: sol",
   :block/created-at 1659023697062,
   :block/updated-at 1659023866312}
+ {:block/name "sello: viento",
+  :block/created-at 1659940278511,
+  :block/updated-at 1659940278511}
  {:block/name "sincronario galáctico",
   :block/created-at 1659022386867,
-  :block/updated-at 1659566270411}
+  :block/updated-at 1660832520502}
  {:block/name "star maker",
   :block/created-at 1659284806517,
   :block/updated-at 1659284806517}
@@ -360,6 +480,12 @@
  {:block/name "tono galáctico",
   :block/created-at 1659021836902,
   :block/updated-at 1659021836902}
+ {:block/name "tono: auto-existente",
+  :block/created-at 1659940272303,
+  :block/updated-at 1659940272303}
+ {:block/name "tono: eléctrico (3/13)",
+  :block/created-at 1659892102723,
+  :block/updated-at 1659892236830}
  {:block/name "tu burbuja",
   :block/created-at 1659068102543,
   :block/updated-at 1659068102543}
@@ -368,10 +494,13 @@
   :block/updated-at 1659021836900}
  {:block/name "ubiquity",
   :block/created-at 1659022644570,
-  :block/updated-at 1659037496059}
+  :block/updated-at 1660949847659}
  {:block/name "unmix emotions",
   :block/created-at 1658887383680,
   :block/updated-at 1658887710351}
+ {:block/name "vegan cat food recipe",
+  :block/created-at 1659829226709,
+  :block/updated-at 1659831360209}
  {:block/name "wait",
   :block/created-at 1658887939550,
   :block/updated-at 1658887939550}
