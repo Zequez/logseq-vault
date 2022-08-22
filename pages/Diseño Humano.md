@@ -289,6 +289,7 @@
 			- La pregunta del no-ser: "¿Estoy aún tratando de encontrar dirección y amor?"
 				- Cuando están alineados con su vehículos, no tienen que encontrar anda ellos mismos. De hecho, no pueden, no funciona de esa manera para ellos.
 			- Cuando están en paz no necesitan anticipar su siguiente movimiento o cuando vendrá el amor de nuevo. Estáñ cómodos esperando a que algo o alguien de su entorno les inicie.
+			-
 		-
 - # Centro de la Raíz
   collapsed:: true
