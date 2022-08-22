@@ -97,7 +97,8 @@
 	- Cada centro de consciencia tiene una frecuencia única:
 		- Bazo opera el ahora
 		- Ajna opera con todo el tiempo
-		-
+		- Plexo Solar opera una oscilante ola bioquímica con el paso del tiempo
+	- Nuevo tipo de consciencia; consciencia del espíritu
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
