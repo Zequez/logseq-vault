@@ -245,7 +245,7 @@
 - # Centro G
 	- Amor, identidad y dirección
 	- (Sede de) el monopolo magnético, esencia superior
-	-
+	- Atrae amor y belleza
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
