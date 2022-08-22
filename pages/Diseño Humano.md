@@ -69,7 +69,7 @@
 		- No pueden cumplir compromisos que no han adquirido correctamente a través de la respuesta; esta energía no está disponible para apoyar decisiones tomadas con la mente.
 		- No acabar lo que han empezado.
 		- La naturaleza de la frecuencia del Sacral es perseverar para dominar una destreza o adquirir una habilidad.
-		- A diferencia de la Garganta,
+		- A diferencia de la Garganta, la energía del Sacral alcanza determinados niveles y debe tener la fuerza para persistir durante estos puntos 'estancamiento' hasta que un avance repentino (iniciación) nos impulse hasta el nuevo nivel de maestría.
 		- Puertas
 			- 34: El poder de lo grande; La Puerta del Poder
 				- Poder puro para potenciar
