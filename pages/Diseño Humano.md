@@ -166,6 +166,7 @@
 			- Cuando se sienten incómodos emocionalmente, saben que pueden salir de la habitación y alejarse del aura condicionante de otros hasta que vuelva la calma.
 			- Es una buena práctica disfrutar estando solos durante un tiempo todos los días para liberar el condicionamiento emocional que han absorbido.
 - # Centro del Corazón
+  collapsed:: true
 	- ## Puertas
 		- 21: Cele
 			- La mordedura tajante
@@ -197,7 +198,6 @@
 			- Aprende que no tiene que competir con nadie y no deja que nadie le convenza para hacer o comprometerse a algo meramente para demostrar su valía.
 			-
 - # Centro Sacral
-  collapsed:: true
 	- Toda la vida del planeta se nutre de la energía vital generada en este centro.
 	- El ciclo de trabajo/descanso de este motor require que agote su suministro de energía disponible cada día para poder dormir bien.
 	- Si tu centro sacral es definido, sos de tipo generador.
@@ -243,6 +243,7 @@
 			- Escucha los sonidos primarios de las rsepuestas sacrales nos dice si hay energía disponible. Saber que hay energía fiable para cumplir un compromiso, y encontrar satisfacción haciéndolo, desarrolla la confianza del Generador para tomar decisiones que son correctas, así como la confianza en los sonidos sacrales.
 		-
 - # Centro G
+  collapsed:: true
 	- Amor, identidad y dirección
 	- (Sede de) el monopolo magnético, esencia superior
 	- Atrae amor y belleza
