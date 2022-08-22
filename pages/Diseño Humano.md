@@ -275,8 +275,13 @@
 			- El amor de ser uno mismo
 		- 2: Cele, Coral
 			- Lo receptivo
-			- L
+			- La Puerta de la Dirección del Ser
+			- Dirección o visión
+			- El director o el chófer
 		- 25: Cele
+			- La inocencia
+			- La Puerta del Espíritu del Ser
+			- Amor universal, conservando la inocencia a pesar de las circumstancias
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
