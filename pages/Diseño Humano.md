@@ -58,7 +58,7 @@
 	- Alerta instantánea e instintivamente ante cualquier cosa que amenace nuestro bienestar, incluidas las vibraciones emocionales negativas. Opera con miedo, porque el miedo genera alerta. Una forma de inteligencia que permanece alerta.
 	- El Ajna es el doble de fuerte que el Bazo, y el Plexo Solar el doble que el Ajna. Al ser el más debil de los tres, las voces del no-ser de esos otros dos centros pueden eclipsar con facilidad las pequeñas y calladas alertas que llegan de nuestra consciencia del Bazo.
 	- Toda conciencia comienza con el miedo, cada uno de los tres centros de conciencia tienen su propia frecuencia del miedo.
-	- Cada
+	- Cada puerta representa un miedo primario por la supervivencia. La conciencia del sistema del Bazo es un aspecto de nuestra inteligencia que se crea cada vez que afrontamos y sobrevivimos a un desafío, cargado de miedo, a nuestra existencia, nuestra confianza y nuestro bienestar.
 	- ## Definido
 		-
 - # Centro de la Raíz
