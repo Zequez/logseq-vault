@@ -91,7 +91,6 @@
 			- Miedo a lo que pueda traer el futuro, que hace que te refrenes.
 		-
 - # Centro del Plexo Solar
-  collapsed:: true
 	- Consciencia del espíritu
 	- Consciencia emocional y social, espontaneidad, pasión y deseo, abundancia del espíritu, sentimientos, humores, sensibilidad
 	- Ningún otro centro en nuestro tiempo tiene un impacto más profundo en la humanidad.
@@ -203,7 +202,6 @@
 	- Si tu centro sacral es definido, sos de tipo generador.
 	- Complejidad, capacidad de general fuerza vital, y habilidad para cominicar momento a momento su disponibilidad mediante sus propis sonidos guturales.
 	- ## Puertas
-	  collapsed:: true
 		- 34: Zeq, Coral
 			- El poder de lo grande
 			- La Puerta del Poder
