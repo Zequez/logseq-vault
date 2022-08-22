@@ -299,4 +299,4 @@
 			- No se juzgan a si mismas como holgazanas o imcompetentes si no logran trabajar deprisa o simplemente no quieren hacerlo.
 -
 - # La mente liberada como autoridad externa
-	- Cuando más practicamos nuestra Estrategia y Autoridad, y liberamos a la mente de tomar decisiones, más valio
+	- Cuando más practicamos nuestra Estrategia y Autoridad, y liberamos a la mente de tomar decisiones, más valiosa se vuelve nuestra autoridad externa para les demás. Una vez que estamos alineados con nuestra verdadera naturaleza, estamos sintonizados con nuestra propia fuerza vital y nuestro auténtico propósito en la vida. Entonces surge de la mente algo de valor único, algo que les demás han estando esperando oír. Y nuestra mente liberada recupera el potencial para expresar finalmente nuestra razón única para encarnarnos.
