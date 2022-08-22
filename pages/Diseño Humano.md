@@ -203,10 +203,11 @@
 	- Si tu centro sacral es definido, sos de tipo generador.
 	- Complejidad, capacidad de general fuerza vital, y habilidad para cominicar momento a momento su disponibilidad mediante sus propis sonidos guturales.
 	- ## Puertas
-		- 34:
+		- 34: Zeq
 			- El poder de lo grande
 			- La Puerta del Poder
 			- Poder puro para potenciar
+			-
 	- ## Definido
 		- Las personas con el Sacral definido no saben realmente, o no pueden saber, lo que es correcto para ellas a menos que oigan la respuesta de su Sacral. Reconectar con sus sonidos y aprender a confiar de nuevo en ellos son los primeros pasos hacia vivir siendo fieles a si mismas y estableciendo el potencial para la transformación personal.
 		- A-já -> Sí, úh-uh -> No
@@ -219,7 +220,8 @@
 		- A diferencia de la Garganta, la energía del Sacral alcanza determinados niveles y debe tener la fuerza para persistir durante estos puntos 'estancamiento' hasta que un avance repentino (iniciación) nos impulse hasta el nuevo nivel de maestría.
 		- Mantra
 			- No inicies. Nunca des el primer paso hacia algo sin que te pregunten para poder responder. En el momento que inicias, se rompe la conexión con la fuerza Sacral del poder.
-			- Escucha los sonidos primarios de las rsepuestas sacrales nos dice si hay energía disponible. Saber que hay energía fiable para cumplir un compromiso, y encontrar satisfacción haciéndolo, desarrolla la confianza del Generador para tomar
+			- Escucha los sonidos primarios de las rsepuestas sacrales nos dice si hay energía disponible. Saber que hay energía fiable para cumplir un compromiso, y encontrar satisfacción haciéndolo, desarrolla la confianza del Generador para tomar decisiones que son correctas, así como la confianza en los sonidos sacrales.
+		-
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
