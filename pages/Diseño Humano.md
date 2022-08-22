@@ -49,7 +49,10 @@
 	- ## Completamente abierta
 		- > No saben en qué enfocarse, especialmente en esta abrumadora era de la información.
 		- > O se pueden distraer con facilidad debido a la presión de idear respuestas
-- # Centro
+- # Centro del Bazo
+	- Vida completamente existencial, espontaneidad, salud y bienestar, valores, sistema inmunológico.
+	- Es el núcleo de nuestro sistema inmunológico, sistema linfático.
+	-
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
