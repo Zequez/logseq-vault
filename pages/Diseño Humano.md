@@ -50,6 +50,7 @@
 		- > No saben en qué enfocarse, especialmente en esta abrumadora era de la información.
 		- > O se pueden distraer con facilidad debido a la presión de idear respuestas
 - # Centro del Bazo
+  collapsed:: true
 	- Vida completamente existencial, espontaneidad, salud y bienestar, valores, sistema inmunológico.
 	- Es el núcleo de nuestro sistema inmunológico, sistema linfático.
 	- Miedo primario respecto a supervivencia y bienestar; fuente de alegría y risa, espontaneidad y audacia. Conciencia existencial, conciencia en el momento, nos mantiene avanzando de forma segura mientras limpia constantemente la acumulación de toxinas y efectos adversos de memorias/vibraciones negativas de nuestro sistema.
@@ -89,6 +90,9 @@
 			- Conciencia de oír la verdad en el momento, o no.
 			- Miedo a lo que pueda traer el futuro, que hace que te refrenes.
 		-
+- # Centro del Plexo Solar
+	- Consciencia del espíritu
+	-
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
