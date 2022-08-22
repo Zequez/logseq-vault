@@ -147,6 +147,10 @@
 			- Miedo a los hados
 			- Produce una ola muy poderosa nutrida por el deseo de sentir profundamente.
 			- Nerviosismo acerca de lo que podría o no podría suceder.
+	- ## Sin definir
+		- Absorbe y amplifica las emociones presentes en su entorno.
+		- Particularmente vulnerables a las necesidades, humor y sentimientos de otras personas.
+		- Crucial sabe
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
