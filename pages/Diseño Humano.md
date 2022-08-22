@@ -157,7 +157,8 @@
 		- Tratan de apartarse de cualquier confrontación potencial que podría suceder si se atreven a expresar su propia verdad o sus necesidades.
 		- Si evitan siempre las confrontaciones, viven su vida a un nivel superficial.
 		- Cuando simplemente decimos nuestra propia verdad en vez de echarle la culpa a otro, la confrontación es un catalizador para la transformación sana.
-		-
+		- Tienen acceso a todos los grandes placeres de este centro; pero para que sea una experiencia hermosa, es necesario que no se identifiquen con ellas.
+			- La consciencia de la ola emocional les permite soltar los patrones y emociones que nunca les pretenecieron
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
