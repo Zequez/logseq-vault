@@ -62,7 +62,8 @@
 	- ## Definido
 		- Opera en el momento presente, en el ahora. Es la intuición, instinto visceral o corazonada; nos permite hacer juicios o tomar decisiones espontáneas fiables.
 		- El Bazo nunca repite su primera alarma, así que hay que prestar atención.
-		- Quienes tienen el Centro del Bazo definido como su Autoridad deben escuchar a su intuición, hacer lo que les die que hagan y no dejar que su no-ser o la mente de cualquier otra persona les diga lo que
+		- Quienes tienen el Centro del Bazo definido como su Autoridad deben escuchar a su intuición, hacer lo que les die que hagan y no dejar que su no-ser o la mente de cualquier otra persona les distraiga de seguir sus propios instintos, que son dignos de confianza y producen resultados fiables.
+		- Vivir plenamente en el momento presento con un abandono despreocupado, pero prudente, es el resultado de una profunda armonización con la existencia.
 	- ## Puertas
 		- 48
 			- El pozo
