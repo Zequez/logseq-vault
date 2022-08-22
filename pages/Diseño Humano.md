@@ -219,7 +219,7 @@
 		- A diferencia de la Garganta, la energía del Sacral alcanza determinados niveles y debe tener la fuerza para persistir durante estos puntos 'estancamiento' hasta que un avance repentino (iniciación) nos impulse hasta el nuevo nivel de maestría.
 		- Mantra
 			- No inicies. Nunca des el primer paso hacia algo sin que te pregunten para poder responder. En el momento que inicias, se rompe la conexión con la fuerza Sacral del poder.
-			-
+			- Escucha los sonidos primarios de las rsepuestas sacrales nos dice si hay energía disponible. Saber que hay energía fiable para cumplir un compromiso, y encontrar satisfacción haciéndolo, desarrolla la confianza del Generador para tomar
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
