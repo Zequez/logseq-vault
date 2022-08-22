@@ -67,7 +67,7 @@
 		- Es muy poderoso cuando le hacen una pregunta que requiere un sí o un no. Respuesta inmediata revela si energía está disponible en ese momento. Si es afirmativa, todo el poder del  Sacral está detrás de esa decisión. Si es poco entusiasta, la actividad no se puede mantener sin extralimitar la energía generativa del Sacral.
 		- Respuesta del sacral establece un limite sano y claro.
 		- No pueden cumplir compromisos que no han adquirido correctamente a través de la respuesta; esta energía no está disponible para apoyar decisiones tomadas con la mente.
-		- No acabar lo que han empezado ha
+		- No acabar lo que han empezado
 		- Puertas
 			- 34: El poder de lo grande; La Puerta del Poder
 				- Poder puro para potenciar
