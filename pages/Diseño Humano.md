@@ -190,7 +190,10 @@
 		- El reto es que generalmente no se consideran dignos y aceptan menos de todo: amor, dinero y felicidad porque asumen que no se lo merecen. Si se fían de su mente, seguirán tratando de demostrar su valía eternamente.
 		- Mantra: Nunca hagas una promesa, ni a ti mismo ni a nadie más.
 			- El corazón abierto no tiene NADA que probar a nadie, bajo ninguna circunstancia, nunca. Es un gran don no tener que demostrar la propia valía.
-			- Serás guíado a
+			- Serás guíado a comprometerte por tu Autoridad personal, no por la necesidad de parecer digno.
+		- Sabiduría
+			- Puede absorber la vidración de otros egos y saber quien tiene un sentido sano
+			-
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
