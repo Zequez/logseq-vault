@@ -253,10 +253,18 @@
 			- La comunidad de les seres humanes
 			- La Puerta de Saber Escuchar
 			- Dirección o dirigir mirando atrás
-			- O
+			- Oir los secretos de los demás
 		- 15: Zeq, Cele
+			- La modestia
+			- La Puerta de los Extremos
+			- Amor a la humanidad, adoptando diferentes ritmos y extremos de conducta
 		- 1: Cele, Coral
+			- Lo craetivo
+			- La Puerta de la Autoexpresión
+			- Nuestro lugar en el ahora
+			- La capacidad para la creatividad
 		- 7: Coral
+			- L
 		- 10: Cele, Coral
 		- 2: Cele, Coral
 		- 25: Cele
