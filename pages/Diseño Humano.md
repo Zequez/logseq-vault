@@ -188,7 +188,9 @@
 		- Atrapadas en un circulo vicioso; si no logran cumplir sus promesas y compromisos, hacen más promesas para compensar la sensación de su propia deficiencia, y esto les lleva a nuevos fracasos. Cada vez que fracasan se sienten peor, y su autoestima disminuye más y más.
 		- Cuando estás con una persona con el Centro Corazón definido sos suceptible a sentir la fuerza de voluntad "prestada" que se evapora cuando esa persona se va.
 		- El reto es que generalmente no se consideran dignos y aceptan menos de todo: amor, dinero y felicidad porque asumen que no se lo merecen. Si se fían de su mente, seguirán tratando de demostrar su valía eternamente.
-		-
+		- Mantra: Nunca hagas una promesa, ni a ti mismo ni a nadie más.
+			- El corazón abierto no tiene NADA que probar a nadie, bajo ninguna circunstancia, nunca. Es un gran don no tener que demostrar la propia valía.
+			- Serás guíado a
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
