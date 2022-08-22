@@ -282,6 +282,8 @@
 			- La inocencia
 			- La Puerta del Espíritu del Ser
 			- Amor universal, conservando la inocencia a pesar de las circumstancias
+	- ## Sin definir
+		- Mantra: Si estás
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
