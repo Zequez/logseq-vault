@@ -154,7 +154,8 @@
 		- Habilidad de simplemente reflejarle una emoción a su verdadero dueño.
 		- Niñes abiertos emocionalmente absorben y personalizan los altibajos emocionales de su familia, amplificando y a menudo exteriorizando su confusión. Pensando que son personalmente responsables de crear las olas, deciden a una edad temprana que es mejor mentir u ocultar dentro de sí su propia verdad que sufrir el estallido emocional de uno de sus padres.
 		- Confrontación pone nerviosas a las personas sin definición emocional. Cuando maduran, desarrollan estrategias del no-ser para evitar reacciones emocionales eludiendo confrontar a los demás por miedo a perturbar la calma o molestar a alguien. Desarrollan un caracter que dice "Yo no te molestaré a tí si tú no me molestas a mí"
-		- Tratan de apartarse de cualquier confrontación
+		- Tratan de apartarse de cualquier confrontación potencial que podría suceder si se atreven a expresar su propia verdad o sus necesidades.
+		- Si evitan siempre las confrontaciones, viven su vida a un nivel superficial.
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
