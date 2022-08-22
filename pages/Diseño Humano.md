@@ -184,7 +184,8 @@
 			- La voluntad de proveer
 	- ## Sin definir
 		- No están diseñadas para ser voluntariosas y competitivas
-		- Quieren ejercer su fuerza de voluntad
+		- Quieren ejercer su fuerza de voluntad, y hacer cumplir promesas, pero no comprenden que no tienen energía consistente para ninguna de esas cosas.
+		- Atrapadas en un circulo vicioso; si no logran cumplir esa
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
