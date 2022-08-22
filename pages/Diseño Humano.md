@@ -93,7 +93,11 @@
 - # Centro del Plexo Solar
 	- Consciencia del espíritu
 	- Consciencia emocional y social, espontaneidad, pasión y deseo, abundancia del espíritu, sentimientos, humores, sensibilidad
-	- Ningún otro centro en nuestro tiempo tiene un impacto más profundo en la humanidad
+	- Ningún otro centro en nuestro tiempo tiene un impacto más profundo en la humanidad.
+	- Cada centro de consciencia tiene una frecuencia única:
+		- Bazo opera el ahora
+		- Ajna opera con todo el tiempo
+		-
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
