@@ -158,7 +158,9 @@
 		- Si evitan siempre las confrontaciones, viven su vida a un nivel superficial.
 		- Cuando simplemente decimos nuestra propia verdad en vez de echarle la culpa a otro, la confrontación es un catalizador para la transformación sana.
 		- Tienen acceso a todos los grandes placeres de este centro; pero para que sea una experiencia hermosa, es necesario que no se identifiquen con ellas.
-		- Barómetro de la salud emocional de los demás; puede ser un buen observador objetivo del clima emocional.
+		- ### Sabiduría
+			- Barómetro de la salud emocional de los demás; puede ser un buen observador objetivo del clima emocional.
+			- Discernir quien está progresando hacia la salud emocional, la estabilidad y la consciencia del espíritu.
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
