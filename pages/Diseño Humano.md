@@ -56,7 +56,9 @@
 	- Es un centro de conciencia (junto al Ajna y el Plexo Solar); los otros 6 funcionan a nivel puramente mecánico.
 		- Siendo el centro de consciencia más antiguo nos conecta a todas las formas de vida. Función esencial ha sido siempre mantener viva la forma.
 	- Alerta instantánea e instintivamente ante cualquier cosa que amenace nuestro bienestar, incluidas las vibraciones emocionales negativas. Opera con miedo, porque el miedo genera alerta. Una forma de inteligencia que permanece alerta.
-	- El Ajna es el doble de fuerte que el Bazo, y el Plexo Solar el doble que el Ajna. Al ser el más debil de los tres, las voces del no-ser
+	- El Ajna es el doble de fuerte que el Bazo, y el Plexo Solar el doble que el Ajna. Al ser el más debil de los tres, las voces del no-ser de esos otros dos centros pueden eclipsar con facilidad las pequeñas y calladas alertas que llegan de nuestra consciencia del Bazo.
+	- Toda conciencia comienza con el miedo, cada uno de los tres centros de conciencia tienen su propia frecuencia del miedo.
+	- Cada
 	- ## Definido
 		-
 - # Centro de la Raíz
