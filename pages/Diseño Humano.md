@@ -91,6 +91,7 @@
 			- Miedo a lo que pueda traer el futuro, que hace que te refrenes.
 		-
 - # Centro del Plexo Solar
+  collapsed:: true
 	- Consciencia del espíritu
 	- Consciencia emocional y social, espontaneidad, pasión y deseo, abundancia del espíritu, sentimientos, humores, sensibilidad
 	- Ningún otro centro en nuestro tiempo tiene un impacto más profundo en la humanidad.
@@ -197,6 +198,7 @@
 			- Aprende que no tiene que competir con nadie y no deja que nadie le convenza para hacer o comprometerse a algo meramente para demostrar su valía.
 			-
 - # Centro Sacral
+  collapsed:: true
 	- Toda la vida del planeta se nutre de la energía vital generada en este centro.
 	- El ciclo de trabajo/descanso de este motor require que agote su suministro de energía disponible cada día para poder dormir bien.
 	- Si tu centro sacral es definido, sos de tipo generador.
@@ -291,7 +293,6 @@
 		- Aunque nunca pueden ver su rumbo, saben que cada paso les será revelado si viven siendo ellas mismas.
 		-
 - # Centro de la Raíz
-  collapsed:: true
 	- ## Sin definir
 		- Con el paso del tiempo, este tipo de condicionamiento puede convertirse en hiperactividad, inquidtud incontroloable e incapacidad de centrarse.
 		- Cuando operan correctamente
