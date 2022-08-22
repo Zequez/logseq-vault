@@ -298,3 +298,5 @@
 		- Cuando operan correctamente
 			- No se juzgan a si mismas como holgazanas o imcompetentes si no logran trabajar deprisa o simplemente no quieren hacerlo.
 -
+- # La mente liberada como autoridad externa
+	- Cuando más practicamos nuestra Estrategia y Autoridad, y liberamos a la mente de tomar decisiones, más valio
