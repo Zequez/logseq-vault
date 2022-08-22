@@ -106,7 +106,8 @@
 	- Olas
 		- Ola tribal (canales 19-49, 37-40)
 			- Va subiendo paulatinamente hasta que explota y entonces se reposiciona para volver a empezar el proceso de nuevo.
-			- Tomamos de ejemplo una persona cuyo compañere está haciendo algo que le molesta. No le dice como se siente, de modo que esto conti
+			- Tomamos de ejemplo una persona cuyo compañere está haciendo algo que le molesta. No le dice como se siente, de modo que esto continúa durante semanas. Cada vez que hace eso le molesta, la ola sube a un nuevo nivel, hasta que un día explota. Su compañere no tuvo ningún indicio, no lo vio venir, así se produce una gran sorpresa.
+				- El arrebato emocional de su compañere le puede resultar duro, pero a su vez
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
