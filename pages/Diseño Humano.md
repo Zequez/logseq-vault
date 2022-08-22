@@ -207,7 +207,12 @@
 			- El poder de lo grande
 			- La Puerta del Poder
 			- Poder puro para potenciar
-			-
+		- 27: Cele, Coral
+		- 59: Cele
+		- 42: Cele
+		- 34: Coral
+		- 29: Coral
+		- 9: Coral
 	- ## Definido
 		- Las personas con el Sacral definido no saben realmente, o no pueden saber, lo que es correcto para ellas a menos que oigan la respuesta de su Sacral. Reconectar con sus sonidos y aprender a confiar de nuevo en ellos son los primeros pasos hacia vivir siendo fieles a si mismas y estableciendo el potencial para la transformación personal.
 		- A-já -> Sí, úh-uh -> No
