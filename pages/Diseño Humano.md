@@ -70,6 +70,8 @@
 		- Entran en el mundo con un miedo fundamental de no estar equipades para sobrevivir aquí en la Tierra.
 		- Están abiertos y son sensibles a la falta de bienestar en el mundo.
 		- Cuando las personas de su entorno que tienen el Bazo definido les condicionan, se sienten mejor y más seguros.
+		- Mantra: Nunca tomes una decisión espontánea
+		-
 	- ## Puertas
 		- 48
 			- El pozo
