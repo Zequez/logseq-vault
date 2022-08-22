@@ -60,5 +60,6 @@
 	- El ciclo de trabajo/descanso de este motor require que agote su suministro de energía disponible cada día para poder dormir bien.
 	- Si tu centro sacral es definido, sos de tipo generador.
 	- Complejidad, capacidad de general fuerza vital, y habilidad para cominicar momento a momento su disponibilidad mediante sus propis sonidos guturales.
-	-
+	- ## Definido
+		-
 -
