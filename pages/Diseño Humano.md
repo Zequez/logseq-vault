@@ -103,6 +103,9 @@
 		- Sucede cuando las olas emocionales entre dos o más seres están en resonancia
 	- Para crear estabilidad emocional en nuestra vida y en todo el mundo, debemos comprender, aceptar y, con el tiempo, trascender este patrón de ola. La clave es esperar. Esperar a loa largo de las subidas y bajadas va aumentando nuestro entendimiento, la ola comienza a estabilizarse y con el tiempo llega la claridad.
 	- Alguien que está definido emocionalmente puede dejar de emitir al entorno emociones reactivas, prematuras, caóticas o dañinas.
+	- Olas
+		- Ola tribal (canales 19-49, 37-40)
+			-
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
