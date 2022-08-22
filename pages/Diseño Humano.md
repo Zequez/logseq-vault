@@ -285,6 +285,8 @@
 	- ## Sin definir
 		- Mantra: Si estás en el lugar inapropiado, estás con la/s persona/s inapropiada/s
 			- El Centro G sin definir está especialmente equipado para sentir si el entorno en el que están no es correcto para él.
+			- La belleza es que quienes rodean al G abierto se convierten a menudo en sus aliados preferidos, llenos de sugerencias y deseosos de ayudar. Traen continuamente nuevas direcciones y nuevos amores.
+			- La pregunta del no-ser:
 		-
 - # Centro de la Raíz
   collapsed:: true
