@@ -58,4 +58,5 @@
 - # Centro Sacral
 	- Toda la vida del planeta se nutre de la energía vital generada en este centro.
 	- El ciclo de trabajo/descanso de este motor require que agote su suministro de energía disponible cada día para poder dormir bien.
-	-
+	- Si tu centro sacral es definido, sos de tipo generador.
+	- Complejidad, capacidad de general fuerza vital, y habilidad para cominicar momento a momento
