@@ -101,7 +101,7 @@
 	- Nuevo tipo de consciencia; consciencia del espíritu; evolución culminará en el 2027.
 		- Tiene que ver con la unidad y experimentarnos como una única entidad.
 		- Sucede cuando las olas emocionales entre dos o más seres están en resonancia
-	-
+	- Para crear estabilidad emocional en nuestra vida y en todo el mundo, debemos comprender, aceptar y, con el tiempo, trascender este patrón de ola. La clave
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
