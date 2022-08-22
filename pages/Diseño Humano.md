@@ -70,7 +70,7 @@
 		- No acabar lo que han empezado.
 		- La naturaleza de la frecuencia del Sacral es perseverar para dominar una destreza o adquirir una habilidad.
 		- A diferencia de la Garganta, la energía del Sacral alcanza determinados niveles y debe tener la fuerza para persistir durante estos puntos 'estancamiento' hasta que un avance repentino (iniciación) nos impulse hasta el nuevo nivel de maestría.
-		- Mantra: no inicies.,
+		- Mantra: no inicies, espera  y makt
 		- Puertas
 			- 34: El poder de lo grande; La Puerta del Poder
 				- Poder puro para potenciar
