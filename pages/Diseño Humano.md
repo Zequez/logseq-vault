@@ -129,6 +129,12 @@
 			- Miedo a la intimidad
 			- Una especie de diafragma que produce una ola abriendo o cerrando la intimidad.
 			- Nerviosismo acerca de revelar quién eres realmente.
+		- 49: C
+			- La revolución
+			- La Puerta de los Principios
+			- Miedo a la naturaleza
+			- Una ola que acepta o rechaza principios basándose en las necesidades de la tribu.
+			- Nerviosismo acerca del rechazo, imprevisibilidad y las consecuencias.
 			-
 - # Centro de la Raíz
   collapsed:: true
