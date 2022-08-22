@@ -250,10 +250,16 @@
 	- Atrae a todas las personas, lugares y acontecimientos que estamos aquí para encontrar
 	- ## Puertas
 		- 13: Zeq, Cele, Coral
+			- La comunidad de les seres humanes
+			- La Puerta de Saber Escuchar
+			- Dirección o dirigir mirando atrás
+			- O
 		- 15: Zeq, Cele
 		- 1: Cele, Coral
 		- 7: Coral
-		-
+		- 10: Cele, Coral
+		- 2: Cele, Coral
+		- 25: Cele
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
