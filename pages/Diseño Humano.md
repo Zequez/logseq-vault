@@ -182,6 +182,9 @@
 			- La Puerta de la Soledad
 			- Liberar
 			- La voluntad de proveer
+	- ## Sin definir
+		- No están diseñadas para ser voluntariosas y competitivas
+		- Quieren ejercer su fuerza de voluntad
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
