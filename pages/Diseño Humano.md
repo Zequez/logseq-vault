@@ -283,7 +283,9 @@
 			- La Puerta del Espíritu del Ser
 			- Amor universal, conservando la inocencia a pesar de las circumstancias
 	- ## Sin definir
-		- Mantra: Si estás
+		- Mantra: Si estás en el lugar inapropiado, estás con la/s persona/s inapropiada/s
+			- El Centro G sin definir está especialmente equipado para sentir si el entorno en el que están no es correcto para él.
+		-
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
