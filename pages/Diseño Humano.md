@@ -150,7 +150,7 @@
 	- ## Sin definir
 		- Absorbe y amplifica las emociones presentes en su entorno.
 		- Particularmente vulnerables a las necesidades, humor y sentimientos de otras personas.
-		- Crucial sabe
+		- Crucial saber cuando las emociones que están sintiendo y expresando son enteramente suyas, y pueden liberarlas y protegerse no identificándose con ellas.
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
