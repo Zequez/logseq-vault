@@ -110,6 +110,7 @@
 				- El arrebato emocional de su compañere le puede resultar duro, pero a su vez, ha liberado sus emociones contenidas, y vuelve a la normalidad: todo está bien. Cuando ambos comprenden la mecánica (como anticipar la explosión, como resolver las verdaderas cuestiones y como los arrebatos les afectan de una manera diferente) se sentirán más comodes y comprenderán mejor su relación.
 					- Por ejemplo, un aumento gradual de la tensión emocional, mezclado con un deseo de intimidad, puede liberarse calmada y eficazmente poniéndole la mano en el hombro al final de un día largo y duro. Para la tribu no son necesarias las palabras, todo está en el contacto físico.
 	- Lo importante para comprender sobre la ola emocional es que es simplemente un proceso químico ineludible que mantiene la ola contínuamente en movimiento. Sus cambios y altibajos no van acompañados de ninguna explicación. Sin esta consciencia, quienes tienen este centro definido, intentan racionalizar sus emociones o explicar o idear alguna razón por estos altos o bajos.
+	- Ya estemos definidos o sin definir y absorbiendo las olas de condicionamiento de otras personas, tenemos que tener cuidado para no identifcarnos con la ola o sus movimientos como si fuéramos eso.
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
