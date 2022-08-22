@@ -218,7 +218,8 @@
 		- La naturaleza de la frecuencia del Sacral es perseverar para dominar una destreza o adquirir una habilidad.
 		- A diferencia de la Garganta, la energía del Sacral alcanza determinados niveles y debe tener la fuerza para persistir durante estos puntos 'estancamiento' hasta que un avance repentino (iniciación) nos impulse hasta el nuevo nivel de maestría.
 		- Mantra
-			- No inicies. Nunca des el primer paso hacia algo sin que te pregunten para poder responder. En el momento que
+			- No inicies. Nunca des el primer paso hacia algo sin que te pregunten para poder responder. En el momento que inicias, se rompe la conexión con la fuerza Sacral del poder.
+			-
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
