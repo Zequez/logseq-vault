@@ -135,7 +135,13 @@
 			- Miedo a la naturaleza
 			- Una ola que acepta o rechaza principios basándose en las necesidades de la tribu.
 			- Nerviosismo acerca del rechazo, imprevisibilidad y las consecuencias.
-			-
+		- 22: Coral
+			- La gracia
+			- La Puerta de la Apertura
+			- Miedo al silencio
+			- Abierto a escuchar... cuando estás de humor
+			- Incierto sobre si alguien te escuchará o sobre si hay algo digno de ser escuchado
+		- 36: Coral
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
