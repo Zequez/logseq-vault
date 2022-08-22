@@ -165,6 +165,7 @@
 			- Cuando está solo, puede permanecer calmado atenerse a su Autoridad
 			- Cuando se sienten incómodos emocionalmente, saben que pueden salir de la habitación y alejarse del aura condicionante de otros hasta que vuelva la calma.
 			- Es una buena práctica disfrutar estando solos durante un tiempo todos los días para liberar el condicionamiento emocional que han absorbido.
+-
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
@@ -172,6 +173,7 @@
 		- Cuando operan correctamente
 			- No se juzgan a si mismas como holgazanas o imcompetentes si no logran trabajar deprisa o simplemente no quieren hacerlo.
 - # Centro Sacral
+  collapsed:: true
 	- Toda la vida del planeta se nutre de la energía vital generada en este centro.
 	- El ciclo de trabajo/descanso de este motor require que agote su suministro de energía disponible cada día para poder dormir bien.
 	- Si tu centro sacral es definido, sos de tipo generador.
