@@ -264,9 +264,18 @@
 			- Nuestro lugar en el ahora
 			- La capacidad para la creatividad
 		- 7: Coral
-			- L
+			- El ejército
+			- La Puerta del Rol del Ser en la Interacción
+			- Dirección o dirigir mirando adelante
+			- Liderar mediante la influencia
 		- 10: Cele, Coral
+			- El porte
+			- La Puerta del Comportamiento del Ser
+			- Amor a uno misme
+			- El amor de ser uno mismo
 		- 2: Cele, Coral
+			- Lo receptivo
+			- L
 		- 25: Cele
 - # Centro de la Raíz
   collapsed:: true
