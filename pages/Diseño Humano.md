@@ -243,7 +243,9 @@
 			- Escucha los sonidos primarios de las rsepuestas sacrales nos dice si hay energía disponible. Saber que hay energía fiable para cumplir un compromiso, y encontrar satisfacción haciéndolo, desarrolla la confianza del Generador para tomar decisiones que son correctas, así como la confianza en los sonidos sacrales.
 		-
 - # Centro G
-	- Mo
+	- Amor, identidad y dirección
+	- (Sede de) el monopolo magnético, esencia superior
+	-
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
