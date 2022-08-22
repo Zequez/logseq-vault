@@ -121,9 +121,14 @@
 			- El oscurecimiento de la luz
 			- La Puerta de la Crisis
 			- Mieado a ser inadecuado
-			- Guiado por el apetito de tener el reto de una nueva experiencia. Nerviosismo acerca de ser inadecuado sexual o emocionalmente.
+			- Guiado por el apetito de tener el reto de una nueva experiencia.
+			- Nerviosismo acerca de ser inadecuado sexual o emocionalmente.
 		- 6: Z
-			-
+			- El conflicto
+			- La Puerta de la Fricción
+			- Miedo a la intimidad
+			- Una especie de diafragma que produce una ola abriendo o cerrando la intimidad.
+			- Nerviosismo acerca de revelar quién eres realmente.
 			-
 - # Centro de la Raíz
   collapsed:: true
