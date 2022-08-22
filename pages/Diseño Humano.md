@@ -64,6 +64,7 @@
 		- Las personas con el Sacral definido no saben realmente, o no pueden saber, lo que es correcto para ellas a menos que oigan la respuesta de su Sacral. Reconectar con sus sonidos y aprender a confiar de nuevo en ellos son los primeros pasos hacia vivir siendo fieles a si mismas y estableciendo el potencial para la transformación personal.
 		- A-já -> Sí, úh-uh -> No
 		- Genera cierta cantidad de energía cada día, se experimenta como una inquetud, incapacidad de estarse quieto o necesidad de quemar energía estando activo. NAda es tan importante como encontrar la expresión personal y la satisfacción profunda usando su suministro diario de energía para el trabajo o actividades que le gusten.
+		- Es muy poderoso cuando le hacen una pregunta que requiere un sí o un no. Respuesta inmediata revela si energía está disponible, si
 		- Puertas
 			- 34: El poder de lo grande; La Puerta del Poder
 				- Poder puro para potenciar
