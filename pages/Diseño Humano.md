@@ -288,6 +288,7 @@
 			- La belleza es que quienes rodean al G abierto se convierten a menudo en sus aliados preferidos, llenos de sugerencias y deseosos de ayudar. Traen continuamente nuevas direcciones y nuevos amores. Amigues les llevan a las personas, lugares y trabajos adecuados.
 			- La pregunta del no-ser: "¿Estoy aún tratando de encontrar dirección y amor?"
 				- Cuando están alineados con su vehículos, no tienen que encontrar anda ellos mismos. De hecho, no pueden, no funciona de esa manera para ellos.
+			- Cuando están en paz no necesitan anticipar su siguiente movimiento o cuando vendrá el amor de nuevo. Estáñ cómodos esperando a que algo o alguien de su entorno les inicie.
 		-
 - # Centro de la Raíz
   collapsed:: true
