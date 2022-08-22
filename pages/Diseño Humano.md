@@ -56,4 +56,6 @@
 			- No se juzgan a si mismas como holgazanas o imcompetentes si no logran trabajar deprisa o simplemente no quieren hacerlo.
 -
 - # Centro Sacral
+	- Toda la vida del planeta se nutre de la energía vital generada en este centro.
+	- El ciclo de trabajo/descanso de este motor require que agote su suministro de energía disponible cada día para poder dormir bien.
 	-
