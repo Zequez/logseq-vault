@@ -207,9 +207,18 @@
 			- El poder de lo grande
 			- La Puerta del Poder
 			- Poder puro para potenciar
-		- 27: Cele, Coral
-		- 59: Cele
+		- 27: Cele
+			- La nutrición
+			- La Puerta del Cuidado
+			- Nutri y protege para la supervivencia
+		- 59: Cele, Coral
+			- La dispersión
+			- La Puerta de la Sexualidad
+			- La energía sexual para aparearse
 		- 42: Cele
+			- El aumento
+			- La Puerta del Crecimiento
+			-
 		- 34: Coral
 		- 29: Coral
 		- 9: Coral
