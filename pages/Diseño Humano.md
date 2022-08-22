@@ -67,7 +67,12 @@
 				- Miedo a sentirse inadecuado
 				- Conciencia de una solución potencial, o no.
 				- Miedo a no tener la suficiente profundidad, o estar buscando la profundidad para librarse del miedo.
-			- 57
+			- 57:
+				- Lo suave
+				- La Puerta de la Claridad Intuitiva
+				- Miedo al futuro
+				- Conciencia de oír la verdad en el momento, o no.
+				- Miedo a lo que pueda traer el futuro, que hace que te refrenes.
 		-
 - # Centro de la Raíz
   collapsed:: true
