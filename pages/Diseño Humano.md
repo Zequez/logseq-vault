@@ -192,7 +192,9 @@
 			- El corazón abierto no tiene NADA que probar a nadie, bajo ninguna circunstancia, nunca. Es un gran don no tener que demostrar la propia valía.
 			- Serás guíado a comprometerte por tu Autoridad personal, no por la necesidad de parecer digno.
 		- Sabiduría
-			- Puede absorber la vidración de otros egos y saber quien tiene un sentido sano
+			- Puede absorber la vidración de otros egos y saber quien tiene un sentido sano de la autoestima y quién no.
+			- Reconoce quién puede cumplir los compromisos que ha adquirido y quién no.
+			- Aprende que no tiene que competir con nadie y no deja que nadie le convenza para hacer o comprometerse a algo meramente para demostrar su valía.
 			-
 - # Centro de la Raíz
   collapsed:: true
