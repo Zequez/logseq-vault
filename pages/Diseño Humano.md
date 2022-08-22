@@ -52,7 +52,9 @@
 - # Centro del Bazo
 	- Vida completamente existencial, espontaneidad, salud y bienestar, valores, sistema inmunológico.
 	- Es el núcleo de nuestro sistema inmunológico, sistema linfático.
-	-
+	- Miedo primario respecto a supervivencia y bienestar; fuente de alegría y risa, espontaneidad y audacia. Conciencia existencial,
+	- ## Definido
+		-
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
