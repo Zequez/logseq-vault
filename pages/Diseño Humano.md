@@ -91,7 +91,6 @@
 			- Miedo a lo que pueda traer el futuro, que hace que te refrenes.
 		-
 - # Centro del Plexo Solar
-  collapsed:: true
 	- Consciencia del espíritu
 	- Consciencia emocional y social, espontaneidad, pasión y deseo, abundancia del espíritu, sentimientos, humores, sensibilidad
 	- Ningún otro centro en nuestro tiempo tiene un impacto más profundo en la humanidad.
