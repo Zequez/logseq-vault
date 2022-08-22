@@ -165,7 +165,16 @@
 			- Cuando está solo, puede permanecer calmado atenerse a su Autoridad
 			- Cuando se sienten incómodos emocionalmente, saben que pueden salir de la habitación y alejarse del aura condicionante de otros hasta que vuelva la calma.
 			- Es una buena práctica disfrutar estando solos durante un tiempo todos los días para liberar el condicionamiento emocional que han absorbido.
--
+- # Centro del Corazón
+	- ## Puertas
+		- 21: Cele
+			- La mordedura tajante
+			- La Puerta del Cazador/Cazadora
+			- Tener el control
+			- Controlar las circumstancias
+		- 26: Zeq
+			- El poder domesticador de lo grande
+			- La
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
