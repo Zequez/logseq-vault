@@ -21,6 +21,7 @@
   collapsed:: true
 	- ![Screen Shot 2022-08-21 at 17.31.14.png](../assets/Screen_Shot_2022-08-21_at_17.31.14_1661113892423_0.png)
 - # Garganta
+  collapsed:: true
 	- El enfoque más saludable para las personas con la Garganta abierta es dejar de tratar de controlar lo que dicen; están diseñadas para hablar espontáneamente y disfrutar las diferentes voces o formas de expresión que experimentan.
 	- ## Sin definir
 		- Puertas
@@ -90,6 +91,7 @@
 			- Miedo a lo que pueda traer el futuro, que hace que te refrenes.
 		-
 - # Centro del Plexo Solar
+  collapsed:: true
 	- Consciencia del espíritu
 	- Consciencia emocional y social, espontaneidad, pasión y deseo, abundancia del espíritu, sentimientos, humores, sensibilidad
 	- Ningún otro centro en nuestro tiempo tiene un impacto más profundo en la humanidad.
@@ -164,7 +166,6 @@
 			- Cuando se sienten incómodos emocionalmente, saben que pueden salir de la habitación y alejarse del aura condicionante de otros hasta que vuelva la calma.
 			- Es una buena práctica disfrutar estando solos durante un tiempo todos los días para liberar el condicionamiento emocional que han absorbido.
 - # Centro del Corazón
-  collapsed:: true
 	- ## Puertas
 		- 21: Cele
 			- La mordedura tajante
