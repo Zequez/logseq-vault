@@ -60,6 +60,14 @@
 	- Toda conciencia comienza con el miedo, cada uno de los tres centros de conciencia tienen su propia frecuencia del miedo.
 	- Cada puerta representa un miedo primario por la supervivencia. La conciencia del sistema del Bazo es un aspecto de nuestra inteligencia que se crea cada vez que afrontamos y sobrevivimos a un desafío, cargado de miedo, a nuestra existencia, nuestra confianza y nuestro bienestar.
 	- ## Definido
+		- Puertas:
+			- 48
+				- El pozo
+				- La Puerta de la Profundidad
+				- Miedo a sentirse inadecuado
+				- Conciencia de una solución potencial, o no.
+				- Miedo a no tener la suficiente profundidad, o estar buscando la profundidad para librarse del miedo.
+			- 57
 		-
 - # Centro de la Raíz
   collapsed:: true
