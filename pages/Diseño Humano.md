@@ -161,7 +161,9 @@
 		- ### Sabiduría de un Centro del Plexo Solar sin definir sano
 			- Barómetro de la salud emocional de los demás; puede ser un buen observador objetivo del clima emocional.
 			- Discernir quien está progresando hacia la salud emocional, la estabilidad y la consciencia del espíritu.
-			- Cuando está solo, puede permanecer calmado atenerse
+			- Cuando está solo, puede permanecer calmado atenerse a su Autoridad
+			- Cuando se sienten incómodos emocionalmente, saben que pueden salir de la habitación y alejarse del aura condicionante de otros hasta que vuelva la calma.
+			- Es una buena práctica disfrutar estando solos durante un tiempo todos los días para liberar el condicionamiento emocional que han absorbido.
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
