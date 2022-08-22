@@ -91,6 +91,7 @@
 			- Miedo a lo que pueda traer el futuro, que hace que te refrenes.
 		-
 - # Centro del Plexo Solar
+  collapsed:: true
 	- Consciencia del espíritu
 	- Consciencia emocional y social, espontaneidad, pasión y deseo, abundancia del espíritu, sentimientos, humores, sensibilidad
 	- Ningún otro centro en nuestro tiempo tiene un impacto más profundo en la humanidad.
@@ -165,6 +166,7 @@
 			- Cuando se sienten incómodos emocionalmente, saben que pueden salir de la habitación y alejarse del aura condicionante de otros hasta que vuelva la calma.
 			- Es una buena práctica disfrutar estando solos durante un tiempo todos los días para liberar el condicionamiento emocional que han absorbido.
 - # Centro del Corazón
+  collapsed:: true
 	- ## Puertas
 		- 21: Cele
 			- La mordedura tajante
@@ -195,18 +197,16 @@
 			- Reconoce quién puede cumplir los compromisos que ha adquirido y quién no.
 			- Aprende que no tiene que competir con nadie y no deja que nadie le convenza para hacer o comprometerse a algo meramente para demostrar su valía.
 			-
-- # Centro de la Raíz
-  collapsed:: true
-	- ## Sin definir
-		- Con el paso del tiempo, este tipo de condicionamiento puede convertirse en hiperactividad, inquidtud incontroloable e incapacidad de centrarse.
-		- Cuando operan correctamente
-			- No se juzgan a si mismas como holgazanas o imcompetentes si no logran trabajar deprisa o simplemente no quieren hacerlo.
 - # Centro Sacral
-  collapsed:: true
 	- Toda la vida del planeta se nutre de la energía vital generada en este centro.
 	- El ciclo de trabajo/descanso de este motor require que agote su suministro de energía disponible cada día para poder dormir bien.
 	- Si tu centro sacral es definido, sos de tipo generador.
 	- Complejidad, capacidad de general fuerza vital, y habilidad para cominicar momento a momento su disponibilidad mediante sus propis sonidos guturales.
+	- ## Puertas
+		- 34:
+			- El poder de lo grande
+			- La Puerta del Poder
+			- Poder puro para potenciar
 	- ## Definido
 		- Las personas con el Sacral definido no saben realmente, o no pueden saber, lo que es correcto para ellas a menos que oigan la respuesta de su Sacral. Reconectar con sus sonidos y aprender a confiar de nuevo en ellos son los primeros pasos hacia vivir siendo fieles a si mismas y estableciendo el potencial para la transformación personal.
 		- A-já -> Sí, úh-uh -> No
@@ -218,7 +218,10 @@
 		- La naturaleza de la frecuencia del Sacral es perseverar para dominar una destreza o adquirir una habilidad.
 		- A diferencia de la Garganta, la energía del Sacral alcanza determinados niveles y debe tener la fuerza para persistir durante estos puntos 'estancamiento' hasta que un avance repentino (iniciación) nos impulse hasta el nuevo nivel de maestría.
 		- Mantra: no inicies, espera  y makt
-		- Puertas
-			- 34: El poder de lo grande; La Puerta del Poder
-				- Poder puro para potenciar
+- # Centro de la Raíz
+  collapsed:: true
+	- ## Sin definir
+		- Con el paso del tiempo, este tipo de condicionamiento puede convertirse en hiperactividad, inquidtud incontroloable e incapacidad de centrarse.
+		- Cuando operan correctamente
+			- No se juzgan a si mismas como holgazanas o imcompetentes si no logran trabajar deprisa o simplemente no quieren hacerlo.
 -
