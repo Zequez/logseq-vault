@@ -98,7 +98,9 @@
 		- Bazo opera el ahora
 		- Ajna opera con todo el tiempo
 		- Plexo Solar opera una oscilante ola bioquímica con el paso del tiempo
-	- Nuevo tipo de consciencia; consciencia del espíritu
+	- Nuevo tipo de consciencia; consciencia del espíritu; evolución culminará en el 2027.
+		- Tiene que ver con la unidad y experimentarnos como una única entidad.
+		- Sucede cuando las olas emocionales entre dos o más seres están en resonancia
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
