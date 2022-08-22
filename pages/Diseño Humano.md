@@ -248,6 +248,12 @@
 	- Atrae amor y belleza
 	- Sabe donde estamos, adónde vamos, y como llevarnos allí
 	- Atrae a todas las personas, lugares y acontecimientos que estamos aquí para encontrar
+	- ## Puertas
+		- 13: Zeq, Cele, Coral
+		- 15: Zeq, Cele
+		- 1: Cele, Coral
+		- 7: Coral
+		-
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
