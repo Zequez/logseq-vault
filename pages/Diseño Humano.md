@@ -185,7 +185,7 @@
 	- ## Sin definir
 		- No están diseñadas para ser voluntariosas y competitivas
 		- Quieren ejercer su fuerza de voluntad, y hacer cumplir promesas, pero no comprenden que no tienen energía consistente para ninguna de esas cosas.
-		- Atrapadas en un circulo vicioso; si no logran cumplir esa
+		- Atrapadas en un circulo vicioso; si no logran cumplir sus promesas y compromisos, hacen más promesas para compensar la sensación de su propia deficiencia, y esto les lleva a nuevos fracasos.
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
