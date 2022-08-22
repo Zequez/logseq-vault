@@ -117,8 +117,13 @@
 		- Nos miedos que acompañan al estado presente de consciencia se experimentan como nerviosismo basado en la incertidumbre emocional.
 		- Cada centro de conciencia engendra una forma particular de miedo. En el Plexo Solar, el miedo se manifiesta como nerviosismo en torno a relacionarse con los demás, ya que la ola bioquímica en constante movimiento les deja inciertos emocionalmente.
 	- ## Puertas
-		- 36
+		- 36: Z
 			- El oscurecimiento de la luz
+			- La Puerta de la Crisis
+			- Mieado a ser inadecuado
+			- Guiado por el apetito de tener el reto de una nueva experiencia. Nerviosismo acerca de ser inadecuado sexual o emocionalmente.
+		- 6: Z
+			-
 			-
 - # Centro de la Raíz
   collapsed:: true
