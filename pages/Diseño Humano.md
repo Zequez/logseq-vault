@@ -60,7 +60,9 @@
 	- Toda conciencia comienza con el miedo, cada uno de los tres centros de conciencia tienen su propia frecuencia del miedo.
 	- Cada puerta representa un miedo primario por la supervivencia. La conciencia del sistema del Bazo es un aspecto de nuestra inteligencia que se crea cada vez que afrontamos y sobrevivimos a un desafío, cargado de miedo, a nuestra existencia, nuestra confianza y nuestro bienestar.
 	- ## Definido
-		- Opera en el momento presente, en el ahora. Es la intuición, instinto visceral o corazonada
+		- Opera en el momento presente, en el ahora. Es la intuición, instinto visceral o corazonada; nos permite hacer juicios o tomar decisiones espontáneas fiables.
+		- El Bazo nunca repite su primera alarma, así que hay que prestar atención.
+		- Deben
 	- ## Puertas
 		- 48
 			- El pozo
