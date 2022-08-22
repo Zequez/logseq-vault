@@ -67,7 +67,9 @@
 		- La conciencia existencial no se puede racionalizar; simplemente hay que confiar en ella. La perspectiva mayor de una experiencia solo se puede comprender mirando atrás después del hecho.
 		- Para el Bazo el momento presente es lo único que importa, lo único de lo que es consciente.
 	- ## Sin definir
-		- Entran en el mundo con un miedo
+		- Entran en el mundo con un miedo fundamental de no estar equipades para sobrevivir aquí en la Tierra.
+		- Están abiertos y son sensibles a la falta de bienestar en el mundo.
+		- Cuando las personas de su entorno que tienen el Bazo definido les condicionan, se sienten mejor y más seguros.
 	- ## Puertas
 		- 48
 			- El pozo
