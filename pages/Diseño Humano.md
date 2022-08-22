@@ -55,7 +55,8 @@
 	- Miedo primario respecto a supervivencia y bienestar; fuente de alegría y risa, espontaneidad y audacia. Conciencia existencial, conciencia en el momento, nos mantiene avanzando de forma segura mientras limpia constantemente la acumulación de toxinas y efectos adversos de memorias/vibraciones negativas de nuestro sistema.
 	- Es un centro de conciencia (junto al Ajna y el Plexo Solar); los otros 6 funcionan a nivel puramente mecánico.
 		- Siendo el centro de consciencia más antiguo nos conecta a todas las formas de vida. Función esencial ha sido siempre mantener viva la forma.
-	- Alerta instantánea e institivamente ante cualquier cosa que amenace nuestro bienestar, incluidas las vibraciones emocionales negativas.
+	- Alerta instantánea e instintivamente ante cualquier cosa que amenace nuestro bienestar, incluidas las vibraciones emocionales negativas. Opera con miedo, porque el miedo genera alerta. Una forma de inteligencia que permanece alerta.
+	-
 	- ## Definido
 		-
 - # Centro de la Raíz
