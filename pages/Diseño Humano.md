@@ -198,6 +198,7 @@
 			- Aprende que no tiene que competir con nadie y no deja que nadie le convenza para hacer o comprometerse a algo meramente para demostrar su valía.
 			-
 - # Centro Sacral
+  collapsed:: true
 	- Toda la vida del planeta se nutre de la energía vital generada en este centro.
 	- El ciclo de trabajo/descanso de este motor require que agote su suministro de energía disponible cada día para poder dormir bien.
 	- Si tu centro sacral es definido, sos de tipo generador.
@@ -224,6 +225,9 @@
 			- La Puerta de la Perseverancia
 			- Se compromete por completo a una experiencia por su verdadero potencial para el descubrimiento
 		- 9: Coral
+			- El poder domesticador de lo pequeño
+			- La Puerta de la Energía para el Detalle
+			- Energía concentrada para establecer un patrón
 	- ## Definido
 		- Las personas con el Sacral definido no saben realmente, o no pueden saber, lo que es correcto para ellas a menos que oigan la respuesta de su Sacral. Reconectar con sus sonidos y aprender a confiar de nuevo en ellos son los primeros pasos hacia vivir siendo fieles a si mismas y estableciendo el potencial para la transformación personal.
 		- A-já -> Sí, úh-uh -> No
@@ -238,6 +242,8 @@
 			- No inicies. Nunca des el primer paso hacia algo sin que te pregunten para poder responder. En el momento que inicias, se rompe la conexión con la fuerza Sacral del poder.
 			- Escucha los sonidos primarios de las rsepuestas sacrales nos dice si hay energía disponible. Saber que hay energía fiable para cumplir un compromiso, y encontrar satisfacción haciéndolo, desarrolla la confianza del Generador para tomar decisiones que son correctas, así como la confianza en los sonidos sacrales.
 		-
+- # Centro G
+	- Mo
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
