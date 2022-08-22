@@ -174,7 +174,14 @@
 			- Controlar las circumstancias
 		- 26: Zeq
 			- El poder domesticador de lo grande
-			- La
+			- La Puerta del Egoísta
+			- Ser el mejor
+			- El vendedor
+		- 40: Coral
+			- La liberación
+			- La Puerta de la Soledad
+			- Liberar
+			- La voluntad de proveer
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
