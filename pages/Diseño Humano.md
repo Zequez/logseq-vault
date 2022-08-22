@@ -93,7 +93,7 @@
 - # Centro del Plexo Solar
 	- Consciencia del espíritu
 	- Consciencia emocional y social, espontaneidad, pasión y deseo, abundancia del espíritu, sentimientos, humores, sensibilidad
-	-
+	- Ningún otro centro en nuestro tiempo tiene un impacto más profundo en la humanidad
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
