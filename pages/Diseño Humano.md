@@ -72,7 +72,8 @@
 		- Cuando las personas de su entorno que tienen el Bazo definido les condicionan, se sienten mejor y más seguros.
 		- Mantra: Nunca tomes una decisión espontánea
 		- En última instancia, pueden volverse altamente intuitivas ellas mismas. Sin embargo, su Bazo sin definir nunca es un recurso fiable para tomar decisiones, porque es muy vulnerable al condicionamiento de su entorno.
-		- La sabiduría
+		- La sabiduría que llega con el tiempo permite que cuando entran en el aura de sus pacientes hay un reconocimiento espontáneo, la sensación de si la personas está sana o enferma y que podría estar desequilibrado.
+			-
 	- ## Puertas
 		- 48
 			- El pozo
