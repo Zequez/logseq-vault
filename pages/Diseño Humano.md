@@ -71,7 +71,8 @@
 		- Están abiertos y son sensibles a la falta de bienestar en el mundo.
 		- Cuando las personas de su entorno que tienen el Bazo definido les condicionan, se sienten mejor y más seguros.
 		- Mantra: Nunca tomes una decisión espontánea
-		-
+		- En última instancia, pueden volverse altamente intuitivas ellas mismas. Sin embargo, su Bazo sin definir nunca es un recurso fiable para tomar decisiones, porque es muy vulnerable al condicionamiento de su entorno.
+		- La sabiduría
 	- ## Puertas
 		- 48
 			- El pozo
