@@ -117,10 +117,10 @@
 		- Nos miedos que acompañan al estado presente de consciencia se experimentan como nerviosismo basado en la incertidumbre emocional.
 		- Cada centro de conciencia engendra una forma particular de miedo. En el Plexo Solar, el miedo se manifiesta como nerviosismo en torno a relacionarse con los demás, ya que la ola bioquímica en constante movimiento les deja inciertos emocionalmente.
 	- ## Puertas
-		- 36: Zeq
+		- 36: Zeq; Coral
 			- El oscurecimiento de la luz
 			- La Puerta de la Crisis
-			- Mieado a ser inadecuado
+			- Miedo a ser inadecuado
 			- Guiado por el apetito de tener el reto de una nueva experiencia.
 			- Nerviosismo acerca de ser inadecuado sexual o emocionalmente.
 		- 6: Zeq
@@ -141,7 +141,12 @@
 			- Miedo al silencio
 			- Abierto a escuchar... cuando estás de humor
 			- Incierto sobre si alguien te escuchará o sobre si hay algo digno de ser escuchado
-		- 36: Coral
+		- 30: Coral
+			- El fuego adherente
+			- La Puerta de los Sentimientos
+			- Miedo a los hados
+			- Produce una ola muy poderosa nutrida por el deseo de sentir profundamente.
+			- Nerviosismo acerca de lo que podría o no podría suceder.
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
