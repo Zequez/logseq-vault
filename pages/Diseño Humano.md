@@ -64,7 +64,8 @@
 		- El Bazo nunca repite su primera alarma, así que hay que prestar atención.
 		- Quienes tienen el Centro del Bazo definido como su Autoridad deben escuchar a su intuición, hacer lo que les die que hagan y no dejar que su no-ser o la mente de cualquier otra persona les distraiga de seguir sus propios instintos, que son dignos de confianza y producen resultados fiables.
 		- Vivir plenamente en el momento presento con un abandono despreocupado, pero prudente, es el resultado de una profunda armonización con la existencia. Requiere una confianza  en la consciencia de su vehículo, la inteligencia de su cuerpo, para que les guíe y les proteja a lo largo de su vida, segundo a segundo.
-		- La conciencia existencial no se puede ra
+		- La conciencia existencial no se puede racionalizar; simplemente hay que confiar en ella. La perspectiva mayor de una experiencia solo se puede comprender mirando atrás después del hecho.
+		- Para el Bazo el momento presente es lo único que importa, lo único de lo que es consciente.
 	- ## Puertas
 		- 48
 			- El pozo
