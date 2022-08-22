@@ -156,6 +156,7 @@
 		- Confrontación pone nerviosas a las personas sin definición emocional. Cuando maduran, desarrollan estrategias del no-ser para evitar reacciones emocionales eludiendo confrontar a los demás por miedo a perturbar la calma o molestar a alguien. Desarrollan un caracter que dice "Yo no te molestaré a tí si tú no me molestas a mí"
 		- Tratan de apartarse de cualquier confrontación potencial que podría suceder si se atreven a expresar su propia verdad o sus necesidades.
 		- Si evitan siempre las confrontaciones, viven su vida a un nivel superficial.
+		- Cuando simplemente decimos nuestra propia verdad en vez de echarle la culpa a otro, la confrontación es un catalizador para la transformación sana.
 - # Centro de la Raíz
   collapsed:: true
 	- ## Sin definir
