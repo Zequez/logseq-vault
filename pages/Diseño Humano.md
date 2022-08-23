@@ -243,6 +243,7 @@
 			- Escucha los sonidos primarios de las rsepuestas sacrales nos dice si hay energía disponible. Saber que hay energía fiable para cumplir un compromiso, y encontrar satisfacción haciéndolo, desarrolla la confianza del Generador para tomar decisiones que son correctas, así como la confianza en los sonidos sacrales.
 		-
 - # Centro G
+  collapsed:: true
 	- Amor, identidad y dirección
 	- (Sede de) el monopolo magnético, esencia superior
 	- Atrae amor y belleza
@@ -292,6 +293,7 @@
 		- Aunque nunca pueden ver su rumbo, saben que cada paso les será revelado si viven siendo ellas mismas.
 		-
 - # Centro de la Raíz
+  collapsed:: true
 	- ## Sin definir
 		- Con el paso del tiempo, este tipo de condicionamiento puede convertirse en hiperactividad, inquidtud incontroloable e incapacidad de centrarse.
 		- Cuando operan correctamente
