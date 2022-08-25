@@ -10,7 +10,6 @@
 -
 - ![Screen Shot 2022-08-21 at 00.09.59.png](../assets/Screen_Shot_2022-08-21_at_00.09.59_1661113027003_0.png){:height 627, :width 778}
 - ## Como leer los diagramas
-  collapsed:: true
 	- Rojo = Diseño inconsciente
 	- Negro = Personalidad consciente
 	- ![Screen Shot 2022-08-21 at 17.47.18.png](../assets/Screen_Shot_2022-08-21_at_17.47.18_1661114856688_0.png)
