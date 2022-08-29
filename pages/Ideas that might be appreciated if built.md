@@ -1,4 +1,6 @@
 - Gaian Free Library
-	- Decentralizing book-printing and book-binding by mapping  presses around the world
+	- Decentralizing book-printing and book-binding by mapping artisanal book makers around the world
 	- Reward people for liberating books that are behind paywalls
+- Startover.xyz enhanced
+	-
 	-
