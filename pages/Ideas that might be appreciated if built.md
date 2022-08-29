@@ -1,6 +1,7 @@
 - Gaian Free Library
 	- Decentralizing book-printing and book-binding by mapping artisanal book makers around the world
 	- Reward people for liberating books that are behind paywalls
-- Startover.xyz enhanced
+- Gameworld browser
+	- A replacement to the current web-browser that allows you to pull together many pages from different websites and make a cohesive experience that no individual website can offer. Each gameworld is in itself a website, but it needs a specia
 	-
 	-
