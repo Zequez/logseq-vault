@@ -13,6 +13,7 @@
 			- Figuring the right thing to embody and how is the key challenge of end-user programming
 		- Living system
 			- save/build/run cycle must be immediate, immediate feedback
+			-
 	- https://www.youtube.com/watch?v=6ZiUekVAg3A
 	- https://neighbourhoods.network/low-code-marketplace/
 	- https://www.forbes.com/sites/forbestechcouncil/2021/01/07/what-is-low-code-development/?sh=47853473496d
