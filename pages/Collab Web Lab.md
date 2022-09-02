@@ -15,7 +15,8 @@
 			- save/build/run cycle must be immediate, immediate feedback
 			- https://en.wikipedia.org/wiki/Self-hosting
 			- Can inspect and change anything on the fly (like the browser developer tool)
-			-
+		- In-place toolchain
+			- Edit the program without having to install additional tools or programs
 		-
 	- https://www.youtube.com/watch?v=6ZiUekVAg3A
 	- https://neighbourhoods.network/low-code-marketplace/
