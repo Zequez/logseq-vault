@@ -1,6 +1,7 @@
 - https://blog.holochain.org/web3-entangled/
 	- https://moxie.org/2022/01/07/web3-first-impressions.html
 	- https://www.inkandswitch.com/end-user-programming/
+		- https://code.org/
 	- https://www.youtube.com/watch?v=6ZiUekVAg3A
 	- https://neighbourhoods.network/low-code-marketplace/
 	- https://www.forbes.com/sites/forbestechcouncil/2021/01/07/what-is-low-code-development/?sh=47853473496d
