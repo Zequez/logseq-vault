@@ -6,9 +6,9 @@
 			- Hypercard
 			- Unix command line
 		- Programming literacy advocate: https://code.org/
-		- Embodiment
+		- Embodiment: making elements of the programming experience more concrete and visual
 			- Hard thing about programming is much abstract reasoning is required
-				- Make elements of working program concrete with visual representation on screen
+				- Make elements of working program concrete with visual representation on screen https://scratch.mit.edu/
 				- Micro-visualizations https://harc.github.io/seymour-live2017/
 	- https://www.youtube.com/watch?v=6ZiUekVAg3A
 	- https://neighbourhoods.network/low-code-marketplace/
