@@ -5,7 +5,8 @@
 			- The spreadsheet
 			- Hypercard
 			- Unix command line
-		- https://code.org/
+		- Programming literacy advocate: https://code.org/
+		- Hard thing about programming is many a
 	- https://www.youtube.com/watch?v=6ZiUekVAg3A
 	- https://neighbourhoods.network/low-code-marketplace/
 	- https://www.forbes.com/sites/forbestechcouncil/2021/01/07/what-is-low-code-development/?sh=47853473496d
