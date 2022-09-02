@@ -6,9 +6,10 @@
 			- Hypercard
 			- Unix command line
 		- Programming literacy advocate: https://code.org/
-		- Hard thing about programming is much abstract reasoning is required
-			- Make elements of working program concrete with visual representation on screen
-			-
+		- Embodiment
+			- Hard thing about programming is much abstract reasoning is required
+				- Make elements of working program concrete with visual representation on screen
+				- Micro-visualizations https://harc.github.io/seymour-live2017/
 	- https://www.youtube.com/watch?v=6ZiUekVAg3A
 	- https://neighbourhoods.network/low-code-marketplace/
 	- https://www.forbes.com/sites/forbestechcouncil/2021/01/07/what-is-low-code-development/?sh=47853473496d
