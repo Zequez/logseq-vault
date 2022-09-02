@@ -23,4 +23,6 @@
 	- https://www.youtube.com/watch?v=6ZiUekVAg3A
 	- https://neighbourhoods.network/low-code-marketplace/
 	- https://www.forbes.com/sites/forbestechcouncil/2021/01/07/what-is-low-code-development/?sh=47853473496d
-	-
+-
+- https://blog.holochain.org/daos-why-sovereign-accountable-commons-might-be-better/
+	- http://emergingleaderlabs.org/Gameshifting_Overview
