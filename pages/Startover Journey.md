@@ -3,8 +3,7 @@
   title:: Startover Journey
 	- https://zombies.mystrikingly.com/
 		- Book As The World Burns by Derrick Jensen
-		- ####
-		- #### [https://www.luminous-spaces.com/9-signs-you-are-not-sleepwalking-through-life/](https://www.luminous-spaces.com/9-signs-you-are-not-sleepwalking-through-life/)
+		- https://www.luminous-spaces.com/9-signs-you-are-not-sleepwalking-through-life/
 		- Going by Anger https://www.youtube.com/watch?v=njhO_YJ6zWU
 			- Anger in our culture is a problem. This interview shows a new possibility how to go with anger. How to see its qualities. Clarity, integrity. The ability to say Yes or No. To make desicions. To go or to stay. And to find an end.
 			- Watch the "All Blacks" Haka-ceremony: https://youtu.be/U2UBQK29q5Q
