@@ -123,16 +123,31 @@
   :block/updated-at 1661237127768}
  {:block/name "aug 24th, 2022",
   :block/created-at 1661310000981,
-  :block/updated-at 1661344919795}
+  :block/updated-at 1661636379026}
  {:block/name "aug 25th, 2022",
   :block/created-at 1661396755326,
   :block/updated-at 1661396755326}
  {:block/name "aug 26th, 2022",
   :block/created-at 1661482840828,
   :block/updated-at 1661482840828}
+ {:block/name "aug 27th, 2022",
+  :block/created-at 1661631526632,
+  :block/updated-at 1661637134603}
+ {:block/name "aug 28th, 2022",
+  :block/created-at 1661655633282,
+  :block/updated-at 1661784846051}
+ {:block/name "aug 29th, 2022",
+  :block/created-at 1661742016736,
+  :block/updated-at 1661819985391}
  {:block/name "aug 2nd, 2022",
   :block/created-at 1659564799982,
   :block/updated-at 1659564999095}
+ {:block/name "aug 30th, 2022",
+  :block/created-at 1661829181120,
+  :block/updated-at 1661829181120}
+ {:block/name "aug 31st, 2022",
+  :block/created-at 1661914836018,
+  :block/updated-at 1661914836018}
  {:block/name "aug 3rd, 2022",
   :block/created-at 1659564799290,
   :block/updated-at 1659567187216}
@@ -160,6 +175,9 @@
  {:block/name "b",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
+ {:block/name "barefoot running",
+  :block/created-at 1661782084627,
+  :block/updated-at 1661782084627}
  {:block/name "bed-time",
   :block/created-at 1659022235424,
   :block/updated-at 1659022235424}
@@ -190,6 +208,9 @@
  {:block/name "cogov.tech",
   :block/created-at 1659108126475,
   :block/updated-at 1659108138522}
+ {:block/name "collab web lab",
+  :block/created-at 1662088776073,
+  :block/updated-at 1662092583249}
  {:block/name "comí",
   :block/created-at 1659284605535,
   :block/updated-at 1659284605535}
@@ -288,6 +309,9 @@
  {:block/name "homo noosféricus",
   :block/created-at 1659758319299,
   :block/updated-at 1659758341287}
+ {:block/name "ideas that might be appreciated if built",
+  :block/created-at 1661784846050,
+  :block/updated-at 1661785384092}
  {:block/name "in-progress",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
@@ -321,6 +345,9 @@
  {:block/name "juli",
   :block/created-at 1659022427623,
   :block/updated-at 1659022427623}
+ {:block/name "kanban",
+  :block/created-at 1662343555036,
+  :block/updated-at 1662343555036}
  {:block/name "kin 180: sol espectral amarillo",
   :block/created-at 1659565653011,
   :block/updated-at 1659796560820}
@@ -483,6 +510,18 @@
  {:block/name "sello: viento",
   :block/created-at 1659940278511,
   :block/updated-at 1659940278511}
+ {:block/name "sep 1st, 2022",
+  :block/created-at 1662001217844,
+  :block/updated-at 1662088776074}
+ {:block/name "sep 2nd, 2022",
+  :block/created-at 1662087610204,
+  :block/updated-at 1662087610204}
+ {:block/name "sep 3rd, 2022",
+  :block/created-at 1662184278728,
+  :block/updated-at 1662184278728}
+ {:block/name "sep 4th, 2022",
+  :block/created-at 1662273205768,
+  :block/updated-at 1662343555036}
  {:block/name "sincronario galáctico",
   :block/created-at 1659022386867,
   :block/updated-at 1660832520502}
