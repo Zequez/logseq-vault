@@ -57,4 +57,4 @@
 	- https://bullshitdetector.mystrikingly.com/
 		- https://becomeunhookable.mystrikingly.com/
 	- https://becomemagic.mystrikingly.com/
-	-
+	- https://www.rand.org/content/dam/rand/pubs/papers/2005/P7967.pdf
