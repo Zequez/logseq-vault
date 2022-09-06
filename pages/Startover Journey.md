@@ -61,3 +61,6 @@
 	- https://realvoice.mystrikingly.com/
 	- https://slaythejabberwock.mystrikingly.com/
 	- https://en.wikipedia.org/wiki/Tenzo
+	- https://www.youtube.com/watch?v=675LxY_UL9Q
+	- https://whatnow.mystrikingly.com/
+	- https://createnecessity.mystrikingly.com/
