@@ -56,3 +56,5 @@
 			-
 	- https://bullshitdetector.mystrikingly.com/
 		- https://becomeunhookable.mystrikingly.com/
+	- https://becomemagic.mystrikingly.com/
+	-
