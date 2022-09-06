@@ -57,6 +57,7 @@
 	- https://bullshitdetector.mystrikingly.com/
 		- https://becomeunhookable.mystrikingly.com/
 	- https://becomemagic.mystrikingly.com/
+		- https://www.youtube.com/watch?v=CNTWut55UBI
 	- https://www.rand.org/content/dam/rand/pubs/papers/2005/P7967.pdf
 	- https://realvoice.mystrikingly.com/
 	- https://slaythejabberwock.mystrikingly.com/
