@@ -1,2 +1,3 @@
 - Workshop: Create and publish your website with programming tools
-	- In this workshop we'll be simultaneously creating our own website and publishing it
+	- In this workshop we'll be simultaneously creating our own website and publishing it.
+	- We'll be using Codesandbox and publishing
