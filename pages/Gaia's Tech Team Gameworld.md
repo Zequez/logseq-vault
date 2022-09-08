@@ -21,3 +21,10 @@
 	- We'll be using CodeSandbox and publishing it
 	- We'll then see that we can install the created app on our phones
 	- If anyone wants to register a domain name
+-
+-
+- That being said; I'll try to answer the questions one by one:
+  
+  When you ask abou my edges I interpret it as: What are the things at the edge of global culture that I'm aware of:
+	- From my experience in software development: Free and open source, agent-centic, composable, decentralized, peer-to-peer, uncensorable, collaborative, people designed sofware. Projects that I resonate with: SEEDS, Holochain.
+	- Inter-species communication is a topic that I'm really enthustiastic about getting into; along with telepathy and communication with other-dimensional beings in general. I know of Jacquelin Smith, Anna Breytenbach (inter-species communicators), Tyler Henry (medium, communicates with deceased people), and Llewellyn Vaugha-Lee (Sufi teacher)
