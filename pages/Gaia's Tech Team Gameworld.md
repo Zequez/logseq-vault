@@ -7,7 +7,7 @@
 - ## Intended Outcome: Purpose
 -
 - ## First Attempt
-	- Alright, so my purpose here is to give people the tools to harness the power of the Internet in the service of Gaia. So I'll be demostrating guiding the flow of web app development so that together we can create web/apps as digital tool to enhance gameworlds.
+	- Alright, so my purpose here is to give people the tools to harness the power of the Internet in the service of Gaia. So I'll be demonstrating a flow of web app development that's easy to get into, and allows us to work together to co-create digital tooling that can enhance gameworlds.
 -
 -
 -
