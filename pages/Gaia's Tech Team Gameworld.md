@@ -1,3 +1,6 @@
+-
 - Workshop: Create and publish your website with programming tools
-	- In this workshop we'll be simultaneously creating our own website and publishing it.
-	- We'll be using Codesandbox and publishing
+	- In this workshop we'll be simultaneously creating our own web app and publishing it
+	- We'll be using CodeSandbox and publishing it
+	- We'll then see that we can install the created app on our phones
+	- If anyone wants to register a domain name
