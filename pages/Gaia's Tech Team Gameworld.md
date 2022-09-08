@@ -2,6 +2,7 @@
 - ## Distinctions
 - ## Values
 - ## Rules
+- ## Codex
 - ## Intended Outcome: Purpose
 -
 -
