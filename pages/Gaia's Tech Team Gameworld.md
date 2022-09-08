@@ -7,7 +7,7 @@
 - ## Intended Outcome: Purpose
 -
 - ## First Attempt
-	- Alright, so my purpose here is to give people the tools to harness the power of the Internet in the service of Gaia. So I'll be teaching
+	- Alright, so my purpose here is to give people the tools to harness the power of the Internet in the service of Gaia. So I'll be teaching the flow of web app development so that in teams we can create websites.
 -
 -
 -
