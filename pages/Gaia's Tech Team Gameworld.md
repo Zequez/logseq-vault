@@ -1,5 +1,10 @@
-- # Rules
-	-
+- ## Rules
+- ## Intended Outcome
+- ## Context
+- ## Distinctions
+- ## Values
+-
+-
 -
 - The purpose of this gameworld
 - Workshop: Create and publish your website with programming tools
