@@ -7,7 +7,8 @@
 - ## Intended Outcome: Purpose
 -
 - ## First Attempt
-	- I'm doing a small 3hs workshop where I'll be demonstrating a flow of web development ()
+	- I'm doing a small 3hs workshop where I'll be doing a flow of collaborative web development that's easy to get into. The goal
+	  ()
 	  my purpose here is to give people the tools to harness the power of the Internet in the service of Gaia. So I'll be demonstrating a flow of web app development that's easy to get into, and allows us to work together to co-create digital tooling to flow power into our gameworlds.
 -
 -
