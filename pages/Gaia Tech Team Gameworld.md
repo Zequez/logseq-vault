@@ -1,1 +1,1 @@
-- Workshop:
+- Workshop: Create and publish your website with programming tools
