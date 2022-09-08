@@ -3,7 +3,11 @@
 - ## Values
 - ## Rules
 - ## Codex
+- ## The 4 Archetypal Lineages
 - ## Intended Outcome: Purpose
+-
+- ## First Attempt
+	- Alright, so my purpose here is to give
 -
 -
 -
