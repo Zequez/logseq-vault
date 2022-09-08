@@ -1,8 +1,8 @@
-- ## Rules
-- ## Intended Outcome
 - ## Context
 - ## Distinctions
 - ## Values
+- ## Rules
+- ## Intended Outcome: Purpose
 -
 -
 -
