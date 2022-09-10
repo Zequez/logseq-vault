@@ -4,5 +4,8 @@ title:: ¿Qué es el dinero?
 - Si combinamos la cultura moderna con la cultura emergente nos encontramos con algo curioso.
 - El arte es dinero.
 -
+- El dinero es un conjunto de creencias compartidas. 
+  Tan hambrientos nos sentimos por pertenecer que compartimos
+-
 - Qué  sentís con el arte? Qué sentís con el dinero?
 -
