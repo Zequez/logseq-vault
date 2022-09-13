@@ -2,6 +2,8 @@ public:: true
 
 - # Ideas to improve the current experience
 	- Add a sort of forum thread to each page where you get one independent thread for each person.
+		- Could be used to post proof of an experiment done.
+		-
 	- Add a matrix-points widget on each page that allows you to record that page matrix points directly on the page by clicking.
 	- Vertical browser tabs
 		- Does anyone has a suggestion as for a personal discipline for keeping a low amount of tabs?
@@ -27,5 +29,6 @@ public:: true
 	- Global view of all existing next-culture teams grouped by purposes and bioregions
 	- Something like this:
 		- ![Screen Shot 2022-09-13 at 00.46.39.png](../assets/Screen_Shot_2022-09-13_at_00.46.39_1663040817386_0.png)
-		-
+		- Could actually be made so you can write it on site. Many experiments or exercises could work like this.
+	-
 	-
