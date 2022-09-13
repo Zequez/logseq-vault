@@ -3,7 +3,7 @@ public:: true
 - # Ideas to improve the current experience
 	- Add a sort of forum thread to each page where you get one independent thread for each person.
 		- Could be used to post proof of an experiment done.
-		-
+		- Gems from the threads could be shared among wider circles or in social media.
 	- Add a matrix-points widget on each page that allows you to record that page matrix points directly on the page by clicking.
 	- Vertical browser tabs
 		- Does anyone has a suggestion as for a personal discipline for keeping a low amount of tabs?
