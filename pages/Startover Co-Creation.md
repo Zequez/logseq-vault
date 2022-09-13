@@ -4,6 +4,6 @@
 	- Vertical browser tabs
 		- Sorted by recently used or most used tabs
 		- Search functionality
-		-
+	-
 	-
 	-
