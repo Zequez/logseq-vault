@@ -5,7 +5,7 @@ public:: true
 	- Add a matrix-points widget on each page that allows you to record that page matrix points directly on the page by clicking.
 	- Vertical browser tabs
 		- Does anyone has a suggestion as for a personal discipline for keeping a low amount of tabs?
-			- I have 326 tabs open related to Possibility Management; I think maybe the UI of the browser is not designed for this sort of exploration. So maybe a true exploratory interface can be designed that doesn't require the user from having an additional tab
+			- I have 326 tabs open related to Possibility Management; I think maybe the UI of the browser is not designed for this sort of exploration. So maybe a true exploratory interface can be designed that runs on the browser does away with the idea of sorting, categorizing a
 		- Sorted by recently used or most used tabs
 		- Search functionality
 	- Multiple languages?
