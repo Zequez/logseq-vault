@@ -16,6 +16,7 @@ public:: true
 	- Add social component by seeing the matrix points reported by other players with their proof; and allow other people to confirm these.
 		- Make a public stream of reported matrix points.
 		- Form accountability teams that will confirm your matrix points
-	- Show the UI on other sites, such as YouTube too, and allow
+	- Show the UI on other sites, such as YouTube too
+		- We can even detect if the video reached the end and suggest reporting it
 	-
 	-
