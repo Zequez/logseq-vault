@@ -1,3 +1,5 @@
+public:: true
+
 - # Ideas to improve the current experience
 	- Add a sort of forum thread to each page where you get one independent thread for each person.
 	- Add a matrix-points widget on each page that allows you to record that page matrix points directly on the page by clicking.
@@ -10,8 +12,7 @@
 		- Make a dashboard for the translations progress
 		- Make the translation flow easy so anyone can do it without needing to create a separate site.
 		- Site authors can choose translation delegates that take responsibility for the translation of that page on a specific language.
-	- Make author or authors of each page explicit, and link to their site and
-		-
+	- Make author or authors of each page explicit, and show their personal website and contact information
 	- Add social component by seeing the matrix points reported by other players with their proof; and allow other people to confirm these.
 		- Make a public stream of reported matrix points.
 		- Form accountability teams that will confirm your matrix points
