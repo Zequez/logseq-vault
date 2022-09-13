@@ -25,5 +25,7 @@ public:: true
 		- We can even detect if the video reached the end and suggest reporting it
 	- Extend links for books and films with free options.
 	- Global view of all existing next-culture teams grouped by purposes and bioregions
-	-
+	- Something like this:
+		- ![Screen Shot 2022-09-13 at 00.46.39.png](../assets/Screen_Shot_2022-09-13_at_00.46.39_1663040817386_0.png)
+		-
 	-
