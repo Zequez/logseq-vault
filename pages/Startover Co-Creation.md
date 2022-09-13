@@ -4,7 +4,8 @@ public:: true
 	- Add a sort of forum thread to each page where you get one independent thread for each person.
 	- Add a matrix-points widget on each page that allows you to record that page matrix points directly on the page by clicking.
 	- Vertical browser tabs
-		- Is there a personal discipline for keeping tabs
+		- Does anyone has a suggestion as for a personal discipline for keeping a low amount of tabs?
+			- I have 326 tabs open related to Possibility Management; I think maybe i
 		- Sorted by recently used or most used tabs
 		- Search functionality
 	- Multiple languages?
