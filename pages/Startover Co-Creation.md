@@ -1,3 +1,3 @@
 - # Ideas to improve the current experience
 	- Add a sort of forum thread to each page where you get one independent thread for each person.
-	-
+	- Add a matrix-points widget on each page that allows
