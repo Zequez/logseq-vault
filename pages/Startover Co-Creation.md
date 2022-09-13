@@ -1,0 +1,2 @@
+- # Ideas to improve the current experience
+	- Add a sort of forum thread
