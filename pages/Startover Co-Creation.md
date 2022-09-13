@@ -1,5 +1,5 @@
 - # Ideas to improve the current experience
 	- Add a sort of forum thread to each page where you get one independent thread for each person.
 	- Add a matrix-points widget on each page that allows you to record that page matrix points directly on the page by clicking.
-	-
+	- Vertical browser with all the Startover relevant tabs (I have a window with 300 tabs from Startover that I )
 	-
