@@ -18,6 +18,6 @@ public:: true
 		- Form accountability teams that will confirm your matrix points
 	- Show the UI on other sites, such as YouTube too
 		- We can even detect if the video reached the end and suggest reporting it
-	-
+	- Extend links for books and films with free options.
 	-
 	-
