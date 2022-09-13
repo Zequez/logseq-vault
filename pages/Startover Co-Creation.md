@@ -7,8 +7,9 @@
 	- Multiple languages?
 		- Can it be made so the translating itself is a rewarding fun social experience?
 		- Allow players to report the languages they understand
-		- Make a dashboard for the translations
-		- Make it
+		- Make a dashboard for the translations progress
+		- Make the translation flow easy so anyone can do it without needing to create a separate site.
+		- Site owner can choose translation delegates that will
 		-
 	- Add social component by seeing the matrix points reported by other players with their proof; and allow other people to confirm these.
 		- Make a public stream of reported matrix points.
