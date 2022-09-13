@@ -4,7 +4,8 @@
 	- Vertical browser tabs
 		- Sorted by recently used or most used tabs
 		- Search functionality
-	- A way to change the language of the game and using a mechanism for creating the pages that allows for
+	- Multiple languages?
+	- See ma
 		-
 	-
 	-
