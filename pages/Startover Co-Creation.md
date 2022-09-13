@@ -9,7 +9,8 @@
 		- Allow players to report the languages they understand
 		- Make a dashboard for the translations progress
 		- Make the translation flow easy so anyone can do it without needing to create a separate site.
-		- Site owner can choose translation delegates that will
+		- Site authors can choose translation delegates that take responsibility for the translation of that page on a specific language.
+	- Make author or authors of each page explicit, and link to their site and
 		-
 	- Add social component by seeing the matrix points reported by other players with their proof; and allow other people to confirm these.
 		- Make a public stream of reported matrix points.
