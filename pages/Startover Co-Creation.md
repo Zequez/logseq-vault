@@ -24,6 +24,6 @@ public:: true
 	- Show the UI on other sites, such as YouTube too
 		- We can even detect if the video reached the end and suggest reporting it
 	- Extend links for books and films with free options.
-	- Global view of all existing PM teams
+	- Global view of all existing teams grouped by purposes and
 	-
 	-
