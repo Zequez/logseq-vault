@@ -5,7 +5,8 @@
 		- Sorted by recently used or most used tabs
 		- Search functionality
 	- Multiple languages?
-	- Add social component by seeing the matrix points reported by other players with their proof; and allow other people to confirm these,
+	- Add social component by seeing the matrix points reported by other players with their proof; and allow other people to confirm these.
+		- Make a public stream of reported matrix points.
 		-
 	-
 	-
