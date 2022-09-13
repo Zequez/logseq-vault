@@ -6,6 +6,7 @@ public:: true
 	- Vertical browser tabs
 		- Does anyone has a suggestion as for a personal discipline for keeping a low amount of tabs?
 			- I have 326 tabs open related to Possibility Management; I think maybe the UI of the browser is not designed for this sort of exploration. So maybe a true exploratory interface can be designed that runs on the browser does away with the idea of managing this alien "tab" concept of sorting and categorizing. And just weaves it into a coherent exploration game.
+				- Wild idea, could a sort of hand-painted
 		- Sorted by recently used or most used tabs
 		- Search functionality
 	- Multiple languages?
