@@ -5,7 +5,7 @@
 		- Sorted by recently used or most used tabs
 		- Search functionality
 	- Multiple languages?
-	- See ma
+	- Add social component by seeing the matrix points reported by other players with their proof; and allow other people to confirm these,
 		-
 	-
 	-
