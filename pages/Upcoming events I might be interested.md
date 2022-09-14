@@ -1,9 +1,14 @@
 - # October
 - ## Ecovillage Design Course
-	- https://ecovillage.org/ecovillage-design-course/
+	- ## Where
+		- Online
+		- Course page: https://ecovillage.org/ecovillage-design-course/
+		- Registering: https://learn.ecovillage.org/course-registration/?course-id=12576
+		-
 	- Online
 	- ## Schedule
-		- 4-month: From October 1 to February 5
+		- 4-months
+			- From October 1 to February 5
 		- 5-6 hours per week
 			- Saturdays (ALFA) from  12:00-15:30 UTC
 			- One Sunday per month, 12:00-15:30 UTC
