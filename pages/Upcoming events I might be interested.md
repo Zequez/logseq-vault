@@ -1,5 +1,7 @@
 - # October
 - ## Ecovillage Design Course
 	- https://ecovillage.org/ecovillage-design-course/
-	- Saturdays (ALFA) from October 1 to Febraury 5
-	-
+	- ## Schedule
+		- From October 1 to Febraury 5
+		- Saturdays (ALFA) from  12-15 UTC
+		- One Sunday per month, 12-15:30 UTC
