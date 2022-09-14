@@ -1,13 +1,16 @@
 - # October
 - ## Ecovillage Design Course
 	- https://ecovillage.org/ecovillage-design-course/
+	- Online
 	- ## Schedule
-		- From October 1 to February 5
-		- Saturdays (ALFA) from  12:00-15:30 UTC
-		- One Sunday per month, 12:00-15:30 UTC
+		- 4-month: From October 1 to February 5
+		- 5-6 hours per week
+			- Saturdays (ALFA) from  12:00-15:30 UTC
+			- One Sunday per month, 12:00-15:30 UTC
 	- ## Investment
 		- Free class can be joined for free
 		- 50% discount if living in the [Global South](https://www.worldatlas.com/articles/what-is-the-global-south.html)
 		- 100% scholarship available
 		- Base price: £ 979.00 - USD 1,131.80
+		-
 	-
