@@ -6,4 +6,4 @@
 		- Saturdays (ALFA) from  12:00-15:30 UTC
 		- One Sunday per month, 12:00-15:30 UTC
 	- Free class can be joined for free
-	-
+	- 50% discount if living in the [Global South](https://www.worldatlas.com/articles/what-is-the-global-south.html)
