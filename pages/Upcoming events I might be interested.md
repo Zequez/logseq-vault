@@ -4,7 +4,7 @@
 		- Online
 		- Course page: https://ecovillage.org/ecovillage-design-course/
 		- Registering: https://learn.ecovillage.org/course-registration/?course-id=12576
-		-
+		- Register for the first open class: https://docs.google.com/forms/d/e/1FAIpQLSdt_hlm2Z0XrlBlSnI-Ddp-HnI4U7bT7_XnB9eDAqnfmIKbXw/viewform
 	- Online
 	- ## Schedule
 		- 4-months
