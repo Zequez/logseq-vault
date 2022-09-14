@@ -1,2 +1,5 @@
--
+- # October
 - ## Ecovillage Design Course
+	- https://ecovillage.org/ecovillage-design-course/
+	- Saturdays (ALFA) from October 1 to Febraury 5
+	-
