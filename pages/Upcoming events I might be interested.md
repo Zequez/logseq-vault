@@ -1,4 +1,5 @@
--
+icon:: 🗓
+
 - # October
 	- ## Ecovillage Design Course
 		- ## Where
