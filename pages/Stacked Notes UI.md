@@ -1,0 +1,1 @@
+- This is the UI pattern used by [[Andy Matuschak]] [notes page](https://notes.andymatuschak.org).
