@@ -1,2 +1,0 @@
-- An idea for notes that are interrelated to one another.
-- You click a note and

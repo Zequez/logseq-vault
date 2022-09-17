@@ -1,0 +1,3 @@
+- An idea for pages that are interrelated to one another.
+- You click a page and it zooms into it as if you were going through a portal.
+- The previous note you were reading gets
