@@ -1,0 +1,1 @@
+- It's a process of memory retention that used cards with questions about what you want to remember, and based on wether you answer correctly or not, it calculates when it should
