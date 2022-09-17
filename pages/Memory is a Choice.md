@@ -1,3 +1,3 @@
 - In a context of [[Radical Responsibility]]. It's a matter of discipline. Certain [[Mediums of Thought]] can make it easier to choose to remember something; for example, by programming a computer to ping your memory on specific intervals with questions, it makes the connection to the memory stronger.
 - ---
-- Q: In the Context of [[Possibility Management]] ...
+- Q: In the Context of [[Possibility Management]] ... how different is asking a question from a full-on experiment in terms of landing a distinction?
