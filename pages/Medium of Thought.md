@@ -16,7 +16,6 @@
 	- For example, right now on my current Medium of Thought, which is LogSeq, the Possibility of [[Streaming my Thought Process]] occurred to me. I feel fuzzy in the stomach about it. [[Fear]] of the implications; but with a sense of Joy. It's a [[New Possibility]].
 	- When in the [[Human Body]] a Being has a new Medium of Expression to play with.
 - The process of [[Mastering a Medium of Thought]] needs time and focused attention. You get rewarded with new possibilities.
-- The most popular Medium of Thought right now it's [[Patriarchy]]. But you don't have to use that medium just because everyone is using it. You can slowly change your context to [[Archearchy]] as you make new distinctions and upgrade your [[Thoughtware]].
 - Using the Medium of Thought differently changes your Context. For example, if you write with your left hand instead of your right hand, suddenly the Possibilities are also different. Things occur to you that wouldn't have occurred you had you not changed your Relationship with the Medium of Thought. So you and the Medium of Thought enter into a Relationship. And when you get to know it, then you [[Become As One]].
 - Medium of Expression can be of the 5 Bodies
 	- Medium of Intellectual Expression
