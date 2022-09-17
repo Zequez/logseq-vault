@@ -22,6 +22,7 @@
 	- Medium of Body Expression
 	- Medium of Symbolic Expression
 	- Is all expression symbolic?
+- The Mnemonic Medium
 - ----
 - Q: Should I rename this to Medium of Expression? I feel like everything I'm writing applies to all of the 5 bodies, and using the word "Thought" might get it associated solely with the intellectual body. There is confusion, a tension between an attachment to the "Medium of Thought", like the concept is taking root in my mind, and renaming it to Medium of Expression would take effort. Maybe it's just the repetition.
 	- Experiment: Re-read the whole thing but replacing Medium of Thought for Medium of Expression at every sentence and notice what happens.
