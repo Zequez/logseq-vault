@@ -1,5 +1,7 @@
-title:: # ACTION
+title:: ACTION
 
+- Is
+-
 - Alright, let's take action. I want that article published and a new personal site by tomorrow morning; then share the article with the PM community; specifically with the Possibility Creation Village team; and then on the EHP team quote a specific paragraph of the article and ask for an EHP before leaving for my niece birthday tomorrow.
 - DONE I'm creating the personal site with Carrd.co for Archearchy
   :LOGBOOK:
