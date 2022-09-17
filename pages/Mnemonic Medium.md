@@ -1,0 +1,1 @@
+- It's a [[Medium of Thought]] that uses a advanced techniques of memory retention to help the person using it to
