@@ -16,4 +16,6 @@
 - The process of [[Mastering a Medium of Thought]] needs time and focused attention. You get rewarded with new possibilities.
 - The most popular Medium of Thought right now it's [[Patriarchy]]. But you don't have to use that medium just because everyone is using it. You can slowly change your context to [[Archearchy]] as you make new distinctions and upgrade your [[Thoughtware]].
 - Using the Medium of Thought differently changes your Context. For example, if you write with your left hand instead of your right hand, suddenly the Possibilities are also different. Things occur to you that wouldn't have occurred you had you not changed your Relationship with the Medium of Thought. So you and the Medium of Thought enter into a Relationship. And when you get to know it, then you [[Become As One]].
+- ----
 - Q: Should I rename this to Medium of Expression? I feel like everything I'm writing applies to all of the 5 bodies, and using the word "Thought" might get it associated solely with the intellectual body. There is confusion, a tension between an attachment to the "Medium of Thought", like the concept is taking root in my mind, and renaming it to Medium of Expression would take effort. Maybe it's just the repetition.
+	- Experiment: Re-read the whole thing but replacing Medium of Thought for Medium of Expression at every sentence and notice what happens.
