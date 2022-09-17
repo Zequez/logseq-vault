@@ -23,4 +23,4 @@
 	- Experiment: Re-read the whole thing but replacing Medium of Thought for Medium of Expression at every sentence and notice what happens.
 		- Your Inner Monologe
 		- Added your body and your clothing as examples of mediums; I can see how a thought can be expressed through clothes or body. But I can also see how you can express through your body without any thought. So the thought is a medium of expression, but you can also express yourself without thinking.
-		-
+		- I found myself reading through while forgetting to switch the concept to Medium of Expression, and not understanding what I was reading.
