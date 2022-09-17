@@ -3,6 +3,7 @@
 - A predecesor of the Mnemonic Medium was using
 - Commonplace Markers
 	- Were a sixteenth century punctuation mark indicating the readers they might want to memorize or copy a passage to a [[Commonplace Book]].
+	- [[Andy Matuschak]] identified this as a predecesor of the [[Mnemonic Medium]].
 	-
 -
 - ---
