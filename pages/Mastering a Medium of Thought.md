@@ -1,0 +1,6 @@
+- Is a rewarding process where each step expands your possibilities. However it can also be a painful process. You make mistakes, you learn, and your Box expands its Matrix to accommodate.
+- You get to merge with your medium of thought and experience a Flow state.
+- Like a knife, it can expand your capacity, but you can also harm yourself if you are not careful.
+- When a Medium of Thought is mastered, it becomes transparent, it becomes part of you, you forget about it, you Become as One with it.
+- When used unskillfully, Mediums of Thought can be ineffective and even detrimental. For example, while using The Internet unskillfully you might get hooked
+- You can merge with your Medium of Thought. You can [[Become The Internet]]. For it you must Master the Medium of Thought

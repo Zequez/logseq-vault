@@ -12,14 +12,9 @@
 	- Archearchy
 - Every Medium of Thought has a [[Context]]. Under a new Context, a [[Being]] has different [[Possibilities]] available, an emergent property of the Being and the Medium of Thought. New [[Kinds of Thoughts]] can emerge in a different Medium of Thought.
 - For example, right now on my current Medium of Thought, which is LogSeq, the Possibility of [[Streaming my Thought Process]] occurred to me. I feel fuzzy in the stomach about it. [[Fear]] of the implications; but with a sense of Joy. It's a [[New Possibility]].
-- Mastering a Medium of Thought
-	- Is a rewarding process where each step expands your possibilities. However it can also be a painful process. You make mistakes, you learn, and your Box expands its Matrix to accommodate.
-	- You get to merge with your medium of thought and experience a Flow state.
-	- Like a knife, it can expand your capacity, but you can also harm yourself if you are not careful.
-	- When a Medium of Thought is mastered, it becomes transparent, it becomes part of you, you forget about it, you Become as One with it.
-	- When used unskillfully, Mediums of Thought can be ineffective and even detrimental. For example, while using The Internet unskillfully you might get hooked
-	- You can merge with your Medium of Thought. You can [[Become The Internet]]. For it you must Master the Medium of Thought
-- The most popular Medium of Thought right now it's [[Patriarchy]]. But you don't have to use that medium just because everyone is using it. You can slowly change your context to [[Archearchy]] as you make new distinctions and upgrade your [[Thoughtware]]. You might learn about [[Radical Responsibility]] and new possibilities emerge in your life.
+- There is a learning process while [[Mastering a Medium of Thought]].
+-
+- The most popular Medium of Thought right now it's [[Patriarchy]]. But you don't have to use that medium just because everyone is using it. You can slowly change your context to [[Archearchy]] as you make new distinctions and upgrade your [[Thoughtware]].
 - The [[Thinker]] and the [[Medium of Thought]] are the same; so if you change your Context, you can change your [[Medium of Thought]]. For example, in a Context of [[Radical Responsibility]] new thoughts emerge that weren't there before.
 - Using the Medium of Thought differently changes your Context. For example, if you write with your left hand instead of your right hand, suddenly the Possibilities are also different. Things occur to you that wouldn't have occurred you had you not changed your Relationship with the Medium of Thought. So you and the Medium of Thought enter into a Relationship. And when you get to know it, then you [[Become As One]].
 -
