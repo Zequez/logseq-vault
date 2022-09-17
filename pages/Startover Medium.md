@@ -1,0 +1,1 @@
+- Startover.xyz is a [[Medium of Thought]] that helps

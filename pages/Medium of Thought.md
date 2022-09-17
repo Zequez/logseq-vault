@@ -13,6 +13,7 @@
 	- Your body
 	- Your clothing
 	- [[Mnemonic Medium]]
+	- [[Startover Medium]]
 - Every Medium of Thought has a [[Context]]. Under a new Context, a [[Being]] has different [[Possibilities]] available, an emergent property of the Being and the Medium of Thought. New [[Kinds of Thoughts]] can emerge in a different Medium of Thought.
 	- For example, right now on my current Medium of Thought, which is LogSeq, the Possibility of [[Streaming my Thought Process]] occurred to me. I feel fuzzy in the stomach about it. [[Fear]] of the implications; but with a sense of Joy. It's a [[New Possibility]].
 	- When in the [[Human Body]] a Being has a new Medium of Expression to play with.
