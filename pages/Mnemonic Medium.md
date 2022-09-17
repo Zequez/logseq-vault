@@ -5,6 +5,7 @@
 	- [[Andy Matuschak]] identified this as a predecesor of the [[Mnemonic Medium]].
 	- ---
 	- References: https://drc.usask.ca/projects/archbook/
+- A Mnemonic Essay is an essay that while you read it it asks you questions about what you read, and then
 -
 - ---
 - References: https://numinous.productions/ttft/
