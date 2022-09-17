@@ -25,4 +25,4 @@
 		- Added your body and your clothing as examples of mediums; I can see how a thought can be expressed through clothes or body. But I can also see how you can express through your body without any thought. So the thought is a medium of expression, but you can also express yourself without thinking.
 		- I found myself reading through while forgetting to switch the concept to Medium of Expression, and not understanding what I was reading.
 		- Added "When in the [[Human Body]] a Being has a new Medium of Expression to play with."
-		- A culture is a Medium of Expression. A set of shared codes that you use to express yourself to others. Like a flower that expresses it's offering to the bee.
+		- A culture is a Medium of Expression. A set of shared codes that you use to express yourself to others. Like a flower that expresses its gift to the bee. Like a hand gesture that expresses to a person crossing the street to go ahead. Like a song that expresses your deepest emotions
