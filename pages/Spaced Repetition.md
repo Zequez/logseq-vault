@@ -1,1 +1,3 @@
-- It's a process of memory retention that used cards with questions about what you want to remember, and based on wether you answer correctly or not, it calculates when it should
+- It's a process of memory retention that used cards with questions about what you want to remember, and based on wether you answer correctly or not, it calculates when it should show you the card again for maximum retention benefit.
+- However writing the right card is a skill. A poorly written card won't work. Cards are better broken down into atomics
+-
