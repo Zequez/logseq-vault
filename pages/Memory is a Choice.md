@@ -1,1 +1,2 @@
 - In a context of [[Radical Responsibility]]. It's a matter of discipline.
+- When
