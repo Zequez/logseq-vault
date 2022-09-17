@@ -13,7 +13,8 @@
 - Every Medium of Thought has a [[Context]]. Under a new Context, a [[Being]] has different [[Possibilities]] available, an emergent property of the Being and the Medium of Thought. New [[Kinds of Thoughts]] can emerge in a different Medium of Thought.
 - For example, right now on my current Medium of Thought, which is LogSeq, the Possibility of [[Streaming my Thought Process]] occurred to me. I feel fuzzy in the stomach about it. [[Fear]] of the implications; but with a sense of Joy. It's a [[New Possibility]].
 - Mastering a Medium of Thought
-	- It might require time; but each step
+	- Is a rewarding process where each step expands your possibilities.
+	- You get to merge with your medium of thought and experience a Flow state.
 	- You can merge with your Medium of Thought. You can [[Become The Internet]]. For it you must Master the Medium of Thought
 	- [[A Medium of Thought Has To Be Mastered]] for it to be effective. When you do, you merge with it. You can also become attached to a Medium of Thought, which leads to it becoming opaque and obscuring higher-order contexts.
 - The most popular Medium of Thought right now it's [[Patriarchy]]. But you don't have to use that medium just because everyone is using it. The [[Thinker]] and the [[Medium of Thought]] are the same; so if you change your Context, you can change your [[Medium of Thought]]. For example, in a Context of [[Radical Responsibility]] new thoughts emerge that weren't there before.
