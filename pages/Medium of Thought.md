@@ -1,5 +1,11 @@
-- You take a paper and you scribble an idea with a pencil. In that [[Gameworld]], the Medium of [[Thought]] is your brain, your body, the paper, and the pencil.
+- You take a paper and you scribble an idea with a pencil. In that [[Gameworld]], the Medium of [[Thought]] is your brain, your body, the paper, and the pencil. Here is a list of other Mediums of Thought:
+	- A laptop
+	- Photoshop
+	- The Internet
+	-
 - Another example of a Medium of Thought could be Photoshop.
+- A laptop as of itself is a Medium of Thought.
+- The Internet is a Medium of Thought.
 -
 - You take a laptop
 - The speed of the traveling though is slower.
