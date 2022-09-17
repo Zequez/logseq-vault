@@ -10,6 +10,7 @@
 	- [[LogSeq]]
 	- Patriarchy
 	- Archearchy
+	- Your body
 - Every Medium of Thought has a [[Context]]. Under a new Context, a [[Being]] has different [[Possibilities]] available, an emergent property of the Being and the Medium of Thought. New [[Kinds of Thoughts]] can emerge in a different Medium of Thought.
 	- For example, right now on my current Medium of Thought, which is LogSeq, the Possibility of [[Streaming my Thought Process]] occurred to me. I feel fuzzy in the stomach about it. [[Fear]] of the implications; but with a sense of Joy. It's a [[New Possibility]].
 	- When a Being is on a Human, it has a new Medium of Thought.
@@ -19,3 +20,4 @@
 - ----
 - Q: Should I rename this to Medium of Expression? I feel like everything I'm writing applies to all of the 5 bodies, and using the word "Thought" might get it associated solely with the intellectual body. There is confusion, a tension between an attachment to the "Medium of Thought", like the concept is taking root in my mind, and renaming it to Medium of Expression would take effort. Maybe it's just the repetition.
 	- Experiment: Re-read the whole thing but replacing Medium of Thought for Medium of Expression at every sentence and notice what happens.
+		- Your Inner Monologe
