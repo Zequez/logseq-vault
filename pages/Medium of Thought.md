@@ -10,6 +10,6 @@
 	- [[LogSeq]]
 - Every Medium of Thought has a [[Context]]. Under a new Context, a [[Being]] has different [[Possibilities]] available. New [[Kinds of Thoughts]] can emerge in a different Medium of Thought.
 - For example, right now on my current Medium of Thought, which is LogSeq, the Possibility of [[Streaming my Thought Process]] occurred to me. I feel fuzzy in the stomach about it. [[Fear]] of the implications; but with a sense of Joy. It's a [[New Idea]].
-- Your mind can merge with the Medium of Thought.
+- You can merge with your Medium of Thought. You can [[Become The Internet]]. You can [[Become a Computer]].
   [[A Medium of Thought Has To Be Mastered]] for it to be effective, 
   your mind has to merge with the medium. When you merge with the medium, you get absorbed into it.
