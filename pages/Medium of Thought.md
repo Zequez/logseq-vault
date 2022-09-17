@@ -15,7 +15,7 @@
 - Mastering a Medium of Thought
 	- Is a rewarding process where each step expands your possibilities.
 	- You get to merge with your medium of thought and experience a Flow state.
-	- Like a sharp knife, it can expand your capacity, but you can also cut you.
+	- Like a knife, it can expand your capacity, but you can also harm yourself if you are unprepared.
 	- When used unskillfully, Mediums of Thought can be ineffective and even detrimental. For example, while using The Internet unskillfully you might get hooked
 	- You can merge with your Medium of Thought. You can [[Become The Internet]]. For it you must Master the Medium of Thought
 	- [[A Medium of Thought Has To Be Mastered]] for it to be effective. When you do, you merge with it. You can also become attached to a Medium of Thought, which leads to it becoming opaque and obscuring higher-order contexts.
