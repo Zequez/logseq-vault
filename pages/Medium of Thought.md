@@ -6,12 +6,5 @@
 	- [[Your Inner Monologe]]
 	- Lego bricks
 	- Paintbrush and canvas
--
-- Another example of a Medium of Thought could be Photoshop.
-- A laptop as of itself is a Medium of Thought.
-- The Internet is a Medium of Thought.
--
-- You take a laptop
-- The speed of the traveling though is slower.
--
-- You take your laptop
+	- Document
+	- [[LogSeq]]
