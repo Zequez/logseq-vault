@@ -26,3 +26,4 @@
 		- I found myself reading through while forgetting to switch the concept to Medium of Expression, and not understanding what I was reading.
 		- Added "When in the [[Human Body]] a Being has a new Medium of Expression to play with."
 		- A culture is a Medium of Expression. A set of shared codes that you use to express yourself to others. Like a flower that expresses its gift to the bee. Like a hand gesture that expresses to a person crossing the street to go ahead. Like a song that expresses a shared emotional connection to other beings.
+		- Now, since I already have a definition of Medium of Expression from past usage; it's not a new concept; when using it, it feels fuzzy
