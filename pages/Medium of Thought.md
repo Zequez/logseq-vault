@@ -13,7 +13,7 @@
 - Every Medium of Thought has a [[Context]]. Under a new Context, a [[Being]] has different [[Possibilities]] available, an emergent property of the Being and the Medium of Thought. New [[Kinds of Thoughts]] can emerge in a different Medium of Thought.
 - For example, right now on my current Medium of Thought, which is LogSeq, the Possibility of [[Streaming my Thought Process]] occurred to me. I feel fuzzy in the stomach about it. [[Fear]] of the implications; but with a sense of Joy. It's a [[New Possibility]].
 - Mastering a Medium of Thought
-	- Is a rewarding process where each step expands your possibilities. However it can also be a painful process. You make mistakes, you learn, and your Box expands it's Matrix to accomodate
+	- Is a rewarding process where each step expands your possibilities. However it can also be a painful process. You make mistakes, you learn, and your Box expands its Matrix to accommodate.
 	- You get to merge with your medium of thought and experience a Flow state.
 	- Like a knife, it can expand your capacity, but you can also harm yourself if you are not careful.
 	- When a Medium of Thought is mastered, it becomes transparent, it becomes part of you, you forget about it, you Become as One with it.
