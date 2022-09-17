@@ -15,6 +15,7 @@
 - Mastering a Medium of Thought
 	- Is a rewarding process where each step expands your possibilities.
 	- You get to merge with your medium of thought and experience a Flow state.
+	- When used unskillfully, Mediums of Thought can be ineffective and even detrimental. For example, while using The Internet
 	- You can merge with your Medium of Thought. You can [[Become The Internet]]. For it you must Master the Medium of Thought
 	- [[A Medium of Thought Has To Be Mastered]] for it to be effective. When you do, you merge with it. You can also become attached to a Medium of Thought, which leads to it becoming opaque and obscuring higher-order contexts.
 - The most popular Medium of Thought right now it's [[Patriarchy]]. But you don't have to use that medium just because everyone is using it. The [[Thinker]] and the [[Medium of Thought]] are the same; so if you change your Context, you can change your [[Medium of Thought]]. For example, in a Context of [[Radical Responsibility]] new thoughts emerge that weren't there before.
