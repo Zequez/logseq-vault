@@ -1,1 +1,2 @@
-- It's a [[Medium of Thought]] that uses a advanced techniques of memory retention to help the person using it to
+- It's a [[Medium of Thought]] that uses advanced techniques of memory retention to help the person using it learn quicker.
+- On the Mnemonic Medium the rewards are exponential; an increase in 50% of effort could yield x10 returns.
