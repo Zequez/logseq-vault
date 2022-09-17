@@ -16,4 +16,4 @@
 - [[A Medium of Thought Has To Be Mastered]] for it to be effective, 
   your mind has to merge with the medium. When you merge with the medium, you get absorbed into it.
 - The most popular Medium of Thought right now it's [[Patriarchy]]. But you don't have to use that medium just because everyone is using it. The [[Thinker]] and the [[Medium of Thought]] are the same; so if you change your Context, you can change your [[Medium of Thought]]. For example, in a Context of [[Radical Responsibility]] new thoughts emerge that weren't there before.
-- Changing how you use an existing medium of thought, automatically changes your context.
+- Using the Medium of Thought differently changes your Context. For example, if you write with your left hand instead of your right hand, suddenly the
