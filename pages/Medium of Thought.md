@@ -16,10 +16,9 @@
 	- Is a rewarding process where each step expands your possibilities.
 	- You get to merge with your medium of thought and experience a Flow state.
 	- Like a knife, it can expand your capacity, but you can also harm yourself if you are not careful.
-	-
+	- When a Medium of Thought is mastered, it becomes transparent, it becomes part of you, you forget about it, you Become as One with it.
 	- When used unskillfully, Mediums of Thought can be ineffective and even detrimental. For example, while using The Internet unskillfully you might get hooked
 	- You can merge with your Medium of Thought. You can [[Become The Internet]]. For it you must Master the Medium of Thought
-	- [[A Medium of Thought Has To Be Mastered]] for it to be effective. When you do, you merge with it. You can also become attached to a Medium of Thought, which leads to it becoming opaque and obscuring higher-order contexts.
 - The most popular Medium of Thought right now it's [[Patriarchy]]. But you don't have to use that medium just because everyone is using it. The [[Thinker]] and the [[Medium of Thought]] are the same; so if you change your Context, you can change your [[Medium of Thought]]. For example, in a Context of [[Radical Responsibility]] new thoughts emerge that weren't there before.
 - Using the Medium of Thought differently changes your Context. For example, if you write with your left hand instead of your right hand, suddenly the Possibilities are also different. Things occur to you that wouldn't have occurred you had you not changed your Relationship with the Medium of Thought. So you and the Medium of Thought enter into a Relationship. And when you get to know it, then you [[Become As One]].
 -
