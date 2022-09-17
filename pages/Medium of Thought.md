@@ -13,5 +13,5 @@
 - You can merge with your Medium of Thought. You can [[Become The Internet]]. For it you must Master the Medium of Thought
 - [[A Medium of Thought Has To Be Mastered]] for it to be effective, 
   your mind has to merge with the medium. When you merge with the medium, you get absorbed into it.
-- The most popular Medium of Thought right now it's [[Patriarchy]]. But you don't have to use that medium just because everyone is using it. You could use [[Matriarchy]] or [[Archearchy]].
-   but we switch our Context, we can use [[Archearchy]] as our Medium of Thought, and new Possibilities emerge.
+- The most popular Medium of Thought right now it's [[Patriarchy]]. But you don't have to use that medium just because everyone is using it. 
+  But by switching your context, You could use [[Matriarchy]] or [[Archearchy]]; and new Possibilities emerge.
