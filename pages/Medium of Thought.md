@@ -1,0 +1,5 @@
+- You take a paper and you scribble an idea with a pencil. In that [[Gameworld]], the Medium of [[Thought]] is your brain, your body, the paper, and the pencil. In this case, the overall [[Density of the Medium of Thought]] is high.
+- You take a laptop
+- The speed of the traveling though is slower.
+-
+- You take your laptop
