@@ -1,0 +1,1 @@
+- The idea that the richer the association we have to a concept, the better we will remember it. We can improve [[Memory]] by enriching the network of associations.
