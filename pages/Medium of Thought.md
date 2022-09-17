@@ -2,11 +2,11 @@
 	- A laptop
 	- Photoshop
 	- The Internet
-	- Speaking out loud
-	- Your inner monologe
-	- Legos
+	- [[Speaking Out Loud]]
+	- [[Your Inner Monologe]]
+	- Lego bricks
 	- Paintbrush and canvas
-	-
+-
 - Another example of a Medium of Thought could be Photoshop.
 - A laptop as of itself is a Medium of Thought.
 - The Internet is a Medium of Thought.
