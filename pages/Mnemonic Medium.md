@@ -8,4 +8,6 @@
 - A Mnemonic Essay is an essay that while you read it shows you cards with questions about what you read, and then it uses Spaced Repetition to test you later and help you retain the knowledge quicker.
 -
 - ---
+- Q: Could Startover be enhanced with questions? Could we use mnemonic techniques to remind players of Experiments?
+- ---
 - References: https://numinous.productions/ttft/
