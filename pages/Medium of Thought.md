@@ -8,4 +8,5 @@
 	- Paintbrush and canvas
 	- Document
 	- [[LogSeq]]
-- Every Medium of Thought has a [[Context]]. The Context is the
+- Every Medium of Thought has a [[Context]]. When a person
+- The Context of a Medium of Thought is the
