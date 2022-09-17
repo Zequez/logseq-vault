@@ -1,3 +1,3 @@
-- In a context of [[Radical Responsibility]]. It's a matter of discipline. Certain [[Mediums of Thought]] can make it easier to choose to remember something; for example, by programming a computer to ask you to recall a memory on set intervals, it makes it more effortless.
+- In a context of [[Radical Responsibility]]. It's a matter of discipline. Certain [[Mediums of Thought]] can make it easier to choose to remember something; for example, by programming a computer to ping your memory on specific intervals, it makes the connection to the memory stronger.
 - ---
 - Q: In the Context of [[Possibility Management]] how useful
