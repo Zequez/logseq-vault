@@ -12,8 +12,7 @@
 	- Archearchy
 - Every Medium of Thought has a [[Context]]. Under a new Context, a [[Being]] has different [[Possibilities]] available, an emergent property of the Being and the Medium of Thought. New [[Kinds of Thoughts]] can emerge in a different Medium of Thought.
 - For example, right now on my current Medium of Thought, which is LogSeq, the Possibility of [[Streaming my Thought Process]] occurred to me. I feel fuzzy in the stomach about it. [[Fear]] of the implications; but with a sense of Joy. It's a [[New Possibility]].
-- The por [[Mastering a Medium of Thought]]. This means time and focused attention.
--
+- The process of [[Mastering a Medium of Thought]] needs time and focused attention. You get rewarded with new possibilities.
 - The most popular Medium of Thought right now it's [[Patriarchy]]. But you don't have to use that medium just because everyone is using it. You can slowly change your context to [[Archearchy]] as you make new distinctions and upgrade your [[Thoughtware]].
 - The [[Thinker]] and the [[Medium of Thought]] are the same; so if you change your Context, you can change your [[Medium of Thought]]. For example, in a Context of [[Radical Responsibility]] new thoughts emerge that weren't there before.
 - Using the Medium of Thought differently changes your Context. For example, if you write with your left hand instead of your right hand, suddenly the Possibilities are also different. Things occur to you that wouldn't have occurred you had you not changed your Relationship with the Medium of Thought. So you and the Medium of Thought enter into a Relationship. And when you get to know it, then you [[Become As One]].
