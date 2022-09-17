@@ -1,3 +1,3 @@
-- In a context of [[Radical Responsibility]]. It's a matter of discipline.
+- In a context of [[Radical Responsibility]]. It's a matter of discipline. Certain [[Mediums of Thought]] can make it easier to choose to remember something; for example, byt
 - ---
-- Q: In the Context of
+- Q: In the Context of [[Possibility Management]] how useful
