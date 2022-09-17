@@ -10,4 +10,4 @@
 	- [[LogSeq]]
 - Every Medium of Thought has a [[Context]]. Under a new Context, a [[Being]] has different [[Possibilities]] available. New [[Kinds of Thoughts]] can emerge in a different Medium of Thought.
 - For example, right now on my current Medium of Thought, which is LogSeq, the Possibility of [[Streaming my Thought Process]] occurred to me. I feel fuzzy in the stomach about it. [[Fear]] of the implications; but with a sense of Joy. It's a [[New Idea]].
-- It takes patience  [[Mastering a Medium of Thought]] one might experience intense feelings.
+- [[A Medium of Thought Has To Be Mastered]] for it to be effective, your mind has to merge with the medium.
