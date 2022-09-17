@@ -1,2 +1,5 @@
 - It's a [[Medium of Thought]] that uses advanced techniques of memory retention to help the person using it learn quicker.
 - On the Mnemonic Medium the rewards are exponential; an increase in 50% of effort could yield x10 returns. The benefit is delayed however. The Mnemonic Medium is much more like Meditation.
+-
+- ---
+- References: https://numinous.productions/ttft/
