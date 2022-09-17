@@ -8,10 +8,11 @@
 	- Paintbrush and canvas
 	- Document
 	- [[LogSeq]]
+	- Patriarchy
+	- Archearchy
 - Every Medium of Thought has a [[Context]]. Under a new Context, a [[Being]] has different [[Possibilities]] available, an emergent property of the Being and the Medium of Thought. New [[Kinds of Thoughts]] can emerge in a different Medium of Thought.
 - For example, right now on my current Medium of Thought, which is LogSeq, the Possibility of [[Streaming my Thought Process]] occurred to me. I feel fuzzy in the stomach about it. [[Fear]] of the implications; but with a sense of Joy. It's a [[New Idea]].
 - You can merge with your Medium of Thought. You can [[Become The Internet]]. For it you must Master the Medium of Thought
 - [[A Medium of Thought Has To Be Mastered]] for it to be effective, 
   your mind has to merge with the medium. When you merge with the medium, you get absorbed into it.
-- The most popular Medium of Thought right now it's [[Patriarchy]]. But you don't have to use that medium just because everyone is using it. The [[Thinker]] and the [[Medium of Thought]] are the same; so if you change your Context, you can change your [[Medium of Thought]]. For example, in a Context of Ra
-  You could use [[Matriarchy]] or [[Archearchy]]; and new Possibilities emerge.
+- The most popular Medium of Thought right now it's [[Patriarchy]]. But you don't have to use that medium just because everyone is using it. The [[Thinker]] and the [[Medium of Thought]] are the same; so if you change your Context, you can change your [[Medium of Thought]]. For example, in a Context of [[Radical Responsibility]] new thoughts emerge that weren't there before.
