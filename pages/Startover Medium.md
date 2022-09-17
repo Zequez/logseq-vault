@@ -1,1 +1,1 @@
-- Startover.xyz is a [[Medium of Thought]] that helps
+- Startover.xyz is a [[Medium of Thought]] that helps people land [[Distinctions]] in their 5 bodies by the use of [[Experiments]] along with knowledge.
