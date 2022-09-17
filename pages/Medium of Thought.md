@@ -8,8 +8,8 @@
 	- Paintbrush and canvas
 	- Document
 	- [[LogSeq]]
-	- Patriarchy
-	- Archearchy
+	- [[Patriarchy]]
+	- [[Archearchy]]
 	- Your body
 	- Your clothing
 - Every Medium of Thought has a [[Context]]. Under a new Context, a [[Being]] has different [[Possibilities]] available, an emergent property of the Being and the Medium of Thought. New [[Kinds of Thoughts]] can emerge in a different Medium of Thought.
@@ -22,6 +22,7 @@
 	- Medium of Intellectual Expression
 	- Medium of Body Expression
 	- Medium of Symbolic Expression
+	- Is all expression symbolic?
 - ----
 - Q: Should I rename this to Medium of Expression? I feel like everything I'm writing applies to all of the 5 bodies, and using the word "Thought" might get it associated solely with the intellectual body. There is confusion, a tension between an attachment to the "Medium of Thought", like the concept is taking root in my mind, and renaming it to Medium of Expression would take effort. Maybe it's just the repetition.
 	- Experiment: Re-read the whole thing but replacing Medium of Thought for Medium of Expression at every sentence and notice what happens.
