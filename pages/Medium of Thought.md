@@ -8,5 +8,5 @@
 	- Paintbrush and canvas
 	- Document
 	- [[LogSeq]]
-- Every Medium of Thought has a [[Context]]. Under a new Context, a Being can have
+- Every Medium of Thought has a [[Context]]. Under a new Context, a Being has available Possibilities that were formerly impossible before for them. New
 - The Context of a Medium of Thought is the
