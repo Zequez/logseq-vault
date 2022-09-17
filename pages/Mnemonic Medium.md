@@ -6,7 +6,7 @@
 	- ---
 	- References: https://drc.usask.ca/projects/archbook/
 - A Mnemonic Essay is an essay that while you read it shows you cards with questions about what you read, and then it uses Spaced Repetition to test you later and help you retain the knowledge quicker.
--
+- Making cards is a skill that needs to be mastered for the cards to be effective. Shallow questions won't help you remember. Questions made from different pers
 -
 - ---
 - Q: Could Startover be enhanced with questions? Could we use mnemonic techniques to remind players of Experiments?
