@@ -1,3 +1,4 @@
 - A way to reliably achieve the goal with a predictable, manageable amount of effort.
 - ---
-- Reference https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma&stackedNotes=z5BMvN7tZr8wxZdfFHgjvV9Em5HzXPCboardR&stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8&stackedNotes=z53fk5XwrsnueNDDCq6WNe2VbPhrDGQmmVgNS
+- Reference https://notes.andymatuschak.org/z53fk5XwrsnueNDDCq6WNe2VbPhrDGQmmVgNS
+-
