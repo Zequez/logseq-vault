@@ -2,6 +2,7 @@
 - Shower scrubbing
 - Floor mopping
 - Sink Scrubbing
+- Let go of unused things
 - Note bathroom enhancing possibilities
 	- Install 3-towels rack over heater
-	- Remove
+	- Install candles, toilet paper and and towels stands on top of toilet
