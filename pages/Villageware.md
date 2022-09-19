@@ -1,0 +1,1 @@
+- Villageware is software meant to be used by a village of people. Villages are different from arbitrary groups
