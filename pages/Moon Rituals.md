@@ -1,2 +1,3 @@
--
+- [[New Moon Rituals]]
+- [[Full Moon Rituals]]
 -
