@@ -6,4 +6,5 @@
 - Pay attention to bathroom enhancing possibilities
 	- Install 3-towels rack over heater
 	- Install candles, toilet paper and and towels shelf on top of toilet
-	- Install
+	- Upgrade shower to bath
+	-
