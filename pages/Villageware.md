@@ -1,8 +1,9 @@
-- Villageware is software meant to be used by a village of people.
+- Villageware is software meant to be used by a Nanonations.
 - Villages are different from arbitrary groups of people in that they are meant to be collaborative environments by definition.
-- Villages can be of any size, and
+- Villages can be of any size, and people can belong to many villages.
 - Villageware has the following characteristics:
 	- Collaborative
 	- Open-source
 	- Free
+	-
 	-
