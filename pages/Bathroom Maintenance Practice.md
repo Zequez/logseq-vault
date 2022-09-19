@@ -2,9 +2,16 @@
 - Shower scrubbing
 - Floor mopping
 - Sink Scrubbing
+- Compost toilet papers
+- Compost
 - Let go of unused things
 - Pay attention to bathroom enhancing possibilities
 	- Install 3-towels rack over heater
 	- Install candles, toilet paper and and towels shelf on top of toilet
 	- Upgrade shower to bath
+	- Shower head change
+	- Shower head holder change
+	- Shower light update
+	- Change windows to be insulating
+	- Insulate south wall of bathroom
 	-
