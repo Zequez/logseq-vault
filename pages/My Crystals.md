@@ -1,3 +1,3 @@
 - Labradorite
 - Sun Stone
--
+- Sodalite
