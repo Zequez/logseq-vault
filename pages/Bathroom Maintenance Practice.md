@@ -3,6 +3,7 @@
 - Floor mopping
 - Sink Scrubbing
 - Let go of unused things
-- Note bathroom enhancing possibilities
+- Pay attention to bathroom enhancing possibilities
 	- Install 3-towels rack over heater
-	- Install candles, toilet paper and and towels stands on top of toilet
+	- Install candles, toilet paper and and towels shelf on top of toilet
+	- Install
