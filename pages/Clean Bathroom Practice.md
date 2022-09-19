@@ -1,5 +1,0 @@
-- Toilet scrubbing
-- Shower scrubbing
-- Floor mopping
-- Sink Scrubbing
--

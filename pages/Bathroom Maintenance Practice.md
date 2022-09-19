@@ -1,0 +1,7 @@
+- Toilet scrubbing
+- Shower scrubbing
+- Floor mopping
+- Sink Scrubbing
+- Note bathroom enhancing possibilities
+	- Install 3-towels rack over heater
+	- Remove
