@@ -1,0 +1,1 @@
+- Key idea: A copy of the Firefox web browser, but with a twist, you share a set of browser extensions with a tribe. You can also see and copy the web extensions of other tribes. Everyone in the tribe can create a web extension.
