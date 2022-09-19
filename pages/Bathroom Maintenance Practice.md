@@ -1,7 +1,8 @@
-- Toilet scrubbing
-- Shower scrubbing
-- Floor mopping
-- Sink Scrubbing
+- Cleaning
+	- Toilet scrubbing
+	- Shower scrubbing
+	- Floor mopping
+	- Sink Scrubbing
 - Compost toilet papers
 - Compost hair bucket
 - Consolidate soaps
@@ -17,5 +18,6 @@
 	- Change windows to be insulating
 	- Insulate south wall of bathroom
 	-
--
+- ---
+- Q: How do I actually apply the enhancing possibilities?
 	-
