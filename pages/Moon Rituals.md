@@ -1,3 +1,5 @@
+- ## New Moon vs Full Moon Rituals
+	-
 - [[New Moon Rituals]]
 - [[Full Moon Rituals]]
 -
