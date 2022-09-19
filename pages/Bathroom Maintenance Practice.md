@@ -3,11 +3,12 @@
 	- Shower scrubbing
 	- Floor mopping
 	- Sink Scrubbing
-- Compost toilet papers
-- Compost hair bucket
-- Consolidate soaps
-- Let go of unused things
-- Order things that became disordered
+- Ordering
+	- Compost toilet papers
+	- Compost hair bucket
+	- Consolidate soaps
+	- Let go of unused things
+	- Order things that became disordered
 - Pay attention to bathroom enhancing possibilities
 	- Install 3-towels rack over heater
 	- Install candles, toilet paper and and towels shelf on top of toilet
