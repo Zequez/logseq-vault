@@ -1,5 +1,5 @@
 - #.v-kanban
-	-
+	- id:: 632944fa-4e6d-4ab6-9c0c-c59ddb69347e
 		- You were born with a large-size tube of 'Is Glue' on your [[Energetic Toolbelt]]. No one needed to explain to you how to use your Is Glue. Everyone uses it, so you use it too.
 		  id:: 63294433-fd96-4fa5-b6db-4f37a72e0465
 		- The Golden Key for [[Declaring What Is So]] conscious is to make your use of 'Is Glue' conscious.
@@ -29,7 +29,10 @@
 	- shall / shan't
 	- will / won't
 - ## Experiments
-	- Make a video of the Is Conjugation
+	- NOW Make a video of the Is Conjugation
+	  :LOGBOOK:
+	  CLOCK: [2022-09-20 Tue 02:17:29]
+	  :END:
 		- Write the conjugations in your [[BEEP! Book]]
 		- Memorize the conjugations; maybe using [[Spaced Repetition]]
 		- Make a short video about you saying them; with a dance, without reading them
