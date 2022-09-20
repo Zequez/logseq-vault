@@ -54,7 +54,8 @@
 			- This computer is expensive -> Belief
 			- I am a human -> Storyworld
 			- You are an idiot -> Judgement
-			- You don't listen to me ->
+			- You don't listen to me -> Conclusions
+			- This doesn't make sense -> Assumption: I'm assuming it doesn't make sense because I don't understand it
 			-
 			-
 - ## Cards
