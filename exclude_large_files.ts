@@ -1,2 +1,2 @@
 console.log("Excluding large files from Git repo");
-Deno.run({ cmd: ["echo", "abcd"] });
+Deno.run({ cmd: "find ./assets -type f -size +5MB".split(" ") });
