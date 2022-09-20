@@ -41,6 +41,7 @@
 		- Make a short video about you saying them; with a dance, without reading them
 			- Do it using each of the [[Four Feelings]]. Choose many different ways to say them.
 			-
+- ## Cards
 -
 - ---
 - Reference: https://isglue.mystrikingly.com/
