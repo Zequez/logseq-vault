@@ -20,7 +20,15 @@ async function filesLargerThan5MB() {
 }
 
 function linesOnGitignore() {
-  return decode(Deno.readFileSync(".gitignore"));
+  return decode(Deno.readFileSync(".gitignore"))
+    .split(/\n/)
+    .filter((v) => !!v);
+}
+
+function filesNotAlreadyExcluded() {
+  const files = await filesLargerThan5MB();
+  const gitignore = linesOnGitignore();
+  const notExcludedYet = files.filter((f) => gitignore.indexOf(f));
 }
 
 const files = await filesLargerThan5MB();
