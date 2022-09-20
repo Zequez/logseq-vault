@@ -1,3 +1,5 @@
+import { copy } from "https://deno.land/std@0.104.0/io/util.ts";
+
 console.log("Excluding large files from Git repo");
 
 function decode(str: BufferSource) {
