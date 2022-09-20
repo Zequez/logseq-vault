@@ -19,10 +19,10 @@ async function filesLargerThan5MB() {
 }
 
 function linesOnGitignore() {
-  console.log(await decode(Deno.readFileSync(".gitignore")));
+  return decode(Deno.readFileSync(".gitignore"));
 }
 
-const files = filesLargerThan5MB();
+const files = await filesLargerThan5MB();
 
 console.log(files);
 console.log(linesOnGitignore());
