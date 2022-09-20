@@ -11,6 +11,7 @@
 		- {{embed [[Purpose Sniffer]]}}
 - There are many kinds of declaring
 	- Beliefs
+		-
 	- Conclusions
 	- Assumptions
 	- Expectations
@@ -22,6 +23,10 @@
 	- Resentment
 	-
 -
+- ## Experiments
+	- Consciously declare using Is Glue
+	- Consciously use your Purpose Sniffer
+	-
 -
 - ---
 - Reference: https://declaring.mystrikingly.com/
