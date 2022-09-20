@@ -1,3 +1,3 @@
--
+- #.v-kanban
 	- A simple device for detecting Purpose. It is very precise. Aim is at any thought, word, or deed (yours or others') and it tells you within several decimal points of accuracy what the purpose is.
-	-
+	- ![image.png](../assets/image_1663649176767_0.png)
