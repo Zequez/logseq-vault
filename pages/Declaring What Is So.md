@@ -26,6 +26,12 @@
 - ## Experiments
 	- Consciously declare using Is Glue
 	- Consciously use your Purpose Sniffer
+	- Unconsciously declare a Story World
+	- Consciously declare a Story World
+	- Consciously declare Unheld Space
+	- Consciously declare Spaceholding with your Clicker
+	- Consciously declare Low Drama
+	- Consciously declare High Drama
 	-
 -
 - ---
