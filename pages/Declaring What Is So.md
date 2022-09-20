@@ -23,7 +23,7 @@
 	- Story World
 	- Judgements
 	- Resentment
-		-
+		- Wait until someone break your expectation. You will feel like you have been betrayed. Someone did not behave the way you wanted them to be.
 	-
 - ## Experiments
 	- Consciously declare using Is Glue
