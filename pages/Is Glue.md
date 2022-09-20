@@ -7,13 +7,12 @@
 		  All the kinds of Declaring function by large and - until now - mostly unconscious doses of 'Is Glue'.
 	- ![image.png](../assets/image_1663649028485_0.png)
 -
-- ## Is Glue Conjuctions
-	- is, am, are, was, were, has, have, had, do, does, did, may, might, must, can, could, should, would, shall, will and the "not" forms
-	- Isn't, aren't, wasn't, weren't, hasn't, haven't, hadn't, don't, doesn't, didn't, mustn't, can
+- ## Is Glue Conjuctions / Formulations
+	- is, am, are, was, were, has, have, had, do, does, did, may, might, must, can, could, should, would, shall, will
+	- Isn't, aren't, wasn't, weren't, hasn't, haven't, hadn't, don't, doesn't, didn't, mustn't, can't, cannot, couldn't, shouldn't, wouldn't, shan't , won't
 - ## Experiments
 	- Make a video of the Is Conjugation
-		- Write and memorize the conjugations of is:
-			- is, am, are, was, were, has, have, had, do, does, did, may, might, must, can, could, should, would, shall, will and the "not" forms
+		- Write and memorize the conjugations of is
 -
 - ---
 - Reference: https://isglue.mystrikingly.com/
