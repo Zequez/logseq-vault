@@ -1,1 +1,2 @@
-- A Distinction is an energetic declaration that [[Building Matrix]]
+- A Distinction is an energetic declaration. When you get a distinction it lands in your [[Matrix]] and reorders your [[Energetic Body]] in such a way that
+- [[Building Matrix]]
