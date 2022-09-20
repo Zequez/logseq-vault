@@ -53,7 +53,8 @@
 		- ---
 			- This computer is expensive -> Belief
 			- I am a human -> Storyworld
-			- You are reading this -> Belief
+			- You are an idiot -> Judgement
+			- You don't listen to me ->
 			-
 			-
 - ## Cards
