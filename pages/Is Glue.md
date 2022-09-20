@@ -25,12 +25,13 @@
 	- Conditional
 		- may
 		- mightn't
-	- mustn't
-	- could / couldn't
-	- should / shouldn't
-	- would / wouldn't
-	- shall / shan't
-	- will / won't
+		- could / couldn't
+		- would / wouldn't
+	- Future
+		- mustn't
+		- should / shouldn't
+		- will / won't
+		- shall / shan't
 - ## Experiments
 	- NOW Make a video of the Is Conjugation
 	  :LOGBOOK:
