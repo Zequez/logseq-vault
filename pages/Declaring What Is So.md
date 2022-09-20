@@ -32,6 +32,14 @@
 	- Consciously declare Spaceholding with your Clicker
 	- Consciously declare Low Drama
 	- Consciously declare High Drama
+	- Unconsciusly declare Judgements
+	- Consciously declare Judgements
+	- Unconsciously declare Beliefs
+	- Consciously declare Beliefs
+	- Unconsciously declare Assumptions
+	- Consciously declare Assumptions
+	- Unconsciously declare Conclusions
+	- Consciously declare Conclusions
 	-
 -
 - ---
