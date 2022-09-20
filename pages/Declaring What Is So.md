@@ -4,7 +4,7 @@
 - Declaring is 1 of your 3 powers.
 - Declaring is made with [[Is Glue]]
 	- {{embed [[Is Glue]]}}
--
+- Every declaration has a purpose
 -
 -
 - Declaring is made with Is Glue.

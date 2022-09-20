@@ -1,4 +1,4 @@
-- #.v-kanba
+- #.v-kanban
 	-
 		- You were born with a large-size tube of 'Is Glue' on your [[Energetic Toolbelt]]. No one needed to explain to you how to use your Is Glue. Everyone uses it, so you use it too.
 		  id:: 63294433-fd96-4fa5-b6db-4f37a72e0465
