@@ -13,6 +13,7 @@
 	- Beliefs
 	- Conclusions
 	- Assumptions
+		- Any assumption you make has only one purpose: to take revenge on the person you made the assumption against. There is an easy guide to create revenge.
 	- Expectations
 	- Positionality
 	- Prejudices
