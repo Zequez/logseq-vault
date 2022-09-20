@@ -4,7 +4,7 @@
 - Filter out big files from Git repo
 	- List files larger than 5mb amount on the assets directory
 	- Add big files to .gitignore
-	- Filter out big files from repo by using command:
+	- Regularly filter out big files from repo by using command:
 		- ```
 		  git filter-repo --invert-paths --path 'path/to/file1 path/to/file1'
 		  ```
