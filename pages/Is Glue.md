@@ -42,6 +42,7 @@
 			- Do it using each of the [[Four Feelings]]. Choose many different ways to say them.
 			-
 - ## Cards
--
+	- #Card What is 'Is Glue' the golden key of? {{/cloze Of Consciously Declaring}}
+	-
 - ---
 - Reference: https://isglue.mystrikingly.com/
