@@ -11,7 +11,6 @@
 		- {{embed [[Purpose Sniffer]]}}
 - There are many kinds of declaring
 	- Beliefs
-		-
 	- Conclusions
 	- Assumptions
 	- Expectations
@@ -48,7 +47,11 @@
 	- Consciously declare Projections
 	- Unconsciously declare Prejudices
 	- Consciously declare Prejudices
-	- Consciously
+	- Consciously declare Resentment
+	- Consciously take your Resentment apart
+	- Consciously recover Intimacy
+	- Unconsciously declare Self Invocation
+	- Consciously declare Self Invocation
 -
 - ---
 - Reference: https://declaring.mystrikingly.com/
