@@ -8,6 +8,9 @@
 	- ![image.png](../assets/image_1663649028485_0.png)
 -
 - ## Is Glue Conjuctions / Formulations
+	- is, am, are, was, were, has, have, had, do, does, did, may, might, must, can, could, should, would, shall, will
+	- iaawwhhhdddmmmccsswsw
+	-
 	- Present
 		- is / isn't
 		- am
@@ -32,6 +35,7 @@
 		- should / shouldn't
 		- will / won't
 		- shall / shan't
+	-
 - ## Experiments
 	- NOW Make a video of the Is Conjugation
 	  :LOGBOOK:
