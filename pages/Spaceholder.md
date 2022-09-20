@@ -1,0 +1,5 @@
+- Someone who is [[Holding a Space]] and [[Navigating Space]].
+- # Skills
+	- [[Holding a Space]]
+	- [[Navigating Space]]
+	-
