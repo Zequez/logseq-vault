@@ -40,7 +40,7 @@ const notExcludedYet = await filesNotAlreadyExcluded();
 
 console.log(notExcludedYet.join(" "));
 
-Deno.run({
+const filterRepo = Deno.run({
   cmd: [
     "git",
     "filter-repo",
@@ -48,6 +48,12 @@ Deno.run({
     "--path",
     `'${notExcludedYet.join(" ")}'`,
   ],
-  stdout: "inherit",
-  stderr: "inherit",
+  stdout: "piped",
+  stderr: "piped",
 });
+
+copy(filterRepo.stdout, Deno.stdout);
+copy(filterRepo.stderr, Deno.stderr);
+
+await filterRepo.status();
+console.log("Done!");
