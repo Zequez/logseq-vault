@@ -20,11 +20,17 @@
 	- does / doesn't
 	- did / didn't
 	- may
-	- mightn't , must, can, could, should, would, shall, will
-	- Isn't, aren't, wasn't, weren't, hasn't, haven't, hadn't, don't, doesn't, didn't, mustn't, can't, cannot, couldn't, shouldn't, wouldn't, shan't , won't
+	- mightn't
+	- mustn't
+	- can / can't / cannot
+	- could / couldn't
+	- should / shouldn't
+	- would / wouldn't
+	- shall / shan't
+	- will / won't
 - ## Experiments
 	- Make a video of the Is Conjugation
-		- Write and memorize the conjugations of is
+		- Memorize the conjugations of is
 -
 - ---
 - Reference: https://isglue.mystrikingly.com/
