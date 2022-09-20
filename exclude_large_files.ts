@@ -5,4 +5,6 @@ const p = Deno.run({
   stderr: "piped",
 });
 
-console.log(await p.output());
+const files = new TextDecoder().decode(await p.output()).split(/\n/);
+
+console.log(files);
