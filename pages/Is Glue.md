@@ -51,8 +51,9 @@
 		- Make a short video about you saying them; with a dance, without reading them
 			- Do it using each of the [[Four Feelings]]. Choose many different ways to say them.
 		- ---
-			- This computer is
-			- I am a programmer -> Storyworld
+			- This computer is expensive -> Belief
+			- I am a human -> Storyworld
+			- You are reading this -> Belief
 			-
 			-
 - ## Cards
