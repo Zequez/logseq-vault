@@ -1,4 +1,4 @@
-- Someone who is [[Holding a Space]] and [[Navigating Space]].
+- Someone who is [[Holding a Space]] and if skillful can also be [[Navigating Space]].
 - # Skills
 	- [[Holding a Space]]
 	- [[Navigating Space]]
