@@ -9,9 +9,10 @@
 -
 - ## Is Glue Conjuctions / Formulations
 	- is, am, are, was, were, has, have, had, do, does, did, may, might, must, can, could, should, would, shall, will
-	- es, soy, son, era, eran, tiene, tienen, tenían, hace, hacen, hicieron, quizás, deben, pueden, podrían, deberían, pudieran, deben, van
-	- iaawwhhhdddmmmccsswsw
-	- aaccdddhhhimmmsswwww
+		- iaawwhhhdddmmmccsswsw
+		- Sorted? aaccdddhhhimmmsswwww
+	- En Español?
+		- es, soy, son, era, eran, tiene, tienen, tenían, hace, hacen, hicieron, quizás, deben, pueden, podrían, deberían, pudieran, deben, van
 	- Present
 		- is / isn't
 		- am
