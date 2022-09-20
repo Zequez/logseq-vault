@@ -1,4 +1,8 @@
 - All my notes are public, I don't store private information on this vault.
-- Hosted at Github
+- Hosted at Github https://github.com/Zequez/logseq-vault
 - Available at: http://notes.zequez.space/
+-
+- Push Every X Hours With A Cronjob
+	-
+-
 -
