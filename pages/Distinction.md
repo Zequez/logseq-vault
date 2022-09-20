@@ -4,7 +4,7 @@
 	- ![image.png](../assets/image_1663653165291_0.png)
 	-
 - It is possible that the [[Gameworld]] you are supposed to build does not belong to you, but to consciousness itself using you - and your hands and mouths - to manifest reality.
-- While [[Holding a Space]], the process of clarifying the Distinctions that will be used in that [[Space]],  Setting [[Context]] is the process
+- While [[Holding a Space]], the process of clarifying the Distinctions that will be used in that [[Space]] is called [[Setting Context]]. As the net gets tighter,
 - ---
 	- Reference: https://distinction.mystrikingly.com/
 	-
