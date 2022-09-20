@@ -29,9 +29,11 @@
 	- shall / shan't
 	- will / won't
 - ## Experiments
-	- NOW Make a video of the Is Conjugation
+	- LATER Make a video of the Is Conjugation
 	  :LOGBOOK:
-	  CLOCK: [2022-09-20 Tue 02:17:29]
+	  CLOCK: [2022-09-20 Tue 02:17:29]--[2022-09-20 Tue 02:18:45] =>  00:01:16
+	  CLOCK: [2022-09-20 Tue 02:18:45]--[2022-09-20 Tue 02:18:46] =>  00:00:01
+	  CLOCK: [2022-09-20 Tue 02:18:46]--[2022-09-20 Tue 02:18:47] =>  00:00:01
 	  :END:
 		- Write the conjugations in your [[BEEP! Book]]
 		- Memorize the conjugations; maybe using [[Spaced Repetition]]
