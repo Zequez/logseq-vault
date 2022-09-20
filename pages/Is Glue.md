@@ -6,3 +6,12 @@
 		- 'Is' does not exist in nature. It is a concoction of the human mind. No other animals use 'Is Glue'.
 		  All the kinds of Declaring function by large and - until now - mostly unconscious doses of 'Is Glue'.
 	- ![image.png](../assets/image_1663649028485_0.png)
+-
+- ## Experiments
+	- Make a video of the Is Conjugation
+		- list of conjugations of "is":
+		-
+		- is, am, are, was, were, has, have, had, do, does, did, may, might, must, can, could, should, would, shall, will and the "not" forms
+-
+- ---
+- Reference: https://isglue.mystrikingly.com/
