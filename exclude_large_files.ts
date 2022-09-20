@@ -13,7 +13,8 @@ async function filesLargerThan5MB() {
 
   const files = decode(await p.output())
     .split(/\n/)
-    .filter((v) => !!v);
+    .filter((v) => !!v)
+    .map((v) => v.slice(2));
 
   return files;
 }
