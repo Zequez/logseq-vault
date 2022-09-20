@@ -53,7 +53,7 @@
 		- ---
 			- This computer is expensive -> Belief
 			- I am a human -> Storyworld
-			- You are  -> Judgement:
+			- You are unconscious -> Judgement: I see you don't understand something I do
 			- You don't change -> Conclusions: I see you doing something that you have done before, so I conclude you don't change
 			- This doesn't make sense -> Assumption: I'm assuming it doesn't make sense because I don't understand it
 			-
