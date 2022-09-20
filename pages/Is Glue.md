@@ -10,7 +10,7 @@
 - ## Is Glue Conjuctions / Formulations
 	- is, am, are, was, were, has, have, had, do, does, did, may, might, must, can, could, should, would, shall, will
 	- iaawwhhhdddmmmccsswsw
-	-
+	- aaccdddhhhimmmsswwww
 	- Present
 		- is / isn't
 		- am
