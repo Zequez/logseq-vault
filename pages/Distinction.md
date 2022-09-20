@@ -3,5 +3,7 @@
 - Each Distinction in your Energetic Body acts like a thread on a net that allows you to catch more [[Consciousness]].
 	- ![image.png](../assets/image_1663653165291_0.png)
 	-
-- [[Building Matrix]]
+	-
+- ---
+	- Reference: https://distinction.mystrikingly.com/
 	-
