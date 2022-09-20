@@ -38,7 +38,7 @@ const notExcludedYet = await filesNotAlreadyExcluded();
 
 // git filter-repo --invert-paths --path 'path/to/file1 path/to/file1'
 
-console.log(notExcludedYet);
+console.log(notExcludedYet.join(" "));
 
 Deno.run({
   cmd: [
