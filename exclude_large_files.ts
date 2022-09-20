@@ -34,4 +34,15 @@ async function filesNotAlreadyExcluded() {
 
 const notExcludedYet = await filesNotAlreadyExcluded();
 
+// git filter-repo --invert-paths --path 'path/to/file1 path/to/file1'
+Deno.run({
+  cmd: [
+    "git",
+    "filter-repo",
+    "--invert-paths",
+    "--path",
+    `'${notExcludedYet.join(" ")}'`,
+  ],
+});
+
 console.log(notExcludedYet);
