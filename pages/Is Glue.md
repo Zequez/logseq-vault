@@ -33,6 +33,8 @@
 		- Write the conjugations in your [[BEEP! Book]]
 		- Memorize the conjugations; maybe using [[Spaced Repetition]]
 		- Make a short video about you saying them; with a dance, without reading them
+			- Do it using each of the [[Four Feelings]]. Choose many different ways to say them.
+			-
 -
 - ---
 - Reference: https://isglue.mystrikingly.com/

@@ -1,0 +1,1 @@
+- Anger, Sadness, Fear, Joy
