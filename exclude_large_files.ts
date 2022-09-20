@@ -30,6 +30,7 @@ function linesOnGitignore() {
 async function filesNotAlreadyExcluded() {
   const files = await filesLargerThan5MB();
   const gitignore = linesOnGitignore();
+  return files;
   const notExcludedYet = files.filter((f) => gitignore.indexOf(f) === -1);
   return notExcludedYet;
 }
