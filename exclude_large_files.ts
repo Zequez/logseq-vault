@@ -25,13 +25,13 @@ function linesOnGitignore() {
     .filter((v) => !!v);
 }
 
-function filesNotAlreadyExcluded() {
+async function filesNotAlreadyExcluded() {
   const files = await filesLargerThan5MB();
   const gitignore = linesOnGitignore();
-  const notExcludedYet = files.filter((f) => gitignore.indexOf(f));
+  const notExcludedYet = files.filter((f) => gitignore.indexOf(f) === -1);
+  return notExcludedYet;
 }
 
-const files = await filesLargerThan5MB();
+const notExcludedYet = await filesNotAlreadyExcluded();
 
-console.log(files);
-console.log(linesOnGitignore());
+console.log(notExcludedYet);
