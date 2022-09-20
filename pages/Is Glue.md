@@ -9,7 +9,7 @@
 -
 - ## Is Glue Conjuctions
 	- is, am, are, was, were, has, have, had, do, does, did, may, might, must, can, could, should, would, shall, will and the "not" forms
-	-
+	- Isn't, aren't, wasn't, weren't, hasn't, haven't, hadn't, don't, doesn't, didn't, mustn't, can
 - ## Experiments
 	- Make a video of the Is Conjugation
 		- Write and memorize the conjugations of is:
