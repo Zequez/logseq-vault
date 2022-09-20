@@ -13,14 +13,17 @@
 	- Beliefs
 	- Conclusions
 	- Assumptions
-		- Any assumption you make has only one purpose: to take revenge on the person you made the assumption against. There is an easy guide to create revenge.
+		- Anyone can make an assumption about anything for no reason.
+		- Any assumption you make has only one purpose: to take revenge on the person you made the assumption against. [There is an easy guide to create revenge.](https://expectations.mystrikingly.com/)
 	- Expectations
+		- Believe your assumption is true. I mean, you are not stupid, why would you make an assumption if you did not believe it to be true? Assumming that your assumptions is true - making a double assumption - turns your assumption into an expectation. Then hold your expectation against that person.
 	- Positionality
 	- Prejudices
 	- Projections
 	- Story World
 	- Judgements
 	- Resentment
+		-
 	-
 - ## Experiments
 	- Consciously declare using Is Glue
