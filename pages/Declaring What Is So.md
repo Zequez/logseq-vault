@@ -13,7 +13,16 @@
 	- Beliefs
 	- Conclusions
 	- Assumptions
+	- Expectations
+	- Positionality
+	- Prejudices
+	- Projections
+	- Story World
+	- Judgements
+	- Resentment
+	-
 -
 -
-- Declaring is made with Is Glue.
+- ---
+- Reference: https://declaring.mystrikingly.com/
 -
