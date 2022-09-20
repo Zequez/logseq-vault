@@ -37,7 +37,7 @@
 		- should / shouldn't
 		- will / won't
 		- shall / shan't
-	-
+-
 - ## Experiments
 	- NOW Make a video of the Is Conjugation
 	  :LOGBOOK:
@@ -50,6 +50,10 @@
 		- Memorize the conjugations; maybe using [[Spaced Repetition]]
 		- Make a short video about you saying them; with a dance, without reading them
 			- Do it using each of the [[Four Feelings]]. Choose many different ways to say them.
+		- ---
+			- This computer is
+			- I am a programmer -> Storyworld
+			-
 			-
 - ## Cards
 	- #Card What is 'Is Glue' the golden key of? {{cloze Of Consciously Declaring}}
