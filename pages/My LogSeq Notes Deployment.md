@@ -1,0 +1,4 @@
+- All my notes are public, I don't store private information on this vault.
+- Hosted at Github
+- Available at: http://notes.zequez.space/
+-
