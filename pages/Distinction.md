@@ -4,7 +4,7 @@
 	- ![image.png](../assets/image_1663653165291_0.png)
 	-
 - It is possible that the [[Gameworld]] you are supposed to build does not belong to you, but to consciousness itself using you - and your hands and mouths - to manifest reality.
-- While [[Holding a Space]], the process of clarifying the Distinctions that will be used in that [[Space]] is called [[Setting Context]]. As the net gets tighter,
+- While [[Holding a Space]], the process of clarifying the Distinctions that will be used in that [[Space]] is called [[Setting Context]]. As the net gets tighter it turns into a sail, and it catches the winds of Consciousness and you can surf the waves of life and evolution with little to no use of your
 - ---
 	- Reference: https://distinction.mystrikingly.com/
 	-
