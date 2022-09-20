@@ -1,5 +1,9 @@
 console.log("Excluding large files from Git repo");
 
+function decode(str: BufferSource) {
+  return new TextDecoder().decode(str);
+}
+
 async function filesLargerThan5MB() {
   const p = Deno.run({
     cmd: "find ./assets -type f -size +5MB".split(" "),
@@ -7,8 +11,7 @@ async function filesLargerThan5MB() {
     stderr: "piped",
   });
 
-  const files = new TextDecoder()
-    .decode(await p.output())
+  const files = decode(await p.output())
     .split(/\n/)
     .filter((v) => !!v);
 
@@ -16,7 +19,7 @@ async function filesLargerThan5MB() {
 }
 
 function linesOnGitignore() {
-  console.log(Deno.readFileSync(".gitignore"));
+  console.log(await decode(Deno.readFileSync(".gitignore")));
 }
 
 const files = filesLargerThan5MB();
