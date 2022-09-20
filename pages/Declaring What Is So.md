@@ -5,6 +5,9 @@
 - Declaring is made with [[Is Glue]]
 	- {{embed [[Is Glue]]}}
 - Every declaration has a purpose
+	- Conscious declarations serve conscious purposes
+	- Unconscious declarations serve unconscious purposes
+	- You can sniff the purpose of a declaration with the [[Purpose Sniffer]]
 -
 -
 - Declaring is made with Is Glue.
