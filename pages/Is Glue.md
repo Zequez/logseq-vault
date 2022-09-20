@@ -8,21 +8,24 @@
 	- ![image.png](../assets/image_1663649028485_0.png)
 -
 - ## Is Glue Conjuctions / Formulations
-	- is / isn't
-	- am
-	- are / aren't
-	- was / wasn't
-	- were / weren't
-	- has / hasn't
-	- have / haven't
-	- had / hadn't
-	- do / don't
-	- does / doesn't
-	- did / didn't
-	- may
-	- mightn't
+	- Present
+		- is / isn't
+		- am
+		- are / aren't
+		- do / don't
+		- does / doesn't
+		- can / can't / cannot
+	- Past
+		- was / wasn't
+		- were / weren't
+		- has / hasn't
+		- have / haven't
+		- had / hadn't
+		- did / didn't
+	- Conditional
+		- may
+		- mightn't
 	- mustn't
-	- can / can't / cannot
 	- could / couldn't
 	- should / shouldn't
 	- would / wouldn't
