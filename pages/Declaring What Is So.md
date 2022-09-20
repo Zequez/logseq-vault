@@ -40,7 +40,15 @@
 	- Consciously declare Assumptions
 	- Unconsciously declare Conclusions
 	- Consciously declare Conclusions
-	-
+	- Unconsciously declare Expectations
+	- Consciously declare Expectations
+	- Unconsciously declare Positionality
+	- Consciously declare Positionality
+	- Unconsciously declare Projections
+	- Consciously declare Projections
+	- Unconsciously declare Prejudices
+	- Consciously declare Prejudices
+	- Consciously
 -
 - ---
 - Reference: https://declaring.mystrikingly.com/
