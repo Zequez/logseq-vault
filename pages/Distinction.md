@@ -1,1 +1,1 @@
-- Making Distinctions is the  [[Building Matrix]]
+- A Distinction is an energetic declaration that [[Building Matrix]]
