@@ -1,4 +1,5 @@
 - There is in me a deep craving to move outdoors. Waking up and breathing deeply the cold morning air and listening to the chirping birds. Sitting next to the rain, feeling the wet grass with my bare feet.  Being next to the fire, cooking, chopping wood. Caring for the garden. Playing with my cat.
+- ## Practical
 - Get a big tarp
 - Set up tent
 - Gardening Tools
@@ -22,4 +23,4 @@
 - Safe spaces for Coral to play
 	- We can be inside big tent even when it rains
 	- Make garden mostly safe for Coral, specially around tent
-	- Move or block access to bees
+	- Move out of reach or fence bees
