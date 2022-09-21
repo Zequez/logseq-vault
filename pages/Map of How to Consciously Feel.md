@@ -12,3 +12,7 @@
 - Tené a mano una toalla fuerte y pañuelos. La toalla la podés agarrar con las manos para que te ayude con el trabajo de la ira. Los pañuelos ya sabés para qué son.
 - Sentate
 -
+-
+- Q: Why male-male female-female for the thoughtmap?
+- Q: Is sitting in the floor while
+-
