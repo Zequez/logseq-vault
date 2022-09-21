@@ -19,5 +19,7 @@
 	- Drawing
 	- Tinkering?
 	- Woodworking?
-- Safe space for Coral to play
-	- Inside tent?
+- Safe spaces for Coral to play
+	- We can be inside big tent even when it rains
+	- Make garden mostly safe for Coral, specially around tent
+	- Move or block access to bees
