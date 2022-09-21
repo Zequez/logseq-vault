@@ -2,6 +2,8 @@
 	- In a patriarchy regard men as their enemies
 	- ### Cowshit
 		- It's very true, but irrelevant
+	- ####
+	- The unconscious negative manifestation of the feminine is _evil_. Evil uses the intimate knowledge and all-encompassing experience of the Everything to manipulate and destroy love.
 - ## Men
 	- In a patriarchy they don't have to grow up
 	- ### Bullshit
