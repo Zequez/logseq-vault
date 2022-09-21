@@ -4,4 +4,8 @@
 - Gardening Tools
 - Cold Acclimatization
 - Rainwater Collection
-- Setting Up
+- Composting Toilet
+- Outdoors Shower
+- Camping Mealprep Space
+	- Rocket Stove
+-
