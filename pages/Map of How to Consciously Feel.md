@@ -11,7 +11,8 @@
 - Arreglá un espacio donde ambos tengan suficiente privacidad como para hacer sonidos fuertes sin ser interrumpidos. Los sentimientos pueden ser ruidosos.
 - Tené a mano una toalla fuerte y pañuelos. La toalla la podés agarrar con las manos para que te ayude con el trabajo de la ira. Los pañuelos ya sabés para qué son.
 - Siéntense enfrentades une al otre con la espalda recta, y sin nada entre ustedes.
-- Una persona va primero, le sentidore. La otra es le coach. El principal trabajo del coach
+- Una persona va primero, le sentidore. La otra es le coach. El principal trabajo dele coach es escuchar.
+- Le coach dice "Cierra tus ojos y confiá en tus sensaciones
 -
 -
 -
