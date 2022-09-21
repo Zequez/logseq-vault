@@ -5,4 +5,4 @@
 - # Español
 - Ejercicio de 30 minutos para hacer con un compañere 1 o 2 veces por semana. Es una forma simple, segura y efectiva de aprender a sentir conscientemente.
 - Es un ejercicio de pareja, no para hacerlo solo. No te va ayudar hacerlo sole. La comunicación persiste hasta que es recibida. Para que la comunicación sea recibida debe haber alguien ahí para escucharte. Sin un oyente responsable, simplemente te estás ahogando en tus propias penas.
-- Cada sesión tiene 2 partes. En la primera parte se hace el ejercicio en una dirección, y luego se revierten los roles. Esto es para evitar la dinámica de los roles de cliente/terapeuta
+- Cada sesión tiene 2 partes. En la primera parte se hace el ejercicio en una dirección, y luego se revierten los roles. Esto es para evitar la dinámica de los roles de cliente/terapeuta ("Estoy roto, arreglame"). Ningune de les dos está roto, son [[Edgeworker]] haciendo e
