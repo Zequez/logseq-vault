@@ -1,3 +1,4 @@
 - We are going through an age of transition.
-- [[Bridges]] are being built by [[Edgeworkers]] to transition as much of humanity from [[Patriarchy]] [[Context]] to [[Archearchy]] as quickly as possible. Masses of [[New Refugees]] are waking up from
+- [[Bridges]] are being built by [[Edgeworkers]] to transition as much of humanity from [[Patriarchy]] [[Context]] to [[Archearchy]] as quickly as possible. Masses of [[New Refugees]] are waking up from the [[Dream of the World]] and are being initiated into [[Authentic Adulthood]] and [[Expand their Boxes]]
+-
 -
