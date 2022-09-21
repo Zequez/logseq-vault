@@ -3,9 +3,9 @@
 	- ### Cowshit
 		- It's very true, but irrelevant
 - ## Men
-	-
-- ### Bullshit
-	- It's very relevant, but not true
+	- In a patriarchy they don't have to grow up
+	- ### Bullshit
+		- It's very relevant, but not true
 - ---
 - [[Mujeres y Hombres]]
 - ---
