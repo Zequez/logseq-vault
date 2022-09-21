@@ -12,4 +12,8 @@
 	- Dried fruit
 	- Fruits
 	- Vegetables that can be snacked at
--
+- Work Surface
+	- Internet
+	- Digital
+	- Writting
+	- Drawing
