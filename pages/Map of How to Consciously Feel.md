@@ -21,7 +21,9 @@
 	- Alienta ale sentidore que se mantenga fuera de su cabeza y en cambio diga "Me siento (enojade, triste, contente, temerose) porque ________"
 	- Coach al sentidore para [[Des-mezclar Sentimientos Mezclados]]
 	- Coach al sentidore para que mida la intensidad (1% a 100%) de sus sentimientos.
-	-
+	- En el momento de climax pregunta "Qué es lo que decidiste?". Escribe la respuesta.
+	- En la mitad del tiempo, cambia de roles y comienza de nuevo
+- Tomate unos minutos al final de cada sesión
 -
 -
 -
