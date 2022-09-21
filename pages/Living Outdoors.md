@@ -17,3 +17,7 @@
 	- Digital
 	- Writting
 	- Drawing
+	- Tinkering?
+	- Woodworking?
+- Safe space for Coral to play
+	- Inside tent?
