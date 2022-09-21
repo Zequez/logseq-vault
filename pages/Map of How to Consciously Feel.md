@@ -1,2 +1,2 @@
 - Thirty-minutes partner exercise to be done once or twice per week. It's a simple, safe and effective way to learn how to consciously feel.
-- It's a partner exercise, not to be done alone. It
+- It's a partner exercise, not to be done alone. It won't help you to do it alone. [[Communication persist until it's received]]. For communication to be received there needs to be someone there to
