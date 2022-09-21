@@ -17,7 +17,8 @@
 - Incluso si el [[Regocijo]], la [[Tristeza]], o el [[Miedo]] aparecen en las capas superiores, te sugiero que comiences con el [[Enojo]] primero. Cuando tienes a tu Enojo de nuevo, entonces puedes asegurar tu propia seguridad mientras exploras los otros sentimientos.
 - El trabajo del coach es:
 	- Pregunta y escucha la historia detrás del sentimiento "Y entonces qué pasó?"
-	- Repite
+	- Repite lo que la otra persona dijo para [[Completar la Comunicación]]
+	- Alienta ale sentidore
 -
 -
 -
