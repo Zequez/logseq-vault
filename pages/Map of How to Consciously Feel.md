@@ -10,7 +10,8 @@
 - Cada sesión tiene 2 partes. En la primera parte se hace el ejercicio en una dirección, y luego se revierten los roles. Esto es para evitar la dinámica de los roles de cliente/terapeuta ("Estoy roto, arréglame"). Ningune de les dos está roto, son [[Edgeworker]] haciendo [[Experiments]] para expandir su [[Box]].
 - Arreglá un espacio donde ambos tengan suficiente privacidad como para hacer sonidos fuertes sin ser interrumpidos. Los sentimientos pueden ser ruidosos.
 - Tené a mano una toalla fuerte y pañuelos. La toalla la podés agarrar con las manos para que te ayude con el trabajo de la ira. Los pañuelos ya sabés para qué son.
-- Siéntense enfrentades une al otre con la espalda recta, y sin una mesa entre ustedes.
+- Siéntense enfrentades une al otre con la espalda recta, y sin nada entre ustedes.
+- Una persona va primero, le sentidore. La otra es le coach. El principal trabajo del coach
 -
 -
 -
