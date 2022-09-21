@@ -1,7 +1,8 @@
 - Thirty-minutes partner exercise to be done once or twice per week. It's a simple, safe and effective way to learn how to consciously feel.
-- It's a partner exercise, not to be done alone. It won't help you to do it alone. Communication persist until it's received. For communication to be received there needs to be someone there to hear you.
+- It's a partner exercise, not to be done alone. It won't help you to do it alone. Communication persist until it's received. For communication to be received there needs to be someone there to hear you. Without a responsible listener you are just drowning in your own sorrows.
 -
 - ----
 - # Español
 - Ejercicio de 30 minutos para hacer con un compañere 1 o 2 veces por semana. Es una forma simple, segura y efectiva de aprender a sentir conscientemente.
 - Es un ejercicio de pareja, no para hacerlo solo. No te va ayudar hacerlo sole. La comunicación persiste hasta que es recibida. Para que la comunicación sea recibida debe haber alguien ahí para escucharte. Sin un oyente responsable, simplemente te estás ahogando en tus propias penas.
+- Cada sesión tiene 2 partes. En la primera parte se hace el ejercicio en una dirección, y luego se revierten los roles. Esto es para evitar la dinámica de los roles de cliente/terapeuta
