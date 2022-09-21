@@ -3,7 +3,6 @@
 -
 - ----
 - [[Mapa de Como Sentir Conscientemente]]
--
 - ----
 - Q: Why male-male female-female for the thoughtmap?
 - Q: Is sitting in the floor while consciously keeping a straight back enough to counteract the chest compression and blocking of feelings?
