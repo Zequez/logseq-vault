@@ -1,0 +1,25 @@
+- Ejercicio de 30 minutos para hacer con un compañere 1 o 2 veces por semana. Es una forma simple, segura y efectiva de aprender a sentir conscientemente.
+- Es un ejercicio de pareja, no para hacerlo solo. No te va ayudar hacerlo sole. La comunicación persiste hasta que es recibida. Para que la comunicación sea recibida debe haber alguien ahí para escucharte. Sin un oyente responsable, simplemente te estás ahogando en tus propias penas.
+	- Si sos un hombre, hacelo con otro hombre adulto
+	- Si sos una mujer, hacelo con otra mujer adulta
+- Cada sesión tiene 2 partes. En la primera parte se hace el ejercicio en una dirección, y luego se revierten los roles. Esto es para evitar la dinámica de los roles de cliente/terapeuta ("Estoy roto, arréglame"). Ningune de les dos está roto, son [[Edgeworker]] haciendo [[Experiments]] para expandir su [[Box]].
+- Arreglá un espacio donde ambos tengan suficiente privacidad como para hacer sonidos fuertes sin ser interrumpidos. Los sentimientos pueden ser ruidosos.
+- Tené a mano una toalla fuerte y pañuelos. La toalla la podés agarrar con las manos para que te ayude con el trabajo de la ira. Los pañuelos ya sabés para qué son.
+- Siéntense enfrentades une al otre con la espalda recta, y sin nada entre ustedes.
+- Una persona va primero, le sentidore. La otra es le coach. El principal trabajo dele coach es escuchar.
+- Le coach dice "Cierra tus ojos y confiá en tus sentimientos/sensaciones. Deja que tus sentimientos te guíen". En un espacio seguro solo toma unos segundos antes de que la primera manifestación de sentimientos aparezca, como tragar, dedos inquietos, pies inquietos, suspirar. Le coach simplemente dice "Deja que los sentimientos / las sensaciones se hagan más grandes"
+- No te preocupes si nada parece pasar durante los primeros encuentros, o si un sentimiento solo llega a 5% de intensidad. Un nuevo tipo de confianza se está desarrollando. El trabajo va en pasos y capas. Confía en el proceso.
+- Incluso si el [[Regocijo]], la [[Tristeza]], o el [[Miedo]] aparecen en las capas superiores, te sugiero que comiences con el [[Enojo]] primero. Cuando tienes a tu Enojo de nuevo, entonces puedes asegurar tu propia seguridad mientras exploras los otros sentimientos.
+- El trabajo del coach es:
+	- Pregunta y escucha la historia detrás del sentimiento "Y entonces qué pasó?"
+	- Repite lo que la otra persona dijo para [[Completar la Comunicación]]
+	- Alienta ale sentidore que se mantenga fuera de su cabeza y en cambio diga "Me siento (enojade, triste, contente, temerose) porque ________"
+	- Coach al sentidore para [[Des-mezclar Sentimientos Mezclados]]
+	- Coach al sentidore para que mida la intensidad (1% a 100%) de sus sentimientos.
+	- En el momento de climax pregunta "Qué es lo que decidiste?". Escribe la respuesta.
+	- En la mitad del tiempo, cambia de roles y comienza de nuevo
+- Tomate unos minutos al final de cada sesión para compartir las observaciones e insights. Toma un vaso de agua. Limpia el espacio juntes.
+-
+- ----
+- [[Map of How to Consciously Feel]]
+-
