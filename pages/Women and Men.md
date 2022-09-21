@@ -1,4 +1,7 @@
--
+- Cowshit
+	- It's very true, but irrelevant
+- Bullshit
+	- It's very relevant, but not true
 - ---
 - [[Mujeres y Hombres]]
 - ---
