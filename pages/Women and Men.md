@@ -1,6 +1,10 @@
-- Cowshit
-	- It's very true, but irrelevant
-- Bullshit
+- ## Women
+	- In a patriarchy regard men as their enemies
+	- ### Cowshit
+		- It's very true, but irrelevant
+- ## Men
+	-
+- ### Bullshit
 	- It's very relevant, but not true
 - ---
 - [[Mujeres y Hombres]]
