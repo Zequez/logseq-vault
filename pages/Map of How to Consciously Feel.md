@@ -1,1 +1,2 @@
-- Thirty-minutes partner exercise to be done
+- Thirty-minutes partner exercise to be done once or twice per week. It's a simple, safe and effective way to learn how to consciously feel.
+- It's a partner exercise, not to be done alone. It
