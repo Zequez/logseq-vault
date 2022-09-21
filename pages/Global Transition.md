@@ -1,2 +1,3 @@
-- We are in an age of transition.
-- [[Bridges]] are being built by [[Edgeworkers]] to transition as much of humanity from [[Patriarchy]] context to [[Archearchy]] as quickly as possible
+- We are going through an age of transition.
+- [[Bridges]] are being built by [[Edgeworkers]] to transition as much of humanity from [[Patriarchy]] [[Context]] to [[Archearchy]] as quickly as possible. Masses of [[New Refugees]] are waking up from
+-
