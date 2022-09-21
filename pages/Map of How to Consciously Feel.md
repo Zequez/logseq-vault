@@ -1,0 +1,1 @@
+- Thirty-minutes partner exercise to be done
