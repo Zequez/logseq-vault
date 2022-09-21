@@ -1,6 +1,5 @@
-- https://womenandmen.mystrikingly.com/
 -
 - ---
 - [[Mujeres y Hombres]]
 - ---
--
+- Reference: https://womenandmen.mystrikingly.com/

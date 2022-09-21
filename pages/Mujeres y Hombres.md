@@ -2,4 +2,4 @@
 - ---
 - [[Women and Men]]
 - ---
-- Fuente: https://womenandmen.mystrikingly.com/
+- Referencia: https://womenandmen.mystrikingly.com/
