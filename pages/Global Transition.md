@@ -1,0 +1,2 @@
+- We are in an age of transition.
+- [[Bridges]] are being built by [[Edgeworkers]] to transition as much of humanity from [[Patriarchy]] context to [[Archearchy]] as quickly as possible
