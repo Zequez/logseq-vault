@@ -8,4 +8,8 @@
 - Outdoors Shower
 - Camping Mealprep Space
 	- Rocket Stove
+- No-cooking Food
+	- Dried fruit
+	- Fruits
+	- Vegetables that can be snacked at
 -
