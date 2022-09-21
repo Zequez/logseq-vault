@@ -18,7 +18,8 @@
 - El trabajo del coach es:
 	- Pregunta y escucha la historia detrás del sentimiento "Y entonces qué pasó?"
 	- Repite lo que la otra persona dijo para [[Completar la Comunicación]]
-	- Alienta ale sentidore
+	- Alienta ale sentidore que se mantenga fuera de su cabeza y en cambio diga "Me siento (enojade, triste, contente, temerose) porque ________"
+	- Coach al sentidore para [[Des-mezclar ]]
 -
 -
 -
