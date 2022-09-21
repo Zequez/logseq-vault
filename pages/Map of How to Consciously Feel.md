@@ -13,7 +13,8 @@
 - Siéntense enfrentades une al otre con la espalda recta, y sin nada entre ustedes.
 - Una persona va primero, le sentidore. La otra es le coach. El principal trabajo dele coach es escuchar.
 - Le coach dice "Cierra tus ojos y confiá en tus sentimientos/sensaciones. Deja que tus sentimientos te guíen". En un espacio seguro solo toma unos segundos antes de que la primera manifestación de sentimientos aparezca, como tragar, dedos inquietos, pies inquietos, suspirar. Le coach simplemente dice "Deja que los sentimientos / las sensaciones se hagan más grandes"
-- No te preocupes si nada parece pasar durante los primeros encuentros, o si un sentimiento solo llega a 5% de intensidad,
+- No te preocupes si nada parece pasar durante los primeros encuentros, o si un sentimiento solo llega a 5% de intensidad. Un nuevo tipo de confianza se está desarrollando. El trabajo va en pasos y capas. Confía en el proceso.
+- Incluso si el [[Regocijo]],
 -
 -
 -
