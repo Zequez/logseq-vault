@@ -2,7 +2,8 @@
 - ## Parts
 - Set up tent; preferably a standing tent
 - Install tarp outside tent entrance
-- Carry electricity and water
+- Bring electricity to camp
+- Bring running water to camp
 - Gardening Tools
 - Cold Acclimatization
 - Rainwater Collection
