@@ -12,10 +12,10 @@
 - Tené a mano una toalla fuerte y pañuelos. La toalla la podés agarrar con las manos para que te ayude con el trabajo de la ira. Los pañuelos ya sabés para qué son.
 - Siéntense enfrentades une al otre con la espalda recta, y sin nada entre ustedes.
 - Una persona va primero, le sentidore. La otra es le coach. El principal trabajo dele coach es escuchar.
-- Le coach dice "Cierra tus ojos y confiá en tus sensaciones
+- Le coach dice "Cierra tus ojos y confiá en tus sentimientos/sensaciones
 -
 -
 -
 - Q: Why male-male female-female for the thoughtmap?
 - Q: Is sitting in the floor while consciously keeping a straight back enough to counteract the chest compression and blocking of feelings?
--
+- Q: How do I translate feelings to Spanish? Sentimientos or sensations?
