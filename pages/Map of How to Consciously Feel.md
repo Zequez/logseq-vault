@@ -12,7 +12,7 @@
 - Tené a mano una toalla fuerte y pañuelos. La toalla la podés agarrar con las manos para que te ayude con el trabajo de la ira. Los pañuelos ya sabés para qué son.
 - Siéntense enfrentades une al otre con la espalda recta, y sin nada entre ustedes.
 - Una persona va primero, le sentidore. La otra es le coach. El principal trabajo dele coach es escuchar.
-- Le coach dice "Cierra tus ojos y confiá en tus sentimientos/sensaciones. Deja que tus sentimientos te guíen". En un espacio seguro solo toma unos segundos
+- Le coach dice "Cierra tus ojos y confiá en tus sentimientos/sensaciones. Deja que tus sentimientos te guíen". En un espacio seguro solo toma unos segundos antes de que la primera manifestación de sentimientos aparezca, como tragar, dedos inquietos, pies inquietos, suspirar. Le coach simplemente dice "Deja que tus sentimientos se hagan más grandes"
 -
 -
 -
