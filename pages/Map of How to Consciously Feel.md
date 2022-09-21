@@ -8,5 +8,5 @@
 	- Si sos un hombre, hacelo con otro hombre adulto
 	- Si sos una mujer, hacelo con otra mujer adulta
 - Cada sesión tiene 2 partes. En la primera parte se hace el ejercicio en una dirección, y luego se revierten los roles. Esto es para evitar la dinámica de los roles de cliente/terapeuta ("Estoy roto, arréglame"). Ningune de les dos está roto, son [[Edgeworker]] haciendo [[Experiments]] para expandir su [[Box]].
-- Arreglá un espacio donde ambos
+- Arreglá un espacio donde ambos tengan suficiente privacidad como para hacer ruidos sin ser interrumpidos. Los sentimientos pueden ser ruidosos.
 -
