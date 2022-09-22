@@ -8,6 +8,9 @@
 	- In a patriarchy they don't have to grow up
 	- ### Bullshit
 		- It's very relevant, but not true
+-
+- ## Same Time and Same Place
+	- The ratio between doing and being influences how fast time goes by in a particular space.
 - ---
 - [[Mujeres y Hombres]]
 - ---
