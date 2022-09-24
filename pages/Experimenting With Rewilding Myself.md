@@ -9,7 +9,7 @@
 		- Food Supply
 		- Laptop for Celeste
 		- Composting Toilet
-			-
+			- Reuse Paca Digestora for toilet by adding it a board to stand on top of the bin
 			- Outdoors Bidet
 	- ### Skills
 		- Holding Space
