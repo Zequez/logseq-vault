@@ -1,2 +1,4 @@
-- It's a kind of minimalistic composting system composed of a bottomless receptacle, usually a square of 0.5m to 1m size, that's just on the ground and you put the compost inside, and you press down. After the Paca Digestora is full, you unmould it and put it somewhere else. The compost mound is left a few months to
+- It's a kind of minimalistic composting system composed of a bottomless receptacle, usually a square of 0.5m to 1m size, that's just on the ground and you put the compost inside, and you press down. After the Paca Digestora is full, you unmold it and put it somewhere else. The compost mound is left a few months to fully digest, and then it can be used.
+- ## Detailed Usage Instructions
+	- Ratio
 -
