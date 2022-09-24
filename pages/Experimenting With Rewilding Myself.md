@@ -23,7 +23,10 @@
 		- Sun Dehydrator
 		- Safe Home For The Beehive In The Garden
 		- Rainwater Collection
-		-
+		- Outdoor Bath
+		- Klin on the Firepit
+		- Baby Proofing
+		- Washing Place
 	- ### Skills
 		- Holding Space
 		- Providing EHP
