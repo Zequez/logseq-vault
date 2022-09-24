@@ -9,6 +9,7 @@
 		- Food Supply
 		- Laptop for Celeste
 		- Composting Toilet
+			-
 			- Outdoors Bidet
 	- ### Skills
 		- Holding Space
@@ -23,9 +24,10 @@
 		- Fundraising
 		- Food Preservation
 		- Cold Adaptation
+		-
 	- ### Responsibilities
 		- Commit to live in the garden and tend to the garden
-		- Give my non-material value the other beings of the garden
+		- Give my non-material value to the other beings in the garden
 		- Documenting and sharing the experiment
 		- Only entering the home when I'm invited specifically for a purpose
 		- Zero-wasting the Ecovillage
