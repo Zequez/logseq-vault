@@ -6,6 +6,7 @@
 	- After the bin is filled, you unmold it and place it somewhere else; the compost mound is fully digested after a few [[Moons]]
 - ## Detailed Usage Instructions
 	- As with all compost bins, research carbon/nitrogen ratio and fill accordingly
+	- Put the greens and food scraps on the middle, then cover with dry stuff like leaves or carad
 	-
 	-
 -
