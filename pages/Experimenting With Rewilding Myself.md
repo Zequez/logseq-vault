@@ -1,8 +1,18 @@
 - ## Wishlist
-- #.v-kanban
+- #.v-kanba
 	- ### Things
-		-
+		- Gardening Tools
+		- Rain Protection
+		- Electric Connection
+		- Running Water
+		- Food Supply
+		- Laptop for Celeste
 	- ### Skills
+		- Holding Space
+		- Providing EHP
+		- Inviting People to Adventure
+		- Bushcraft
+		-
 		-
 	- ### Responsibilities
 		-
