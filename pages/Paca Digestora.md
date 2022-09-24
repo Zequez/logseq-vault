@@ -1,1 +1,2 @@
-- It's a kind of minimalistic composting system composed of a bottomless receptacle, usually of 50cm to 100cm in girth
+- It's a kind of minimalistic composting system composed of a bottomless receptacle, usually of 0.25 to 1m^2 in surface.
+-
