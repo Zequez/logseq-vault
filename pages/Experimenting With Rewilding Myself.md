@@ -1,3 +1,9 @@
 - ## Wishlist
 - #.v-kanban
+	- ### Things
+		-
+	- ### Skills
+		-
+	- ### Responsibilities
+		-
 	-
