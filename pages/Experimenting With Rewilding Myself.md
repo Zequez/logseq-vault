@@ -12,7 +12,7 @@
 			- Power Washer (just once, for washing a wooden deck)
 			- Lawn Mower (I'm not sure about this one, it feels ungentle to mown the garden with a power tool)
 		- Garden Shed (to store tools and protect them from the elements)
-		- Rain Protection (to cover a small area around the tiny tent)
+		- Rain Protection (to cover a medium area around the tiny tent)
 		- Electric Connection
 		- Running Water
 		- Food Supply
@@ -21,6 +21,9 @@
 			- Reuse [[Paca Digestora]] for toilet by adding it a board to stand on top of the bin
 			- Outdoors Bidet
 		- Sun Dehydrator
+		- Safe Home For The Beehive In The Garden
+		- Rainwater Collection
+		-
 	- ### Skills
 		- Holding Space
 		- Providing EHP
