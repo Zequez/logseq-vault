@@ -2,6 +2,7 @@
 - ## Characteristics
 	-
 - ## Detailed Usage Instructions
-	- Ratio of compost should be taken int
+	- As with all compost bins, research carbon/nitrogen ratio and fill accordingly
+	-
 	-
 -
