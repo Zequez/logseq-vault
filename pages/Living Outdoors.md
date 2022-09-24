@@ -23,6 +23,5 @@
 	- Drawing
 	- Tinkering?
 	- Woodworking?
-- Safe spaces for Coral to play
-	- We can be inside big tent even when it rains
+-
 	-
