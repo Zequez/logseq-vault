@@ -1,7 +1,7 @@
 title:: Lifestyle Experiment: Rewilding Myself
 
 - ## Overview
-	- The idea is to have
+	- I'm moving to my garden.
 - ## Wishlist
 - #.v-kanba
 	- ### Things
