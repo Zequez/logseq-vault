@@ -8,10 +8,10 @@
 			- Sheers
 			- Sizors
 			- Rake (what I most want is to remove all the little rocks)
-				- Maybe that thing that
+				- Sieve
 			- Power Washer (just once, for washing a wooden deck)
 			- Lawn Mower (I'm not sure about this one, it feels ungentle to mown the garden with a power tool)
-		- Garden Shed
+		- Garden Shed (there is nowhere in the garden to store tools protected from the rain)
 		- Rain Protection
 		- Electric Connection
 		- Running Water
@@ -20,7 +20,7 @@
 		- Composting Toilet
 			- Reuse [[Paca Digestora]] for toilet by adding it a board to stand on top of the bin
 			- Outdoors Bidet
-		- Sun
+		- Sun Dehydrator
 	- ### Skills
 		- Holding Space
 		- Providing EHP
