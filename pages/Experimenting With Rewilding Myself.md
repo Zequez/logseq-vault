@@ -48,9 +48,8 @@
 		- Only entering the home when I'm invited specifically for a purpose
 		- Zero-wasting the Ecovillage
 		- Hold the space of the house
-			- Includes either paying rent or liberating the place
+			- Protecting the inhabitants of the land from aggressors
 			- Ensuring availability of water, electricity, heating, internet connection, food supplies and availability to cash for interacting with [[Patriarchy]]
-			- Paying for utilities, or securing alternative sources of water, electricity, heating, and Internet connection
 		-
 		-
 	-
