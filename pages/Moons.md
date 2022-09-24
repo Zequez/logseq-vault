@@ -1,0 +1,1 @@
+- It's the unit of time of the 13 Moons galactic sincronary [[Sincronario Galáctico]]
