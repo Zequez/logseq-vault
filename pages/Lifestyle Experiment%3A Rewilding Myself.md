@@ -1,5 +1,7 @@
+title:: Lifestyle Experiment: Rewilding Myself
+
 - ## Overview
-	-
+	- The idea is to have
 - ## Wishlist
 - #.v-kanba
 	- ### Things
