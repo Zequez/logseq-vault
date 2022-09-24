@@ -11,8 +11,8 @@
 				- Sieve
 			- Power Washer (just once, for washing a wooden deck)
 			- Lawn Mower (I'm not sure about this one, it feels ungentle to mown the garden with a power tool)
-		- Garden Shed (there is nowhere in the garden to store tools protected from the rain)
-		- Rain Protection
+		- Garden Shed (to store tools and protect them from the elements)
+		- Rain Protection (to cover a small area around the tiny tent)
 		- Electric Connection
 		- Running Water
 		- Food Supply
