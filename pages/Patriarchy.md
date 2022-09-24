@@ -1,0 +1,2 @@
+- Patriarchy is just a culture; we are moving into [[Archearchy]] now.
+-

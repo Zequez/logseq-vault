@@ -49,7 +49,7 @@
 		- Zero-wasting the Ecovillage
 		- Hold the space of the house
 			- Includes either paying rent or liberating the place
-			- Ensuring availability of water, electricity, heating, internet connection, food supplies and cash availability for interacting with pattriarchy
+			- Ensuring availability of water, electricity, heating, internet connection, food supplies and availability to cash for interacting with [[Patriarchy]]
 			- Paying for utilities, or securing alternative sources of water, electricity, heating, and Internet connection
 		-
 		-
