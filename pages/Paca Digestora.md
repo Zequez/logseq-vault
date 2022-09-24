@@ -3,7 +3,7 @@
 	- It's very simple to make
 	- Does not require turning
 	- It's anaerobic, this means, it compost without oxygen
-	- After the bin is filled, you unmold it and place it somewhere else; the compost mound is left a few months to fully digest, and then it can be used.
+	- After the bin is filled, you unmold it and place it somewhere else; the compost mound is fully digested after a few []
 - ## Detailed Usage Instructions
 	- As with all compost bins, research carbon/nitrogen ratio and fill accordingly
 	-
