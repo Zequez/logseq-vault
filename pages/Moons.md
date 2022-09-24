@@ -1,1 +1,5 @@
-- It's the unit of time of the 13 Moons galactic sincronary [[Sincronario Galáctico]]
+- It's the unit of time of the 13 Moons [[Sincronario Galáctico]]; it replaces the Months in the [[Gregorian Calendar]]
+- In a year there are 13 moons; one for each of the 13
+	- Luna Magnética
+-
+-
