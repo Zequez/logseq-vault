@@ -1,4 +1,5 @@
-- ##
+- ## Overview
+	-
 - ## Wishlist
 - #.v-kanba
 	- ### Things
@@ -40,7 +41,6 @@
 		- Fundraising
 		- Food Preservation
 		- Cold Adaptation
-		-
 	- ### Responsibilities
 		- Commit to live in the garden and tend to the garden
 		- Give my non-material value to the other beings in the garden
