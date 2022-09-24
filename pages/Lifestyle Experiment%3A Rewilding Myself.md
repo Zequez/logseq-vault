@@ -2,7 +2,7 @@ title:: Lifestyle Experiment: Rewilding Myself
 
 - ## Overview
 	- I'm moving to my garden. I just set up the tent and I'm going to be living there for one moon. I'm going to document the experiment and continuously publish it online as it happens. After one month, there will be a new experiment that builds up from what I learn from this one.
-	- The situation at home has become unmanageable. There is contiuos resentment and fighting
+	- The situation at home has become unmanageable. Cohabitation has resulted in a breakdown of communication; continual unconscious aggression between us leaves us tired and
 	-
 - ## Wishlist
 - #.v-kanba
