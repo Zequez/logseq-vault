@@ -47,7 +47,9 @@
 		- Documenting and sharing the experiment
 		- Only entering the home when I'm invited specifically for a purpose
 		- Zero-wasting the Ecovillage
-		- Hold the space of the house; which includes either paying rent or liberating the place to Gaia
+		- Hold the space of the house
+			- Includes either paying rent or liberating the place
+			- Paying for utilities, or building alternative sources of water, electricity, heating, and Internet connection
 		-
 		-
 	-
