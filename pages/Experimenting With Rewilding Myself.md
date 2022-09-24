@@ -21,6 +21,9 @@
 		- Food Preservation
 		- Cold Adaptation
 	- ### Responsibilities
-		-
+		- Commit to live in the garden and tend to the garden
+		- Give my non-material value the other beings of the garden
+		- Documenting and sharing the experiment
+		- Only
 		-
 	-
