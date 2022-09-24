@@ -3,6 +3,11 @@
 - #.v-kanba
 	- ### Things
 		- Gardening Tools
+			- Flat Shovel
+			- Sheers
+			- Sizors
+			- Rake
+			- Power Washer (just once, for washing a wooden deck)
 		- Rain Protection
 		- Electric Connection
 		- Running Water
