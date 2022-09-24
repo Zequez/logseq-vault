@@ -49,7 +49,8 @@
 		- Zero-wasting the Ecovillage
 		- Hold the space of the house
 			- Protecting the inhabitants of the land from aggressors
-			- Ensuring availability of water, electricity, heating, internet connection, food supplies and availability to cash for interacting with [[Patriarchy]]
+			- Ensuring availability of water, electricity, heating, internet connection, food supplies
+		- Ensure availability to cash for interacting with [[Patriarchy]]
 		-
 		-
 	-
