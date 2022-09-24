@@ -4,12 +4,13 @@
 	- ### Things
 		- Gardening Tools
 			- Flat Shovel
+			- Transplanting Shovel
 			- Sheers
 			- Sizors
-			- Rake
-			-
+			- Rake (what I most want is to remove all the little rocks that were leftover from the home construction process)
 			- Power Washer (just once, for washing a wooden deck)
 			- Lawn Mower (I'm not sure about this one, it feels ungentle to mown the garden with a power tool)
+		- Garden Shed
 		- Rain Protection
 		- Electric Connection
 		- Running Water
