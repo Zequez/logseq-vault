@@ -49,7 +49,8 @@
 		- Zero-wasting the Ecovillage
 		- Hold the space of the house
 			- Includes either paying rent or liberating the place
-			- Paying for utilities, or building alternative sources of water, electricity, heating, and Internet connection
+			- Ensuring availability of water, electricity, heating, internet connection, food supplies and cash availability for interacting with pattriarchy
+			- Paying for utilities, or securing alternative sources of water, electricity, heating, and Internet connection
 		-
 		-
 	-
