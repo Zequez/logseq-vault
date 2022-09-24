@@ -7,7 +7,9 @@
 			- Sheers
 			- Sizors
 			- Rake
+			-
 			- Power Washer (just once, for washing a wooden deck)
+			- Lawn Mower (I'm not sure about this one, it feels ungentle to mown the garden with a power tool)
 		- Rain Protection
 		- Electric Connection
 		- Running Water
