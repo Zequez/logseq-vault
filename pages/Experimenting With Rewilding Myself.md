@@ -11,9 +11,16 @@
 		- Holding Space
 		- Providing EHP
 		- Inviting People to Adventure
-		- Bushcraft
-		-
-		-
+		- Permaculture
+			- Zero-wasting
+			- Bushcraft
+		- Ecovillaging
+		- Relationship Skills
+			- NVC
+		- Fundraising
+		- Food Preservation
+		- Cold Adaptation
 	- ### Responsibilities
+		-
 		-
 	-
