@@ -1,0 +1,1 @@
+- Getting shit done is about turning ideas into reality.
