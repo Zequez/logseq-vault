@@ -1,2 +1,2 @@
 - Getting shit done is about turning ideas into reality.
-- Ideas are instant. Actually materializing the idea requires [[Focused Attention]]
+- Ideas are instant. Actually materializing the idea requires [[Focused Attention]] for extended periods of time. What this means is that you need to focus on the right things at the right time.
