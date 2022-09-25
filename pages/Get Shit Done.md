@@ -1,1 +1,2 @@
 - Getting shit done is about turning ideas into reality.
+- Ideas are instant. Actually materializing the idea requires [[Focused Attention]]
