@@ -1,5 +1,5 @@
 - Getting shit done is about turning ideas into reality.
 - Ideas are instant. Actually materializing the idea requires [[Focused Attention]] for extended periods of time. What this means is that you need to focus on the right things at the right time; and the shit will be done like magic.
-- ## Experiments
+- ## Experiment
 	- Make a drawing of a turtle and share it online with someone. Take notice to where your attention goes and how the focus feels.
 		-
