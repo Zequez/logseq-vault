@@ -1,14 +1,14 @@
 - A Telegram group for the [[Team]] is formed.
 - Meet-ups are scheduled; either online by [[Videoconference]] or by getting together physically.
 - ## Introductions
-- Each of us introduces ourselves, and then we make note to share the introduction on the Telegram group.
-- [[Anger]] is treated as a neutral source of information.
-- The purpose is to create a new relationship with Anger.
-- The question is asked: "Why is it not OK for me to feel my anger?"
-	- Anyone can speak up and say out-loud what comes to their mind with the question.
-- [[Clarity]] is precious to other people. Anger brings Clarity.
-- Part of the [[Practice]] is to lower our [[Numbness Bar]]. Detect and use Anger earlier rather than when it's on an explosive level.
-- Possibility: Use anger to guard a space of calm and serenity
+	- Each of us introduces ourselves, and then we make note to share the introduction on the Telegram group.
+	- [[Anger]] is treated as a neutral source of information.
+	- The purpose is to create a new relationship with Anger.
+	- The question is asked: "Why is it not OK for me to feel my anger?"
+		- Anyone can speak up and say out-loud what comes to their mind with the question.
+	- [[Clarity]] is precious to other people. Anger brings Clarity.
+	- Part of the [[Practice]] is to lower our [[Numbness Bar]]. Detect and use Anger earlier rather than when it's on an explosive level.
+	- Possibility: Use anger to guard a space of calm and serenity
 - ## Feeling Anger Consciously
 	- Synchronously we practice feeling Anger at specific levels with the help of a towel. Then we share how it is for us, what we discover, what we notice. While doing this, the spaceholder holds the space and indicates when to start and stop the practice.
 		- Could a timer be used and have everyone practice, or is it necessary that someone is not doing the practice?
