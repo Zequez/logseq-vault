@@ -39,7 +39,7 @@
 			- Is the spaceholder
 				- Is this correct? But then the Role-player is the spaceholder is the coach is not there? Could all people hold the space? I'm not even sure I understand what holding space feels like.
 				  background-color:: #497d46
-	-
+	- As anger surfaces we distill the boundary; which means, we put the boundary into precise words that in the situation are said to the other person as a declaration
 		-
 	-
 	-
