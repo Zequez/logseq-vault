@@ -37,7 +37,8 @@
 		- **Coach**
 			- Offers possibilities and gives feedback; mostly to the Client.
 			- Is the spaceholder
-				- Is this correct? But
+				- Is this correct? But then the Role-player is the spaceholder is the coach is not there? Could all people hold the space? I'm not even sure I understand what holding space feels like.
+				  background-color:: #497d46
 			-
 	-
 	-
