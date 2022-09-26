@@ -7,6 +7,12 @@
  {:block/name "1320",
   :block/created-at 1659564801226,
   :block/updated-at 1659564801226}
+ {:block/name "4 feelings",
+  :block/created-at 1664152966543,
+  :block/updated-at 1664152991495}
+ {:block/name "5 bodies",
+  :block/created-at 1664152515120,
+  :block/updated-at 1664152533938}
  {:block/name "62e0b31e-b0ca-441e-892b-1c4bdcf40fff",
   :block/created-at 1659021836904,
   :block/updated-at 1659021836904}
@@ -64,6 +70,9 @@
  {:block/name "632944fa-4e6d-4ab6-9c0c-c59ddb69347e",
   :block/created-at 1663651281323,
   :block/updated-at 1663651281323}
+ {:block/name "7 core skills",
+  :block/created-at 1664152810621,
+  :block/updated-at 1664153318456}
  {:block/name "a",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
@@ -79,6 +88,9 @@
  {:block/name "andy matuschak",
   :block/created-at 1663651281930,
   :block/updated-at 1663651281930}
+ {:block/name "anger",
+  :block/created-at 1664154564356,
+  :block/updated-at 1664154564356}
  {:block/name "anillo solar luna auto-existente roja",
   :block/created-at 1659021837310,
   :block/updated-at 1659021837310}
@@ -94,6 +106,9 @@
  {:block/name "archearchy",
   :block/created-at 1663651281768,
   :block/updated-at 1663771696510}
+ {:block/name "archetypal body",
+  :block/created-at 1664152570270,
+  :block/updated-at 1664152570270}
  {:block/name "arquearquía",
   :block/created-at 1659966712976,
   :block/updated-at 1660390859862}
@@ -171,7 +186,7 @@
   :block/updated-at 1661819985391}
  {:block/name "aug 2nd, 2022",
   :block/created-at 1659564799982,
-  :block/updated-at 1659564999095}
+  :block/updated-at 1664153101046}
  {:block/name "aug 30th, 2022",
   :block/created-at 1661829181120,
   :block/updated-at 1661829181120}
@@ -228,7 +243,7 @@
   :block/updated-at 1659022235424}
  {:block/name "beep! book",
   :block/created-at 1663651281597,
-  :block/updated-at 1663651281597}
+  :block/updated-at 1664154224839}
  {:block/name "being",
   :block/created-at 1663651281776,
   :block/updated-at 1663651281776}
@@ -244,6 +259,9 @@
  {:block/name "bridges",
   :block/created-at 1663771432370,
   :block/updated-at 1663771432370}
+ {:block/name "bright principles",
+  :block/created-at 1664152340012,
+  :block/updated-at 1664152384858}
  {:block/name "bubble in the bubble pages ui",
   :block/created-at 1663651281260,
   :block/updated-at 1663651281260}
@@ -277,12 +295,18 @@
  {:block/name "circulo tzolkin",
   :block/created-at 1659833309088,
   :block/updated-at 1660451376942}
+ {:block/name "clarity",
+  :block/created-at 1664154827099,
+  :block/updated-at 1664154827099}
  {:block/name "cogov.tech",
   :block/created-at 1659108126475,
   :block/updated-at 1659108138522}
  {:block/name "collab web lab",
   :block/created-at 1662088776073,
   :block/updated-at 1662092583249}
+ {:block/name "committing",
+  :block/created-at 1664153508955,
+  :block/updated-at 1664153508955}
  {:block/name "commonplace book",
   :block/created-at 1663651281928,
   :block/updated-at 1663651281928}
@@ -362,6 +386,9 @@
  {:block/name "día: limi",
   :block/created-at 1659891022785,
   :block/updated-at 1659891037784}
+ {:block/name "ecovillaging",
+  :block/created-at 1664152202884,
+  :block/updated-at 1664152202884}
  {:block/name "edgeworker",
   :block/created-at 1663767134428,
   :block/updated-at 1663767134428}
@@ -380,6 +407,9 @@
  {:block/name "ellaborative encoding",
   :block/created-at 1663651281468,
   :block/updated-at 1663651281468}
+ {:block/name "emotional body",
+  :block/created-at 1664152561619,
+  :block/updated-at 1664152561619}
  {:block/name "emotional reactivity",
   :block/created-at 1663651282590,
   :block/updated-at 1663651282590}
@@ -410,6 +440,9 @@
  {:block/name "experiments",
   :block/created-at 1663651282202,
   :block/updated-at 1663767171064}
+ {:block/name "extraordinary conversation",
+  :block/created-at 1664151086584,
+  :block/updated-at 1664151086584}
  {:block/name "ezequiel",
   :block/created-at 1659021837110,
   :block/updated-at 1659021837110}
@@ -437,6 +470,9 @@
  {:block/name "fleeting",
   :block/created-at 1659021837308,
   :block/updated-at 1659021837308}
+ {:block/name "focused attention",
+  :block/created-at 1664149977372,
+  :block/updated-at 1664149977372}
  {:block/name "four feelings",
   :block/created-at 1663651281517,
   :block/updated-at 1663651281517}
@@ -449,6 +485,12 @@
  {:block/name "gameworld",
   :block/created-at 1663651281760,
   :block/updated-at 1663651281760}
+ {:block/name "gameworlds",
+  :block/created-at 1664151328399,
+  :block/updated-at 1664151328399}
+ {:block/name "get shit done",
+  :block/created-at 1664149897245,
+  :block/updated-at 1664152092653}
  {:block/name "global transition",
   :block/created-at 1663771288211,
   :block/updated-at 1663771600741}
@@ -457,13 +499,16 @@
   :block/updated-at 1663992392292}
  {:block/name "gremlin",
   :block/created-at 1659564799978,
-  :block/updated-at 1659564799978}
+  :block/updated-at 1664153116628}
  {:block/name "grounding visualization",
   :block/created-at 1663651282577,
   :block/updated-at 1663651282577}
  {:block/name "hidden purpose",
   :block/created-at 1663770937747,
   :block/updated-at 1663770937747}
+ {:block/name "high drama",
+  :block/created-at 1664153402854,
+  :block/updated-at 1664153402854}
  {:block/name "hls__diseño_humano_-_lynda_bunnell_1661114679977_0",
   :block/created-at 1661263459253,
   :block/updated-at 1661263459253}
@@ -566,7 +611,7 @@
   :block/updated-at 1663994196764}
  {:block/name "living outdoors",
   :block/created-at 1663651330600,
-  :block/updated-at 1663994304993}
+  :block/updated-at 1663994469949}
  {:block/name "logseq",
   :block/created-at 1659108305792,
   :block/updated-at 1659108305792}
@@ -579,6 +624,9 @@
  {:block/name "logseq medium",
   :block/created-at 1663651282575,
   :block/updated-at 1663651282575}
+ {:block/name "low drama",
+  :block/created-at 1664153408550,
+  :block/updated-at 1664153408550}
  {:block/name "luna murciélago magnética",
   :block/created-at 1659021836906,
   :block/updated-at 1659021836906}
@@ -747,6 +795,9 @@
  {:block/name "now page movement",
   :block/created-at 1663651282148,
   :block/updated-at 1663651282148}
+ {:block/name "numbness bar",
+  :block/created-at 1664154946621,
+  :block/updated-at 1664154946621}
  {:block/name "open technology",
   :block/created-at 1663770959859,
   :block/updated-at 1663770959859}
@@ -765,6 +816,9 @@
  {:block/name "physical center",
   :block/created-at 1663651282579,
   :block/updated-at 1663651282579}
+ {:block/name "possibilitator",
+  :block/created-at 1664153243724,
+  :block/updated-at 1664153907674}
  {:block/name "possibilities",
   :block/created-at 1663651281775,
   :block/updated-at 1663651281775}
@@ -773,10 +827,13 @@
   :block/updated-at 1663653415325}
  {:block/name "possibility management",
   :block/created-at 1659022731810,
-  :block/updated-at 1659022731810}
+  :block/updated-at 1664153872018}
  {:block/name "possibility team",
   :block/created-at 1663769988001,
   :block/updated-at 1663769988001}
+ {:block/name "practice",
+  :block/created-at 1664149516184,
+  :block/updated-at 1664152810622}
  {:block/name "procesos de sanación emocional",
   :block/created-at 1659022731809,
   :block/updated-at 1659022731809}
@@ -807,6 +864,9 @@
  {:block/name "radical responsibility",
   :block/created-at 1663651281895,
   :block/updated-at 1663651281895}
+ {:block/name "rage club",
+  :block/created-at 1664154530481,
+  :block/updated-at 1664155286380}
  {:block/name "reading",
   :block/created-at 1659284779017,
   :block/updated-at 1659284779017}
@@ -876,6 +936,9 @@
  {:block/name "sep 24th, 2022",
   :block/created-at 1663990946387,
   :block/updated-at 1663991114058}
+ {:block/name "sep 25th, 2022",
+  :block/created-at 1664085092211,
+  :block/updated-at 1664154297020}
  {:block/name "sep 2nd, 2022",
   :block/created-at 1662087610204,
   :block/updated-at 1662087610204}
@@ -918,6 +981,9 @@
  {:block/name "speaking out loud",
   :block/created-at 1663651281762,
   :block/updated-at 1663651281762}
+ {:block/name "spring of fury",
+  :block/created-at 1664154297020,
+  :block/updated-at 1664154568797}
  {:block/name "stacked notes ui",
   :block/created-at 1663651282191,
   :block/updated-at 1663651282191}
@@ -933,6 +999,9 @@
  {:block/name "startover medium",
   :block/created-at 1663651281772,
   :block/updated-at 1663651281772}
+ {:block/name "stellate",
+  :block/created-at 1664152945193,
+  :block/updated-at 1664152945193}
  {:block/name "stories",
   :block/created-at 1663651282591,
   :block/updated-at 1663651282591}
@@ -942,6 +1011,9 @@
  {:block/name "sword of clarity",
   :block/created-at 1663653476945,
   :block/updated-at 1663653476945}
+ {:block/name "team",
+  :block/created-at 1664154694885,
+  :block/updated-at 1664154694885}
  {:block/name "the corporation",
   :block/created-at 1663770997313,
   :block/updated-at 1663770997313}
@@ -951,6 +1023,9 @@
  {:block/name "thought",
   :block/created-at 1663651281759,
   :block/updated-at 1663651281759}
+ {:block/name "thoughtware",
+  :block/created-at 1664151974091,
+  :block/updated-at 1664151974091}
  {:block/name "todo",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
@@ -975,6 +1050,9 @@
  {:block/name "ubiquity",
   :block/created-at 1659022644570,
   :block/updated-at 1660949847659}
+ {:block/name "unhookable",
+  :block/created-at 1664152897991,
+  :block/updated-at 1664152908171}
  {:block/name "unmix emotions",
   :block/created-at 1658887383680,
   :block/updated-at 1658887710351}
@@ -984,6 +1062,9 @@
  {:block/name "vegan cat food recipe",
   :block/created-at 1659829226709,
   :block/updated-at 1659831360209}
+ {:block/name "videoconference",
+  :block/created-at 1664154748374,
+  :block/updated-at 1664154748374}
  {:block/name "villageware",
   :block/created-at 1663651282296,
   :block/updated-at 1663651282296}
@@ -999,6 +1080,9 @@
  {:block/name "web",
   :block/created-at 1659715045287,
   :block/updated-at 1659715045287}
+ {:block/name "what can you do with an empty plastic pen?",
+  :block/created-at 1664150650237,
+  :block/updated-at 1664150650237}
  {:block/name "winning happening",
   :block/created-at 1659067041527,
   :block/updated-at 1659067041527}
@@ -1008,6 +1092,9 @@
  {:block/name "your inner monologe",
   :block/created-at 1663651281763,
   :block/updated-at 1663651281763}
+ {:block/name "your teams",
+  :block/created-at 1664149893907,
+  :block/updated-at 1664149893907}
  {:block/name "youtube",
   :block/created-at 1659021837309,
   :block/updated-at 1659021837309}
