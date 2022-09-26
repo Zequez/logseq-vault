@@ -6,6 +6,9 @@
 - 6. Create Linear and Nonlinear Possibility
 - 7. Legend Making
 -
--
+- ## Experiments
+	- ### Remind Yourself That You Are A Possibilitator
+		- Figure out 5 different ways to remind yourself to shift identity into being a [[Possibilitator]]. For example:
+			-
 - ---
 - Reference: https://7coreskills.mystrikingly.com/
