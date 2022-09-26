@@ -9,7 +9,8 @@
 - Part of the [[Practice]] is to lower our [[Numbness Bar]]. Detect and use Anger earlier rather than when it's on an explosive level.
 - Possibility: Use anger to guard a space of calm and serenity
 - Synchronously we practice feeling Anger at specific levels with the help of a towel. Then we share how it is for us, what we discover, what we notice. While doing this, the spaceholder holds the space and indicates when to start and stop the practice.
-	- Could a timer be used and have everyone practice, or is it necessary that someone is not doing the exercise?
+	- Could a timer be used and have everyone practice, or is it necessary that someone is not doing the practice?
+	  background-color:: #497d46
 - Each of us commits to do a 3-3-3 Initiation
 	- 3 times per week, for 3 months, 3 minutes of feeling anger
 	- We lie down,
