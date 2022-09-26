@@ -1,2 +1,5 @@
 - Intellectual
--
+- Physical
+- Emotional
+- Energetic
+- Archetypal
