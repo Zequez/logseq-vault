@@ -14,10 +14,11 @@
 - Each of us commits to do a 3-3-3 Initiation
 	- 3 times per week, for 3 months, 3 minutes of feeling anger
 	- We lie down, and practice feeling anger with the help of a towel for 3 minutes
-	- We take notes on momentso f th day that
-	- We share on the Telegram group that we did the exercise by sending the number "3"
-	- We can also share other things and get creative with the number.
+	- We share on the Telegram group that we did the exercise by sending the number "3".
+	- We can also share our results from the practice, and get creative with the number 3.
+- We take notes on moments of the day that our boundaries were crossed
 - When we start feeling Anger, it cleans up tubes in the nervous system and energetic body that have not been used in a while.
+-
 -
 -
 	-
