@@ -1,3 +1,5 @@
--
--
+- 1. Shift Identity to Possibility Manager and Become Present in a small Now
+- 2. Become Centered, Grounded, Bubbled and Unhookable
+- 3.
+- ---
 - Reference: https://7coreskills.mystrikingly.com/
