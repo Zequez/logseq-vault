@@ -1,5 +1,6 @@
 - 1. Shift Identity to Possibility Manager and Become Present in a small Now
 - 2. Become Centered, Grounded, Bubbled and [[Unhookable]] in the [[Radical Responsibility]] of [[Archearchy]] including being able to [[Stellate]] in [[4 Feelings]]
-- 3. Create,
+- 3. Create, Hold and Navigate Space (Set Context, Make Distinctions and Open Doorways)
+- 4. Make Contact (Experientially distinguish Box and Being, keeping your [[Gremlin]] on leash sitting at your side)
 - ---
 - Reference: https://7coreskills.mystrikingly.com/
