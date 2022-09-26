@@ -2,4 +2,6 @@
 - Ideas are instant. Actually materializing the idea requires [[Focused Attention]] for extended periods of time. What this means is that you need to focus on the right things at the right time; and the shit will be done like magic.
 - ## Experiment
 	- Make a drawing of a turtle and share it online with someone. Take notice to where your attention goes and how the focus feels.
+		- Results:
+			- I experience anxiety about having to stand up and go to another room to pick up a pen
 		-
