@@ -1,1 +1,1 @@
-- Started Sep
+- Encompasses September 23 to December 21
