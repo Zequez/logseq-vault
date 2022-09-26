@@ -1,6 +1,7 @@
 - A Telegram group for the [[Team]] is formed.
-- Each of us presents themselves in the Telegram group.
 - Meet-ups are scheduled; either by online by [[Videoconference]] or physical.
+- ## Introductions
+- Each of us introduces ourselves, and then we make not to share the introduction Telegram group.
 - [[Anger]] is treated as a neutral source of information.
 - The purpose is to create a new relationship with Anger.
 - The question is asked: "Why is it not OK for me to feel my anger?"
@@ -8,7 +9,7 @@
 - [[Clarity]] is precious to other people. Anger brings Clarity.
 - Part of the [[Practice]] is to lower our [[Numbness Bar]]. Detect and use Anger earlier rather than when it's on an explosive level.
 - Possibility: Use anger to guard a space of calm and serenity
-- ## Feeling Anger
+- ## Feeling Anger Consciously
 	- Synchronously we practice feeling Anger at specific levels with the help of a towel. Then we share how it is for us, what we discover, what we notice. While doing this, the spaceholder holds the space and indicates when to start and stop the practice.
 		- Could a timer be used and have everyone practice, or is it necessary that someone is not doing the practice?
 		  background-color:: #497d46
@@ -21,7 +22,7 @@
 	- We take notes on moments of the day that our boundaries were crossed
 	- When we start feeling Anger, it cleans up tubes in the nervous system and energetic body that have not been used in a while.
 - ## Role Playing Boundary Transgression
--
+	-
 -
 -
 	-
