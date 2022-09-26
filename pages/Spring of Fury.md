@@ -1,2 +1,2 @@
 - From 35.3.4 to 35.6.9
-- First day of the Spring of Fury I started [[Rage Club]] so it will be marked by my unleash of repressed [[Anger]].
+- First day of the Spring of Fury I joined [[Rage Club]] so it will be marked by my unleash of repressed [[Anger]].
