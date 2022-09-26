@@ -10,6 +10,8 @@
 			- I experienced anxiety while I started drawing the turtle and the details of what was actually needed to be created started to become clear. I did not know how the turtle was going to look before I finished. It was like I was discovering what I was drawing, as I was drawing it.
 				- The sequence was the rough shape of the body. Then the fins (ah, yes, a marine turtle, the experiment didn't specify, but I realized I had chosen to draw a marine turtle after I drew the fins). Then the shell divisions. The head. And then shading to add a gamut of color.
 			- Then I shared the experiment with my partner through Telegram with the words "Un experimento". I went very safe with my choice in partner. Could have been used to start an [[Extraordinary Conversation]] with many people. It still can; I could keep sharing it with the exact words and see if someone asks about it and share what learned.
+			- This is what I learned:
+				- Between the idea and the idea becoming a reality, there is an ocean of emotional energy. There
 			-
 			-
 		-
