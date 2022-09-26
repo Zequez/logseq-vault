@@ -25,7 +25,7 @@
 	- We get in groups of 3 and take rotating roles:
 		- Client
 			- Allows anger to speak; don't try to remember
-				- Anger speaks from the heart; so make sure to move
+				- Anger speaks from the heart; so make sure to check with your heart and try to go back if you realized you are looking up (this means you are looking at your mind; thinking about anger rather than actually feeling it)
 			- Picks a person from their life that has transgressed their boundaries
 				- They can just pick Dad or Mom and let the anger speak
 			- Looks
