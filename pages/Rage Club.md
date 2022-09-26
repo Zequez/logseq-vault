@@ -36,6 +36,9 @@
 				  background-color:: #497d46
 		- **Coach**
 			- Offers possibilities and gives feedback; mostly to the Client.
+			- Is the spaceholder
+				- Is this correct? But
+			-
 	-
 	-
 -
