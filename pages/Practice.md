@@ -1,6 +1,6 @@
 - Reference: https://alifeofpractice.mystrikingly.com/
 - When you ask "What is there to practice?" it opens a doorway. It starts a meta-conversation about your life. A conversation about what else is possible.
-- You call into space the archetypal [[Bright Principles]]
+- You call into space the archetypal forces of nature of [[Bright Principles]]; this brings a huge powerful punch with just that question.
 - ## What is there to practice?
 	- [[Ecovillaging]]
 -
