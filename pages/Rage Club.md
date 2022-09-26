@@ -8,16 +8,19 @@
 - [[Clarity]] is precious to other people. Anger brings Clarity.
 - Part of the [[Practice]] is to lower our [[Numbness Bar]]. Detect and use Anger earlier rather than when it's on an explosive level.
 - Possibility: Use anger to guard a space of calm and serenity
-- Synchronously we practice feeling Anger at specific levels with the help of a towel. Then we share how it is for us, what we discover, what we notice. While doing this, the spaceholder holds the space and indicates when to start and stop the practice.
-	- Could a timer be used and have everyone practice, or is it necessary that someone is not doing the practice?
-	  background-color:: #497d46
-- Each of us commits to do a 3-3-3 Initiation
-	- 3 times per week, for 3 months, 3 minutes of feeling anger
-	- We lie down, and practice feeling anger with the help of a towel for 3 minutes
-	- We share on the Telegram group that we did the exercise by sending the number "3".
-	- We can also share our results from the practice, and get creative with the number 3.
-- We take notes on moments of the day that our boundaries were crossed
-- When we start feeling Anger, it cleans up tubes in the nervous system and energetic body that have not been used in a while.
+- ## Feeling Anger
+	- Synchronously we practice feeling Anger at specific levels with the help of a towel. Then we share how it is for us, what we discover, what we notice. While doing this, the spaceholder holds the space and indicates when to start and stop the practice.
+		- Could a timer be used and have everyone practice, or is it necessary that someone is not doing the practice?
+		  background-color:: #497d46
+	- Each of us commits to do a 3-3-3 Initiation
+		- 3 times per week, for 3 months, 3 minutes of feeling anger
+		- We lie down, and practice feeling anger with the help of a towel for 3 minutes
+		- We share on the Telegram group that we did the exercise by sending the number "3".
+		- We can also share our results from the practice, and get creative with the number 3.
+		- We do this for no reason.
+	- We take notes on moments of the day that our boundaries were crossed
+	- When we start feeling Anger, it cleans up tubes in the nervous system and energetic body that have not been used in a while.
+- ## Role Playing Boundary Transgression
 -
 -
 -
