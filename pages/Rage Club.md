@@ -2,7 +2,8 @@
 - Each of us presents themselves in the Telegram group.
 - Meet-ups are scheduled; either by online by [[Videoconference]] or physical.
 - We treat [[Anger]] as a neutral source of information.
-- We create a new relationship with Anger.
-- We ask the question: "Why is it not OK for me to feel my anger?"
+- The team create a new relationship with Anger.
+- The question is asked: "Why is it not OK for me to feel my anger?"
 	- Anyone can speak up and say out-loud what comes to their mind with the question.
-	-
+- [[Clarity]] is precious to other people. Anger brings Clarity.
+-
