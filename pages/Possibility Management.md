@@ -1,0 +1,2 @@
+- An expanding field of knowledge, practices
+- Tools, Thoughtmaps, Distinctions, and Authentic Adulthood Initiatory and Healing Processes.
