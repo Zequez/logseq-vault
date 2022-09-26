@@ -1,2 +1,6 @@
-- An expanding field of knowledge, practices
-- Tools, Thoughtmaps, Distinctions, and Authentic Adulthood Initiatory and Healing Processes.
+- An expanding field of knowledge, explored by Possibilitators:
+	- Tools
+	- Thoughtmaps
+	- Distinctions
+	- Authentic Adulthood Initiations
+	- Healing Processes
