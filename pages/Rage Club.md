@@ -6,7 +6,9 @@
 - The question is asked: "Why is it not OK for me to feel my anger?"
 	- Anyone can speak up and say out-loud what comes to their mind with the question.
 - [[Clarity]] is precious to other people. Anger brings Clarity.
-- Part of the [[Practice]] is to lower our [[Numbness Bar]]. Detect Anger earlier rather than when it's on
+- Part of the [[Practice]] is to lower our [[Numbness Bar]]. Detect and use Anger earlier rather than when it's on an explosive level.
+- Possibility: Use anger to guard a space of calm and serenity
+- 3-3-3 Initiation
 -
 	-
 -
