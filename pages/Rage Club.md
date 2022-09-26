@@ -31,7 +31,7 @@
 			- Keep eye contact with the Role-player and let the anger speak
 		- **Role-player**
 			- With their clicker they declare they are the person that transgressed the Client boundaries.
-			- The Role-player stays present and reflects back what the other person says
+			- The Role-player stays present, keeps eye contact with the Client, and reflects back what the other person says.
 				- With [[Completion Loops]]?
 				  background-color:: #497d46
 		- **Coach**
@@ -39,7 +39,8 @@
 			- Is the spaceholder
 				- Is this correct? But then the Role-player is the spaceholder is the coach is not there? Could all people hold the space? I'm not even sure I understand what holding space feels like.
 				  background-color:: #497d46
-			-
+	-
+		-
 	-
 	-
 -
