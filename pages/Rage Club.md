@@ -1,7 +1,7 @@
 - A Telegram group for the [[Team]] is formed.
-- Meet-ups are scheduled; either by online by [[Videoconference]] or physical.
+- Meet-ups are scheduled; either online by [[Videoconference]] or by getting together physically.
 - ## Introductions
-- Each of us introduces ourselves, and then we make not to share the introduction Telegram group.
+- Each of us introduces ourselves, and then we make note to share the introduction on the Telegram group.
 - [[Anger]] is treated as a neutral source of information.
 - The purpose is to create a new relationship with Anger.
 - The question is asked: "Why is it not OK for me to feel my anger?"
@@ -22,6 +22,7 @@
 	- We take notes on moments of the day that our boundaries were crossed
 	- When we start feeling Anger, it cleans up tubes in the nervous system and energetic body that have not been used in a while.
 - ## Role Playing Boundary Transgression
+	-
 	-
 -
 -
