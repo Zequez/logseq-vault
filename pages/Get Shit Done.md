@@ -5,5 +5,7 @@
 		- ### Results:
 			- I experienced anxiety about having to stand up and go to another room to pick up a pen
 			- I experienced joy as I saw the [[Beep! Book]] along with the pen, and realized that I actually would like to draw the turtle on the Beep! Book rather than on the other notebook that I have.
-			- I experienced exasperation (anger? impatience?) as I realized the pen I picked up was not working and
+			- I experienced exasperation (anger? impatience?) as I realized the pen I picked up was not working and angry about whoever left the empty/broken pen with the other pens.
+			- I laughed when I realized that after picking up anotherI just put ba
+			-
 		-
