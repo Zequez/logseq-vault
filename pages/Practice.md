@@ -5,5 +5,6 @@
 	- Possibilities:
 		- [[Ecovillaging]]
 -
-- Praci
+- ## Practice practicing
+	- By practicing practicing you get better at practicing itself. You practice how to use all the intelligence and energy of all your [[5 Bodies]]
 -
