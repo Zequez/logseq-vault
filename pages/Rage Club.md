@@ -8,7 +8,7 @@
 - [[Clarity]] is precious to other people. Anger brings Clarity.
 - Part of the [[Practice]] is to lower our [[Numbness Bar]]. Detect and use Anger earlier rather than when it's on an explosive level.
 - Possibility: Use anger to guard a space of calm and serenity
-- We
+- Synchronously we practice feeling Anger at specific levels with the help of a towel. Then we share what
 - Each of us commits to do a 3-3-3 Initiation
 	- 3 times per week, for 3 months, 3 minutes of feeling anger
 	- We lie down,
