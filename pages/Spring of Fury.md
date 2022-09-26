@@ -1,1 +1,1 @@
-- Encompasses September 23 to December 21
+- Encompasses day 4 of Electric Moon
