@@ -27,8 +27,12 @@
 		- Client
 		- Role-player
 			- With their clicker they declare they are the person that transgressed the Client boundaries.
-			- The Role-player reflects back what the other person
+			- The Role-player stays present and reflects back what the other person says
+				- With [[Completion Loops]]?
+				  background-color:: #497d46
+			-
 		- Coach
+			- Offers possibilities and gives feedback; mostly to the Client.
 	- One participant is the client; another role-plays a person that transgressed the client boundaries; and a third takes the role of coach.
 	-
 -
