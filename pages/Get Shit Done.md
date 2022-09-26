@@ -13,7 +13,7 @@
 			- This is what I learned:
 				- Between the idea and the idea becoming a reality, there is an ocean of emotional energy. There is no guarantee that the voyage will be calm and peaceful. During the voyage I might encounter portals to new [[Gameworlds]]. I don't know how the destination is going to look exactly, but I can sense how it feels; and this is my compass in the ocean. It's an intuition that tells me "this is the way", a sudden resonance with the destination that is calling me home. I focus it in my mind, and my heart sings. YES! YES! YES! THAT IS THE WAY!
 			- ### Post-results Results
-				- Looks like my attention was completely taken by all the things that I was feeling. I felt focused, as it in flow, after I started actually making the drawing. Now I can see that I made a distinction "the preparation for doing the shit" and "the actually doing the shit". How do I erase that distinction
+				- Looks like my attention was completely taken by all the things that I was feeling. I felt focused, as it in flow, after I started actually making the drawing. Now I can see that I made a distinction "the preparation for doing the shit" and "the actually doing the shit". How do I change my Thoughtware in a way that if I chose to see the whole process as the creation of the thing?
 				  
 				  How do I close the gap between choosing to do something and actually maintaining focus on it
 					- This question makes me realize that I'm not awknologing that
