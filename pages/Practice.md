@@ -6,5 +6,5 @@
 		- [[Ecovillaging]]
 -
 - ## Practice practicing
-	- By practicing practicing you get better at practicing itself. You practice how to use all the intelligence and energy of all your [[5 Bodies]]. Usually your [[Emotional Body]], [[Energetic Body]] and [[Archetypal Body]] are the need the most practice.
+	- By practicing practicing you get better at practicing itself. You practice how to use all the intelligence and energy of all your [[5 Bodies]]. Usually your [[Emotional Body]], [[Energetic Body]] and [[Archetypal Body]] are the ones in need of the most practice, due to how these are neglected while on [[Patriarchy]].
 -
