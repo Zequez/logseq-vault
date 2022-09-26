@@ -2,9 +2,11 @@
 - ## What is there to practice?
 	- When you ask "What is there to practice?" it opens a doorway. It starts a meta-conversation about your life. A conversation about what else is possible.
 	- You call into space the archetypal forces of nature of [[Bright Principles]]; this brings a huge powerful punch with just that question.
-	- Possibilities:
-		- [[Ecovillaging]]
 -
 - ## Practice practicing
 	- By practicing practicing you get better at practicing itself. You practice how to use all the intelligence and energy of all your [[5 Bodies]]. Usually your [[Emotional Body]], [[Energetic Body]] and [[Archetypal Body]] are the ones in need of the most practice, due to how these are neglected while playing on [[Patriarchy]].
+-
+- ## Other possibilities to practice
+	- [[Ecovillaging]]
+	- [[7 Core Skills]]
 -
