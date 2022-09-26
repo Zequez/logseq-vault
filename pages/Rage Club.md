@@ -25,8 +25,10 @@
 	- We get in groups of 3 and take rotating roles:
 		- Client
 			- Allows anger to speak; don't try to remember
-			- Picks a person from their life that has transgressed their boundaries; if nothing comes up they can just pick Dad or Mom and let the anger speak.
-			-
+				- Anger speaks from the heart; so make sure to move
+			- Picks a person from their life that has transgressed their boundaries
+				- They can just pick Dad or Mom and let the anger speak
+			- Looks
 		- Role-player
 			- With their clicker they declare they are the person that transgressed the Client boundaries.
 			- The Role-player stays present and reflects back what the other person says
