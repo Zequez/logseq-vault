@@ -2,5 +2,6 @@
 - then the 'Possibilitator' is the archetypal character who applies conscious responsibility to create [[High Drama]]!
 - Possibilitator possibilitates in the service of conscious Purposes.
 - A 'Possibilitator' has transformed Possibility Management into their evolutionary Path by [[Committing]] to themselves to participate in 10 Possibility Labs. In so doing they have joined a close-knit global community of fellow Possibilitators around the world on this archetypal journey called Possibilitator Training.
+- A Possibilitator practices [[Possibility Management]] to refine his or her craft.
 - ---
 - Reference: https://possibilitators.mystrikingly.com/
