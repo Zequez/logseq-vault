@@ -8,6 +8,7 @@
 			- I experienced exasperation (anger? impatience?) as I realized the pen I picked up was not working and angry about whoever left the empty/broken pen with the other pens.
 			- I laughed (joy) when I realized that after picking up another working-pen, I had put back the empty pen with the other pens. The joke was that I might have been angry at myself; kinda barking at my own tail. [[What can you do with an empty plastic pen?]]
 			- I experienced anxiety while I started drawing the turtle and the details of what was actually needed to be created started to become clear. I did not know how the turtle was going to look before I finished. It was like I was discovering what I was drawing, as I was drawing it.
-				- The sequence was the rough shape of the body. Then the fins (ah, yes, a marine turtle, the experiment didn't specify, but I realized I had chosen to draw a marine turtle after I drew the fins). Then the shell divisions. The head. And then shading to add a
+				- The sequence was the rough shape of the body. Then the fins (ah, yes, a marine turtle, the experiment didn't specify, but I realized I had chosen to draw a marine turtle after I drew the fins). Then the shell divisions. The head. And then shading to add a gamut of color.
+			- Then I shared the experiment with my partner through Telegram with the words "Un experimento". I went very safe with my choice in partner. Could have been used to start an
 			-
 		-
