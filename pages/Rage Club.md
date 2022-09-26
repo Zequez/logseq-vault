@@ -23,7 +23,12 @@
 	- When we start feeling Anger, it cleans up tubes in the nervous system and energetic body that have not been used in a while.
 - ## Role Playing Boundary Transgression
 	- Allow anger to speak; don't try to remember.
-	- We get in groups of 3 and
+	- We get in groups of 3 and take rotating roles:
+		- Client
+		- Role-player
+			- With their clicker they declare they are the person that transgressed the Client boundaries.
+			- The Role-player reflects back what the other person
+		- Coach
 	- One participant is the client; another role-plays a person that transgressed the client boundaries; and a third takes the role of coach.
 	-
 -
