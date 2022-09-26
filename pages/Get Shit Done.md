@@ -11,7 +11,7 @@
 				- The sequence was the rough shape of the body. Then the fins (ah, yes, a marine turtle, the experiment didn't specify, but I realized I had chosen to draw a marine turtle after I drew the fins). Then the shell divisions. The head. And then shading to add a gamut of color.
 			- Then I shared the experiment with my partner through Telegram with the words "Un experimento". I went very safe with my choice in partner. Could have been used to start an [[Extraordinary Conversation]] with many people. It still can; I could keep sharing it with the exact words and see if someone asks about it and share what learned.
 			- This is what I learned:
-				- Between the idea and the idea becoming a reality, there is an ocean of emotional energy. There is no guarantee that the voyage will be calm and peaceful. During the voyage I might encounter portals to new [[Gameworlds]]. I don't know how the destination is going to look exactly, but I can sense how it feels; and this is my compass in the ocean.
+				- Between the idea and the idea becoming a reality, there is an ocean of emotional energy. There is no guarantee that the voyage will be calm and peaceful. During the voyage I might encounter portals to new [[Gameworlds]]. I don't know how the destination is going to look exactly, but I can sense how it feels; and this is my compass in the ocean. It's an intuition that tells me "this is the way", a sudden resonance with the destination that is calling me home.
 			-
 			-
 		-
