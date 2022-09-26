@@ -23,20 +23,20 @@
 	- When we start feeling Anger, it cleans up tubes in the nervous system and energetic body that have not been used in a while.
 - ## Role Playing Boundary Transgression
 	- We get in groups of 3 and take rotating roles:
-		- Client
+		- **Client**
 			- Allows anger to speak; don't try to remember
 				- Anger speaks from the heart; so make sure to check with your heart and try to go back if you realized you are looking up (this means you are looking at your mind; thinking about anger rather than actually feeling it)
 			- Picks a person from their life that has transgressed their boundaries
 				- They can just pick Dad or Mom and let the anger speak
-			- Looks
-		- Role-player
+			- Keep eye contact with the Role-player and let the anger speak
+		- **Role-player**
 			- With their clicker they declare they are the person that transgressed the Client boundaries.
 			- The Role-player stays present and reflects back what the other person says
 				- With [[Completion Loops]]?
 				  background-color:: #497d46
-		- Coach
+		- **Coach**
 			- Offers possibilities and gives feedback; mostly to the Client.
-	- One participant is the client; another role-plays a person that transgressed the client boundaries; and a third takes the role of coach.
+	-
 	-
 -
 -
