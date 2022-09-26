@@ -1,5 +1,5 @@
 - 1. Shift Identity to Possibility Manager and Become Present in a small Now
-- 2. Become Centered, Grounded, Bubbled and [[Unhookable]] in the [[Radical Responsibility]] of [[Archearchy]] including being able to
-- 3.
+- 2. Become Centered, Grounded, Bubbled and [[Unhookable]] in the [[Radical Responsibility]] of [[Archearchy]] including being able to [[Stellate]] in [[4 Feelings]]
+- 3. Create,
 - ---
 - Reference: https://7coreskills.mystrikingly.com/
