@@ -1,2 +1,5 @@
 - A Telegram group is formed.
-- We
+- We present ourselves in the Telegram group.
+- We treat [[Anger]] as a neutral source of information.
+- We create a new relationship with Anger.
+- We ask the question: "Why is it not OK for me to feel my anger?"
