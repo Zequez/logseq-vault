@@ -1,0 +1,4 @@
+- If the '[[Gremlin]]' is the archetypal character who applies unconscious irresponsibility to create [[Low Drama]] ,
+- then the 'Possibilitator' is the archetypal character who applies conscious responsibility to create [[High Drama]]!
+- ---
+- https://possibilitators.mystrikingly.com/
