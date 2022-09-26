@@ -22,7 +22,8 @@
 	- We take notes on moments of the day that our boundaries were crossed
 	- When we start feeling Anger, it cleans up tubes in the nervous system and energetic body that have not been used in a while.
 - ## Role Playing Boundary Transgression
-	-
+	- Allow anger to speak; don't try to remember.
+	- One person is the client; another role-plays
 	-
 -
 -
