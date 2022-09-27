@@ -42,6 +42,7 @@
 	- As anger surfaces we distill the boundary; which means, we put the boundary into precise words that in the situation are said to the other person as a declaration.
 	- Setting boundaries is skill that can be improved with [[Practice]]
 	-
+	- [[draws/2022-09-26-22-00-26.excalidraw]]
 	-
 	-
 	-
