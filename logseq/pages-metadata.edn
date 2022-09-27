@@ -313,6 +313,9 @@
  {:block/name "completar la comunicación",
   :block/created-at 1663768183764,
   :block/updated-at 1663768183764}
+ {:block/name "completion loops",
+  :block/created-at 1664240501347,
+  :block/updated-at 1664240501347}
  {:block/name "comí",
   :block/created-at 1659284605535,
   :block/updated-at 1659284605535}
@@ -380,6 +383,9 @@
  {:block/name "dragon dreaming",
   :block/created-at 1659065025582,
   :block/updated-at 1659069322942}
+ {:block/name "draws/2022-09-26-22-00-26.excalidraw",
+  :block/created-at 1664240501348,
+  :block/updated-at 1664240501348}
  {:block/name "dream of the world",
   :block/created-at 1663771540595,
   :block/updated-at 1663771540595}
@@ -866,7 +872,7 @@
   :block/updated-at 1663651281895}
  {:block/name "rage club",
   :block/created-at 1664154530481,
-  :block/updated-at 1664155286380}
+  :block/updated-at 1664240427426}
  {:block/name "reading",
   :block/created-at 1659284779017,
   :block/updated-at 1659284779017}
@@ -939,6 +945,9 @@
  {:block/name "sep 25th, 2022",
   :block/created-at 1664085092211,
   :block/updated-at 1664154297020}
+ {:block/name "sep 26th, 2022",
+  :block/created-at 1664161246520,
+  :block/updated-at 1664161246520}
  {:block/name "sep 2nd, 2022",
   :block/created-at 1662087610204,
   :block/updated-at 1662087610204}
