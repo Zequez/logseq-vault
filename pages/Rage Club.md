@@ -13,7 +13,7 @@
 	- Synchronously we practice feeling Anger at specific levels with the help of a towel. Then we share how it is for us, what we discover, what we notice. While doing this, the spaceholder holds the space and indicates when to start and stop the practice.
 		- Could a timer be used and have everyone practice, or is it necessary that someone is not doing the practice?
 		  background-color:: #497d46
-	- Each of us commits to do a 3-3-3 Initiation
+	- Each of us commits to do a [[3-3-3 Initiation]]
 		- 3 times per week, for 3 months, 3 minutes of feeling anger
 		- We lie down, and practice feeling anger with the help of a towel for 3 minutes
 		- We share on the Telegram group that we did the exercise by sending the number "3".
@@ -41,8 +41,6 @@
 				  background-color:: #497d46
 	- As anger surfaces we distill the boundary; which means, we put the boundary into precise words that in the situation are said to the other person as a declaration.
 	- Setting boundaries is skill that can be improved with [[Practice]]
-	-
-	- [[draws/2022-09-26-22-00-26.excalidraw]]
 	-
 	-
 	-
