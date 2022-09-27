@@ -1,3 +1,4 @@
--
+- Getting your [[Center]] back, your [[Authority]] back, your [[Voice]] back, and your [[Balls]] back.
+- And for
 - ---
 - Reference: https://3-3-3.mystrikingly.com/
