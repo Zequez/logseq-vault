@@ -50,8 +50,12 @@ title:: Unblock Third Eye
 		- Ancestral programming
 		- Blocks
 		- All forms of trauma stored there
-		-
-		-
+		- All detrimental beliefs system
+		- Contracts
+		- Implants
+		- Can be light or energy; have it clean the entire pinal gland (physical manifestation) and metaphysical (the energy center)
+			-
+			-
 - ---
 -
 - Reference: https://www.youtube.com/watch?v=vtUT2ujVjRo
