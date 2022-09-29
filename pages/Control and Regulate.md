@@ -1,2 +1,3 @@
-- Control feels more absolute. Regulation feels like a somehow forced dance.
+- Control feels more absolute. Regulation feels like a forceful dance to take the other to where you want.
+-
 -
