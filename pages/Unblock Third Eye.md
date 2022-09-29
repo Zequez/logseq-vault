@@ -34,6 +34,7 @@ title:: Unblock Third Eye
 - Not everyone will experience Clairvoyance at the same level; based on their soul journey and depending on their soul contracts.
 - -----
 - Most powerful way to unleash this center is to raise our level of consciousness at that of Onness.  It's all part of the same process of balancing our hemispheres.
+- Empathicness is experiencing Onness. Emotional Body innate wisdom that we are all interconnected.
 	-
 - ---
 -
