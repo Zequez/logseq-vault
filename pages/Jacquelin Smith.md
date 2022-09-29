@@ -1,0 +1,2 @@
+- https://jacquelinsmith.com/
+- Jacquelin Smith is an animal communicator
