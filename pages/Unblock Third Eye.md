@@ -41,7 +41,10 @@ title:: Unblock Third Eye
 	- Shift perception to start regarding us as the light. We've come into physical experience many times to anchor in light into the experience.
 	- The light needs us to be anchored into this reality.
 		- We sometimes think light, creation, does not need anything from us and that we need everything from it. This is an innocent misstep; and the byproduct of being in spiritual amnesia. We believe we are not powerful and cannot help the light.
+	- Being abandoned by a higher power.
 	-
+- ----
+- Powerful tool to start opening this center is a Sensory Deprivation tank.
 	-
 - ---
 -
