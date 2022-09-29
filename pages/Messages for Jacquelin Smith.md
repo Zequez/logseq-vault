@@ -1,3 +1,3 @@
-- I'm wondering what message could the [Argentine Ants specie](https://www.youtube.com/watch?v=cqECNYmM23A) have for humanity.
+- I'm wondering what message could the [Argentine Ants specie]({{video https://www.youtube.com/watch?v=LJyusL5LaxE}}) have for humanity.
 - ---
 - See also: [[Jacquelin Smith]]
