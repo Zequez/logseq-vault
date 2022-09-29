@@ -33,7 +33,7 @@ title:: Unblock Third Eye
 	- However you receive it; validate it; honor it as important information that you are communicating to yourself.
 - Not everyone will experience Clairvoyance at the same level; based on their soul journey and depending on their soul contracts.
 - -----
-- Most powerful way to unleash this center
+- Most powerful way to unleash this center is to raise our level of consciousness at that of Onness.  It's all part of the same process of balancing our hemispheres.
 	-
 - ---
 -
