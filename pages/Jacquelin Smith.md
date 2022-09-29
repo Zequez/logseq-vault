@@ -1,5 +1,6 @@
 - https://jacquelinsmith.com/
 - Jacquelin Smith is a person with the currently rare ability of communicating with animals, star beings and speaking the light language.
 - She has written the following books:
-	- Star Origins and Wisdom Of Animals:
-		- - Talks With Animal Souls
+	- Star Origins and Wisdom Of Animals: Talks With Animal Souls
+	- ...
+-
