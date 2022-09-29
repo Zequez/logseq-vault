@@ -1,7 +1,8 @@
 title:: Unblock Third Eye
 
 -
-- Ability to perceive beyond the limitations of this reality.
+- Ability to perceive beyond the limitations of this reality. The ability of [[Vision]].
+-
 - Intellect is overpowering Intuition. The Intellectual Body is overpowering the Emotional / Energetic / Physical Body. The Masculine Part of Our Brain is overpowering the Feminine Part of Our Brain.
 - Third eye is activated through the equilibrium of these 2 hemispheres. Either way we are unbalanced (either one overpowering the other), and won't be able to create the equilibrium that takes the Third Eye to open.
 - In the intellect driven world of [[Patriarchy]] the [[Masculine]] hemisphere is overpowering the [[Femenine]] one. Our Intellect is overpowering our Intuition.
