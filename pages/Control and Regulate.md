@@ -1,0 +1,2 @@
+- Control feels more absolute. Regulation feels like a somehow forced dance.
+-
