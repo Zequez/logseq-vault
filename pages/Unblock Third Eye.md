@@ -37,7 +37,7 @@ title:: Unblock Third Eye
 - Empathicness is experiencing Onness. [[Emotional Body]] innate wisdom that we are all interconnected. So if we feel empathy, we're halfway there to Onness; even if our conscious hasn't merged with our unconscious, and our intellect hasn't balanced with our intuition.
 - The energy of this age is supportive of our raising of consciousness into Onness.
 - ---
-- Belief system within the center. Under the belief that has been abandoned
+- Belief system within the center. Under the belief that has been abandoned from the light. Abandonment of the light. "How could I be supported by the light under hte
 	-
 - ---
 -
