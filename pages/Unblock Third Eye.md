@@ -44,7 +44,9 @@ title:: Unblock Third Eye
 	- Being abandoned by a higher power.
 	-
 - ----
-- Powerful tool to start opening this center is a Sensory Deprivation tank.
+- Tools to
+- Powerful tool to start opening this center is a [[Sensory Deprivation Tank]]. Perfect environment to Third Eye activity to be exercised and activated.
+- Second tool is using
 	-
 - ---
 -
