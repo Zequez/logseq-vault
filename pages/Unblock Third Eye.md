@@ -55,10 +55,10 @@ title:: Unblock Third Eye
 			- All detrimental beliefs system
 			- Contracts
 			- Implants (most stored)
-			- Can be light or energy; have it clean the entire pinal gland (physical manifestation) and metaphysical (the energy center)
-				-
-				-
-				-
+		- Have it clean the entire physical (pinal gland) and metaphysical (energy center) manifestations of the Third Eye.
+			-
+			-
+			-
 		-
 - ---
 -
