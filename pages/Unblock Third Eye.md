@@ -11,7 +11,10 @@ title:: Unblock Third Eye
 	- Cavities in brain have occult function
 		- Antennas receive and transmit waveforms
 	- Activity comes to a peak here.
-- We
+- We are time traveling as we speak. Central nervous system locates us in space and time. Our bodies are our astronaut suit.
+- Mysticism esoteric
+- Religion exoteric
+- Religion
 -
 - Intellect is overpowering Intuition. The Intellectual Body is overpowering the Emotional / Energetic / Physical Body. The Masculine Part of Our Brain is overpowering the Feminine Part of Our Brain.
 - Third eye is activated through the equilibrium of these 2 hemispheres. Either way we are unbalanced (either one overpowering the other), and won't be able to create the equilibrium that takes the Third Eye to open.
