@@ -29,8 +29,8 @@ title:: Unblock Third Eye
 	- Third eye activity might not be super prominent and vivid:
 		- Dream activity
 		- Inner visualization
-		- A screen inside the mind eye
-		-
+		- A screen inside the mind eye holding some some of scenery at play
+	- However you receive it; validate it; honor it as important information that you are communicating to yourself.
 		-
 - ---
 -
