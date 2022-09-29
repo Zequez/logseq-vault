@@ -46,7 +46,11 @@ title:: Unblock Third Eye
 - ----
 - Tools to activate and exercise the Third Eye
 	- [[Sensory Deprivation Tank]]. Perfect environment to Third Eye practice.
-	- Second tool is using palm of hand, open it up as power center and allow energy to pump from the heart.
+	- Second tool is using palm of hand, open it up as power center and allow energy to pump from the heart. Place it over the third eye; and make a visual intention that the energy will clean out:
+		- Ancestral programming
+		- Blocks
+		- All forms of trauma stored there
+		-
 		-
 - ---
 -
