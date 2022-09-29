@@ -16,11 +16,14 @@ title:: Unblock Third Eye
 - Religion exoteric
 - Religion pulls from mysticism while oppressing the practice. It's never been safe to be in our intuitive abilities; in the past we suffered severe repercussions for activating those centers.
 - Our abilities of activate it depends on how safe we feel.
-- We might be wanting ability that we are afraid of.
--
+- We might be wanting ability that we are afraid of. Fear is shutting down third eye system.
+- We come with Third Eye open; but not fully activated; not fully realized.
+- ---
+- Rational mind acts as a barrier.
 - Intellect is overpowering Intuition. The Intellectual Body is overpowering the Emotional / Energetic / Physical Body. The Masculine Part of Our Brain is overpowering the Feminine Part of Our Brain.
 - Third eye is activated through the equilibrium of these 2 hemispheres. Either way we are unbalanced (either one overpowering the other), and won't be able to create the equilibrium that takes the Third Eye to open.
 - In the intellect driven world of [[Patriarchy]] the [[Masculine]] hemisphere is overpowering the [[Femenine]] one. Our Intellect is overpowering our Intuition.
 - To balance this situation we don't need to get rid of our Intellectual abilities; but rather start to notice when it's being used to [[Control and Regulate]] our intuitive abilities
+-
 - ---
 - Reference: https://www.youtube.com/watch?v=vtUT2ujVjRo
