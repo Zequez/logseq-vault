@@ -44,10 +44,10 @@ title:: Unblock Third Eye
 	- Being abandoned by a higher power.
 	-
 - ----
-- Tools to
-- Powerful tool to start opening this center is a [[Sensory Deprivation Tank]]. Perfect environment to Third Eye activity to be exercised and activated.
-- Second tool is using
-	-
+- Tools to activate and exercise the Third Eye
+	- [[Sensory Deprivation Tank]]. Perfect environment to Third Eye practice.
+	- Second tool is using palm of hand, open it up as power center and allow energy to pump from the heart.
+		-
 - ---
 -
 - Reference: https://www.youtube.com/watch?v=vtUT2ujVjRo
