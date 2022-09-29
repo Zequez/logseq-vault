@@ -25,7 +25,13 @@ title:: Unblock Third Eye
 - In the intellect driven world of [[Patriarchy]] the [[Masculine]] hemisphere is overpowering the [[Femenine]] one. Our Intellect is overpowering our Intuition.
 - To balance this situation we don't need to get rid of our Intellectual abilities; but rather start to notice when it's being used to [[Control and Regulate]] our intuitive abilities.
 	- We doubt that we are having mystical experiences; because they are not as vivid as we expect them to be. But we need to validate the Third Eye exactly as it shows up; this is how to train the center to feel safe enough to continue to be activated.
-	- We are experts a
+	- We are experts at gaslighting ourselves.
+	- Third eye activity might not be super prominent and vivid:
+		- Dream activity
+		- Inner visualization
+		- A screen inside the mind eye
+		-
+		-
 - ---
 -
 - Reference: https://www.youtube.com/watch?v=vtUT2ujVjRo
