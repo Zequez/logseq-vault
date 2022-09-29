@@ -31,7 +31,9 @@ title:: Unblock Third Eye
 		- Inner visualization
 		- A screen inside the mind eye holding some some of scenery at play
 	- However you receive it; validate it; honor it as important information that you are communicating to yourself.
-- Not everyone will experience Clairvoyance at the same level; depending on their soul contract.
+- Not everyone will experience Clairvoyance at the same level; based on their soul journey and depending on their soul contracts.
+- -----
+- Most powerful way to unleash this center
 	-
 - ---
 -
