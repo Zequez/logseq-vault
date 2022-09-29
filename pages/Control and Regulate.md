@@ -1,4 +1,4 @@
 - Control feels more absolute. Regulation feels like a forceful dance to take the other to where you want.
 - [[Coersion]] is a form of Control.
-- We hold these emotional wounds
+- We hold these emotional wounds over our bodies as boogiemen for our inner child. We use [[Anger]] from our past
 -
