@@ -1,2 +1,2 @@
 - https://jacquelinsmith.com/
-- Jacquelin Smith is an animal communicator
+- Jacquelin Smith is a person with the currently rare ability
