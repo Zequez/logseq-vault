@@ -14,7 +14,9 @@ title:: Unblock Third Eye
 - We are time traveling as we speak. Central nervous system locates us in space and time. Our bodies are our astronaut suit.
 - Mysticism esoteric
 - Religion exoteric
-- Religion
+- Religion pulls from mysticism while oppressing the practice. It's never been safe to be in our intuitive abilities; in the past we suffered severe repercussions for activating those centers.
+- Our abilities of activate it depends on how safe we feel.
+- We might be wanting ability that we are afraid of.
 -
 - Intellect is overpowering Intuition. The Intellectual Body is overpowering the Emotional / Energetic / Physical Body. The Masculine Part of Our Brain is overpowering the Feminine Part of Our Brain.
 - Third eye is activated through the equilibrium of these 2 hemispheres. Either way we are unbalanced (either one overpowering the other), and won't be able to create the equilibrium that takes the Third Eye to open.
