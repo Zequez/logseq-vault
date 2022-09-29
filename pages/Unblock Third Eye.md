@@ -24,7 +24,8 @@ title:: Unblock Third Eye
 - Third eye is activated through the equilibrium of these 2 hemispheres. Either way we are unbalanced (either one overpowering the other), and won't be able to create the equilibrium that takes the Third Eye to open.
 - In the intellect driven world of [[Patriarchy]] the [[Masculine]] hemisphere is overpowering the [[Femenine]] one. Our Intellect is overpowering our Intuition.
 - To balance this situation we don't need to get rid of our Intellectual abilities; but rather start to notice when it's being used to [[Control and Regulate]] our intuitive abilities.
-	- We doubt that we are having mystical experiences; because they are not as vivid as we expect them to be. But we need to validating the Third Eye exactly as it shows up, is how te train the center to feel safe enough to continue to be activated.
+	- We doubt that we are having mystical experiences; because they are not as vivid as we expect them to be. But we need to validate the Third Eye exactly as it shows up; this is how to train the center to feel safe enough to continue to be activated.
+	- We are experts a
 - ---
 -
 - Reference: https://www.youtube.com/watch?v=vtUT2ujVjRo
