@@ -4,7 +4,14 @@ title:: Unblock Third Eye
 - Ability to perceive beyond the limitations of this reality. Regulates the ability of [[Vision]].
 - Center for clairvoyance, or clear vision. Perceive the dimensions beyond the physical realm
 - Pinal gland; pitutary gland.
+	- Project us into any reality
 - Seat of the soul.
+- Ark of the Covenant
+	- Time travel
+	- Cavities in brain have occult function
+		- Antennas receive and transmit waveforms
+	- Activity comes to a peak here.
+- We
 -
 - Intellect is overpowering Intuition. The Intellectual Body is overpowering the Emotional / Energetic / Physical Body. The Masculine Part of Our Brain is overpowering the Feminine Part of Our Brain.
 - Third eye is activated through the equilibrium of these 2 hemispheres. Either way we are unbalanced (either one overpowering the other), and won't be able to create the equilibrium that takes the Third Eye to open.
