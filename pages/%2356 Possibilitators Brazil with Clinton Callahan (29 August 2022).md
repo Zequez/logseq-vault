@@ -72,6 +72,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 			- Clinton says:
 				- For further practice he encourages him to [[Use No Props]]. Unlike theater. The kind of space shifting where you take full responsibility has no props; you don't depend on an object to take people attention, you connect with the person and you speak open a [[Sideways Door]] in the space.
 				- Tells story about a person that was great at improvisational theater, his characters were really interesting; but his ordinary person was really boring. So they gave him a challenge to play a character that would move for year to California and stay on that character at all time.
+				- This practice gave him this [[Possibility]] of [[Using His Being To Shift Space]].
 				-
 			-
 				-
