@@ -15,7 +15,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 	- Painful realization.
 	- We come into Possibilitator Training and "it's not a bar, it's not a job, so it's gotta be school". There is so many places we can go to. The question is: "What are your practices for being out of School?"
 		- Write in your [[Beep! Book]] for 3 minutes, what are your  [[Possibilitator Practices]]? The ones you are doing yesterday, today, and tomorrow. So we can talk about our Possibiliator Practices. It's not possible to practices 150 things at the same time; we need like 3 or 4. So write 3 or 4 practices that you are trying right now.
-		-
+		- Clinton says that the practices for him are "
 	-
 - ---
 - Reference: https://www.youtube.com/watch?v=w60DTS7aBcY
