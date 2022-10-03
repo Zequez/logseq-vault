@@ -49,7 +49,8 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 			- What comes was fulfilling the [[Needs of the Space]].
 		- Clinton summarizes:
 			- They are you are telling him is an [[Experiment]] that he will share with other people.
-				- If two people are [[Speaking From The Unknown]] even on [[Ordinary Life]] then it's not their [[Box]] relating anymore. So all of the sudden they get more [[Presence]] and more [[Intimacy]] because their boxes are not [[Speaking From the Known]]
+				- If two people are [[Speaking From The Unknown]] even on [[Ordinary Life]] then it's not their [[Box]] relating anymore. So all of the sudden they get more [[Presence]] and more [[Intimacy]] because their boxes are not [[Speaking From the Known]] which causes [[Box Intimacy]].
+			- Even if one person is speaking from the unknown
 				-
 			-
 			-
