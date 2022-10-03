@@ -46,7 +46,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 						- Clinton commits to being the guardian for this, and will make visual gesture in the screen if he notices he's doing it.
 				- He was afraid too, and he ended the space with [[Joy]] for how Going from the Unknown in a space with Gabriela makes them it so much more [[Connected]]. Made it Easy to keep their centers, because it was not their Boxes that were relating. The space was being held from something that was not their Box.
 		- Gabriela adds:
-			- What comes is what the space needed.
+			- What comes was fulfilling the [[Space Needs]].
 			-
 			-
 			-
