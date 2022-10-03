@@ -1,1 +1,1 @@
-- The practice of
+- The practice of consciously [[Using The Being To Shift Space]].
