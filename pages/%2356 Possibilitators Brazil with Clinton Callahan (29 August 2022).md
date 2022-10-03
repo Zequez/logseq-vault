@@ -101,7 +101,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 			- Clinton shares the distinction practice is something we do all the time; not just when we are with certain people. So he asks if she can be centered when she's on other difficult situations such as being in public.
 			- Giovana agrees and says "I need to practice more"
 			- Clinton interrupts her and indicates that by using that "I need to practice more" she would think that she's [[Being at School]]. Because there would be an assignment or an authority. But there are no assignments or authority in the group, they are a group of wizards sharing their practice, that's all.
-				-
+				- "I need to practice more" is school bullshit. It's all an opportunity. It's all an experiment. It's all open space. You can do what you want for the rest of your life.
 			-
 			-
 		-
