@@ -96,7 +96,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 			- At the begging she started the process with [[Rage]] and the rest of the group had no [[Distinctions]] about it; they came from the context of [[New Age]] and [[Good Feelings / Bad Feelings]], and [[Bad Vibes / Good Vibes]].
 			- They started saying yes/no from their [[Anger]]. She asked to let their Anger to say what they are. And it was [[Beautiful]].
 			- Clinton says they are asking a different question: What is your practice?
-			-
+			- She's practicing [[Being Centered]] and [[Unhookable]] when she's with her daughter.
 	-
 - ---
 - Reference: https://www.youtube.com/watch?v=w60DTS7aBcY
