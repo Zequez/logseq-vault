@@ -24,7 +24,8 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- This was from someone who has been practicing [[Possibility Management]] for 8 years; so she claimed.
 			- To maintain the practice during that circumstance it's not an [[Easy]] thing; it's not an easy practice. {Maybe [[Hard]]?}
 			- By their very nature practices are not easy.
-			- Gave a talk about [[Goingo Orthogonal]] out of the ordinary space. He was talking about it as a practice as a [[Tool]] so you don't get
+			- Gave a talk about [[Goingo Orthogonal]] out of the ordinary space. He was talking about it as a [[Tool]] or a [[Practice]] so you don't get [[Hipnotized]] into the limitations of the current scape.
+				- Lee Laz said "[[Practice]] is [[Orthogonal]]
 				-
 	-
 - ---
