@@ -5,7 +5,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 	- Being Guardian
 	- Being Centered
 - Who is going to be guardian for being centered then now?
-	- Gabriela? Would you like to make sure all have wour
+	- Gabriela? Would you like to make sure we all have our center, grounding coord and bubble then?
 	-
 - ---
 - Reference: https://www.youtube.com/watch?v=w60DTS7aBcY
