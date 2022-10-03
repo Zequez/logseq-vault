@@ -4,6 +4,8 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 - Proposals:
 	- Being Guardian
 	- Being Centered
+- Who is going to be guardian for being centered then now?
+	- Gabriela? Would you like to make sure all have wour
 	-
 - ---
 - Reference: https://www.youtube.com/watch?v=w60DTS7aBcY
