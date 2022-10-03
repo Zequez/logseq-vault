@@ -50,8 +50,10 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 		- Clinton summarizes:
 			- They are you are telling him is an [[Experiment]] that he will share with other people.
 				- If two people are [[Speaking From The Unknown]] even on [[Ordinary Life]] then it's not their [[Box]] relating anymore. So all of the sudden they get more [[Presence]] and more [[Intimacy]] because their boxes are not [[Speaking From the Known]] which causes [[Box Intimacy]].
-			- And notes:
-				- Even if one person is Speaking From The Unknown they are not so easy to [[Be Hooked]]. Even if the other person can't
+				- And notes:
+					- Even if one person is Speaking From The Unknown they are not so easy to [[Be Hooked]]. Even if the other person can't yet Speak From The Unknown there is no reactivity between their boxes.
+					- It's a very powerful experiment to keep trying.
+			-
 				-
 			-
 			-
