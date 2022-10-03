@@ -32,7 +32,6 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- [[Speaking From The Unknown]]
 					- Starts to film videos without knowing what he will say.
 					- [[Distinctions]] come up that are not usual for his [[Box]]; the Distinctions that he usually hit. He's going Orthogonal to the things that happen in his life.
-		-
 			- Clinton asks Gabriela how is it for her to be on the space of Israel when he's Speaking From The Unknown?
 				- She was scared, because she's doing that practice too.
 					- Big [[Fear]] comes up to her: "How can I integrate as a co-spaceholder to what he brings to the space?"
@@ -45,15 +44,15 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 					- So the Proposal is to tell the story without the spin. So use the same energy, loudness and Clarity, but the energetic spin without the smile on your face that looks like you are laughing at your own jokes.
 						- Isreal accepts.
 							- Clinton commits to being the guardian for this, and will make visual gesture in the screen if he notices he's doing it.
-					- He was afraid too, and he ended the space with [[Joy]] for how [[Speaking From The Unknown]] in a space with Gabriela made it much more [[Intimate]]. Made it Easy to keep their centers, because it was not their Boxes that were relating. The space was being held from something that was not their Box.
+			- He was afraid too, and he ended the space with [[Joy]] for how [[Speaking From The Unknown]] in a space with Gabriela made it much more [[Intimate]]. Made it Easy to keep their centers, because it was not their Boxes that were relating. The space was being held from something that was not their Box.
 			- Gabriela adds:
 				- What comes was fulfilling the [[Needs of the Space]].
-			- Clinton summarizes:
-				- They are you are telling him is an [[Experiment]] that he will share with other people.
-					- If two people are [[Speaking From The Unknown]] even on [[Ordinary Life]] then it's not their [[Box]] relating anymore. So all of the sudden they get more [[Presence]] and more [[Intimacy]] because their boxes are not [[Speaking From the Known]] which causes [[Box Intimacy]].
-					- And notes:
-						- Even if one person is Speaking From The Unknown they are not so easy to [[Be Hooked]]. Even if the other person can't yet Speak From The Unknown there is no reactivity between their boxes.
-						- It's a very powerful experiment to keep trying.
+				- Clinton summarizes:
+					- They are you are telling him is an [[Experiment]] that he will share with other people.
+						- If two people are [[Speaking From The Unknown]] even on [[Ordinary Life]] then it's not their [[Box]] relating anymore. So all of the sudden they get more [[Presence]] and more [[Intimacy]] because their boxes are not [[Speaking From the Known]] which causes [[Box Intimacy]].
+						- And notes:
+							- Even if one person is Speaking From The Unknown they are not so easy to [[Be Hooked]]. Even if the other person can't yet Speak From The Unknown there is no reactivity between their boxes.
+							- It's a very powerful experiment to keep trying.
 		- Clinton asks who would like to share their practice next.
 			-
 			-
