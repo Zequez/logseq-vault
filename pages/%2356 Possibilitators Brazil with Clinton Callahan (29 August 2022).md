@@ -71,6 +71,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 					- Use the words of the enemy to talk about light and shadow and invite people to play with him.
 			- Clinton says:
 				- For further practice he encourages him to [[Use No Props]]. Unlike theater. The kind of space shifting where you take full responsibility has no props; you don't depend on an object to take people attention, you connect with the person and you speak open a [[Sideways Door]] in the space.
+				- Tells story about a
 				-
 			-
 				-
