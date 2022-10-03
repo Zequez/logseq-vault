@@ -11,7 +11,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 	- Alright, we have 4 guardians of distinctions, and we are ready to go.
 - There is a kind of [[Ecstasy]] that comes [[Creating]].
 	- The [[Possibilitator Training]] is only about Creating.
-	-
+- We discovered in our [[Heal From School Lab]]  that everybody is still on [[School]].
 	-
 - ---
 - Reference: https://www.youtube.com/watch?v=w60DTS7aBcY
