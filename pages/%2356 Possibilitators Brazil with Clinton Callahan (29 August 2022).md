@@ -32,6 +32,8 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- Starts to film videos without knowing what he will say.
 				- [[Distinctions]] come up that are not usual for his [[Box]]; the Distinctions that he usually hit. He's going Orthogonal to the things that happen in his life.
 		-
+		- Clinton asks Gabriela how is it for her to be on the space of Israel when he's Speaking From The Unknown?
+			- She was scared, because she's doing that practice too.
 			-
 			-
 			-
