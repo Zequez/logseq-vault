@@ -69,14 +69,14 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- He's doing some videos about his business to get in contact with people who are participating on a workshop called [[Playcraft]] "I create what I play".
 				- So he puts a skull mask and starts to talk from the enemy place.
 					- Use the words of the enemy to talk about light and shadow and invite people to play with him.
-			- Clinton shares an distinction about :
+			- Clinton shares an distinction about [[Navigating Space From The Being]]:
 				- For further practice he encourages him to [[Use No Props]]. Unlike theater. The kind of space shifting where you take full responsibility has no props; you don't depend on an object to take people attention, you connect with the person and you speak open a [[Sideways Door]] in the space.
 				- Tells story about a person that was great at improvisational theater, his characters were really interesting; but his ordinary person was really boring. So they gave him a challenge to play a character that would move for year to California and stay on that character at all time.
 				- This practice gave him this [[Possibility]] of [[Using The Being To Shift Space]]. He was [[Navigating Space From The Being]].
 				- There are many [[Invitations]] to go ordinary; but if you can Navigate Space From The Being you don't even have to fight against those forces, you simply don't go there; you are not going against what's there, you are going somewhere else.
 					- Usually we go "I'm not doing this" "I'm not doing that"; you don't even have to engage the invitation to the [[Low Drama]].
 			- Marcelo shares:
-				-
+				- His son is doing this, and it's place with a lot of hierarchy.
 				-
 			-
 				-
