@@ -22,7 +22,8 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 		- He tells a story:
 			- There was a woman that was [[Projecting]] 100% her father and her ex-partner on me; she was screaming at me that it was all my fault, I was doing horrible things and that I was not a human being. With complete conviction enough to burn me at the stake.
 				- This was from someone who has been practicing [[Possibility Management]] for 8 years; so she claimed.
-			- To maintain the practice during that circumstance it's not an [[Easy]] thing; it's not an easy practice. [[Hard]]
+			- To maintain the practice during that circumstance it's not an [[Easy]] thing; it's not an easy practice. {Maybe [[Hard]]?}
+			-
 			-
 	-
 - ---
