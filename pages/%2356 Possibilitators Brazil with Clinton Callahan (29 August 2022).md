@@ -58,9 +58,12 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 		- Clinton asks who would like to share their practice next.
 		- Marcelo tells his story.
 			- He's practicing [[Changing Identity]] to not be on [[Low Drama]] with his son and his wife. He learned that he can choose sometimes just to change; people feedback that people think he's crazy.
+			- He's researching how to [[Change The Energy of a Space]]
+			- Clinton asks what is the other energy he's trying to create.
 			-
-			-
-			-
+				-
+				-
+				-
 	-
 - ---
 - Reference: https://www.youtube.com/watch?v=w60DTS7aBcY
