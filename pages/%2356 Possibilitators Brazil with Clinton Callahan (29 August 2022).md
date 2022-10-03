@@ -98,7 +98,8 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 			- Clinton says they are asking a different question: What is your practice?
 			- She's practicing [[Being Centered]] and [[Unhookable]] when she's with her daughter. It was really difficult for her when she was entering into her drama when she started crying saying "I want this I want that" and was getting angry at her.
 				- Now she's practicing Being Centered and being an Adult.
-			- Clinton shares the distinction practic
+			- Clinton shares the distinction practice is something we do all the time; not just when we are with certain people. So he asks if she can be centered when she's on other difficult situations such as being in public.
+			- Giovana says "I need to pra
 	-
 - ---
 - Reference: https://www.youtube.com/watch?v=w60DTS7aBcY
