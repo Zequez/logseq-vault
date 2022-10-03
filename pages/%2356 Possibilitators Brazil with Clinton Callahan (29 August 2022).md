@@ -19,7 +19,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 			- [[Having a Small Now]]
 			- [[Making No Stories]]
 			- [[Making No Assumptions]]
-		- He tells a story:
+		- He shares a story:
 			- There was a woman that was [[Projecting]] 100% her father and her ex-partner on him; she was screaming at him that it was all his fault, he was doing horrible things and that he was not a human being. With complete conviction enough to burn him at the stake.
 				- This was from someone who has been practicing [[Possibility Management]] for 8 years; so she claimed.
 			- To maintain the practice during that circumstance it's not an [[Easy]] thing; it's not an easy practice. {Maybe [[Hard]]?}
@@ -27,7 +27,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 			- Gave a talk about [[Goingo Orthogonal]] out of the ordinary space. He was talking about it as a [[Tool]] or a [[Practice]] so you don't get [[Hipnotized]] into the limitations of the current scape.
 				- Lee Laz said "[[Practice]] is [[Orthogonal]] to the [[Space]]"
 		- Asks for people to share what their practice is; and asks the 4 guardians please [[Stay Awake]].
-		- Israel and Gabriela tell their story.
+		- Israel and Gabriela tell their story:
 		  collapsed:: true
 			- Israel says:
 				- [[Speaking From The Unknown]]
@@ -56,7 +56,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 						- Even if one person is Speaking From The Unknown they are not so easy to [[Be Hooked]]. Even if the other person can't yet Speak From The Unknown there is no reactivity between their boxes.
 						- It's a very powerful experiment to keep trying.
 		- Clinton asks who would like to share their practice next.
-		- Marcelo tells his story.
+		- Marcelo shares his story:
 			- He's practicing [[Changing Identity]] to not be on [[Low Drama]] with his son and his wife. He learned that he can choose sometimes just to change; people feedback that people think he's crazy.
 			- Marcelo is researching how to [[Change The Energy of a Space]]
 			- Clinton asks what is the other energy he's trying to create.
