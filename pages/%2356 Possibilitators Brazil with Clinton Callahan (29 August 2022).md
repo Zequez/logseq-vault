@@ -19,7 +19,8 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 			- [[Having a Small Now]]
 			- [[Making No Stories]]
 			- [[Making No Assumptions]]
-		-
+		- He tells a story:
+			- There was a woman that was projecting 100% of her [[Parent Ego State]] and
 	-
 - ---
 - Reference: https://www.youtube.com/watch?v=w60DTS7aBcY
