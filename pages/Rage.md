@@ -1,1 +1,1 @@
-- [[Anger]] of
+- [[Anger]] of high intensity.
