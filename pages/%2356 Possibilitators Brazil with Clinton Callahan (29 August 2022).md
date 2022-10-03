@@ -55,9 +55,9 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 					- It's a very powerful experiment to keep trying.
 		- Clinton asks who would like to share their practice next:
 			-
-			-
-			-
-			-
+	-
+		-
+		-
 	-
 - ---
 - Reference: https://www.youtube.com/watch?v=w60DTS7aBcY
