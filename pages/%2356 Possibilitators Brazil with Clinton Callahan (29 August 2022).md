@@ -20,7 +20,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 			- [[Making No Stories]]
 			- [[Making No Assumptions]]
 		- He tells a story:
-			- There was a woman that was projecting 100% of her [[Parent Ego State]] and
+			- There was a woman that was [[Projecting]] 100% her father and her ex-partner on me; she was screaming at me that it was all my fault, I was doing horrible things and that I was not
 	-
 - ---
 - Reference: https://www.youtube.com/watch?v=w60DTS7aBcY
