@@ -40,7 +40,8 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- So she practiced to [[Using Fear Consciously]] to [[Navigate]] and [[Do The Next Step]]
 		- Clinton asks Israel how was it not to use his mind as [[The Source]].
 			- As Israel starts talking, Clinton interrupts him and makes a [[Proposal]].
-				- There is a way when you [[Tell a Story]] to [[Put a Spin to a Story]]. It makes you smile, kinda look like a teenager and being excited and ecstatic. It makes it non-believable; makes us think you are in a [[Fantasy World]]; "
+				- There is a way when you [[Tell a Story]] to [[Put a Spin to a Story]]. It makes you smile, kinda look like a teenager and being excited and ecstatic. It makes it non-believable; makes us think you are in a [[Fantasy World]]; "You are doing the Israel thing again where everything is so amazing, so exciting"
+				- So the Proposal is to tell the story without the spin.
 			-
 			-
 			-
