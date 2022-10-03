@@ -44,9 +44,10 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- So the Proposal is to tell the story without the spin. So use the same energy, loudness and Clarity, but the energetic spin without the smile on your face that looks like you are laughing at your own jokes.
 					- Isreal accepts.
 						- Clinton commits to being the guardian for this, and will make visual gesture in the screen if he notices he's doing it.
-				- He was afraid too, and he ended the space with [[Joy]] for how Speaking From The Unknown in a space with Gabriela makes them it so much more [[Connected]]. Made it Easy to keep their centers, because it was not their Boxes that were relating. The space was being held from something that was not their Box.
+				- He was afraid too, and he ended the space with [[Joy]] for how [[Speaking From The Unknown]] in a space with Gabriela made it much more [[Intimate]]. Made it Easy to keep their centers, because it was not their Boxes that were relating. The space was being held from something that was not their Box.
 		- Gabriela adds:
 			- What comes was fulfilling the [[Needs of the Space]].
+		- Clinton summarizes:
 			-
 			-
 			-
