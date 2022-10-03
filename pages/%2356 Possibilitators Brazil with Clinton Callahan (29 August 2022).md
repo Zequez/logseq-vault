@@ -60,7 +60,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 			- He's practicing [[Changing Identity]] to not be on [[Low Drama]] with his son and his wife. He learned that he can choose sometimes just to change; people feedback that people think he's crazy.
 			- Marcelo is researching how to [[Change The Energy of a Space]]
 			- Clinton asks what is the other energy he's trying to create.
-			- The energy of [[Creation]] the energy of [[Discovery]], of [[Extraordinary Moments]] in their conversation, not [[Ordinary Moments]].
+			- It's the energy of [[Creation]] the energy of [[Discovery]], of [[Extraordinary Moments]] in their conversation, not [[Ordinary Moments]].
 			- Clinton wants to ask a question:
 				- Says that he thinks the spoon thing is a [[Gremlin Move]].
 				- Talks about an exercise to do in couples of gazing into each other eyes. What what ends up happening is that they enter into [[Extraordinary Space]] but then they end up not talking anymore. And a lot of the work of [[Possibility Management]] is verbal is [[Using Words to Navigate]] [[Extraordinary Spaces]] and [[Archetypal Spaces]].
@@ -69,7 +69,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- He's doing some videos about his business to get in contact with people who are participating on a workshop called [[Playcraft]] "I create what I play".
 				- So he puts a skull mask and starts to talk from the enemy place.
 					- Use the words of the enemy to talk about light and shadow and invite people to play with him.
-			- Clinton shares an anecdote:
+			- Clinton shares an distinction about :
 				- For further practice he encourages him to [[Use No Props]]. Unlike theater. The kind of space shifting where you take full responsibility has no props; you don't depend on an object to take people attention, you connect with the person and you speak open a [[Sideways Door]] in the space.
 				- Tells story about a person that was great at improvisational theater, his characters were really interesting; but his ordinary person was really boring. So they gave him a challenge to play a character that would move for year to California and stay on that character at all time.
 				- This practice gave him this [[Possibility]] of [[Using The Being To Shift Space]]. He was [[Navigating Space From The Being]].
