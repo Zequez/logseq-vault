@@ -65,6 +65,8 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- Says that he thinks the spoon thing is a [[Gremlin Move]].
 				- Talks about an exercise to do in couples of gazing into each other eyes. What what ends up happening is that they enter into [[Extraordinary Space]] but then they end up not talking anymore. And a lot of the work of [[Possibility Management]] is verbal is [[Using Words to Navigate]] [[Extraordinary Spaces]] and [[Archetypal Spaces]].
 				- Asks Marcelo if he can give an example of how he could use words instead of spoon next time.
+			- Marcelo says:
+				- He's doing some videos about his business to get in contact with people who are participating on a workshop called [[Playcraft]] "I create what I play".
 			-
 				-
 				-
