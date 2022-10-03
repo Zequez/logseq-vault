@@ -76,9 +76,11 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- There are many [[Invitations]] to go ordinary; but if you can Navigate Space From The Being you don't even have to fight against those forces, you simply don't go there; you are not going against what's there, you are going somewhere else.
 					- Usually we go "I'm not doing this" "I'm not doing that"; you don't even have to engage the invitation to the [[Low Drama]].
 			- Marcelo shares:
-				- His son is doing this, and it's place with a lot of hierarchy. Clinton adds, like an army.
+				- His son of 7-8 year of age is on the boy scouts, which is place with a lot of hierarchy. Clinton adds, like an army.
 				- He wants to know how to be there and change the place, because it's important for his child to be in nature and it's the place they have in the city to do some things in the nature.
+			- Clinton makes a distinction:
 				-
+			-
 				-
 			-
 				-
