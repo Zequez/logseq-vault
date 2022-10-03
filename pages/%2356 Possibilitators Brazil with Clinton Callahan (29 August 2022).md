@@ -30,7 +30,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 		- Israel says:
 			- [[Speaking From The Unknown]]
 				- Starts to film videos without knowing what he will say.
-				- Gives me [[Distinctions]] on my life that are not usual for my [[Box]]
+				- Gives him [[Distinctions]] on his life that are not usual for his [[Box]].
 			-
 			-
 			-
