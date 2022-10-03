@@ -13,7 +13,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 	- The [[Possibilitator Training]] is only about Creating.
 - We discovered in our [[Heal From School Lab]]  that everybody is still on [[School]].
 	- Painful realization.
-	- We come into Possibilitator Training and "it's not a bar, it's not a job, so it's gotta be school". There is so many places we can go to. The question is: "What are your practices for Being Out of School?"
+	- We come into Possibilitator Training and "it's not a bar, it's not a job, so it's gotta be school". There is so many places we can go to. The question is: "What are your practices for [[Being Out Of School]]?"
 		- Write in your [[Beep! Book]] for 3 minutes, what are your  [[Possibilitator Practices]]? The ones you are doing yesterday, today, and tomorrow. So we can talk about our Possibiliator Practices. It's not possible to practices 150 things at the same time; we need like 3 or 4. So write 3 or 4 practices that you are trying right now.
 		- Clinton says that the practices for him are:
 			- [[Having a Small Now]]
@@ -100,7 +100,9 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- Now she's practicing Being Centered and being an Adult.
 			- Clinton shares the distinction practice is something we do all the time; not just when we are with certain people. So he asks if she can be centered when she's on other difficult situations such as being in public.
 			- Giovana agrees and says "I need to practice more"
-			- Clinton interrupts her and indicates that by using that "I need to practice more" she would think that she's at [[School]].
+			- Clinton interrupts her and indicates that by using that "I need to practice more" she would think that she's [[Being at School]]. Because there would be an assignment or an authority. T
+			-
+			-
 		-
 	-
 - ---
