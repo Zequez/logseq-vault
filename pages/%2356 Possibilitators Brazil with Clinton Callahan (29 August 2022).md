@@ -13,7 +13,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 	- The [[Possibilitator Training]] is only about Creating.
 - We discovered in our [[Heal From School Lab]]  that everybody is still on [[School]].
 	- Painful realization.
-	- We come into Possibilitator Training and "it's not a bar, it's not a job, so it's gotta be school". There is so many places
+	- We come into Possibilitator Training and "it's not a bar, it's not a job, so it's gotta be school". There is so many places we can go to. The question is: "What are your practices for being out of School?"
 	-
 - ---
 - Reference: https://www.youtube.com/watch?v=w60DTS7aBcY
