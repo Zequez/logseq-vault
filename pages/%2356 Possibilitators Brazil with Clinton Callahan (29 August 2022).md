@@ -53,8 +53,9 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- And notes:
 					- Even if one person is Speaking From The Unknown they are not so easy to [[Be Hooked]]. Even if the other person can't yet Speak From The Unknown there is no reactivity between their boxes.
 					- It's a very powerful experiment to keep trying.
+		- Clinton asks who would like to share their practice next:
 			-
-				-
+			-
 			-
 			-
 	-
