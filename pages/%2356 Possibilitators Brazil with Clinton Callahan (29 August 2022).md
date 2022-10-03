@@ -67,6 +67,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- Asks Marcelo if he can give an example of how he could use words instead of spoon next time.
 			- Marcelo says:
 				- He's doing some videos about his business to get in contact with people who are participating on a workshop called [[Playcraft]] "I create what I play".
+				- So he puts a skull mask and starts to talk from the enemy place.
 			-
 				-
 				-
