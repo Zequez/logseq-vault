@@ -39,7 +39,8 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- She realized that if she let her [[Fear]] come unconscious she started to [[Think]] about what he was saying and entering into [[Mental Mode]].
 				- So she practiced to [[Using Fear Consciously]] to [[Navigate]] and [[Do The Next Step]]
 		- Clinton asks Israel how was it not to use his mind as [[The Source]].
-			- As Israel
+			- As Israel starts talking, Clinton interrupts him and makes a [[Proposal]].
+				- There is a way when you [[Tell a Story]] to put a spin into it, a spin that makes you smile, like a teenager.
 			-
 			-
 			-
