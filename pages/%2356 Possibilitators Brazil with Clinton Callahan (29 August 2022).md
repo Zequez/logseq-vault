@@ -79,7 +79,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- His son of 7-8 year of age is on the boy scouts, which is place with a lot of hierarchy. Clinton adds, like an army.
 				- He wants to know how to be there and change the place, because it's important for his child to be in nature and it's the place they have in the city to do some things in the nature.
 			- Clinton makes a distinction:
-				-
+				- At that age is exactly the time where nature becomes important in children.
 			-
 				-
 			-
