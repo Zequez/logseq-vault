@@ -63,7 +63,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 			- The energy of [[Creation]] the energy of [[Discovery]], of [[Extraordinary Moments]] in their conversation, not [[Ordinary Moments]].
 			- Clinton makes a comment:
 				- Says that he thinks the spoon thing is a [[Gremlin Move]].
-				- Talks about an exercise of
+				- Talks about an exercise to do in couples of gazing into each other eyes. What what ends up happening is that they enter into [[Extraordinary Space]] but then they end up not talking anymore. And the whole w
 					-
 					-
 					-
