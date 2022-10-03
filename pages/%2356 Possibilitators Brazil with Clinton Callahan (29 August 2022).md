@@ -38,7 +38,9 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- Practiced keeping her Center and the [[Presence]] in the [[Small Now]].
 				- She realized that if she let her [[Fear]] come unconscious she started to [[Think]] about what he was saying and entering into [[Mental Mode]].
 				- So she practiced to [[Using Fear Consciously]] to [[Navigate]] and [[Do The Next Step]]
-		- Clinton asks Israel how was it not to use his
+		- Clinton asks Israel how was it not to use his mind as [[The Source]].
+			- As Israel
+			-
 			-
 			-
 			-
