@@ -28,7 +28,8 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- Lee Laz said "[[Practice]] is [[Orthogonal]] to the [[Space]]"
 		- Asks for people to share what their practice is; and asks the 4 guardians please [[Stay Awake]].
 		- Israel says:
-			-
+			- [[Speaking From The Unknown]]
+				- Starts to film videos without knowing what he will say.
 			-
 			-
 			-
