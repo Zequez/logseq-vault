@@ -68,6 +68,9 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 			- Marcelo says:
 				- He's doing some videos about his business to get in contact with people who are participating on a workshop called [[Playcraft]] "I create what I play".
 				- So he puts a skull mask and starts to talk from the enemy place.
+					- Use the words of the enemy to talk about light and shadow and invite people to play with him.
+			-
+				-
 			-
 				-
 				-
