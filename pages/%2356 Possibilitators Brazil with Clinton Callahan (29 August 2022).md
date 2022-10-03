@@ -9,7 +9,8 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 		- Yes. I would like check if our [[Energetic Center]] is in our [[Physical Center]] right now, and on the count of 3 we say out loud the color of our [[Grounding Coord]] .
 		- And with another clicker we click to our [[Personal Bubble]], that separates our personal informations from the world.
 	- Alright, we have 4 guardians of distinctions, and we are ready to go.
-		-
+- There is a kind of ecstasy that comes
+	-
 - ---
 - Reference: https://www.youtube.com/watch?v=w60DTS7aBcY
 -
