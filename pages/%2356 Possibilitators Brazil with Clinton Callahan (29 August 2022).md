@@ -93,7 +93,8 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				-
 		- Giovana tells her story.
 			- She was holding space for a group, practicing experiences with their energetic bodies.
-			- At the begging she started the process with [[Rage]] and the rest of the group had no [[Distinctions]] about it; they came from the context of [[New Age]] of
+			- At the begging she started the process with [[Rage]] and the rest of the group had no [[Distinctions]] about it; they came from the context of [[New Age]] and [[Good Feelings / Bad Feelings]], and [[Bad Vibes / Good Vibes]].
+				-
 	-
 - ---
 - Reference: https://www.youtube.com/watch?v=w60DTS7aBcY
