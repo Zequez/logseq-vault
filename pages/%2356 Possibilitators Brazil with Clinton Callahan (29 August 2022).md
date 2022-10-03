@@ -26,7 +26,9 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 			- By their very nature practices are not easy.
 			- Gave a talk about [[Goingo Orthogonal]] out of the ordinary space. He was talking about it as a [[Tool]] or a [[Practice]] so you don't get [[Hipnotized]] into the limitations of the current scape.
 				- Lee Laz said "[[Practice]] is [[Orthogonal]] to the [[Space]]"
-		- Asks for people to share what their practice is; and asks the 4 guardians to be
+		- Asks for people to share what their practice is; and asks the 4 guardians please [[Stay Awake]].
+		- Israel says:
+			-
 			-
 			-
 			-
