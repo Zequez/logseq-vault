@@ -37,7 +37,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- Big fear comes up to her: "How can I integrate as a co-spaceholder to what he brings to the space?"
 				- Practiced keeping her Center and the [[Presence]] in the [[Small Now]].
 				- She realized that if she let her [[Fear]] come unconscious she started to [[Think]] about what he was saying and entering into [[Mental Mode]].
-				- Keep using this Fear to
+				- Keep using this Fear to [[Navigate]].
 			-
 			-
 			-
