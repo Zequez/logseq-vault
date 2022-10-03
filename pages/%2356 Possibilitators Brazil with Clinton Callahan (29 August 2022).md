@@ -75,6 +75,8 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- This practice gave him this [[Possibility]] of [[Using The Being To Shift Space]]. He was [[Navigating Space From The Being]].
 				- There are many [[Invitations]] to go ordinary; but if you can Navigate Space From The Being you don't even have to fight against those forces, you simply don't go there; you are not going against what's there, you are going somewhere else.
 					- Usually we go "I'm not doing this" "I'm not doing that"; you don't even have to engage the invitation to the [[Low Drama]].
+			- Marcelo says:
+				-
 				-
 			-
 				-
