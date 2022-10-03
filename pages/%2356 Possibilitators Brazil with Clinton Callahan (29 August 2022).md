@@ -57,7 +57,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 						- It's a very powerful experiment to keep trying.
 		- Clinton asks who would like to share their practice next.
 		- Marcelo tells his story.
-			-
+			- He's practicing [[Changing Identity]] to not be on [[Low Drama]].
 			-
 			-
 			-
