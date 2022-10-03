@@ -70,7 +70,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- So he puts a skull mask and starts to talk from the enemy place.
 					- Use the words of the enemy to talk about light and shadow and invite people to play with him.
 			- Clinton says:
-				- For further practice he encourages him to use known props, like in improvisational theater.
+				- For further practice he encourages him to [[Use No Props]].
 				-
 			-
 				-
