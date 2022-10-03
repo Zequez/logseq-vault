@@ -57,6 +57,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 						- It's a very powerful experiment to keep trying.
 		- Clinton asks who would like to share their practice next.
 		- Marcelo tells his story.
+		  collapsed:: true
 			- He's practicing [[Changing Identity]] to not be on [[Low Drama]] with his son and his wife. He learned that he can choose sometimes just to change; people feedback that people think he's crazy.
 			- Marcelo is researching how to [[Change The Energy of a Space]]
 			- Clinton asks what is the other energy he's trying to create.
@@ -83,12 +84,15 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- In scouts you can make your own circle; your own patrol, your own group. His son could be the spaceholder. And they then focus on their specialty. So they specialty is to [[Connect With Nature]]. So they make a space, a [[Gameworld]] of their own.
 					- Clinton mentions that he did that when he was on the boy scouts and it was [[Really Fun]], and they often got in trouble because they often were [[Breaking The Rules]].
 			-
+			-
 				-
 			-
 				-
 				-
 				-
 				-
+		- Giovana tells her story.
+			-
 	-
 - ---
 - Reference: https://www.youtube.com/watch?v=w60DTS7aBcY

@@ -1,1 +1,1 @@
-- [[High Level Fun]]
+- Also known as: [[High Level Fun]]
