@@ -80,7 +80,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- He wants to know how to be there and change the place, because it's important for his child to be in nature and it's the place they have in the city to do some things in the nature.
 			- Clinton makes a distinction:
 				- At that age is exactly the time where nature becomes important in children. There is a big shift from mother into nature.
-				- In scouts you can make your own circle; your own patrol, your own group. His son could be the spaceholder. And they then focus on their specialty. So they specialty is to [[Connect With Nature]].
+				- In scouts you can make your own circle; your own patrol, your own group. His son could be the spaceholder. And they then focus on their specialty. So they specialty is to [[Connect With Nature]]. So they make a space, a [[Gameworld]] of their own.
 			-
 				-
 			-
