@@ -1,1 +1,1 @@
-- A [[Gameworld]] where people keep track about what they create with their [[Physical Body]] and ignore the inherent Interconnectedness Of All Life
+- A [[Gameworld]] where people keep track about what they create with their [[Physical Body]] and ignore the inherent [[Interconnectedness Of All Life]] to claim the right to restrict access to their physical creation based on arbitrary rules
