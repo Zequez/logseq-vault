@@ -1,0 +1,4 @@
+- This is a list of videos that picked my attention and want to watch at some point:
+	- [STARR - What is context setting?](https://www.youtube.com/watch?v=xOKt6YDmk8k) 6:24
+	- Tools To Create
+	-
