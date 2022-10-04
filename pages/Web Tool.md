@@ -1,1 +1,1 @@
-- A web app designed to create things with it.
+- A web app designed to help you archieve a specific purpose
