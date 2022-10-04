@@ -2,6 +2,6 @@
 - How to play Copyright:
 	- Pretend that information is a scarce resource; ignore the fact that information is an energetic resource that can be copied and multiplied freely
 	- Keep track about every piece of information that comes out of your [[Physical Body]] and claim that it was your sole creation. Ignore your Interconnectedness with everything else and all the conditions that lead you to that moment.
-	- Attack anyone that copies your creations, they are trying to steal your glory
+	- Attack anyone that copies your creations, they are trying to steal your glory. No matter if you want your message to be received by the most people in the world; they must know who made you, it was you, you must receive all the attention and rewards.
 	-
 -
