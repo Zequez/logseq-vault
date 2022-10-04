@@ -1,4 +1,9 @@
 - A Digital Tool specifically designed to run inside a web browser.
 - The advantage of a Web Tool over a regular Digital Tool is that of accessibility since anyone with a web browser can access it by clicking a link without having to go through an installation process.
-- Web tools can also be integrated within other web tools.
--
+- Web Tools can also be integrated within other web tools.
+- Examples of Web Tools:
+	- [[TLDraw]]
+	- Gmail
+	- Google Search
+	-
+	-
