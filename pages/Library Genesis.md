@@ -1,2 +1,2 @@
-- Largest free centralized digital library in the world with unrestricted access to all shared books and publications giving  damns about copyright claims.
+- Largest free centralized digital library in the world with unrestricted access to all shared books and publications while ignoring [[Copyright Gameworld]] altogether.
 - http://libgen.rs/
