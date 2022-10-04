@@ -1,3 +1,9 @@
-- Gremlin
-- https://gremlinselfcannibalism.mystrikingly.com/
+- In the Physical Body
+	- Why do you chew on your fingernails?
+	- Why do you crack your knuckles?
+	- Why do you twist and pull your hair?
+	- Why do you pull out your hair on your legs, under your arms, in your eyebrows?
+	- Why do you pick at your skin and scabs until they bleed?
+- ---
+- Reference: https://gremlinselfcannibalism.mystrikingly.com/
 -
