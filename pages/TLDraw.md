@@ -1,4 +1,4 @@
-- A fantastic web drawing tool that is about to be integrated into LogSeq
+- A fantastic drawing [[Web Tool]] that is about to be integrated into LogSeq
 - https://github.com/tldraw/tldraw
 - https://www.tldraw.com/
 -
