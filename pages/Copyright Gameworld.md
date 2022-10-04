@@ -1,1 +1,3 @@
-- A [[Gameworld]] where people keep track about what they create with their [[Physical Body]] and ignore the inherent [[Interconnectedness Of All Life]] to claim the right to restrict access to information that was not their creation
+- A [[Gameworld]] where people act as if information is a scarce resource
+- keep track about what they create with their [[Physical Body]] and ignore the inherent [[Interconnectedness Of All Life]] to claim the right to restrict access to information as if it's an scarce resource.
+-
