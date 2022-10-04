@@ -1,1 +1,1 @@
-- A [[Gameworld]] where people keep track about what they create with their
+- A [[Gameworld]] where people keep track about what they create with their [[Physical Body]] and ignore the inherent Interconnectedness Of All Life
