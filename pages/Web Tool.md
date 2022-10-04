@@ -1,1 +1,1 @@
-- A web app designed to help you archieve a specific purpose
+- A digital tool specifically designed to run inside a web browser.
