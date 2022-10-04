@@ -106,7 +106,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 			-
 			-
 		-
--
+- LATER Finish watching this possibilitator training video
 - ---
 - Reference: https://www.youtube.com/watch?v=w60DTS7aBcY
 -
