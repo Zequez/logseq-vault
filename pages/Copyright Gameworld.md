@@ -1,6 +1,6 @@
 - A [[Gameworld]] where people don't share their creations freely with everyone else.
 - How to play Copyright:
 	- Pretend that information is a scarce resource; ignore the fact that information is an energetic resource that can be copied and multiplied freely
-	- Keep track about every piece of information that comes out of your [[Physical Body]] and claim that it was your creation. Ignore your Interconnectedness with everyone else and everything that lead you to that last
-	- they create with their [[Physical Body]] and ignore the inherent [[Interconnectedness Of All Life]] to claim the right to restrict access to information as if it's an scarce resource.
+	- Keep track about every piece of information that comes out of your [[Physical Body]] and claim that it was your sole creation. Ignore your Interconnectedness with everyone else and all the conditions that lead you to that moment.
+	-
 -
