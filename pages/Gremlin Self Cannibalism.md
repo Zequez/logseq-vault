@@ -1,3 +1,4 @@
+- An extremely common [[Survival Strategy]] is to give [[Gremlin]] the task of destroying ourselves.
 - In the Physical Body
 	- Why do you chew on your fingernails?
 	- Why do you crack your knuckles?
