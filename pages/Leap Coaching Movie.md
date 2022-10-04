@@ -1,3 +1,4 @@
 - Watch online for free at: https://m4uhd.tv/watch-movie-leap-2018-236293.html
 - ## Experiment
-	- TODO: Take notes while watching the movie. Pay attention to distinctions and experiments that come up. Pay attention to what you feel as you watch.
+	- LATER Take notes while watching the movie. Pay attention to distinctions and experiments that come up. Pay attention to what you feel as you watch.
+-
