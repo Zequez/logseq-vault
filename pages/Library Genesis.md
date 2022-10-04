@@ -1,2 +1,2 @@
-- Largest free digital library in the world
+- Largest free centralized digital library in the world with unrestricted access to all shared books and publications giving  damns about copyright claims.
 - http://libgen.rs/
