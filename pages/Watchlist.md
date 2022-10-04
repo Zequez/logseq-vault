@@ -1,6 +1,7 @@
-- This is a list of videos that picked my attention and want to watch at some point. Create a dedicated page of notes for each video watched.
+- This is a list of videos that picked my attention and want to watch at some point. Create a dedicated page of notes for each video watched and ~~strike them through~~ when finished.
 	- [STARR - What is context setting?](https://www.youtube.com/watch?v=xOKt6YDmk8k) 6:24
 	- [Tools Create Problems](https://www.youtube.com/watch?v=4UB84Sh06mw) 47:22
-	- [[#56 Possibilitators Brazil with Clinton Callahan (29 August 2022)]] 1:22
+	- [[#56 Possibilitators Brazil with Clinton Callahan (29 August 2022)]] 1:22hr
+	- [[Leap Coaching Movie]]
 -
 -
