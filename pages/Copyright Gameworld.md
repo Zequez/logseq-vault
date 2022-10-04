@@ -1,6 +1,7 @@
 - A [[Gameworld]] where people don't share their creations freely with everyone else.
 - How to play Copyright:
 	- Pretend that information is a scarce resource; ignore the fact that information is an energetic resource that can be copied and multiplied freely
-	- Keep track about every piece of information that comes out of your [[Physical Body]] and claim that it was your sole creation. Ignore your Interconnectedness with everyone else and all the conditions that lead you to that moment.
+	- Keep track about every piece of information that comes out of your [[Physical Body]] and claim that it was your sole creation. Ignore your Interconnectedness with everything else and all the conditions that lead you to that moment.
+	- Attack anyone that copies your creations, they are trying to steal your glory
 	-
 -
