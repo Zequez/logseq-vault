@@ -1,1 +1,1 @@
-- A gameworld where people believe that everything they create
+- A [[Gameworld]] where people keep track about what they create with their
