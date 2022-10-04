@@ -1,4 +1,4 @@
-- This is a list of videos that picked my attention and want to watch at some point:
+- This is a list of videos that picked my attention and want to watch at some point. Create a dedicated page of notes for each video watched.
 	- [STARR - What is context setting?](https://www.youtube.com/watch?v=xOKt6YDmk8k) 6:24
-	- Tools To Create
+	- [Tools Create Problems](https://www.youtube.com/watch?v=4UB84Sh06mw) 47:22
 	-
