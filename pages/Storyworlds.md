@@ -41,7 +41,7 @@
 	- Every story is meaningless
 	- Every story has a purpose
 		- Either I am not aware of the purpose of my story in which case it serves an [[Unconscious Purpose]]
-		- Or I am aware of the purpose of my story in which case it serves
+		- Or I am aware of the purpose of my story and I enter [[Extraordinary Human Relationships]].
 -
 -
 -
