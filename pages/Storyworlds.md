@@ -46,5 +46,6 @@
 - Freedom from meaningfulness of stories does not imply freedom from stories. There will always be stories. You may as well use stories that let you walk through your day with some bounce in your step.
 	- You could make up an entirely new Responsible Story right now that releases you from being a victim of all of your previous victim stories.
 		- “I am so grateful for everything that has happened to me so far, no matter how painful it was at the time, because what happened has given me the wisdom to make better choices now.”
-- You can perform a [[Brain Self Surgery]] to hard-wire story
+- You can perform a [[Brain Self Surgery]] to hard-wire story with story.
+	- Go to [[First Position]]
 -

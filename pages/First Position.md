@@ -1,0 +1,4 @@
+- Centered
+- Grounded
+- Bubbled
+- Declare golden cube of working space around you
