@@ -1,4 +1,5 @@
 - You can sin front of a tree and complain as a way to keep your [[Gremlin]] fed.
 -
 - ---
+- Reference: [[The Language Of Emotions - Karla McLaren]]
 -
