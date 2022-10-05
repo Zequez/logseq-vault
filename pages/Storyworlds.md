@@ -17,7 +17,8 @@
 			- You come to believe the world is a lot meaner than it is
 			- You can watch television and see 3 murders in 1 hour
 				- In real life you can spend your entire life without seeing this
-			- Everything
+			- "Everything will be resolved quickly in 45 minutes or 2.5hs"
+				-
 	-
 - ---
 - Irresponsible stories
