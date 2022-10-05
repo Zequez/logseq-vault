@@ -29,7 +29,9 @@
 - [[Gremlin]] is usually controlling the movie projector. The Gremlin stories serve [[Shadow Principles]] of our Hidden Purpose.
 	- Taking responsibility for being the story maker assumes our willingness to find ourselves personally responsible for hurting other people and feeling glad about it.
 - ## Victim Stories Are Not Bad
-	- They just produce ordinary predicable results: L
+	- They just produce ordinary predicable results: [[Low Drama]] and [[Ordinary Human Relationships]].
+- ## Responsible Stories Are Not Good
+	- They just produce
 -
 -
 -
