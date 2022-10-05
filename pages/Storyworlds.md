@@ -29,6 +29,7 @@
 			- It takes time to see the patterns and articulate them into wisdom.
 		-
 			-
+- [[Tell a Better Story - Seth Godin]]
 - ## Tell a Better Story
 	- https://seths.blog/2019/11/tell-a-better-story/
 	- A story that is about the listener, not about you.
