@@ -34,7 +34,8 @@
 	- They just produce [[High Drama]] and [[Extraordinary Human Relationships]].
 -
 - Replacing victim with responsible stories is a process that happens gradually through the painful experience of becoming aware of how ridiculous our victim stories are.
-   as we gain awareness of how painfully ridiculous are the stories we create.
+	- Impersonal remorse.
+-
 -
 -
 -
