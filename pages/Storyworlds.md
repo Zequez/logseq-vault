@@ -61,5 +61,6 @@
 	- Pick wire-cutters on your work bench cut the two wires.
 		- You should have wire "story" on one hand and wire "bad" in other hand.
 		- Place wire "bad" back in your brain, it will find it's place by itself.
-		- Place the wire "story"
+	- Ask yourself "What do I want the wire story to be connected to?"
+		- Solder the wires together, tape them
 		-
