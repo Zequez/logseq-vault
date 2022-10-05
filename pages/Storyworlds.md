@@ -35,7 +35,12 @@
 -
 - Replacing victim with responsible stories is a process that happens gradually through the painful experience of becoming aware of how ridiculous our victim stories are.
 	- Impersonal remorse.
--
+- We slip into [[Archetypal Relationship]] reflexively through a shift of context:
+	- I am the story maker
+	- I make up no story accidentally
+	- Every story is meaningless
+	- Every story has a purpose
+		- Either I am aware of the story
 -
 -
 -
