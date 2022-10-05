@@ -58,5 +58,8 @@
 		- What color is the wire "story"?
 		- It will be linked with another wire "bad"
 		- What color is the wire "bad"? It will be a different color.
-	- Pick
+	- Pick wire-cutters on your work bench cut the two wires.
+		- You should have wire "story" on one hand and wire "bad" in other hand.
+		- Place wire "bad" back in your brain, it will find it's place by itself.
+		- Place the wire "story"
 		-
