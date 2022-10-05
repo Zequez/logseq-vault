@@ -15,5 +15,6 @@
 		- How is this serving me?
 	- Creating Responsible Stories is a skill
 	- Even if our purpose for landing on a situation were unconscious, they are still a purpose, and we created the situation.
+		- Unconscious purposes
 -
 -
