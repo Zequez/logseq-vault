@@ -22,6 +22,6 @@
 - From irresponsible to responsible examples:
 	- I do not have time for his -> I will not make time for this
 	- I can't do this -> Until now I have always chosen not to do this
--
+- Stories are stories. There is no such thing as a true story. Neither irresponsible nor responsible stories are true.
 -
 -
