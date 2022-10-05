@@ -6,6 +6,10 @@
 	- Money is the most successful story
 - Humans live in a dual reality. Over objective reality we created a layer of fictional reality.
 - ---
+- ### Changing The Story
+	- https://www.youtube.com/watch?v=iivtbwanvAc&feature=youtu.be
+	-
+- ---
 - Irresponsible stories
 	- Telling a victim story about what happened comes from the [[Parent Ego State]] or [[Child Ego State]].
 - Responsible stories
