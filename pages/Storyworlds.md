@@ -16,6 +16,7 @@
 	- Creating Responsible Stories is a skill
 	- Even if our purpose for landing on a situation were unconscious, they are still a purpose, and we created the situation.
 		- Unconscious purposes
-	- You can take responsibility for all your stories
+	- You can take responsibility for all your stories about your parents by remembering that you picked your parents for your personal evolution.
+		- Same with partners, and children.
 -
 -
