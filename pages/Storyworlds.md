@@ -47,4 +47,5 @@
 	- You could make up an entirely new Responsible Story right now that releases you from being a victim of all of your previous victim stories.
 		- “I am so grateful for everything that has happened to me so far, no matter how painful it was at the time, because what happened has given me the wisdom to make better choices now.”
 - [[Energetic Surgery To Rewire Stories]]
-- You can shift into new space by minimizing the now until it's small enough to slide sideways through the gaps
+- A [[Minimized Now]] it's too small to hold stories. If you are in a story you are in time and not in now.
+	- You can Shift
