@@ -6,6 +6,7 @@
 	- Money is the most successful story
 - Humans live in a dual reality. Over objective reality we created a layer of fictional reality.
 - ---
+- [[Changing The Story - Llewellyn Vaughan-Lee]]
 - ### Changing The Story
 	- https://www.youtube.com/watch?v=iivtbwanvAc&feature=youtu.be
 	- We have stories that are destroying our planet. Stories of exploitation, stories of destruction.
