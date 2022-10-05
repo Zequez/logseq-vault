@@ -28,6 +28,7 @@
 	- If we violate the integrity of the Earth community we will die. We are part of the community. We are not separate from the community.
 	- We can counter one [[Entrancement]] with the power of another.
 	- The next story is not going to be the human story, and it's not going to be on our terms, it's much bigger than us.
+	- The world has a heartbeat, you can hear it if you listen to it.
 	-
 - ---
 - Irresponsible stories
