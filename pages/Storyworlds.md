@@ -21,6 +21,8 @@
 				- In real life things are often left unresolved
 				- This is a symptom of [[Science]] too, it needs to resolve everything.
 		- Part of the problem is being overstimulated; something is happening all the time.
+			- Experiment:
+				- Sit in a circle
 			-
 	-
 - ---
