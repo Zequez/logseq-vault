@@ -40,7 +40,8 @@
 	- I make up no story accidentally
 	- Every story is meaningless
 	- Every story has a purpose
-		- Either I am aware of the story
+		- Either I am not aware of the purpose of my story in which case it serves an [[Unconscious Purpose]]
+		- Or I am aware of the purpose of my story in which case it serves
 -
 -
 -
