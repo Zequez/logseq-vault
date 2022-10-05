@@ -50,4 +50,5 @@
 	- Go to [[First Position]]
 	- Use your [[Clicker]] to find yourself in your own laboratory
 		- You are sitting in a chair facing a work-bench with your tools
-	-
+	- In an [[Energetic Surgery]] it helps your system integrate the surgery if you move your physical hands with your energetic hands.
+	- Rinse yourh
