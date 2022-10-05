@@ -1,0 +1,3 @@
+- An easy way to create [[Low Drama]]
+- If you don't have money you get to be a victim
+-
