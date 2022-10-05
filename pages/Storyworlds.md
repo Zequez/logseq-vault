@@ -1,1 +1,2 @@
-- STories
+- Stories are the tool humans use to cooperate flexibly at large scale.
+-
