@@ -32,7 +32,10 @@
 - ## Tell a Better Story
 	- A story that is about the listener, not about you.
 	- A story worth sharing.
-	- A story that's unforgettable
+	- A story that's unforgettable.
+	- A story that makes things better.
+	- Storytelling
+		- Is a skill, it can be learned it takes practice.
 	-
 - ---
 - Irresponsible stories
