@@ -62,5 +62,10 @@
 		- You should have wire "story" on one hand and wire "bad" in other hand.
 		- Place wire "bad" back in your brain, it will find it's place by itself.
 	- Ask yourself "What do I want the wire story to be connected to?"
-		- Solder the wires together, tape them
+		- Solder the wires together, tape them so they look seamless.
+	- Zip your brain back.
+	- Pick up healing jar cream.
+		- What color is it?
+		- Smear it on the zipper so your skin heals close. Be generous.
+	- When done
 		-
