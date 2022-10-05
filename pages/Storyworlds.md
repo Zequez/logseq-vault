@@ -26,6 +26,7 @@
 - Taking a step beyond stories requires tremendous courage.
 	- Can you admit that no matter how grim or how funny your piece of theater is, it is still theater?
 - Taking actions from the realization that one is the story maker is part of [[Radical Responsibility]].
+- [[Gremlin]] con
 - Taking responsibility for being the story maker assumes our willingness 
   to find ourselves personally responsible for hurting other people and 
   feeling glad about it.
