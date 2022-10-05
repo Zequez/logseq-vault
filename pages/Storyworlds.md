@@ -9,6 +9,7 @@
 - Irresponsible stories
 	- Telling a victim story about what happened comes from the [[Parent Ego State]] or [[Child Ego State]].
 - Responsible stories
-	- Take exact same circumstances, same incident, same people involved
+	- Take exact same circumstances, same incident, same people involved, same actions, and we can create a responsible story about being involved in these circumstances.
+	- Responsible stories place us "at cause" of the
 -
 -
