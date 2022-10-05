@@ -13,6 +13,7 @@
 	- Responsible stories place us "at cause" of the circumstances.
 		- Why would I create this?
 		- How is this serving me?
-	- Creating Responsible Stories is a skill.
+	- Creating Responsible Stories is a skill
+	- Even if our purpose for landing on a situation were unconscious,
 -
 -
