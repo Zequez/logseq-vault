@@ -1,5 +1,7 @@
 - Stories are the tool humans use to cooperate flexibly at large scale.
-- Examples:
+- Examples of storyworlds:
 	- Religion stories
-	-
+	- Human rights stories
+	- States and nations
+-
 -
