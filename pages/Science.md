@@ -1,2 +1,2 @@
-- An [[Gameworld]] of using reason to understand the world around us.
+- An [[Gameworld]] of using reason to attempt to understand the world around us.
 -
