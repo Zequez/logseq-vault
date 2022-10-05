@@ -42,6 +42,6 @@
 	- Every story has a purpose
 		- Either I am not aware of the purpose of my story in which case it serves an [[Unconscious Purpose]]
 		- Or I am aware of the purpose of my story and I enter [[Extraordinary Human Relationships]].
--
+- The [[Context]] of Archetypal Relationship has such clarity about story making that stories become alike waves in the ocean, and you can surf them or let them crash purposelessly. The wave does not automatically drag you along.
 -
 -
