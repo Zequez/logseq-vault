@@ -33,7 +33,7 @@
 - ## Responsible Stories Are Not Good
 	- They just produce [[High Drama]] and [[Extraordinary Human Relationships]].
 -
-- Replacing victim with responsible stories is a process taht happens gradually as we
+- Replacing victim with responsible stories is a process that happens gradually as we gain awareness of how painfully ridiculous are the
 -
 -
 -
