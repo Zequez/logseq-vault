@@ -5,6 +5,9 @@
 	- States and nations
 	- Money is the most successful story
 - Humans live in a dual reality. Over objective reality we created a layer of fictional reality.
+-
+- Seizing Control Of The Narrative - Derrick Jensen
+	-
 - ---
 - [[Changing The Story - Llewellyn Vaughan-Lee]]
 	-
