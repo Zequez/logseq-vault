@@ -24,7 +24,8 @@
 		- Culture of wholeness, oneness
 			- Oneness is not an idea, it's a living presence
 		- Healing the world soul
-		- Human beings began t
+	- Human beings began to be afraid of the magical world in the 16 century due to repression.
+	-
 - ---
 - Irresponsible stories
 	- Telling a victim story about what happened comes from the [[Parent Ego State]] or [[Child Ego State]].
