@@ -1,1 +1,1 @@
-- Electric network inside human beings that generates energetic fields
+- Electric network inside human beings [[Physical Body]] that resonates in different frequencies to interact with life.
