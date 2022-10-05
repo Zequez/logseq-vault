@@ -24,7 +24,7 @@
 			- Experiment from shamanic training:
 				- Sit in a circle marked on the ground for 5 hours and don't allow your consciousness to leave the circle.
 			- Our [[Nervous System]] needs downtime, but also non-human stimulation.
-			- Derrick hates nature programs.
+			- Derrick often hates nature programs. You see an aligator and it's guaranteed it's going to be killing some thing; but alligators can go a very long time without eating, and they are most of the time being alligators, resting, thinking alligator thoughts.
 			-
 	-
 - ---
