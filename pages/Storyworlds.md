@@ -54,6 +54,9 @@
 	- Rinse your hands in hot water with soap. Rinse them and shake them dry.
 	- Open the top of your head with a zipper. From your right ear around your head.
 	- Lift the top of your head like the hood of a car or a hoodie.
-	- Search for the wires "story" and "bad" and pull them out in front of your eyes.
+	- Search for the wire "story" and pull it in front of your eyes.
 		- What color is the wire "story"?
-		- What color is the wire "bad"? It will be a different color
+		- It will be linked with another wire "bad"
+		- What color is the wire "bad"? It will be a different color.
+	- Pick
+		-
