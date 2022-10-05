@@ -20,6 +20,8 @@
 		- Same with partners, and children.
 -
 - From irresponsible to responsible examples:
-	- I
+	- I do not have time for his -> I will not make time for this
+	- I can't do this -> Until now I have always chosen not to do this
+	-
 -
 -
