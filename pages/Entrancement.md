@@ -1,0 +1,1 @@
+- A magical spell that causes human beings to believe in a story.

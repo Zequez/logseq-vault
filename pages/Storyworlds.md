@@ -26,7 +26,8 @@
 		- Healing the world soul
 	- Human beings began to be afraid of the magical world in the 16 century due to repression.
 	- If we violate the integrity of the Earth community we will die. We are part of the community. We are not separate from the community.
-	- We can counter one entrancement
+	- We can counter one [[Entrancement]] with the power of another.
+	-
 	-
 - ---
 - Irresponsible stories
