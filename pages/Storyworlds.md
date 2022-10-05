@@ -21,8 +21,9 @@
 				- In real life things are often left unresolved
 				- This is a symptom of [[Science]] too, it needs to resolve everything.
 		- Part of the problem is being overstimulated; something is happening all the time.
-			- Experiment:
-				- Sit in a circle
+			- Experiment from shamanic training:
+				- Sit in a circle marked on the ground for 5 hours and don't allow your consciousness to leave the circle.
+			- Our nerveous system need downtime, but also non-human stimulation
 			-
 	-
 - ---
