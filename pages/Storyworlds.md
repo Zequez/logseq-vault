@@ -10,6 +10,8 @@
 	- https://www.youtube.com/watch?v=iivtbwanvAc&feature=youtu.be
 	- We have stories that are destroying our planet. Stories of exploitation, stories of destruction.
 	- Stories so powerful it consumes people. It doesn't respect anything.
+	- Destructive story of greed.
+	-
 - ---
 - Irresponsible stories
 	- Telling a victim story about what happened comes from the [[Parent Ego State]] or [[Child Ego State]].
