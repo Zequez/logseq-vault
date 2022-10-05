@@ -14,7 +14,10 @@
 	- To lead a spiritual life what you need leisure time
 	- "I fear for those attached to screens"
 		- TV Violence
-			- You come to believe
+			- You come to believe the world is a lot meaner than it is
+			- You can watch television and see 3 murders in 1 hour
+				- In real life you can spend your entire life without seeing this
+			- Everything
 	-
 - ---
 - Irresponsible stories
