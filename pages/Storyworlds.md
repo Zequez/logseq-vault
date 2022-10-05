@@ -13,7 +13,7 @@
 	- Destructive story of greed.
 	- We forgotten the power of the magical world.
 	- Our patriarchal oppression of nature has evoked a response from nature that we have became addicted to the world of matter.
-		-
+		- The magic is so strong that we don't recognize it.
 - ---
 - Irresponsible stories
 	- Telling a victim story about what happened comes from the [[Parent Ego State]] or [[Child Ego State]].
