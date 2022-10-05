@@ -1,0 +1,18 @@
+- https://youtu.be/oNvl_a5IfWA
+- To lead a spiritual life what you need leisure time
+- "I fear for those attached to screens"
+	- TV Violence
+		- You come to believe the world is a lot meaner than it is
+		- You can watch television and see 3 murders in 1 hour
+			- In real life you can spend your entire life without seeing this
+		- "Everything will be resolved quickly in 45 minutes or 2.5hs"
+			- In real life things are often left unresolved
+			- This is a symptom of [[Science]] too, it needs to resolve everything.
+	- Part of the problem is being overstimulated; something is happening all the time.
+		- Experiment from shamanic training:
+			- Sit in a circle marked on the ground for 5 hours and don't allow your consciousness to leave the circle.
+		- Our [[Nervous System]] needs downtime, but also non-human stimulation.
+		- Derrick often hates nature programs. You see an aligator and it's guaranteed it's going to be killing some thing; but alligators can go a very long time without eating, and they are most of the time being alligators, resting, thinking alligator thoughts.
+		- It takes time to see the patterns and articulate them into wisdom.
+	-
+		-
