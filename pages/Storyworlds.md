@@ -10,7 +10,8 @@
 	-
 - ---
 - [[Changing The Story - Llewellyn Vaughan-Lee]]
-	- https://youtu.be/oNvl_a5IfWA
+- Seizing Control Of The Narrative - Derrick Jensen
+- https://youtu.be/oNvl_a5IfWA
 	- To lead a spiritual life what you need leisure time
 	- "I fear for those attached to screens"
 		- TV Violence
@@ -26,6 +27,7 @@
 			- Our [[Nervous System]] needs downtime, but also non-human stimulation.
 			- Derrick often hates nature programs. You see an aligator and it's guaranteed it's going to be killing some thing; but alligators can go a very long time without eating, and they are most of the time being alligators, resting, thinking alligator thoughts.
 			- It takes time to see the patterns and articulate them into wisdom.
+		-
 			-
 	-
 - ---
