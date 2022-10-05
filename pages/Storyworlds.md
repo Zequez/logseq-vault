@@ -3,5 +3,6 @@
 	- Religion stories
 	- Human rights stories
 	- States and nations
+	- Money
 -
 -
