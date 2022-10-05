@@ -12,7 +12,8 @@
 	- Stories so powerful it consumes people. It doesn't respect anything.
 	- Destructive story of greed.
 	- We forgotten the power of the magical world.
-	- We b
+	- Our patriarchal oppression of nature has evoked a response from nature that we have became addicted to the world of matter.
+		-
 - ---
 - Irresponsible stories
 	- Telling a victim story about what happened comes from the [[Parent Ego State]] or [[Child Ego State]].
