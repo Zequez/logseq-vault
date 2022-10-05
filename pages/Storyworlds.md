@@ -16,6 +16,10 @@
 		- The magic is so strong that we don't recognize it.
 	- Cooking your own food you put love into it that nurtures your soul.
 	- Unless we understand the magical dimension of the consumerist story, every other story is going to be blow away in the wind.
+	- New story
+		- We are interconnectedness of the Earth
+		- Breath the same breath at a very deep level
+		- Cooperation rather than competition
 - ---
 - Irresponsible stories
 	- Telling a victim story about what happened comes from the [[Parent Ego State]] or [[Child Ego State]].
