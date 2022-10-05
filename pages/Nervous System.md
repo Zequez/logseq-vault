@@ -1,1 +1,4 @@
-- Electric network inside human beings [[Physical Body]] that resonates in different frequencies to interact with life.
+- Electric network inside human beings [[Physical Body]] that resonates in different frequencies as it interacts with life.
+- The Nervous System can be overstimulated and it needs downtime to recover, as a muscle being exercised.
+-
+-
