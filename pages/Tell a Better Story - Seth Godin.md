@@ -6,4 +6,5 @@
 - Storytelling
 	- Is a skill, it can be learned it takes practice.
 - [[The Story Skills Workshop]]
-	-
+-
+- Ordinary stories are [[Low Drama]] extraordinary stories generate
