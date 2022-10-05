@@ -8,7 +8,7 @@
 - ---
 - ### Changing The Story
 	- https://www.youtube.com/watch?v=iivtbwanvAc&feature=youtu.be
-	-
+	- We have stories that are destroying our planet. Stories of exploitation, stories of destruction. These are dest
 - ---
 - Irresponsible stories
 	- Telling a victim story about what happened comes from the [[Parent Ego State]] or [[Child Ego State]].
