@@ -23,7 +23,7 @@
 		- Part of the problem is being overstimulated; something is happening all the time.
 			- Experiment from shamanic training:
 				- Sit in a circle marked on the ground for 5 hours and don't allow your consciousness to leave the circle.
-			- Our nerveous system need downtime, but also non-human stimulation
+			- Our [[Nervous System]] needs downtime, but also non-human stimulation
 			-
 	-
 - ---
