@@ -20,7 +20,8 @@
 			- "Everything will be resolved quickly in 45 minutes or 2.5hs"
 				- In real life things are often left unresolved
 				- This is a symptom of [[Science]] too, it needs to resolve everything.
-				-
+		- Part of the problem is being overstimulated; something is happening all the time.
+			-
 	-
 - ---
 - Irresponsible stories
