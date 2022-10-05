@@ -11,7 +11,7 @@
 - ---
 - [[Changing The Story - Llewellyn Vaughan-Lee]]
 - Seizing Control Of The Narrative - Derrick Jensen
-- https://youtu.be/oNvl_a5IfWA
+	- https://youtu.be/oNvl_a5IfWA
 	- To lead a spiritual life what you need leisure time
 	- "I fear for those attached to screens"
 		- TV Violence
@@ -29,6 +29,10 @@
 			- It takes time to see the patterns and articulate them into wisdom.
 		-
 			-
+- ## Tell a Better Story
+	- A story that is about the listener, not about you.
+	- A story worth sharing.
+	- A story that's unforgettable
 	-
 - ---
 - Irresponsible stories
