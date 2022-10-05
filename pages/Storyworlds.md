@@ -18,6 +18,8 @@
 			- You can watch television and see 3 murders in 1 hour
 				- In real life you can spend your entire life without seeing this
 			- "Everything will be resolved quickly in 45 minutes or 2.5hs"
+				- In real life things are often left unresolved
+				- This is a symptom of science too, it needs to resolve everything
 				-
 	-
 - ---
