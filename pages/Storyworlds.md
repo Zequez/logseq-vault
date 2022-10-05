@@ -48,4 +48,6 @@
 		- “I am so grateful for everything that has happened to me so far, no matter how painful it was at the time, because what happened has given me the wisdom to make better choices now.”
 - You can perform a [[Brain Self Surgery]] to hard-wire story with story.
 	- Go to [[First Position]]
--
+	- Use your [[Clicker]] to find yourself in your own laboratory
+		- You are sitting in a chair facing a work-bench with your tools
+	-
