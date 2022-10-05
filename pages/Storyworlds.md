@@ -24,6 +24,7 @@
 			- Experiment from shamanic training:
 				- Sit in a circle marked on the ground for 5 hours and don't allow your consciousness to leave the circle.
 			- Our [[Nervous System]] needs downtime, but also non-human stimulation.
+			- Derrick hates nature programs.
 			-
 	-
 - ---

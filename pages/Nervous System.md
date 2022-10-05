@@ -1,6 +1,6 @@
 - Electric network inside human beings [[Physical Body]] that resonates in different frequencies as it interacts with life.
 - The Nervous System can be overstimulated and it needs downtime to recover, as a muscle being exercised.
 - The Nervous System also needs non-human stimulation, such as resonating with trees, bees, the ocean, the rivers, and [[Gaia]].
-- Stimulation of the Nervous System in nature is on a completely different time system, a different frequency. It can be
+- Stimulation of the Nervous System in nature is on a completely different time system, a different frequency. It can be much slower, and it can be fast too.
 -
 -
