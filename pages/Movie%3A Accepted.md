@@ -1,6 +1,5 @@
 title:: Movie: Accepted
 
-- MatrixCodes:: MOVIE/102.00
 - language::  en
 - (German title is* **S.H.I.T.*** which stands for *South Hampton Institute of Technology*...)
   This is a funny and inspiring story showing a number of useful procedures, for example:
