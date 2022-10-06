@@ -2,9 +2,11 @@
 - Much disempowerment occurs through unconsciously mixing root emotions together. Mixing emotions is not good or bad, is just something we can do for either [[Unconscious Purpose]] or [[Conscious Purpose]].
 - It is possible to learn to [[Unmix Emotions]] as a practical skill.
 - ## Examples
-	- Anger + Sadness = Depression
+	- Anger + Sadness
+		- Depression
+		- Resignation
 	- Sadness + Fear = Isolation / Despair
-	- Anger + Fear = Hysteria
+	- Anger + Fear = Hysteria / Agression
 	- Sadness + Joy = Nostalgia / Sentimentality / Melancholy
 	- Joy + Fear = Excitement / Careless risk taking
 	- Anger + Joy = Schadenfreude (feeling glad when someone elses loses or feels pain)
