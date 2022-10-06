@@ -1,5 +1,6 @@
 - ![Map of Mixing Feelings](../assets/679678_491792_1658887528242_0.webp)
 - Much disempowerment occurs through unconsciously mixing root emotions together.
+- It is possible to [[Unmix Emotions]]
 - ---
 - Reference: https://unmixemotions.mystrikingly.com/
 ## Let's start at the beginning...
