@@ -1,7 +1,6 @@
-public:: true
-
+-
+-
 - From: https://unmixemotions.mystrikingly.com/
-# Mixed Emotions
 ## Let's start at the beginning...
 ### 4 Feelings and 4 Emotions
 
@@ -162,3 +161,4 @@ Then you move to the apple seciton.
 Go to a shoe store and start over.
 
 #MatrixCodes/UNMIXEMO/11
+-
