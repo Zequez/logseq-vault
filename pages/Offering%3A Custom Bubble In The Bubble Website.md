@@ -8,3 +8,4 @@ title:: Offering: Custom Bubble In The Bubble Website
 	- Setup a Github account to host your web for free
 	- Get yourself a domain name if you don't already have one
 	- Setup the domain name to point to Github
+-
