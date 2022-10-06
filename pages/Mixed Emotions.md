@@ -42,29 +42,11 @@ Here is a scary question: how many people take brain drugs or are locked away in
 Bringing clarity about emotions into mainstream society starts with teaching teachers. If you care about children then you have a job on your bench: find ways to require teachers in modern-society schools to gain adult level feeling skills and communications training as elements of their qualification before being certified to work as a teacher.
 
 Will you do it?
-## Unmixing Procedure
-
-The four primary emotions – mad, sad, glad, and scared – are useful for healing when experienced in their pure form. Mixing emotions is not bad or wrong; it simply creates certain disempowering results, such as superiority, lack of self-esteem, confusion, or depression.
-
-Modern culture does not want its citizens empowered to think and feel independently or it would provide an entirely different educational system. Next culture requires clear emotions from you. Your first steps into next culture may well be through unmixing your emotions.
-
-For this example we will unmix anger and sadness, which when mixed cause the sensation of **depression**.
-
-Mixing anger with sadness is like mixing cow poop and milk. Cow poop has its uses. Milk has other uses. Mixing the two together produces slime. The same is true of emotions. Even if you feel both anger and sadness about the same thing, the two emotions can be experienced and expressed distinctly and clearly, each in its own measure and to its own end.
-
-
-To step out of depression (or other mixed emotions), follow this procedure:
-
-1.  The instant you notice sensations of depression, set aside ten minutes to separate your emotions. It helps a lot to have a trusted listener with you. They can help detect when your emotions are pure, and they can listen to your emotions to complete communications with you.
-2.  Take a deep breath, center yourself, and relax into your sensations.
-3.  Close your eyes. Then energetically reach deep into your chest area with both hands. Use your fingers and intention to untangle the emotions. 👉 **Like in the picture.**
-4.  Collect all the anger into your right hand and all the sadness into your left hand. Take your time to slowly pull them apart.
-5.  Put the sadness on an imaginary shelf with your left hand so you can get to it later. Bring the anger back into your chest with your right hand.
-6.  Responsibly experience and express pure anger. Make boundaries, start/stop things, change things, say yes, say no, make decisions, etc.
-7.  Next, with your right hand pull the pure anger out and put it on a shelf. Then with your left hand pull the pure sadness into your chest.
-8.  Responsibly experience and express pure sadness. Share your pain, grieve changes, let go of expectations, connect heart to heart, etc. You may feel sad about the same things you were angry about, or sad about other things. But now the emotions are pure, no longer mixed.
-9.  Stay on guard. You have habitually mixed your emotions for many years, and you are just starting to insist on pure emotions. The instant you notice emotions creeping back together, immediately repeat this procedure. Keep your emotions apart with clear intention. Get used to the new possibilities.
-10.  In daily life, you may feel angry in one moment and sad in the next, but there is no more depression. You never need to mix your emotions again. By keeping your emotions separated, the symptoms of mixed emotion vanish.
+- ## Unmixing Procedure
+  
+  The four primary emotions – mad, sad, glad, and scared – are useful for healing when experienced in their pure form. Mixing emotions is not bad or wrong; it simply creates certain disempowering results, such as superiority, lack of self-esteem, confusion, or depression.
+  
+  Modern culture does not want its citizens empowered to think and feel independently or it would provide an entirely different educational system. Next culture requires clear emotions from you. Your first steps into next culture may well be through unmixing your emotions.
 ## Demonstration & Distinction Unmixing Emotions
 
 Anne-Chloé Destremau while holding space for a client to unmix her emotions delivers a number of powerful distinctions about how to truly unmix your emotions in your heart and not in your head.
