@@ -122,6 +122,12 @@
  {:block/name "archetypal body",
   :block/created-at 1664152570270,
   :block/updated-at 1664152570270}
+ {:block/name "archetypal love",
+  :block/created-at 1665021474365,
+  :block/updated-at 1665021474365}
+ {:block/name "archetypal relationship",
+  :block/created-at 1664947148860,
+  :block/updated-at 1664947148860}
  {:block/name "archetypal spaces",
   :block/created-at 1664837130882,
   :block/updated-at 1664837130882}
@@ -140,21 +146,6 @@
  {:block/name "aug 10th, 2022",
   :block/created-at 1660102894923,
   :block/updated-at 1660162597083}
- {:block/name "aug 11th, 2022",
-  :block/created-at 1660186852588,
-  :block/updated-at 1660186852588}
- {:block/name "aug 12th, 2022",
-  :block/created-at 1660273206874,
-  :block/updated-at 1660273206874}
- {:block/name "aug 13th, 2022",
-  :block/created-at 1660389889231,
-  :block/updated-at 1660389889231}
- {:block/name "aug 14th, 2022",
-  :block/created-at 1660448814136,
-  :block/updated-at 1660448814136}
- {:block/name "aug 15th, 2022",
-  :block/created-at 1660551876401,
-  :block/updated-at 1660551876401}
  {:block/name "aug 16th, 2022",
   :block/created-at 1660644005366,
   :block/updated-at 1660669166096}
@@ -179,18 +170,9 @@
  {:block/name "aug 22nd, 2022",
   :block/created-at 1661137203068,
   :block/updated-at 1661221606698}
- {:block/name "aug 23rd, 2022",
-  :block/created-at 1661237127768,
-  :block/updated-at 1661237127768}
  {:block/name "aug 24th, 2022",
   :block/created-at 1661310000981,
   :block/updated-at 1661636379026}
- {:block/name "aug 25th, 2022",
-  :block/created-at 1661396755326,
-  :block/updated-at 1661396755326}
- {:block/name "aug 26th, 2022",
-  :block/created-at 1661482840828,
-  :block/updated-at 1661482840828}
  {:block/name "aug 27th, 2022",
   :block/created-at 1661631526632,
   :block/updated-at 1661637134603}
@@ -203,18 +185,9 @@
  {:block/name "aug 2nd, 2022",
   :block/created-at 1659564799982,
   :block/updated-at 1664153101046}
- {:block/name "aug 30th, 2022",
-  :block/created-at 1661829181120,
-  :block/updated-at 1661829181120}
- {:block/name "aug 31st, 2022",
-  :block/created-at 1661914836018,
-  :block/updated-at 1661914836018}
  {:block/name "aug 3rd, 2022",
   :block/created-at 1659564799290,
   :block/updated-at 1659567187216}
- {:block/name "aug 4th, 2022",
-  :block/created-at 1659582008473,
-  :block/updated-at 1659582008473}
  {:block/name "aug 5th, 2022",
   :block/created-at 1659708163601,
   :block/updated-at 1659716453570}
@@ -227,9 +200,6 @@
  {:block/name "aug 8th, 2022",
   :block/created-at 1659927625277,
   :block/updated-at 1659987523547}
- {:block/name "aug 9th, 2022",
-  :block/created-at 1660014006122,
-  :block/updated-at 1660014006122}
  {:block/name "authentic adulthood",
   :block/created-at 1663771588080,
   :block/updated-at 1663771588080}
@@ -299,6 +269,9 @@
  {:block/name "box intimacy",
   :block/created-at 1664835936134,
   :block/updated-at 1664835936134}
+ {:block/name "brain self surgery",
+  :block/created-at 1664948015952,
+  :block/updated-at 1664948339785}
  {:block/name "breaking the rules",
   :block/created-at 1664838903902,
   :block/updated-at 1664838903902}
@@ -347,6 +320,12 @@
  {:block/name "changing identity",
   :block/created-at 1664836560745,
   :block/updated-at 1664836560745}
+ {:block/name "changing the story - llewellyn vaughan-lee",
+  :block/created-at 1664971679679,
+  :block/updated-at 1664971679679}
+ {:block/name "child ego state",
+  :block/created-at 1664945622287,
+  :block/updated-at 1664945622287}
  {:block/name "chino",
   :block/created-at 1659022427622,
   :block/updated-at 1659022427622}
@@ -359,6 +338,9 @@
  {:block/name "claves para crear una pareja consciente",
   :block/created-at 1664854854499,
   :block/updated-at 1664854856334}
+ {:block/name "clicker",
+  :block/created-at 1664948289818,
+  :block/updated-at 1664948289818}
  {:block/name "coersion",
   :block/created-at 1664459418423,
   :block/updated-at 1664459418423}
@@ -386,6 +368,12 @@
  {:block/name "connect with nature",
   :block/created-at 1664838741267,
   :block/updated-at 1664838741267}
+ {:block/name "conscious complaining",
+  :block/created-at 1664974705880,
+  :block/updated-at 1664974772106}
+ {:block/name "conscious purpose",
+  :block/created-at 1665066277388,
+  :block/updated-at 1665066277388}
  {:block/name "consciousness",
   :block/created-at 1663653588870,
   :block/updated-at 1663653588870}
@@ -468,9 +456,6 @@
  {:block/name "dragon dreaming",
   :block/created-at 1659065025582,
   :block/updated-at 1659069322942}
- {:block/name "draws/2022-09-26-22-00-26.excalidraw",
-  :block/created-at 1664240501348,
-  :block/updated-at 1664240501348}
  {:block/name "dream of the world",
   :block/created-at 1663771540595,
   :block/updated-at 1663771540595}
@@ -516,6 +501,12 @@
  {:block/name "energetic center",
   :block/created-at 1664831926337,
   :block/updated-at 1664831926337}
+ {:block/name "energetic surgery",
+  :block/created-at 1664948333958,
+  :block/updated-at 1664948333958}
+ {:block/name "energetic surgery to rewire stories",
+  :block/created-at 1664948815056,
+  :block/updated-at 1664948815056}
  {:block/name "energetic toolbelt",
   :block/created-at 1663651281591,
   :block/updated-at 1663651281591}
@@ -525,6 +516,9 @@
  {:block/name "ensayo sobre la consciencia",
   :block/created-at 1662776804445,
   :block/updated-at 1662776804445}
+ {:block/name "entrancement",
+  :block/created-at 1664970515091,
+  :block/updated-at 1664970589971}
  {:block/name "escaping the patriarchy",
   :block/created-at 1664468060449,
   :block/updated-at 1664468060449}
@@ -546,6 +540,9 @@
  {:block/name "extraordinary conversation",
   :block/created-at 1664151086584,
   :block/updated-at 1664151086584}
+ {:block/name "extraordinary human relationships",
+  :block/created-at 1664946888465,
+  :block/updated-at 1664946888465}
  {:block/name "extraordinary moments",
   :block/created-at 1664836814953,
   :block/updated-at 1664836814953}
@@ -588,6 +585,9 @@
  {:block/name "file-path",
   :block/created-at 1659024492533,
   :block/updated-at 1659024492533}
+ {:block/name "first position",
+  :block/created-at 1664948050074,
+  :block/updated-at 1664948076933}
  {:block/name "fleeting",
   :block/created-at 1659021837308,
   :block/updated-at 1659021837308}
@@ -600,6 +600,9 @@
  {:block/name "full moon rituals",
   :block/created-at 1663651281539,
   :block/updated-at 1663651281539}
+ {:block/name "gaia",
+  :block/created-at 1664972633539,
+  :block/updated-at 1664972633539}
  {:block/name "gaia's tech team gameworld",
   :block/created-at 1662663831885,
   :block/updated-at 1662671314373}
@@ -629,7 +632,7 @@
   :block/updated-at 1663992392292}
  {:block/name "gremlin",
   :block/created-at 1659564799978,
-  :block/updated-at 1664153116628}
+  :block/updated-at 1664974799934}
  {:block/name "gremlin move",
   :block/created-at 1664836919420,
   :block/updated-at 1664836919420}
@@ -663,16 +666,16 @@
  {:block/name "hipnotized",
   :block/created-at 1664833680408,
   :block/updated-at 1664833680408}
- {:block/name "hls__diseño_humano_-_lynda_bunnell_1661114679977_0",
-  :block/created-at 1661263459253,
-  :block/updated-at 1661263459253}
  {:block/name
   "hls__fact-sheet-number-01-the-universal-mandala-and-the-mystery-of-the-meaning-of-life_1659066224999_0",
   :block/created-at 1659066282920,
   :block/updated-at 1659066282920}
- {:block/name "hls__ns1.35-sincro-bolsillo-k69_1659024448107_0",
-  :block/created-at 1659024492523,
-  :block/updated-at 1659024492523}
+ {:block/name "hls__ns1",
+  :block/created-at 1664895321994,
+  :block/updated-at 1664895321994}
+ {:block/name "hls__ns1/35-sincro-bolsillo-k69_1659024448107_0",
+  :block/created-at 1664895321993,
+  :block/updated-at 1664895321993}
  {:block/name "holding a space",
   :block/created-at 1663653876133,
   :block/updated-at 1663653876133}
@@ -760,9 +763,6 @@
  {:block/name "lak'ech",
   :block/created-at 1659796560818,
   :block/updated-at 1659796596872}
- {:block/name "lang",
-  :block/created-at 1659064791208,
-  :block/updated-at 1659064791208}
  {:block/name "language",
   :block/created-at 1659564800655,
   :block/updated-at 1659564800655}
@@ -799,6 +799,9 @@
  {:block/name "logseq medium",
   :block/created-at 1663651282575,
   :block/updated-at 1663651282575}
+ {:block/name "long for longing",
+  :block/created-at 1665021398170,
+  :block/updated-at 1665021496286}
  {:block/name "low drama",
   :block/created-at 1664153408550,
   :block/updated-at 1664153408550}
@@ -811,6 +814,9 @@
  {:block/name "lying",
   :block/created-at 1659564799979,
   :block/updated-at 1659564799979}
+ {:block/name "mage",
+  :block/created-at 1664970588704,
+  :block/updated-at 1664970588704}
  {:block/name "making no assumptions",
   :block/created-at 1664833044032,
   :block/updated-at 1664833044032}
@@ -844,12 +850,6 @@
  {:block/name "matrixcodes",
   :block/created-at 1658887387620,
   :block/updated-at 1659064746838}
- {:block/name "matrixcodes/movie",
-  :block/created-at 1659064694166,
-  :block/updated-at 1659064694166}
- {:block/name "matrixcodes/movie/102.00",
-  :block/created-at 1659064694164,
-  :block/updated-at 1659064694164}
  {:block/name "matrixcodes/unmixemo",
   :block/created-at 1658887387621,
   :block/updated-at 1658887387621}
@@ -884,8 +884,8 @@
   :block/created-at 1658887387617,
   :block/updated-at 1658887387617}
  {:block/name "matrixcodes/unmixemo/11",
-  :block/created-at 1658887387620,
-  :block/updated-at 1658887387620}
+  :block/created-at 1665067095455,
+  :block/updated-at 1665067095455}
  {:block/name "matías de stefano",
   :block/created-at 1659021837304,
   :block/updated-at 1659021837304}
@@ -916,12 +916,21 @@
  {:block/name "miedo",
   :block/created-at 1663768062402,
   :block/updated-at 1663768062402}
+ {:block/name "minimized now",
+  :block/created-at 1664948878614,
+  :block/updated-at 1664948878614}
  {:block/name "mitote",
   :block/created-at 1662436584856,
   :block/updated-at 1662436586917}
+ {:block/name "mixed emotions",
+  :block/created-at 1658887383680,
+  :block/updated-at 1665067023799}
  {:block/name "mnemonic medium",
   :block/created-at 1663651281771,
   :block/updated-at 1663651281771}
+ {:block/name "money",
+  :block/created-at 1664975379076,
+  :block/updated-at 1664976439511}
  {:block/name "money club",
   :block/created-at 1661081602260,
   :block/updated-at 1661084929207}
@@ -936,7 +945,7 @@
   :block/updated-at 1659022471138}
  {:block/name "movie: accepted",
   :block/created-at 1659064588788,
-  :block/updated-at 1659064799604}
+  :block/updated-at 1665067059292}
  {:block/name "mujeres y hombres",
   :block/created-at 1663772196965,
   :block/updated-at 1663772257172}
@@ -970,6 +979,9 @@
  {:block/name "needs of the space",
   :block/created-at 1664835654078,
   :block/updated-at 1664835654078}
+ {:block/name "nervous system",
+  :block/created-at 1664972442238,
+  :block/updated-at 1664972732175}
  {:block/name "new age",
   :block/created-at 1664839229726,
   :block/updated-at 1664839229726}
@@ -1003,21 +1015,27 @@
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
- {:block/name "oct 2nd, 2022",
-  :block/created-at 1664679603052,
-  :block/updated-at 1664679603052}
  {:block/name "oct 3rd, 2022",
   :block/created-at 1664798664343,
   :block/updated-at 1664831440137}
  {:block/name "oct 4th, 2022",
   :block/created-at 1664852402258,
   :block/updated-at 1664894050661}
- {:block/name "offering: custom logseq-based website",
+ {:block/name "oct 5th, 2022",
+  :block/created-at 1664938839957,
+  :block/updated-at 1665021398171}
+ {:block/name "oct 6th, 2022",
+  :block/created-at 1665027201117,
+  :block/updated-at 1665027201117}
+ {:block/name "offering: custom bubble in the bubble website",
   :block/created-at 1664895295863,
-  :block/updated-at 1664895295863}
+  :block/updated-at 1664896829683}
  {:block/name "open technology",
   :block/created-at 1663770959859,
   :block/updated-at 1663770959859}
+ {:block/name "ordinary human relationships",
+  :block/created-at 1664946821745,
+  :block/updated-at 1664946821745}
  {:block/name "ordinary life",
   :block/created-at 1664835862866,
   :block/updated-at 1664835862866}
@@ -1033,6 +1051,9 @@
  {:block/name "pages",
   :block/created-at 1663651282572,
   :block/updated-at 1663651282572}
+ {:block/name "parent ego state",
+  :block/created-at 1664945612952,
+  :block/updated-at 1664945612952}
  {:block/name "patriarchy",
   :block/created-at 1663651281766,
   :block/updated-at 1663993246383}
@@ -1087,9 +1108,6 @@
  {:block/name "projecting",
   :block/created-at 1664833189777,
   :block/updated-at 1664833189777}
- {:block/name "projects",
-  :block/created-at 1659022063184,
-  :block/updated-at 1659022063184}
  {:block/name "proposal",
   :block/created-at 1664834924844,
   :block/updated-at 1664834924844}
@@ -1144,6 +1162,12 @@
  {:block/name "school",
   :block/created-at 1664832182887,
   :block/updated-at 1664832182887}
+ {:block/name "science",
+  :block/created-at 1664972141402,
+  :block/updated-at 1664972182056}
+ {:block/name "seizing control of the narrative - derrick jensen",
+  :block/created-at 1664973598311,
+  :block/updated-at 1664973598587}
  {:block/name "sello: dragón (1/20)",
   :block/created-at 1659892322825,
   :block/updated-at 1659892480730}
@@ -1162,9 +1186,6 @@
  {:block/name "sep 10th, 2022",
   :block/created-at 1662778800891,
   :block/updated-at 1662785363053}
- {:block/name "sep 11th, 2022",
-  :block/created-at 1662865228302,
-  :block/updated-at 1662865228302}
  {:block/name "sep 12th, 2022",
   :block/created-at 1662951645706,
   :block/updated-at 1663037544174}
@@ -1195,39 +1216,15 @@
  {:block/name "sep 21st, 2022",
   :block/created-at 1663729774997,
   :block/updated-at 1663772196966}
- {:block/name "sep 22nd, 2022",
-  :block/created-at 1663857571545,
-  :block/updated-at 1663857571545}
- {:block/name "sep 23rd, 2022",
-  :block/created-at 1663905417236,
-  :block/updated-at 1663905417236}
  {:block/name "sep 24th, 2022",
   :block/created-at 1663990946387,
   :block/updated-at 1663991114058}
  {:block/name "sep 25th, 2022",
   :block/created-at 1664085092211,
   :block/updated-at 1664154297020}
- {:block/name "sep 26th, 2022",
-  :block/created-at 1664161246520,
-  :block/updated-at 1664161246520}
- {:block/name "sep 27th, 2022",
-  :block/created-at 1664247600502,
-  :block/updated-at 1664247600502}
- {:block/name "sep 28th, 2022",
-  :block/created-at 1664359202234,
-  :block/updated-at 1664359202234}
  {:block/name "sep 29th, 2022",
   :block/created-at 1664435383179,
   :block/updated-at 1664468487191}
- {:block/name "sep 2nd, 2022",
-  :block/created-at 1662087610204,
-  :block/updated-at 1662087610204}
- {:block/name "sep 30th, 2022",
-  :block/created-at 1664506829295,
-  :block/updated-at 1664506829295}
- {:block/name "sep 3rd, 2022",
-  :block/created-at 1662184278728,
-  :block/updated-at 1662184278728}
  {:block/name "sep 4th, 2022",
   :block/created-at 1662273205768,
   :block/updated-at 1662414003623}
@@ -1249,6 +1246,9 @@
  {:block/name "setting context",
   :block/created-at 1663653925765,
   :block/updated-at 1663653925765}
+ {:block/name "shadow principles",
+  :block/created-at 1664946740848,
+  :block/updated-at 1664946740848}
  {:block/name "sideways door",
   :block/created-at 1664837641959,
   :block/updated-at 1664837641959}
@@ -1285,6 +1285,9 @@
  {:block/name "star maker",
   :block/created-at 1659284806517,
   :block/updated-at 1659284806517}
+ {:block/name "startover",
+  :block/created-at 1664895321504,
+  :block/updated-at 1664895321504}
  {:block/name "startover co-creation",
   :block/created-at 1663037544173,
   :block/updated-at 1663040899805}
@@ -1303,6 +1306,9 @@
  {:block/name "stories",
   :block/created-at 1663651282591,
   :block/updated-at 1663651282591}
+ {:block/name "storyworlds",
+  :block/created-at 1664944766793,
+  :block/updated-at 1664973598608}
  {:block/name "streaming my thought process",
   :block/created-at 1663651281780,
   :block/updated-at 1663651281780}
@@ -1315,6 +1321,9 @@
  {:block/name "team",
   :block/created-at 1664154694885,
   :block/updated-at 1664154694885}
+ {:block/name "tell a better story - seth godin",
+  :block/created-at 1664973428843,
+  :block/updated-at 1664973688289}
  {:block/name "tell a story",
   :block/created-at 1664834961653,
   :block/updated-at 1664834961653}
@@ -1327,6 +1336,9 @@
  {:block/name "the source",
   :block/created-at 1664834861655,
   :block/updated-at 1664834861655}
+ {:block/name "the story skills workshop",
+  :block/created-at 1664973345655,
+  :block/updated-at 1664973345655}
  {:block/name "think",
   :block/created-at 1664834628276,
   :block/updated-at 1664834628276}
@@ -1369,12 +1381,15 @@
  {:block/name "unblock third eye",
   :block/created-at 1664460980505,
   :block/updated-at 1664464298575}
+ {:block/name "unconscious purpose",
+  :block/created-at 1664947205022,
+  :block/updated-at 1664947205022}
  {:block/name "unhookable",
   :block/created-at 1664152897991,
   :block/updated-at 1664152908171}
  {:block/name "unmix emotions",
-  :block/created-at 1658887383680,
-  :block/updated-at 1658887710351}
+  :block/created-at 1665066153806,
+  :block/updated-at 1665066173851}
  {:block/name "upcoming events i might be interested",
   :block/created-at 1663651282269,
   :block/updated-at 1663651282269}
@@ -1435,6 +1450,9 @@
  {:block/name "women and men",
   :block/created-at 1663772235874,
   :block/updated-at 1663877330326}
+ {:block/name "workshops i would like to do",
+  :block/created-at 1664973295767,
+  :block/updated-at 1664973345656}
  {:block/name "your inner monologe",
   :block/created-at 1663651281763,
   :block/updated-at 1663651281763}
