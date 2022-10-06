@@ -16,8 +16,9 @@
 		- Aggression (>Anger)
 	- Sadness + Joy
 		- Nostalgia (>Joy)
-		- Sentimentality ()
-		- / Melancholy
+		- Sentimentality (>Sadness)
+		- Melancholy (>Sadness)
+		- Saudade (Sadness ∝ Joy)
 	- Joy + Fear = Excitement / Careless risk taking
 	- Anger + Joy = Schadenfreude (feeling glad when someone elses loses or feels pain)
 	- Mixing 3 emotions together:
