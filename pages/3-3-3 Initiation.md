@@ -1,4 +1,5 @@
 - Getting your [[Center]] back, your [[Authority]] back, your [[Voice]] back, and your [[Balls]] back.
 - And for being able to [[Stellate]] (Turning on and initialize) your [[Archetypal Activist]].
+-
 - ---
 - Reference: https://3-3-3.mystrikingly.com/
