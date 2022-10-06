@@ -1,6 +1,7 @@
--
--
-- From: https://unmixemotions.mystrikingly.com/
+- ![Map of Mixing Feelings](../assets/679678_491792_1658887528242_0.webp)
+- Much disempowerment occurs through unconsciously mixing root emotions together.
+- ---
+- Reference: https://unmixemotions.mystrikingly.com/
 ## Let's start at the beginning...
 ### 4 Feelings and 4 Emotions
 
@@ -26,7 +27,6 @@ The same is true for the other emotions mixes, as shown in the Map of Mixed Emot
 	- Mixing **anger** and **joy** creates schadenfreude: feeling glad when someone else loses or feels pain.
 	- Mixing **three emotions together** creates sensations that are particularly gripping, such as superiority, jealousy, greed, envy, guilt, shame, vengeance, and lack of self-esteem. Because three emotions are involved and the sensations are so strong, it can seem as if the situation is unsolvable. Yet three-emotion mixes can also be directly unmixed.  
 	  Mixing four emotions together is what causes burnout – emotional paralysis and psychological breakdown – a very confusing, disempowering and disturbing experience.
-	- ![Map of Mixing Feelings](../assets/679678_491792_1658887528242_0.webp)
 ## Possibility Coaches Needed
 
 These states can be easily and suddenly transformed when the emotions are separated and experienced in their pure form.
