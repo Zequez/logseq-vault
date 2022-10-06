@@ -1,4 +1,4 @@
 - Cultivate appreciation for longing.
-- Sit with the longing as if it were a coal in your belly warming you up; as if it were flavor enhancer for life; as if the longing itself were what you wanted
+- Sit with the longing as if it were a coal in your belly warming you up; as if it were flavor enhancer for life; as if the longing itself were what you wanted not the thing you originally desired. Learn to love the longing for [[Archetypal Love]] as much as you love Archetypal Love.
 - ---
 - Reference: https://archetypallove.mystrikingly.com/
