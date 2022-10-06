@@ -1,6 +1,11 @@
 - ![Map of Mixing Feelings](../assets/679678_491792_1658887528242_0.webp)
 - Much disempowerment occurs through unconsciously mixing root emotions together. Mixing emotions is not good or bad, is just something we can do for either [[Unconscious Purpose]] or [[Conscious Purpose]].
-- It is possible to learn to [[Unmix Emotions]]
+- It is possible to learn to [[Unmix Emotions]] as a practical skill.
+- ## Examples
+	- Anger + Sadness = Depression
+	- Sadness + Fear = Isolation / Despair
+	- Anger + Fear = Hysteria
+	- Sadness + Joy = Nostalgia
 - ---
 - Reference: https://unmixemotions.mystrikingly.com/
 ## Let's start at the beginning...
