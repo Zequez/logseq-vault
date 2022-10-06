@@ -1,0 +1,4 @@
+- Cultivate appreciation for longing.
+- Sit with the longing as if it were a coal in your belly warming you up; as if it were flavor enhancer for life; as if the longing itself were what you wanted
+- ---
+- Reference: https://archetypallove.mystrikingly.com/
