@@ -1,3 +1,3 @@
--
+- High Drama is actions for taking more responsibility.
 - ---
 - Reference: https://highdrama.mystrikingly.com/
