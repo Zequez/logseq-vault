@@ -5,7 +5,11 @@
 	- Anger + Sadness = Depression
 	- Sadness + Fear = Isolation / Despair
 	- Anger + Fear = Hysteria
-	- Sadness + Joy = Nostalgia
+	- Sadness + Joy = Nostalgia / Sentimentality / Melancholy
+	- Joy + Fear = Excitement / Careless risk taking
+	- Anger + Joy = Schadenfreude (feeling glad when someone elses loses or feels pain)
+	- Mixing 3 emotions together:
+		- Supe
 - ---
 - Reference: https://unmixemotions.mystrikingly.com/
 ## Let's start at the beginning...
