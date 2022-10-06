@@ -5,12 +5,19 @@
 	- Anger + Sadness
 		- Depression
 		- Resignation
-	- Sadness + Fear =
-		- Isolation / Despair
-	- Anger + Fear =
-		- Hysteria
-		- Aggression
-	- Sadness + Joy = Nostalgia / Sentimentality / Melancholy
+	- Sadness + Fear
+		- Isolation
+		- Despair
+		- Hopelessness
+		- powerlesness
+		- Loneliness
+	- Anger + Fear
+		- Hysteria (>Fear)
+		- Aggression (>Anger)
+	- Sadness + Joy
+		- Nostalgia (>Joy)
+		- Sentimentality ()
+		- / Melancholy
 	- Joy + Fear = Excitement / Careless risk taking
 	- Anger + Joy = Schadenfreude (feeling glad when someone elses loses or feels pain)
 	- Mixing 3 emotions together:
