@@ -9,7 +9,7 @@
 	- Joy + Fear = Excitement / Careless risk taking
 	- Anger + Joy = Schadenfreude (feeling glad when someone elses loses or feels pain)
 	- Mixing 3 emotions together:
-		- Supe
+		- Superiority, jealousy, greed, envy, guilt, shame, vengeance, and lack of self-esteem
 - ---
 - Reference: https://unmixemotions.mystrikingly.com/
 ## Let's start at the beginning...
