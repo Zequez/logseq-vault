@@ -38,7 +38,13 @@
 			- Spite
 			- Vengeance
 			- Revenge
-		-
+		- Fear + Sadness + Joy
+			- Envy
+			- Self-pity
+			- Complaining
+			- "I'm miserable as payback for your betrayal"
+			- Inferiority
+			- Manipulation
 - ---
 - Reference: https://unmixemotions.mystrikingly.com/
 ## Let's start at the beginning...
