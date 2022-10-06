@@ -2,49 +2,52 @@
 - Much disempowerment occurs through unconsciously mixing root emotions together. Mixing emotions is not good or bad, is just something we can do for either [[Unconscious Purpose]] or [[Conscious Purpose]].
 - It is possible to learn to [[Unmix Emotions]] as a practical skill.
 - ## Examples
-	- Anger + Sadness
+	- ## Anger + Sadness
 		- Depression
 		- Resignation
-	- Sadness + Fear
+	- ## Sadness + Fear
 		- Isolation
 		- Despair
 		- Hopelessness
 		- powerlesness
 		- Loneliness
-	- Anger + Fear
+	- ## Anger + Fear
 		- Hysteria (>Fear)
 		- Aggression (>Anger)
-	- Sadness + Joy
+	- ## Sadness + Joy
 		- Nostalgia (>Joy)
 		- Sentimentality (>Sadness)
 		- Melancholy (>Sadness)
 		- Saudade (Sadness ∝ Joy)
-	- Joy + Fear
+	- ## Joy + Fear
 		- Curiosity
 		- Excitement
 		- Recklessness
 		- Careless risk taking
-	- Anger + Joy
+	- ## Anger + Joy
 		- Schadenfreude (feeling glad when someone elses loses or feels pain)
 		- Masochism
-	- Mixing 3 emotions together
-		- Anger + Sadness + Fear
+	- ## Mixing 3 emotions together
+		- ## Anger + Sadness + Fear
 			- Jealously
 			- Shame
 			- Guilt
 			- Resentment
 			- Lack of self-steem
-		- Anger + Sadness + Joy
+		- ## Anger + Sadness + Joy
 			- Spite
 			- Vengeance
 			- Revenge
-		- Fear + Sadness + Joy
+		- ## Fear + Sadness + Joy
 			- Envy
 			- Self-pity
 			- Complaining
 			- "I'm miserable as payback for your betrayal"
 			- Inferiority
 			- Manipulation
+		- ## Anger + Fear + Joy
+			- Greed
+			- Superiority
 - ---
 - Reference: https://unmixemotions.mystrikingly.com/
 ## Let's start at the beginning...
