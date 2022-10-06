@@ -19,8 +19,14 @@
 		- Sentimentality (>Sadness)
 		- Melancholy (>Sadness)
 		- Saudade (Sadness ∝ Joy)
-	- Joy + Fear = Excitement / Careless risk taking
-	- Anger + Joy = Schadenfreude (feeling glad when someone elses loses or feels pain)
+	- Joy + Fear
+		- Curiosity
+		- Excitement
+		- Recklessness
+		- Careless risk taking
+	- Anger + Joy
+		- Schadenfreude (feeling glad when someone elses loses or feels pain)
+		-
 	- Mixing 3 emotions together:
 		- Superiority, jealousy, greed, envy, guilt, shame, vengeance, and lack of self-esteem
 - ---
