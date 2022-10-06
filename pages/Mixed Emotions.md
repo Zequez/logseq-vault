@@ -5,8 +5,11 @@
 	- Anger + Sadness
 		- Depression
 		- Resignation
-	- Sadness + Fear = Isolation / Despair
-	- Anger + Fear = Hysteria / Agression
+	- Sadness + Fear =
+		- Isolation / Despair
+	- Anger + Fear =
+		- Hysteria
+		- Aggression
 	- Sadness + Joy = Nostalgia / Sentimentality / Melancholy
 	- Joy + Fear = Excitement / Careless risk taking
 	- Anger + Joy = Schadenfreude (feeling glad when someone elses loses or feels pain)
