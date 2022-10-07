@@ -9,7 +9,7 @@
 	- Stories a kind of [[Magic]].
 - Storyworlds are fractals
 - The world is going through a story transition, currently we are at the [[Time Between Stories]]
-- Storytelling is a skill, and it is possible to [[Tell Better Stories]]
+- You can learn to [[Tell Better Stories]]
 	-
 	- [[Changing The Story - Llewellyn Vaughan-Lee]]
 	- [[Seizing Control Of The Narrative - Derrick Jensen]]
