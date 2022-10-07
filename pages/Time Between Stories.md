@@ -1,4 +1,5 @@
-- It's a chaotic
+- It's a confusing and chaotic time.
+- There are [[Bridges]] are being built between the stories.
 - ## Old Story
 	- Destruction
 	- Exploitation
