@@ -13,7 +13,7 @@
 	-
 	- [[Changing The Story - Llewellyn Vaughan-Lee]]
 	- [[Seizing Control Of The Narrative - Derrick Jensen]]
-	- [[Tell a Better Story - Seth Godin]]
+	-
 -
 - ---
 - Irresponsible stories
@@ -60,6 +60,8 @@
 - A [[Minimized Now]] it's too small to hold stories. If you are in a story you are in time and not in now.
 	- You can shift into a new space by minimizing your now until it's small enough to slide sideways through the gaps between moments.
 - ----
-- Reference: https://storyworld.mystrikingly.com/
+- ### References
+	- Reference: https://storyworld.mystrikingly.com/
 - Reference: https://seths.blog/2019/11/tell-a-better-story/
+- [[Tell a Better Story - Seth Godin]]
 -
