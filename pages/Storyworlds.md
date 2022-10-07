@@ -22,7 +22,7 @@
 	- Healing the world soul
 	- Larger than humanity
 	-
-- Telling Better Stories
+- Storytelling is a skill, and it is possible to [[Tell Better Stories]]
 	-
 	- [[Changing The Story - Llewellyn Vaughan-Lee]]
 	- [[Seizing Control Of The Narrative - Derrick Jensen]]
