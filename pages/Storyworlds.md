@@ -8,6 +8,7 @@
 - When humans believe in a story they enter into a state of [[Entrancement]] with the story.
 	- Stories a kind of [[Magic]].
 - Storyworlds are fractals
+-
 - ## Old Story
 	- Destruction
 	- Exploitation
@@ -72,3 +73,7 @@
 - [[Energetic Surgery To Rewire Stories]]
 - A [[Minimized Now]] it's too small to hold stories. If you are in a story you are in time and not in now.
 	- You can shift into a new space by minimizing your now until it's small enough to slide sideways through the gaps between moments.
+- ----
+- Reference: https://storyworld.mystrikingly.com/
+- Reference: https://seths.blog/2019/11/tell-a-better-story/
+-
