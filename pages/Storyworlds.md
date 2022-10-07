@@ -12,6 +12,7 @@
 - The world is going through a story transition, currently we are at the [[Time Between Stories]]
 - To create Storyworlds with [[Conscious Purpose]]  you can learn to [[Tell Better Stories]]
 - [[Seizing Control Of The Narrative - Derrick Jensen]]
+- Your Box believes your stories are true.
 - ### Questions to ask yourself
 	- Which stories do you let have power over you?
 	- How did you forget that they are stories?
