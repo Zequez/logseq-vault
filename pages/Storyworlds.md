@@ -8,10 +8,17 @@
 - When humans believe in a story they enter into a state of [[Entrancement]] with the story.
 	- Stories a kind of [[Magic]].
 - Storyworlds are fractals
+- Stories are imaginary
 - The world is going through a story transition, currently we are at the [[Time Between Stories]]
 - To create Storyworlds with [[Conscious Purpose]]  you can learn to [[Tell Better Stories]]
 - [[Seizing Control Of The Narrative - Derrick Jensen]]
+- ### Questions to ask yourself
+	- Which stories do you let have power over you?
+	- How did you forget that they are stories?
+	- How did you give your volition away?
+	- Why do you ignore your freedom?
 - ---
+-
 - ## Irresponsible stories
 	- Telling a victim story about what happened comes from the [[Parent Ego State]] or [[Child Ego State]].
 - ## Responsible stories

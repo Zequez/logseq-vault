@@ -1,1 +1,1 @@
-- The people you picked
+- The people you chose to be born into.
