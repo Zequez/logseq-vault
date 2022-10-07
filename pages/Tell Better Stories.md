@@ -5,9 +5,8 @@
 	- Makes things better
 - Storytelling is a skill that can be learned it takes practice to get better.
 - Ordinary stories generate [[Low Drama]] extraordinary stories make [[High Drama]].
-- ## Experiment
+- ## Experiments
 	- Sign up to [[The Story Skills Workshop]]
--
 -
 - ---
 - ### Reference
