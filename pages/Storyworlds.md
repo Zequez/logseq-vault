@@ -5,13 +5,12 @@
 	- States and nations
 	- Money is the most successful story
 - Humans live in a dual reality. Over objective reality we created a layer of fictional reality.
--
-- Seizing Control Of The Narrative - Derrick Jensen
 	-
-- ---
-- [[Changing The Story - Llewellyn Vaughan-Lee]]
-- [[Seizing Control Of The Narrative - Derrick Jensen]]
-- [[Tell a Better Story - Seth Godin]]
+-
+	- [[Changing The Story - Llewellyn Vaughan-Lee]]
+	- [[Seizing Control Of The Narrative - Derrick Jensen]]
+	- [[Tell a Better Story - Seth Godin]]
+-
 - ---
 - Irresponsible stories
 	- Telling a victim story about what happened comes from the [[Parent Ego State]] or [[Child Ego State]].
