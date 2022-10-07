@@ -1,0 +1,15 @@
+- It's a chaotic
+- ## Old Story
+	- Destruction
+	- Exploitation
+	- Disrespect
+	- Competition
+	- Greed
+	- Human story
+## New Story
+	- Interconnectedness
+	- Cooperation
+	- Wholeness, [[Oneness]]
+	- Healing the world soul
+	- Larger than humanity
+	-
