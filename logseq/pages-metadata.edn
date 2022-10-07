@@ -518,7 +518,7 @@
   :block/updated-at 1662776804445}
  {:block/name "entrancement",
   :block/created-at 1664970515091,
-  :block/updated-at 1664970589971}
+  :block/updated-at 1665109503946}
  {:block/name "escaping the patriarchy",
   :block/created-at 1664468060449,
   :block/updated-at 1664468060449}
@@ -817,6 +817,9 @@
  {:block/name "mage",
   :block/created-at 1664970588704,
   :block/updated-at 1664970588704}
+ {:block/name "magic",
+  :block/created-at 1665109364201,
+  :block/updated-at 1665109364201}
  {:block/name "making no assumptions",
   :block/created-at 1664833044032,
   :block/updated-at 1664833044032}
@@ -1000,6 +1003,9 @@
  {:block/name "offering: custom bubble in the bubble website",
   :block/created-at 1664895295863,
   :block/updated-at 1664896829683}
+ {:block/name "oneness",
+  :block/created-at 1665109322374,
+  :block/updated-at 1665109322374}
  {:block/name "open technology",
   :block/created-at 1663770959859,
   :block/updated-at 1663770959859}
@@ -1024,6 +1030,9 @@
  {:block/name "parent ego state",
   :block/created-at 1664945612952,
   :block/updated-at 1664945612952}
+ {:block/name "parents",
+  :block/created-at 1665110492915,
+  :block/updated-at 1665110497917}
  {:block/name "patriarchy",
   :block/created-at 1663651281766,
   :block/updated-at 1663993246383}
@@ -1278,7 +1287,7 @@
   :block/updated-at 1663651282591}
  {:block/name "storyworlds",
   :block/created-at 1664944766793,
-  :block/updated-at 1665109070296}
+  :block/updated-at 1665110492916}
  {:block/name "streaming my thought process",
   :block/created-at 1663651281780,
   :block/updated-at 1663651281780}
@@ -1292,11 +1301,14 @@
   :block/created-at 1664154694885,
   :block/updated-at 1664154694885}
  {:block/name "tell a better story - seth godin",
-  :block/created-at 1664973428843,
-  :block/updated-at 1664973688289}
+  :block/created-at 1665110070285,
+  :block/updated-at 1665110070285}
  {:block/name "tell a story",
   :block/created-at 1664834961653,
   :block/updated-at 1664834961653}
+ {:block/name "tell better stories",
+  :block/created-at 1665109570688,
+  :block/updated-at 1665110054525}
  {:block/name "the corporation",
   :block/created-at 1663770997313,
   :block/updated-at 1663770997313}
@@ -1318,6 +1330,9 @@
  {:block/name "thoughtware",
   :block/created-at 1664151974091,
   :block/updated-at 1664151974091}
+ {:block/name "time between stories",
+  :block/created-at 1665109705409,
+  :block/updated-at 1665109811280}
  {:block/name "tldraw",
   :block/created-at 1664856888063,
   :block/updated-at 1664892493680}
