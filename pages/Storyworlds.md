@@ -7,8 +7,15 @@
 - Humans live in a dual reality. Over objective reality we created a layer of fictional reality.
 - When humans believe in a story they enter into a state of [[Entrancement]] with the story.
 - ## Old Story
-	-
+	- Destruction
+	- Exploitation
+	- Disrespect
+	- Competition
+	- Greed
 - ## New Story
+	- Interconnectedness
+	- Cooperation
+	- Wholeness, On
 	-
 	-
 	- [[Changing The Story - Llewellyn Vaughan-Lee]]
