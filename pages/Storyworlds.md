@@ -5,7 +5,7 @@
 	- States and nations
 	- Money is the most successful story
 - Humans live in a dual reality. Over objective reality we created a layer of fictional reality.
-	-
+- When humans believe in a story they enter into a state of [[Entrancement]] with the story.
 -
 	- [[Changing The Story - Llewellyn Vaughan-Lee]]
 	- [[Seizing Control Of The Narrative - Derrick Jensen]]
