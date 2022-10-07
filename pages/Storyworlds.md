@@ -6,6 +6,7 @@
 	- Money is the most successful story
 - Humans live in a dual reality. Over objective reality we created a layer of fictional reality.
 - When humans believe in a story they enter into a state of [[Entrancement]] with the story.
+-
 - ## Old Story
 	- Destruction
 	- Exploitation
@@ -15,7 +16,11 @@
 - ## New Story
 	- Interconnectedness
 	- Cooperation
-	- Wholeness, On
+	- Wholeness, [[Oneness]]
+	- Healing the world soul
+	-
+- Stories a kind of [[Magic]].
+	-
 	-
 	-
 	- [[Changing The Story - Llewellyn Vaughan-Lee]]
