@@ -6,22 +6,24 @@
 	- Money is the most successful story
 - Humans live in a dual reality. Over objective reality we created a layer of fictional reality.
 - When humans believe in a story they enter into a state of [[Entrancement]] with the story.
--
+- Storyworlds are fractals
 - ## Old Story
 	- Destruction
 	- Exploitation
 	- Disrespect
 	- Competition
 	- Greed
+	- Human story
 - ## New Story
 	- Interconnectedness
 	- Cooperation
 	- Wholeness, [[Oneness]]
 	- Healing the world soul
+	- Larger than humanity
 	-
 - Stories a kind of [[Magic]].
 	-
-	-
+-
 	-
 	- [[Changing The Story - Llewellyn Vaughan-Lee]]
 	- [[Seizing Control Of The Narrative - Derrick Jensen]]
