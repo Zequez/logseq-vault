@@ -1,2 +1,2 @@
-- A magical spell casted by a [[Mage]] that causes human beings to believe in a story.
+- A magical spell casted by a [[Mage]] that causes human beings to believe in a story and cause them to inhabit [[Storyworlds]].
 -

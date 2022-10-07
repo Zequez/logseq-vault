@@ -6,6 +6,7 @@
 	- Money is the most successful story
 - Humans live in a dual reality. Over objective reality we created a layer of fictional reality.
 - When humans believe in a story they enter into a state of [[Entrancement]] with the story.
+	- Stories a kind of [[Magic]].
 - Storyworlds are fractals
 - ## Old Story
 	- Destruction
@@ -20,8 +21,6 @@
 	- Wholeness, [[Oneness]]
 	- Healing the world soul
 	- Larger than humanity
-	-
-- Stories a kind of [[Magic]].
 	-
 -
 	-
