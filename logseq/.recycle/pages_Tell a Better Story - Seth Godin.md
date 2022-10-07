@@ -1,4 +1,3 @@
-- https://seths.blog/2019/11/tell-a-better-story/
 - A story that is about the listener, not about you.
 - A story worth sharing.
 - A story that's unforgettable.
@@ -10,4 +9,5 @@
 - Ordinary stories generate [[Low Drama]] extraordinary stories make [[High Drama]].
 -
 - ---
-- Reference
+- ### Reference
+	- https://seths.blog/2019/11/tell-a-better-story/

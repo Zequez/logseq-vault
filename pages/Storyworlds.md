@@ -62,5 +62,5 @@
 - ----
 - ### References
 	- https://storyworld.mystrikingly.com/
-	- [[Tell a Better Story - Seth Godin]]
+	- [[Tell Better Stories]]
 -

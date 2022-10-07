@@ -1,1 +1,14 @@
-- [[Tell a Better Story - Seth Godin]]
+- [[Tell Better Stories]]
+- A story that is about the listener, not about you.
+- A story worth sharing.
+- A story that's unforgettable.
+- A story that makes things better.
+- Storytelling is a skill, it can be learned it takes practice.
+- Ordinary stories generate [[Low Drama]] extraordinary stories make [[High Drama]].
+- ## Experiment
+	- Sign up to [[The Story Skills Workshop]]
+-
+-
+- ---
+- ### Reference
+	- https://seths.blog/2019/11/tell-a-better-story/
