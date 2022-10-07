@@ -61,7 +61,6 @@
 	- You can shift into a new space by minimizing your now until it's small enough to slide sideways through the gaps between moments.
 - ----
 - ### References
-	- Reference: https://storyworld.mystrikingly.com/
-- Reference: https://seths.blog/2019/11/tell-a-better-story/
-- [[Tell a Better Story - Seth Godin]]
+	- https://storyworld.mystrikingly.com/
+	- [[Tell a Better Story - Seth Godin]]
 -
