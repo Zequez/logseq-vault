@@ -1,9 +1,9 @@
-- [[Tell Better Stories]]
-- A story that is about the listener, not about you.
-- A story worth sharing.
-- A story that's unforgettable.
-- A story that makes things better.
-- Storytelling is a skill, it can be learned it takes practice.
+- A story that:
+	- Is about the listener, not about you
+	- Is worth sharing
+	- Is unforgettable
+	- Makes things better
+- Storytelling is a skill that can be learned it takes practice to get better.
 - Ordinary stories generate [[Low Drama]] extraordinary stories make [[High Drama]].
 - ## Experiment
 	- Sign up to [[The Story Skills Workshop]]
