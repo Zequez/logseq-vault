@@ -10,10 +10,8 @@
 - Storyworlds are fractals
 - The world is going through a story transition, currently we are at the [[Time Between Stories]]
 - To create Storyworlds with [[Conscious Purpose]]  you can learn to [[Tell Better Stories]]
-	-
-	- [[Changing The Story - Llewellyn Vaughan-Lee]]
-	- [[Seizing Control Of The Narrative - Derrick Jensen]]
-	-
+- [[Seizing Control Of The Narrative - Derrick Jensen]]
+-
 -
 - ---
 - Irresponsible stories
@@ -62,5 +60,5 @@
 - ----
 - ### References
 	- https://storyworld.mystrikingly.com/
-	- [[Tell Better Stories]]
+	- [[Changing The Story - Llewellyn Vaughan-Lee]]
 -
