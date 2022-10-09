@@ -632,7 +632,7 @@
   :block/updated-at 1663992392292}
  {:block/name "gremlin",
   :block/created-at 1659564799978,
-  :block/updated-at 1664974799934}
+  :block/updated-at 1665320513170}
  {:block/name "gremlin move",
   :block/created-at 1664836919420,
   :block/updated-at 1664836919420}
@@ -1008,7 +1008,7 @@
   :block/updated-at 1665198027295}
  {:block/name "oct 9th, 2022",
   :block/created-at 1665291613355,
-  :block/updated-at 1665319297199}
+  :block/updated-at 1665320380714}
  {:block/name "offering: custom bubble in the bubble website",
   :block/created-at 1664895295863,
   :block/updated-at 1664896829683}
@@ -1249,12 +1249,18 @@
  {:block/name "space",
   :block/created-at 1663653896504,
   :block/updated-at 1663653896504}
+ {:block/name "space navigator",
+  :block/created-at 1665320816933,
+  :block/updated-at 1665320816933}
  {:block/name "spaced repetition",
   :block/created-at 1663651281598,
   :block/updated-at 1663651281598}
  {:block/name "spaceholder",
   :block/created-at 1663654044297,
   :block/updated-at 1663654103339}
+ {:block/name "spaces",
+  :block/created-at 1665320845168,
+  :block/updated-at 1665320845168}
  {:block/name "speaking from the known",
   :block/created-at 1664835919791,
   :block/updated-at 1664835919791}
@@ -1321,6 +1327,9 @@
  {:block/name "the corporation",
   :block/created-at 1663770997313,
   :block/updated-at 1663770997313}
+ {:block/name "the hidden purpose process",
+  :block/created-at 1665320513170,
+  :block/updated-at 1665321192385}
  {:block/name "the language of emotions - karla mclaren",
   :block/created-at 1659564799399,
   :block/updated-at 1659564799399}
@@ -1378,6 +1387,12 @@
  {:block/name "unconscious purpose",
   :block/created-at 1664947205022,
   :block/updated-at 1664947205022}
+ {:block/name "underworld",
+  :block/created-at 1665320635367,
+  :block/updated-at 1665320635367}
+ {:block/name "underworld navigator",
+  :block/created-at 1665320714048,
+  :block/updated-at 1665320863543}
  {:block/name "unhookable",
   :block/created-at 1664152897991,
   :block/updated-at 1664152908171}
