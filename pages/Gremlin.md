@@ -18,6 +18,7 @@
 -
 - To be able to distinguish when Gremlin is in charge of what you are saying or doing experiment with [[The Hidden Purpose Process]].
 -
+-
 - ---
 - Reference: https://yourgremlin.mystrikingly.com/
 - Reference: https://lowdrama.mystrikingly.com/
