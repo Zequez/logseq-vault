@@ -5,6 +5,6 @@
 - All that you have, after distilling your Hidden Purpose is a way to detect who is in charge of what you are saying right now. That's a useful [[Distinction]].
 -
 - ## Experiment
-	- Ask on
+	- Ask on Possibility Village telegram group if anyone would help you distill your Shadow Principles
 - ---
 - Reference: https://yourgremlin.mystrikingly.com/
