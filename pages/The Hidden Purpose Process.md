@@ -1,7 +1,8 @@
 - Procedure for distilling the three, four or five [[Shadow Principles]] of your [[Hidden Purpose]].
 - The process is horrendous. The term 'disillusionment' does not even come close to depicting what it feels like.
 - Best done under the guidance of a skilled [[Underworld Navigator]] with absolute [[Clarity]].
-- Once your Hidden Principles are distilled from the incidents and accidents of your life, it could take months or years to digest and integrate the
+- Once your Hidden Principles are distilled from the incidents and accidents of your life, it could take months or years to digest and integrate the experience into practical applications.
+- All that you have, after distilling your Hidden Purpose is a way to detect who is in charge
 -
 -
 - ---
