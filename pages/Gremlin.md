@@ -16,7 +16,8 @@
 -
 - To feed your Gremlin consciously you can practice [[Conscious Complaining]].
 -
-- To know when Gremlin is in charge of what you are saying or doing[[The Hidden Purpose Process]]
+- To be able to distinguish when Gremlin is in charge of what you are saying or doing experiment with [[The Hidden Purpose Process]].
+-
 - ---
 - Reference: https://yourgremlin.mystrikingly.com/
 - Reference: https://lowdrama.mystrikingly.com/

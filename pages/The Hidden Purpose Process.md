@@ -4,6 +4,7 @@
 - Once your Hidden Principles are distilled from the incidents and accidents of your life, it could take months or years to digest and integrate the experience into practical applications.
 - All that you have, after distilling your Hidden Purpose is a way to detect who is in charge of what you are saying right now. That's a useful [[Distinction]].
 -
--
+- ## Experiment
+	- Ask on
 - ---
 - Reference: https://yourgremlin.mystrikingly.com/
