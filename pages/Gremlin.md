@@ -15,6 +15,8 @@
   notice I was awake? Where's my coffee! It's not hot enough! Grrrrr-argh!
 -
 - To feed your Gremlin consciously you can practice [[Conscious Complaining]].
+-
+- [[The Hidden Purpose Process]]
 - ---
 - Reference: https://yourgremlin.mystrikingly.com/
 - Reference: https://lowdrama.mystrikingly.com/
