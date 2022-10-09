@@ -17,7 +17,8 @@
 - To feed your Gremlin consciously you can practice [[Conscious Complaining]].
 -
 - To be able to distinguish when Gremlin is in charge of what you are saying or doing experiment with [[The Hidden Purpose Process]].
--
+- It's easier to spot other people Gremlin that our own. One way to serve each other is by
+- Proposal: making an agreement to 'spot the Gremlin'
 -
 - ---
 - Reference: https://yourgremlin.mystrikingly.com/
