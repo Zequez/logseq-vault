@@ -1,1 +1,6 @@
-- Procedure for distilling the three, four or five [[Shadow Principles]] of your
+- Procedure for distilling the three, four or five [[Shadow Principles]] of your [[Hidden Purpose]].
+- The process is horrendous. The term 'disillusionement' does not even come close to depicting what it feels like.
+-
+-
+- ---
+- Reference: https://yourgremlin.mystrikingly.com/
