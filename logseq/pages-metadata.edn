@@ -632,7 +632,7 @@
   :block/updated-at 1663992392292}
  {:block/name "gremlin",
   :block/created-at 1659564799978,
-  :block/updated-at 1665321665976}
+  :block/updated-at 1665322754621}
  {:block/name "gremlin move",
   :block/created-at 1664836919420,
   :block/updated-at 1664836919420}
@@ -1099,6 +1099,9 @@
  {:block/name "proposal",
   :block/created-at 1664834924844,
   :block/updated-at 1664834924844}
+ {:block/name "proposal: make an agreement to 'spot the gremlin'",
+  :block/created-at 1665322542228,
+  :block/updated-at 1665322673547}
  {:block/name "proposals",
   :block/created-at 1664831496137,
   :block/updated-at 1664831496137}
