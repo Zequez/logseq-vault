@@ -1,7 +1,7 @@
 - Procedure for distilling the three, four or five [[Shadow Principles]] of your [[Hidden Purpose]].
 - The process is horrendous. The term 'disillusionment' does not even come close to depicting what it feels like.
 - Best done under the guidance of a skilled [[Underworld Navigator]] with absolute [[Clarity]].
-- Best done under the guidance of someone skilled in navigating [[Underworld]] spaces with absolute [[Clarity]]. Someone who will never forget for an instant that
+- Could take months or years to digest the distilled Hidden
 -
 -
 - ---
