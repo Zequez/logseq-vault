@@ -18,7 +18,8 @@
 -
 - To be able to distinguish when Gremlin is in charge of what you are saying or doing experiment with [[The Hidden Purpose Process]].
 - It's easier to spot other people Gremlin that our own. One way to serve each other is by [[Proposal: Make an agreement to 'spot the Gremlin']].
-- Identifying you
+- Identifying your Gremlin name and Hidden Purpose gives you a way to interact with your Gremlin responsibly.
+- The goal is to establish a conscious working relationship with your Gremlin.
 -
 - ---
 - Reference: https://yourgremlin.mystrikingly.com/
