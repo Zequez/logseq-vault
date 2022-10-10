@@ -13,5 +13,8 @@
 	- Put Hugo directory inside Logseq vault
 	- Install Hugo template
 	- Attempt to load Logseq posts from Hugo directly
-	- Modify posts
+		- Modify posts so that they load correctly on Hugo?
+	- Link posts by following links; backlinks posts too
+	- Add creation and editing date to post
+	- Create
 -
