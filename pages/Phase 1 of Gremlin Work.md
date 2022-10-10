@@ -4,7 +4,11 @@
   id:: 6344174e-1ac7-40be-a403-6f93b6fc1b5a
 - ## Strategy
 	- Start to notice and make your own list of [[Food Gremlin Loves To Eat]]
+	- Pick 10 items from the list
+		- Write them in paper and put them on a visible place to see
 	- Pick a fixed day of the week
+		- Fast for 6 days and allow the Gremlin to eat from the list on the 7th day
+		-
 -
 - ## Reference
 	- https://yourgremlin.mystrikingly.com/
