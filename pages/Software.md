@@ -1,1 +1,1 @@
-- A digital tool that is
+- A tool designed to be using inside a digital device.
