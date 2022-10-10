@@ -1,5 +1,6 @@
 - Free/Libre/Open Source Software
-- FLOSS is the way for software to be shared on [[Archearchy]]
+- FLOSS is the way software is commonly shared on [[Archearchy]].
+-
 -
 -
 -
