@@ -21,7 +21,7 @@
 - The goal is to establish a conscious working relationship with your Gremlin.
 - Gremlin needs to be energetically fed regularly on a schedule. If your feeding schedule is not conscious, then it's unconscious.
 - Gremlin eats [[Typical Gremlin Foods]].
-- [[Phase 1 of Gremlin Work]] is about identifying the food you are
+- [[Phase 1 of Gremlin Work]] is about becoming aware of the food you are feeding your gremlin, and training him into a disciplined feeding schedule.
 -
 - ---
 - Reference: https://yourgremlin.mystrikingly.com/
