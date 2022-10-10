@@ -1,5 +1,9 @@
-- Messes for other peoplo to pick up
-	-
+- Notice the messes that you create for other people to pick up
+	- Physical messes
+	- Energetic messes
+	- Mental messes
+	- Emotional messes
+- Ask for feedback
 - Examples:
 	- Creating the story that your boss is an enemy and having regular confrontations.
 	- Weekly social gatherings with alcohol, coming home late and drunk.
