@@ -437,7 +437,7 @@
   :block/updated-at 1659564799401}
  {:block/name "discovering food gremlin loves to eat",
   :block/created-at 1665406671817,
-  :block/updated-at 1665408159581}
+  :block/updated-at 1665408448127}
  {:block/name "discovery",
   :block/created-at 1664836796094,
   :block/updated-at 1664836796094}
@@ -582,6 +582,9 @@
  {:block/name "feedback",
   :block/created-at 1664831460378,
   :block/updated-at 1664831460378}
+ {:block/name "feedback as a weapon",
+  :block/created-at 1665408290780,
+  :block/updated-at 1665408376319}
  {:block/name "feeling",
   :block/created-at 1663651282589,
   :block/updated-at 1663651282589}
@@ -1146,7 +1149,7 @@
   :block/updated-at 1664835001589}
  {:block/name "radical responsibility",
   :block/created-at 1663651281895,
-  :block/updated-at 1665069488357}
+  :block/updated-at 1665408598482}
  {:block/name "rage",
   :block/created-at 1664839200530,
   :block/updated-at 1664839379293}
