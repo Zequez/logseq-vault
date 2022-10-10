@@ -98,6 +98,9 @@
  {:block/name "adult ego state",
   :block/created-at 1665407644474,
   :block/updated-at 1665407644474}
+ {:block/name "adult ego state decontamination",
+  :block/created-at 1665409808375,
+  :block/updated-at 1665409808375}
  {:block/name "all the social networks",
   :block/created-at 1663771735740,
   :block/updated-at 1663771736102}
@@ -647,7 +650,7 @@
   :block/updated-at 1663992392292}
  {:block/name "gremlin",
   :block/created-at 1659564799978,
-  :block/updated-at 1665406885803}
+  :block/updated-at 1665409815271}
  {:block/name "gremlin move",
   :block/created-at 1664836919420,
   :block/updated-at 1664836919420}
@@ -1072,6 +1075,9 @@
  {:block/name "phase 1 of gremlin work",
   :block/created-at 1665406498711,
   :block/updated-at 1665407802799}
+ {:block/name "phase 2 of gremlin work",
+  :block/created-at 1665409589013,
+  :block/updated-at 1665409652462}
  {:block/name "physical body",
   :block/created-at 1664894355126,
   :block/updated-at 1664894355126}
