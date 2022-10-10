@@ -9,4 +9,9 @@
 	- Links pages with each other effortlessly as you write
 	- Export pages to be used on as Hugo pages
 - We'll be publishing the website on a free hosting provider such as Github Pages.
+- This is actually an experiment because I don't know how to actually do this yet.
+	- Put Hugo directory inside Logseq vault
+	- Install Hugo template
+	- Attempt to load Logseq posts from Hugo directly
+	- Modify posts
 -
