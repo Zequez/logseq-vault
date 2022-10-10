@@ -22,7 +22,8 @@
 - Gremlin needs to be energetically fed.
 	- There are [[Food Gremlin Loves To Eat]]
 	- There is a feeding schedule. If your feeding schedule is not conscious, then it's unconscious.
-- [[Phase 1 of Gremlin Work]] is about becoming aware of the food and schedule you are unconsciously feeding your gremlin with, and training him into a disciplined feeding plan and schedule.
+- [[Phase 1 of Gremlin Work]]
+	- {{embed ((6344174e-1ac7-40be-a403-6f93b6fc1b5a))}}
 -
 - ---
 - Reference: https://yourgremlin.mystrikingly.com/
