@@ -3,14 +3,16 @@
 	- Energetic messes
 	- Mental messes
 	- Emotional messes
-- Ask other people for feedback
+- Ask other people for feedback.
+- Make a list as long as you can, at least 50 foods.
 - Don't have a judgemental look.
 	- Attitude of discovering a new country; this neutral curious gaze towards your Gremlin.
 - Be specific: "Avoid responsibility" is to vage
 	- How?
 	- In what way?
 	- How does it look like?
-- What is actually eating my Gremlin about this behaviour?
+- One by one in your list add a note:
+	- What is actually really eating my Gremlin about this behaviour?
 	-
 - Examples:
 	- Creating the story that your boss is an enemy and having regular confrontations.
