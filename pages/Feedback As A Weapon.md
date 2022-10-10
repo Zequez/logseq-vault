@@ -1,1 +1,1 @@
-- Feedback can be used as a weapon by Gremlin
+- Feedback can be used as a weapon by [[Gremlin]] to attempt to control the other or assert superiority. For this reason, it's always more reliable to make [[Proposals]] instead of using Feedback.

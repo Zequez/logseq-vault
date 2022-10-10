@@ -13,7 +13,7 @@
 	- How does it look like?
 - One by one in your list add a note:
 	- What is actually really eating my Gremlin about this behaviour?
-		- [[Feedback As A Weapon]]
+		- Remember [[Feedback As A Weapon]]
 	-
 - Examples:
 	- Creating the story that your boss is an enemy and having regular confrontations.
