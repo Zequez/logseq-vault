@@ -6,5 +6,5 @@
 	- Create pages outside a hierarchical structure
 	- Links pages with each other effortlessly as you write
 	- Pages can be exported to be used on as Hugo pages
-	-
+-
 -
