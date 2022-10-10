@@ -14,6 +14,7 @@
 - One by one in your list add a note:
 	- What is actually really eating my Gremlin about this behaviour?
 		- Remember [[Feedback As A Weapon]]
+- Have a Complaint Conversation with a friend to discover what's really going on.
 	-
 - Examples:
 	- Creating the story that your boss is an enemy and having regular confrontations.
