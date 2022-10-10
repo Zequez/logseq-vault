@@ -1,4 +1,5 @@
 - Hugo is a popular [[FLOSS]] website builder [[Software]] that is very fast and has a theming system.
 	- It's targeted towards technical people, so you need tech skills to be able to use it
-- Logseq is a popular [[FLOSS]] non-linear writing Software that allows you
+- Logseq is a popular [[FLOSS]] non-linear writing Software that allows you to:
+	- Create pages
 -
