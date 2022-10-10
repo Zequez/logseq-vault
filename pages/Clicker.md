@@ -1,1 +1,2 @@
-- A tool in your [[Energetic Toolbelt]] or [[Declaring What Is So]] by clicking
+- A tool in your [[Energetic Toolbelt]] for [[Declaring What Is So]]. Physically it looks like snapping your fingers.
+-
