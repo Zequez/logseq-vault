@@ -3,4 +3,5 @@
 - Software is like Lego bricks, all Software combines and can be interlocked with other Software.
 - Software is fractal and interdependent. There is Software inside Software. Software can depend on any other Software.
 - Software is authored by humans, but because all Software is made of other Software, no one can claim full authorship of any Software. Doing so is a lie.
-- Software existed before humans existed. Software is
+- Software existed before humans existed.
+	- Software is logic; logic is a function of linear time.
