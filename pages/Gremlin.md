@@ -19,8 +19,9 @@
 - It's easier to spot other people Gremlin that our own. One way to serve each other is by [[Proposal: Make an agreement to 'spot the Gremlin']].
 - Identifying your Gremlin name and Hidden Purpose gives you a way to interact with your Gremlin responsibly.
 - The goal is to establish a conscious working relationship with your Gremlin.
-- Gremlin needs to be energetically fed regularly on a schedule. If your feeding schedule is not conscious, then it's unconscious.
-- There are [[Food Gremlin Loves To Eat]].
+- Gremlin needs to be energetically fed.
+	- There are [[Food Gremlin Loves To Eat]]
+	- There is a feeding schedule. If your feeding schedule is not conscious, then it's unconscious.
 - [[Phase 1 of Gremlin Work]] is about becoming aware of the food and schedule you are unconsciously feeding your gremlin with, and training him into a disciplined feeding plan and schedule.
 -
 - ---
