@@ -11,6 +11,6 @@
 - -- Bueno acá tenés esta piedrita brillante muy bonita, me das sánguche?
 - -- Ah, bueno dale.
 - Puedo decir que con mi hijo funciona. A veces agarra mi celular y luego yo le propongo cambiárselo por cualquier otra cosa que me encuentre y suele aceptar sin drama. Pero si le saco el celular sin darle nada a cambio llora.
-	- Quizás podemos embeber
--
+	- Quizás podemos embeber eso que damos con gratitud antes de dárselo.
 - "Folks, this is a stupid idea, but alright I'll play along, it's fun."
+-
