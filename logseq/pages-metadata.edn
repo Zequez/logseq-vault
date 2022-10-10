@@ -77,6 +77,9 @@
  {:block/name "632944fa-4e6d-4ab6-9c0c-c59ddb69347e",
   :block/created-at 1663651281323,
   :block/updated-at 1663651281323}
+ {:block/name "6344174e-1ac7-40be-a403-6f93b6fc1b5a",
+  :block/created-at 1665406813725,
+  :block/updated-at 1665406813725}
  {:block/name "7 core skills",
   :block/created-at 1664152810621,
   :block/updated-at 1664153318456}
@@ -340,7 +343,7 @@
   :block/updated-at 1664854856334}
  {:block/name "clicker",
   :block/created-at 1664948289818,
-  :block/updated-at 1664948289818}
+  :block/updated-at 1665407410230}
  {:block/name "coersion",
   :block/created-at 1664459418423,
   :block/updated-at 1664459418423}
@@ -509,7 +512,7 @@
   :block/updated-at 1664948815056}
  {:block/name "energetic toolbelt",
   :block/created-at 1663651281591,
-  :block/updated-at 1663651281591}
+  :block/updated-at 1665407325135}
  {:block/name "enojo",
   :block/created-at 1663994306954,
   :block/updated-at 1663994306954}
@@ -594,6 +597,9 @@
  {:block/name "focused attention",
   :block/created-at 1664149977372,
   :block/updated-at 1664149977372}
+ {:block/name "food gremlin loves to eat",
+  :block/created-at 1665406671817,
+  :block/updated-at 1665406695354}
  {:block/name "four feelings",
   :block/created-at 1663651281517,
   :block/updated-at 1663651281517}
@@ -632,7 +638,7 @@
   :block/updated-at 1663992392292}
  {:block/name "gremlin",
   :block/created-at 1659564799978,
-  :block/updated-at 1665322754621}
+  :block/updated-at 1665406885803}
  {:block/name "gremlin move",
   :block/created-at 1664836919420,
   :block/updated-at 1664836919420}
@@ -1054,6 +1060,9 @@
  {:block/name "personal bubble",
   :block/created-at 1664831916855,
   :block/updated-at 1664831916855}
+ {:block/name "phase 1 of gremlin work",
+  :block/created-at 1665406498711,
+  :block/updated-at 1665407492606}
  {:block/name "physical body",
   :block/created-at 1664894355126,
   :block/updated-at 1664894355126}
@@ -1435,6 +1444,9 @@
  {:block/name "voice",
   :block/created-at 1664247716456,
   :block/updated-at 1664247716456}
+ {:block/name "voice blaster",
+  :block/created-at 1665407270610,
+  :block/updated-at 1665407297532}
  {:block/name "wait",
   :block/created-at 1658887939550,
   :block/updated-at 1658887939550}
