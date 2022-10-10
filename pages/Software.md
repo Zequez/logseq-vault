@@ -1,3 +1,3 @@
 - A digital tool designed to be used inside a computing device.
-- Software can be reproduced
-- Software is like Lego bricks, Software is created by humans by combining it with other software.
+- Software can be reproduced and distributed instantly at
+- Software is like Lego bricks, all software combines can be interlocked with other Software.
