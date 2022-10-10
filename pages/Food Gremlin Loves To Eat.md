@@ -5,7 +5,7 @@
 	- Emotional messes
 - Ask other people for feedback
 - Don't have a judgemental look;
-- Discovering a new curious about discovering
+- Discovering a new country; this neutral curious gaze towards your Gremlin.
 - Examples:
 	- Creating the story that your boss is an enemy and having regular confrontations.
 	- Weekly social gatherings with alcohol, coming home late and drunk.
