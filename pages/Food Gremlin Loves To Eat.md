@@ -1,3 +1,5 @@
+- Messes for other peoplo to pick up
+	-
 - Examples:
 	- Creating the story that your boss is an enemy and having regular confrontations.
 	- Weekly social gatherings with alcohol, coming home late and drunk.
