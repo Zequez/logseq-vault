@@ -1,2 +1,5 @@
-- Gut your gremlin to work.
+- Put your [[Gremlin]] to work.
+- It's an exceptional tool of nonlinearity.
+- You use Gremlin’s ability to destroy anything, at any time, for no reason, as the force to dismantle the mechanicality of your own [[Box]].
+- The first use of Gremlin is very exact. Use Gremlin to monitor Gremlin to not 'do' Gremlin.
 -
