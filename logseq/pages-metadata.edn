@@ -107,6 +107,9 @@
  {:block/name "all the social networks",
   :block/created-at 1663771735740,
   :block/updated-at 1663771736102}
+ {:block/name "amando al dinero",
+  :block/created-at 1665410334265,
+  :block/updated-at 1665410395887}
  {:block/name "andy matuschak",
   :block/created-at 1663651281930,
   :block/updated-at 1663651281930}
@@ -612,6 +615,9 @@
  {:block/name "fleeting",
   :block/created-at 1659021837308,
   :block/updated-at 1659021837308}
+ {:block/name "floss",
+  :block/created-at 1665410964495,
+  :block/updated-at 1665411144117}
  {:block/name "focused attention",
   :block/created-at 1664149977372,
   :block/updated-at 1664149977372}
@@ -709,6 +715,10 @@
  {:block/name "homo noosféricus",
   :block/created-at 1659758319299,
   :block/updated-at 1659758341287}
+ {:block/name
+  "how to use logseq and hugo as writing and publishing tools for creating non-linear websites",
+  :block/created-at 1665410569563,
+  :block/updated-at 1665412085093}
  {:block/name "human body",
   :block/created-at 1663651281786,
   :block/updated-at 1663651281786}
@@ -1008,7 +1018,7 @@
   :block/updated-at 1664154946621}
  {:block/name "oct 10th, 2022",
   :block/created-at 1665403209006,
-  :block/updated-at 1665403209006}
+  :block/updated-at 1665410569564}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
@@ -1032,7 +1042,7 @@
   :block/updated-at 1665198027295}
  {:block/name "oct 9th, 2022",
   :block/created-at 1665291613355,
-  :block/updated-at 1665410234514}
+  :block/updated-at 1665410466920}
  {:block/name "offering: custom bubble in the bubble website",
   :block/created-at 1664895295863,
   :block/updated-at 1664896829683}
@@ -1279,6 +1289,9 @@
  {:block/name "small now",
   :block/created-at 1664834454328,
   :block/updated-at 1664834454328}
+ {:block/name "software",
+  :block/created-at 1665411173857,
+  :block/updated-at 1665411813032}
  {:block/name "space",
   :block/created-at 1663653896504,
   :block/updated-at 1663653896504}
