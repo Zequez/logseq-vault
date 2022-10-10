@@ -1,1 +1,1 @@
-- Hugo is a
+- Hugo is a fairly website builder software that
