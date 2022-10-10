@@ -1,11 +1,10 @@
--
-- Whatever part of your Gremlin you don't own, owns you
+- Whatever part of your Gremlin you don't own, owns you.
 	- Whereas previously [[Gremlin]] ran wild, knocked you unconscious, and did whatever it wanted with your life, now your job is to make Gremlin your ally instead of your owner.
 - The purpose is about changing the relationship of your Gremlin that is protecting your [[Box]], to initiate it into serving your [[Archetypal Lineage]], your [[Adult Ego State]].
 - The work is about becoming aware of the food and schedule you are unconsciously feeding your gremlin with, and training him into a disciplined feeding plan and schedule.
   id:: 6344174e-1ac7-40be-a403-6f93b6fc1b5a
 - ## Strategy
-	- Start to notice and make your own list of [[Food Gremlin Loves To Eat]]
+	- Start to notice and make your own list of [[Food Gremlin Loves To Eat]]. Make it at least 50 items..
 	- Pick 10 items from the list
 		- Write them in paper and put them on a visible place to see
 	- Pick a fixed day of the week
