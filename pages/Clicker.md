@@ -1,0 +1,1 @@
+- A tool in your [[Energetic Toolbelt]] or [[Declaring What Is So]] by clicking
