@@ -1,1 +1,2 @@
-- A tool designed to be using inside a digital device.
+- A digital tool designed to be used inside a digital device.
+- In comparison to physical tools,
