@@ -2,5 +2,6 @@
 	- It's targeted towards technical people, so you need tech skills to be able to use it
 - Logseq is a popular [[FLOSS]] non-linear writing Software that allows you to:
 	- Create pages outside a hierarchical structure
+	- Links pages with each other effortlessly as you write
 	-
 -
