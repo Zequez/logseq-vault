@@ -17,5 +17,8 @@
 	- Link posts by following links; backlinks posts too
 	- Add creation and editing date to post
 	- Load journal pages into Hugo
-	- Create welcome page to site on LogSeq
+	- Create welcome page to site on LogSeq; use as Index
+	- Customize theme to what I actually want
+	- Publish on Github Pages as replacement of my current site at zequez.space
+- Share on Possibility Village.
 -
