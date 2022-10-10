@@ -7,5 +7,5 @@
 	- Create pages outside a hierarchical structure
 	- Links pages with each other effortlessly as you write
 	- Export pages to be used on as Hugo pages
-- We'll be publishing the website on a free hosting provider
+- We'll be publishing the website on a free hosting provider such as Github Pages.
 -
