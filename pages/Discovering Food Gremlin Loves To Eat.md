@@ -6,7 +6,12 @@
 - Ask other people for feedback
 - Don't have a judgemental look.
 	- Attitude of discovering a new country; this neutral curious gaze towards your Gremlin.
-- Be specific
+- Be specific: "Avoid responsibility" is to vage
+	- How?
+	- In what way?
+	- How does it look like?
+- What is actually eating my Gremlin about this behaviour?
+	-
 - Examples:
 	- Creating the story that your boss is an enemy and having regular confrontations.
 	- Weekly social gatherings with alcohol, coming home late and drunk.

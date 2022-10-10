@@ -95,6 +95,9 @@
  {:block/name "actividad",
   :block/created-at 1659021837552,
   :block/updated-at 1659021837552}
+ {:block/name "adult ego state",
+  :block/created-at 1665407644474,
+  :block/updated-at 1665407644474}
  {:block/name "all the social networks",
   :block/created-at 1663771735740,
   :block/updated-at 1663771736102}
@@ -125,6 +128,9 @@
  {:block/name "archetypal body",
   :block/created-at 1664152570270,
   :block/updated-at 1664152570270}
+ {:block/name "archetypal lineage",
+  :block/created-at 1665407644475,
+  :block/updated-at 1665407644475}
  {:block/name "archetypal love",
   :block/created-at 1665021474365,
   :block/updated-at 1665021474365}
@@ -429,6 +435,9 @@
   "directing the power of conscious feelings - callahan clinton",
   :block/created-at 1659564799401,
   :block/updated-at 1659564799401}
+ {:block/name "discovering food gremlin loves to eat",
+  :block/created-at 1665406671817,
+  :block/updated-at 1665408159581}
  {:block/name "discovery",
   :block/created-at 1664836796094,
   :block/updated-at 1664836796094}
@@ -597,9 +606,6 @@
  {:block/name "focused attention",
   :block/created-at 1664149977372,
   :block/updated-at 1664149977372}
- {:block/name "food gremlin loves to eat",
-  :block/created-at 1665406671817,
-  :block/updated-at 1665406695354}
  {:block/name "four feelings",
   :block/created-at 1663651281517,
   :block/updated-at 1663651281517}
@@ -1062,7 +1068,7 @@
   :block/updated-at 1664831916855}
  {:block/name "phase 1 of gremlin work",
   :block/created-at 1665406498711,
-  :block/updated-at 1665407492606}
+  :block/updated-at 1665407802799}
  {:block/name "physical body",
   :block/created-at 1664894355126,
   :block/updated-at 1664894355126}
