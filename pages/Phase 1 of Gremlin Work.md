@@ -9,7 +9,8 @@
 	- Pick a fixed day of the week
 		- Fast for 6 days and allow the Gremlin to eat from the list on the 7th day
 	- Don't be discouraged if Gremlin knocks you unconscious and wake up on the other side of a binge quarrel. Do not feel guilty. Do not beat yourself up. Do not punish your Gremlin. Remake the commitment and keep your promise to maximum feeding on the specified day, only.
-	- Gremlin can put a constant stream of voices in your head "This is stupid! I hate this! Mmm, a little bit of chocolate would be ok. What a bitch! I can't do this anymore! I'm a failure! I'm not good enough! I will never make it! Whose idea was this anyway? Not mine. Fucking Clinton Callahan!" And so on. These are only voices. You can use your [[Voice Blaster]]
+	- Gremlin can put a constant stream of voices in your head "This is stupid! I hate this! Mmm, a little bit of chocolate would be ok. What a bitch! I can't do this anymore! I'm a failure! I'm not good enough! I will never make it! Whose idea was this anyway? Not mine. Fucking Clinton Callahan!" And so on. These are only voices. You can use your [[Voice Blaster]].
+	- It might take months before you can go an entire week without Gremlin snacking in-between.
 -
 - ## Reference
 	- https://yourgremlin.mystrikingly.com/
