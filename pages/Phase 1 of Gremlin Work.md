@@ -8,7 +8,7 @@
 		- Write them in paper and put them on a visible place to see
 	- Pick a fixed day of the week
 		- Fast for 6 days and allow the Gremlin to eat from the list on the 7th day
-		-
+	- Don't be discouraged if Gremlin knocks you unconscious and wake up on the other side of a binge quarrel. Do not feel guilty. Do not beat yourself up. Do not punish your Gremlin. Remake the commitment and keep your promise to maximum feeding on the specified day, only.
 -
 - ## Reference
 	- https://yourgremlin.mystrikingly.com/
