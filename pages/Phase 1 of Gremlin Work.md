@@ -1,2 +1,2 @@
 - ## Whatever part of your Gremlin you don't own, owns you
--
+- Whereas previously Gremlin ran wild, knocked you unconscious, and did whatever it wanted with your life, now your job is to make Gremlin your ally instead of your owner.

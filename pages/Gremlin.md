@@ -20,7 +20,7 @@
 - Identifying your Gremlin name and Hidden Purpose gives you a way to interact with your Gremlin responsibly.
 - The goal is to establish a conscious working relationship with your Gremlin.
 - Gremlin needs to be energetically fed regularly on a schedule. If your feeding schedule is not conscious, then it's unconscious.
-- Gremlin eats [[Typical Gremlin Foods]].
+- Gremlin eats [[Food Gremlin Loves To Eat]].
 - [[Phase 1 of Gremlin Work]] is about becoming aware of the food and schedule you are unconsciously feeding your gremlin with, and training him into a disciplined feeding plan and schedule.
 -
 - ---
