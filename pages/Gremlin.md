@@ -1,7 +1,5 @@
-- A wild intelligent archetypal creature. A source of wild intelligence always at your service.
+- A wild intelligent archetypal creature. If initiated, it's a source of wild intelligence always at your service.
 - Gremlin intends to protect us. This often creates separation.
-- > we all have a gremlin that intends to protect us in ways that most of 
-  the times create separation between us, members of the family.
 - > Let's say that your Gremlin feels a bit peckish... irritated that he (or
    sometimes, she...) might be getting hungry... that a food supply is not
    immediately at hand. He uses the standard ploy. It always works. Prove 
