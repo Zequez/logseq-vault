@@ -16,5 +16,6 @@
 		- Modify posts so that they load correctly on Hugo?
 	- Link posts by following links; backlinks posts too
 	- Add creation and editing date to post
-	- Create
+	- Load journal pages into Hugo
+	- Create welcome page to site on LogSeq
 -
