@@ -3,7 +3,9 @@
 	- Energetic messes
 	- Mental messes
 	- Emotional messes
-- Ask for feedback
+- Ask other people for feedback
+- Don't have a judgemental look;
+- Discovering a new curious about discovering
 - Examples:
 	- Creating the story that your boss is an enemy and having regular confrontations.
 	- Weekly social gatherings with alcohol, coming home late and drunk.
