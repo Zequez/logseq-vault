@@ -14,7 +14,6 @@
   again. Snore... snore.... Huh! Grrrr!!!! I'm awake again! Didn't you 
   notice I was awake? Where's my coffee! It's not hot enough! Grrrrr-argh!
 -
-- To feed your Gremlin consciously you can practice [[Conscious Complaining]].
 - To be able to distinguish when Gremlin is in charge of what you are saying or doing experiment with [[The Hidden Purpose Process]].
 - It's easier to spot other people Gremlin that our own. One way to serve each other is by [[Proposal: Make an agreement to 'spot the Gremlin']].
 - Identifying your Gremlin name and Hidden Purpose gives you a way to interact with your Gremlin responsibly.
@@ -25,6 +24,9 @@
 - [[Phase 1 of Gremlin Work]]
 	- {{embed ((6344174e-1ac7-40be-a403-6f93b6fc1b5a))}}
 -
+- ## Experiments
+	- Feed your Gremlin consciously by practice [[Conscious Complaining]].
+	-
 - ---
 - Reference: https://yourgremlin.mystrikingly.com/
 - Reference: https://lowdrama.mystrikingly.com/
