@@ -1,6 +1,9 @@
 [{:block/name " amo el dinero",
   :block/created-at 1665410255079,
   :block/updated-at 1665410255079}
+ {:block/name "\"{{ replace .name \"-\" \" \" | title }}\"",
+  :block/created-at 1665413100596,
+  :block/updated-at 1665413100596}
  {:block/name
   "#56 possibilitators brazil with clinton callahan (29 august 2022)",
   :block/created-at 1664831440137,
@@ -425,6 +428,9 @@
  {:block/name "cuentas-servicios",
   :block/created-at 1659111331727,
   :block/updated-at 1659111331727}
+ {:block/name "date",
+  :block/created-at 1665413100594,
+  :block/updated-at 1665413100594}
  {:block/name "declaración",
   :block/created-at 1659021837549,
   :block/updated-at 1659021837549}
@@ -474,6 +480,9 @@
  {:block/name "done",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
+ {:block/name "draft",
+  :block/created-at 1665413100595,
+  :block/updated-at 1665413100595}
  {:block/name "dragon dreaming",
   :block/created-at 1659065025582,
   :block/updated-at 1659069322942}
@@ -718,7 +727,7 @@
  {:block/name
   "how to use logseq and hugo as writing and publishing tools for creating non-linear websites",
   :block/created-at 1665410569563,
-  :block/updated-at 1665412645750}
+  :block/updated-at 1665412974395}
  {:block/name "human body",
   :block/created-at 1663651281786,
   :block/updated-at 1663651281786}
@@ -1178,6 +1187,9 @@
  {:block/name "reading",
   :block/created-at 1659284779017,
   :block/updated-at 1659284779017}
+ {:block/name "readme",
+  :block/created-at 1665413263405,
+  :block/updated-at 1665413263405}
  {:block/name "really fun",
   :block/created-at 1664838925416,
   :block/updated-at 1664838938513}
