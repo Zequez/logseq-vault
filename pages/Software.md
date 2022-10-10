@@ -1,2 +1,3 @@
-- A digital tool designed to be used inside a digital device.
-- In comparison to physical tools,
+- A digital tool designed to be used inside a computing device.
+- Software can be reproduced
+- Software is like Lego bricks, Software is created by humans by combining it with other software.
