@@ -1,12 +1,11 @@
 - Hugo is a popular [[FLOSS]] website builder [[Software]]
 	- There are claims it is very fast
 	- Has a theming system
-	- It's targeted towards technical people, so you need tech skills to be able to use it
-	- Of all the flexible FLOSS technical tools to build websites, Hugo is the easiest to use from start to finish
-		- It's still a technical tool, you might need guidance if you aren't familiar
+	- Of all the flexible FLOSS technical tools to build websites, Hugo is the easiest to use from start to finish.
+		- It's still a technical tool, so some tech skills might be needed.
 - Logseq is a popular [[FLOSS]] non-linear writing Software
 	- Create pages outside a hierarchical structure
 	- Links pages with each other effortlessly as you write
 	- Export pages to be used on as Hugo pages
--
+- Using Github Pages as a free
 -
