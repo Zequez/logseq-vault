@@ -1,6 +1,6 @@
 - A wild intelligent archetypal creature.
 	- An initiated Gremlin it's a source of wild intelligence always at your service.
-	- An uninitiated Gremlin is taking control of our [[Box]] with the intention to protect us.
+	- An uninitiated Gremlin knocks us unconscious and takes control of our [[Box]] with the intention to protect us.
 - > Let's say that your Gremlin feels a bit peckish... irritated that he (or
    sometimes, she...) might be getting hungry... that a food supply is not
    immediately at hand. He uses the standard ploy. It always works. Prove 
