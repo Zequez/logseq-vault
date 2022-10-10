@@ -1,4 +1,7 @@
-[{:block/name
+[{:block/name " amo el dinero",
+  :block/created-at 1665410255079,
+  :block/updated-at 1665410255079}
+ {:block/name
   "#56 possibilitators brazil with clinton callahan (29 august 2022)",
   :block/created-at 1664831440137,
   :block/updated-at 1664894280962}
@@ -1029,7 +1032,7 @@
   :block/updated-at 1665198027295}
  {:block/name "oct 9th, 2022",
   :block/created-at 1665291613355,
-  :block/updated-at 1665320380714}
+  :block/updated-at 1665410234514}
  {:block/name "offering: custom bubble in the bubble website",
   :block/created-at 1664895295863,
   :block/updated-at 1664896829683}
