@@ -1,5 +1,5 @@
 - We live in a responsible Universe. There are consequences for every action and inaction.
-- Irresponsibility is an illusion.
+- Irresponsibility is an illusion. Avoiding responsibility is an illusion you make yourself believe.
 - It is impossible to be a victim.
 - [[High Drama]] is actions for taking more responsibility.
 - [[Low Drama]] is actions for trying to avoid responsibility.
