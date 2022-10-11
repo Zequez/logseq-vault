@@ -1,3 +1,5 @@
 - I feel scared of being seen
 - I feel scared of writing or speaking about my usage of cannabis
+- I feel scared because I'm basically out of money and I have to pay rent
+-
 -
