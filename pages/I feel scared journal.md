@@ -1,1 +1,3 @@
-- I feel scared of being seen by
+- I feel scared of being seen
+- I feel scared of writing or speaking about my usage of cannabis
+-
