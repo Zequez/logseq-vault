@@ -734,6 +734,9 @@
  {:block/name "human body",
   :block/created-at 1663651281786,
   :block/updated-at 1663651281786}
+ {:block/name "i feel scared journal",
+  :block/created-at 1665503593985,
+  :block/updated-at 1665503657998}
  {:block/name "ideas that might be appreciated if built",
   :block/created-at 1665413371380,
   :block/updated-at 1665413371380}
@@ -1033,7 +1036,7 @@
   :block/updated-at 1665410569564}
  {:block/name "oct 11th, 2022",
   :block/created-at 1665457203805,
-  :block/updated-at 1665457203805}
+  :block/updated-at 1665503593985}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}

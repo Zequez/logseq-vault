@@ -1,1 +1,1 @@
-- I feel scared of people discovering how much
+- I feel scared of being seen by
