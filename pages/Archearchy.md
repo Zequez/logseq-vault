@@ -1,4 +1,5 @@
 - The culture that comes after [[Matriarchy]] and [[Patriarchy]] have run their course. Where [[Initiated Adults]] collaborate with each other.
+- Archearchy is the marriage of Matriarchy and Patriarchy.
 - The province of matriarchy is what. The province of patriarchy is how. What shall we do, that is in service to life, love, and beauty? How shall we do it? These questions merge and flow into each other. What becomes how, how becomes what. Such is the conjugation of matriarchy and patriarchy.
 -
 - ## References
