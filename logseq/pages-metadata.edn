@@ -131,6 +131,9 @@
  {:block/name "anillo solar luna auto-existente roja",
   :block/created-at 1659021837310,
   :block/updated-at 1659021837310}
+ {:block/name "anxiety",
+  :block/created-at 1665577347613,
+  :block/updated-at 1665577507667}
  {:block/name "app",
   :block/created-at 1663770743539,
   :block/updated-at 1663770743539}
@@ -821,6 +824,9 @@
  {:block/name "kinds of thoughts",
   :block/created-at 1663651281774,
   :block/updated-at 1663651281774}
+ {:block/name "kundalini",
+  :block/created-at 1665577756273,
+  :block/updated-at 1665578021541}
  {:block/name "lak'ech",
   :block/created-at 1665413371480,
   :block/updated-at 1665413371480}
@@ -1054,7 +1060,7 @@
   :block/updated-at 1665543471702}
  {:block/name "oct 12th, 2022",
   :block/created-at 1665543603038,
-  :block/updated-at 1665543603038}
+  :block/updated-at 1665577756274}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
