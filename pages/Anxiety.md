@@ -2,7 +2,7 @@
 - Anxiety is also a form of [[Fear]].
 - Anxiety and the gut are linked, as what we eat can cause brain inflammation, which can be manifested as anxiety.
 - Anxiety is an intuitive force that something ain't right; either internally or externally.
--
+- Anxiety is a tool that can overwhelm us into awakening.
 - ---
 - ## References
 	- https://www.youtube.com/watch?v=FrhqgtczZVU
