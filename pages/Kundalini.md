@@ -1,1 +1,8 @@
-- A creative
+- A creative feminine energy.
+- Kundalini energy is the one that creates a new being during sex.
+- Depicted as a coiled snake.
+-
+-
+- ---
+- ## Reference
+	- https://www.youtube.com/watch?v=O_aVP18BuEQ
