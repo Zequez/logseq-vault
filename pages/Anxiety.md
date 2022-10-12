@@ -1,0 +1,6 @@
+- It's a call to awakening.
+- Anxiety is also a form of [[Fear]].
+- Anxiety and the gut are
+- ---
+- ## References
+	- https://www.youtube.com/watch?v=FrhqgtczZVU
