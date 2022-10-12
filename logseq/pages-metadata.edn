@@ -1,6 +1,12 @@
 [{:block/name " amo el dinero",
   :block/created-at 1665410255079,
   :block/updated-at 1665410255079}
+ {:block/name "\"my first post\"",
+  :block/created-at 1665543132050,
+  :block/updated-at 1665543132050}
+ {:block/name "\"welcome to my non-linear website\"",
+  :block/created-at 1665543132005,
+  :block/updated-at 1665543132005}
  {:block/name "\"{{ replace .name \"-\" \" \" | title }}\"",
   :block/created-at 1665413100596,
   :block/updated-at 1665413100596}
@@ -570,9 +576,15 @@
  {:block/name "experimental villageware web browser",
   :block/created-at 1665413370457,
   :block/updated-at 1665413370457}
+ {:block/name "experimenter",
+  :block/created-at 1665543410647,
+  :block/updated-at 1665543410647}
+ {:block/name "experimenting",
+  :block/created-at 1665543400712,
+  :block/updated-at 1665543438242}
  {:block/name "experiments",
   :block/created-at 1665413370431,
-  :block/updated-at 1665413370431}
+  :block/updated-at 1665543455221}
  {:block/name "extraordinary conversation",
   :block/created-at 1664151086584,
   :block/updated-at 1664151086584}
@@ -868,7 +880,7 @@
   :block/updated-at 1664970588704}
  {:block/name "magic",
   :block/created-at 1665109364201,
-  :block/updated-at 1665109364201}
+  :block/updated-at 1665543400713}
  {:block/name "making no assumptions",
   :block/created-at 1664833044032,
   :block/updated-at 1664833044032}
@@ -1039,7 +1051,10 @@
   :block/updated-at 1665410569564}
  {:block/name "oct 11th, 2022",
   :block/created-at 1665457203805,
-  :block/updated-at 1665542783027}
+  :block/updated-at 1665543471702}
+ {:block/name "oct 12th, 2022",
+  :block/created-at 1665543603038,
+  :block/updated-at 1665543603038}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
