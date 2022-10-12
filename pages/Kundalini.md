@@ -1,7 +1,8 @@
 - A creative feminine energy.
 - Kundalini energy is the one that creates a new being during sex.
 - Depicted as a coiled snake.
--
+- The energy does not dissipate, it stays in the root chakra.
+- A yogi can, instead of having it be used only on sexual play; it can make it ascend the spine.
 -
 - ---
 - ## Reference
