@@ -1,2 +1,3 @@
-- The practice of ]] an [[Experimenter]]
+- The practice of doing [[Experiments]] done by an [[Experimenter]].
+-
 -
