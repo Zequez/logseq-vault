@@ -12,7 +12,9 @@
 - In scarcity you can't see anything else but the written rules.
 	- We get so focused on the rules and how to follow them and we are scared of breaking rules that we don't even understand.
 	- There is no rule that says you can't make proposals.
-	- Gremlin is committed to keep us a victim in
+	- Gremlin is committed to keep us a victim of the system in our story.
+		- Some part of you wants to be on scarcity.
+		- Fear to get out of scarcity.
 -
 -
 	-
