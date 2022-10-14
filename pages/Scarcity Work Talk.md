@@ -9,7 +9,8 @@
 		- Goal is to see who gets the most points
 		- You have 5 minutes
 	- How do we behave to play it?
-- Scarcity
+- In scarcity you can't see anything else but the written rules.
+-
 -
 	-
 - ---
