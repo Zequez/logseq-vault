@@ -3,10 +3,12 @@
 	- Nature is flow of abundance
 	- Scarcity is human creation; modern culture creation
 - Game Os and Xs
-	- Rules of game are purposefully vague
 	- Draw two cardinals (board like tic-tac-toe)
+	- Rules of game are purposefully vague:
 		- Each sets of 3 Os or 3 Xs gets one point
-	- See who gets the most points
+		- Goal is to see who gets the most points
+		- You have 5 minutes
+	-
 - ---
 -
 - Absented myself to assist partner and son
