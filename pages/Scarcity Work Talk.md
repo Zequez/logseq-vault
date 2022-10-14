@@ -1,8 +1,9 @@
 - Proposals is a muscle you train
-- Not something natually in nature
-	- Nature in flow of abundance
-	- Human creation; modern culture creation
+- Scarcity is not something that happens naturally in nature
+	- Nature is flow of abundance
+	- Scarcity is human creation; modern culture creation
 - Game Os and Xs
+	- Rules of game are purposefully vague
 	-
 - ---
 -
