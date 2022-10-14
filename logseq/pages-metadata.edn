@@ -1084,7 +1084,7 @@
   :block/updated-at 1665069756554}
  {:block/name "oct 7th, 2022",
   :block/created-at 1665111604820,
-  :block/updated-at 1665167088362}
+  :block/updated-at 1665777425898}
  {:block/name "oct 8th, 2022",
   :block/created-at 1665198027295,
   :block/updated-at 1665198027295}
@@ -1241,6 +1241,9 @@
  {:block/name "running",
   :block/created-at 1659565047359,
   :block/updated-at 1659565047359}
+ {:block/name "scarcity work talk",
+  :block/created-at 1665777424867,
+  :block/updated-at 1665777629864}
  {:block/name "school",
   :block/created-at 1664832182887,
   :block/updated-at 1664832182887}
