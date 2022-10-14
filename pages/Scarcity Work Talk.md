@@ -4,7 +4,9 @@
 	- Scarcity is human creation; modern culture creation
 - Game Os and Xs
 	- Rules of game are purposefully vague
-	-
+	- Draw two cardinals (board like tic-tac-toe)
+		- Each sets of 3 Os or 3 Xs gets one point
+	- See who gets the most points
 - ---
 -
 - Absented myself to assist partner and son
