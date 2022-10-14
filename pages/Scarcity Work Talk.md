@@ -17,7 +17,9 @@
 		- Fear to get out of scarcity.
 			- "I might get excluded from my family in scarcity"
 			- "If I live full out I gotta take responsibility"
-		-
+- We use money to exchange value with each other
+	- We plug money into our scarcity [[Thoughtware]]
+		- "I don't have enough"
 -
 -
 	-
