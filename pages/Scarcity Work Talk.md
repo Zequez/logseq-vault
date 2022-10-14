@@ -15,6 +15,9 @@
 	- Gremlin is committed to keep us a victim of the system in our story.
 		- Some part of you wants to be on scarcity.
 		- Fear to get out of scarcity.
+			- "I might get excluded from my family in scarcity"
+			- "If I live full out I gotta take responsibility"
+		-
 -
 -
 	-
