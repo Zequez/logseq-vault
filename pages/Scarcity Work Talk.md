@@ -11,6 +11,7 @@
 	- How do we behave to play it?
 - In scarcity you can't see anything else but the written rules.
 	- We get so focused on the rules and how to follow them and we are scared of breaking rules that we don't even understand.
+	- There is no rule that says you can't make proposals.
 -
 -
 	-
