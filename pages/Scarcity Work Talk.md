@@ -20,6 +20,7 @@
 - We use money to exchange value with each other
 	- We plug money into our scarcity [[Thoughtware]]
 		- "I don't have enough"
+- 00:34:4
 -
 -
 	-
