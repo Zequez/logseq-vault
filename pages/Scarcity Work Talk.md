@@ -1,0 +1,27 @@
+- Proposals is a muscle you train
+- Not something natually in nature
+	- Nature in flow of abundance
+	- Human creation; modern culture creation
+- Game Os and Xs
+	-
+- ---
+-
+- Absented myself to assist partner and son
+- ---
+- Ricardo
+	- Values; studying stories
+	- Our fears of the ego don't allow our soul to manifest the abundance in life; ego lives in the 3rd dimension, soul in 4th dimension.
+- Box is between you and what is possible.
+	- Stuck in scarcity because we are relating with the present stuck in the past; part of your energy is in a space in the past; stuck in your ego.
+- The opposite of scarcity is creation.
+	- What's holding back is our emotional fears.
+	- Feeling fear is resource to creation; resource to abundance.
+	- How is it possible that I can use the fear that is holding me back to create?
+- "I don't know how to do" -> Fears come up; this is FEELING fear
+	- Think fast to deal with some problem
+	- Become more creative to resolve problems that appear
+- Feeling fear speaking faster -> Fear unconscious
+	- If I don't use my fearthen I can avoid responsibility
+- Emotional fear -> Is what keeps us in scarity
+	- Access conscious fear -> Abundance
+-
