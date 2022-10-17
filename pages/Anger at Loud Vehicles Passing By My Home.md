@@ -1,0 +1,11 @@
+- An incredibly loud truck just went by slowly on the dirt road next to my home. It felt like something terrible was happening, an earthquake or a military invasion with tanks.
+- I got [[Hooked]] almost immediately, yet I contained the resentment long enough that by the time I stood up to look out the windows to get a glimpse of that _fucking asshole_, I couldn't see it, it was just outside the view from my window.
+- And there it just went again, and it wasn't a truck was a bobcat. I had made an [[Assumption]] about it was a truck.
+- And again, it brings me down to Earth.
+- I'm just really happy in the story in my head, and some outside noise keeps screaming at me.
+- Alright, so I unwrap 2 things from here:
+	- I'm holding a resentment against all civilization loud machines and whoever is using them
+		- Can I see myself looking at the noisy machines but not feeling angry about it? "They are actually not bad" -> Anger dissipates
+	- The outside world is waking me up from the [[Storyworlds]] I get lost at with an angry roar.
+		- "Hey remember how these bobcats are the same used to kill forests at an unprecedented rate? Hey remember all those children killed by cars? You SHOULD be angry to change civilization, anger will get you there"
+-
