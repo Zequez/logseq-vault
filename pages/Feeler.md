@@ -1,2 +1,2 @@
-- Someone who feels and is [[Happy]] to feel more. Feelers are often malnourished from being numb and not
+- Someone who feels and is [[Happy]] to feel more. Feelers are often malnourished from being numb and distinguishing nourishing from
 -
