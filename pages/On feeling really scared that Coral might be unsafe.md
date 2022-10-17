@@ -1,0 +1,7 @@
+- DAMN! I just heard [[Coral]] cry next door while playing with Celeste. And there is a strong [[Fear]] there.
+- I'm feeling [[Anger]] about things that make Coral unsafe.
+- Is this being angry at the fear? What does it mean?
+	- I'm afraid of being alone and afraid.
+	- Ok who do I become now then?
+	- I'm happy to finally be able to feel my fear again.
+	- I'm a [[Feeler]].
