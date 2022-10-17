@@ -13,7 +13,7 @@
  {:block/name
   "#56 possibilitators brazil with clinton callahan (29 august 2022)",
   :block/created-at 1665413369434,
-  :block/updated-at 1665413369434}
+  :block/updated-at 1666008421495}
  {:block/name ".v-kanba",
   :block/created-at 1663993407997,
   :block/updated-at 1663993407997}
@@ -176,6 +176,9 @@
  {:block/name "ashtanga-yoga",
   :block/created-at 1659565095541,
   :block/updated-at 1659565095541}
+ {:block/name "assumption",
+  :block/created-at 1666008560389,
+  :block/updated-at 1666008636146}
  {:block/name "aug 10th, 2022",
   :block/created-at 1660102894923,
   :block/updated-at 1660162597083}
@@ -260,9 +263,6 @@
  {:block/name "bathroom maintenance practice",
   :block/created-at 1665413368673,
   :block/updated-at 1665413368673}
- {:block/name "be hooked",
-  :block/created-at 1664836055804,
-  :block/updated-at 1664836055804}
  {:block/name "beautiful",
   :block/created-at 1664839410980,
   :block/updated-at 1664839410980}
@@ -570,6 +570,9 @@
  {:block/name "expanding the box",
   :block/created-at 1663771600734,
   :block/updated-at 1663771600734}
+ {:block/name "expectation",
+  :block/created-at 1666008634052,
+  :block/updated-at 1666008693651}
  {:block/name "experiential reality",
   :block/created-at 1665542783026,
   :block/updated-at 1665543105230}
@@ -748,6 +751,9 @@
  {:block/name "homo noosféricus",
   :block/created-at 1665413371401,
   :block/updated-at 1665413371401}
+ {:block/name "hooked",
+  :block/created-at 1664836055804,
+  :block/updated-at 1664836055804}
  {:block/name
   "how to use logseq and hugo as writing and publishing tools for creating non-linear websites",
   :block/created-at 1665413370857,
@@ -1078,7 +1084,7 @@
   :block/updated-at 1665889237153}
  {:block/name "oct 17th, 2022",
   :block/created-at 1666000803000,
-  :block/updated-at 1666007545504}
+  :block/updated-at 1666008560390}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
@@ -1247,6 +1253,9 @@
  {:block/name "regocijo",
   :block/created-at 1663768048104,
   :block/updated-at 1663768048104}
+ {:block/name "resentment",
+  :block/created-at 1666008693650,
+  :block/updated-at 1666008721755}
  {:block/name "results",
   :block/created-at 1663653415322,
   :block/updated-at 1663653415322}
