@@ -1,6 +1,7 @@
 - Ubiquity is a crypto company I worked on. Its purpose is profit and making numbers go higher. All the profit made comes from people expecting to profit that put the money on Ubiquity.
-- But since the ones profiting are the ones investing, then nothing is lost; but nothing is actually done either. We all just congratulate each other on how high we managed to make the numbers go. And we sorrow together when the numbers go to 0.
-- It's an excellent business model.
+- But since the ones profiting are the ones investing, then nothing is lost; but nothing is actually done either. We all just congratulate each other on how high we managed to make the numbers go. And we sorrow together when the numbers go to 0. You won't be alone in this [[Gameworld]].
+-
+-
 - ## Pages
 - Github https://github.com/ubiquity
 -
