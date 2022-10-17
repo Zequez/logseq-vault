@@ -1,4 +1,5 @@
-- Ubiquity is a crypto company I worked on. It's purpose is profit and making numbers go higher.
+- Ubiquity is a crypto company I worked on. Its purpose is profit and making numbers go higher. All the profit made comes from people expecting to profit that put the money on Ubiquity.
+-
 - ## Pages
 - Github https://github.com/ubiquity
 -
