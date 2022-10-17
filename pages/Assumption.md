@@ -1,2 +1,4 @@
 - Something you believe to be true.
-- If you believe that your belief is true, then your assumption turns into an expectation.
+- If you believe that your belief is true, then your assumption turns into an [[Expectation]].
+-
+-
