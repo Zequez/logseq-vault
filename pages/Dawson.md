@@ -1,1 +1,2 @@
-- Dawson Allen is someone I met while working on my last [[Patriarchy]] job
+- Dawson Allen is someone I met while working on my last [[Patriarchy]] job.
+- The sense I got is that he's some sort of getting-in-touch-with-people master. He does stuff with emails that most people only dream of.
