@@ -1,3 +1,3 @@
 - Marko is someone I met working at Ubiquity. I actually might have met him months before while working at the Linkedin Scraper thing.
-- Marko is nice. I often wonder how Marko is outside work. I know he has a son similar age to [[Coral]] and a partner.
+- Marko is nice. I often wonder how Marko is outside work. I know he has a child similar age to [[Coral]] and a partner.
 -
