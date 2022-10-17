@@ -5,6 +5,8 @@
 	  that you have gone nuts, tell them that before now you were only 
 	  pretending not to be nuts, and that you think they will get used to it.
 - When about to take action there are 2 barriers
+- We limit ourselves to what we know how to do.
+- We make decisions and forget we made them.
 -
 - ---
 - ## References
