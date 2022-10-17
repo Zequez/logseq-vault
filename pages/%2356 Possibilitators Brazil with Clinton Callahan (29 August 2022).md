@@ -28,7 +28,6 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- Lee Laz said "[[Practice]] is [[Orthogonal]] to the [[Space]]"
 		- Asks for people to share what their practice is; and asks the 4 guardians please [[Stay Awake]].
 		- Israel and Gabriela tell their story:
-		  collapsed:: true
 			- Israel says:
 				- [[Speaking From The Unknown]]
 					- Starts to film videos without knowing what he will say.
@@ -57,8 +56,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 						- It's a very powerful experiment to keep trying.
 		- Clinton asks who would like to share their practice next.
 		- Marcelo shares his story:
-		  collapsed:: true
-			- He's practicing [[Identity]] to not be on [[Low Drama]] with his son and his wife. He learned that he can choose sometimes just to change; people feedback that people think he's crazy.
+			- He's practicing changing [[Identity]] to not be on [[Low Drama]] with his son and his wife. He learned that he can choose sometimes just to change; people feedback that people think he's crazy.
 			- Marcelo is researching how to [[Change The Energy of a Space]]
 			- Clinton asks what is the other energy he's trying to create.
 			- It's the energy of [[Creation]] the energy of [[Discovery]], of [[Extraordinary Moments]] in their conversation, not [[Ordinary Moments]].
