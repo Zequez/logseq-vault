@@ -1,1 +1,2 @@
-- A small human
+- A human being we co-created with [[Celeste]].
+-
