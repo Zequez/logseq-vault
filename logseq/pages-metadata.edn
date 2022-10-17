@@ -1117,7 +1117,7 @@
   :block/updated-at 1665889237153}
  {:block/name "oct 17th, 2022",
   :block/created-at 1666000803000,
-  :block/updated-at 1666017746516}
+  :block/updated-at 1666017788539}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
@@ -1145,6 +1145,9 @@
  {:block/name "offering: custom bubble in the bubble website",
   :block/created-at 1665413373055,
   :block/updated-at 1665413373055}
+ {:block/name "on feeling really scared that coral might be unsafe",
+  :block/created-at 1666017749066,
+  :block/updated-at 1666017749324}
  {:block/name "oneness",
   :block/created-at 1665109322374,
   :block/updated-at 1665109322374}
@@ -1253,6 +1256,9 @@
  {:block/name "proyecto: sincronario",
   :block/created-at 1665413373151,
   :block/updated-at 1665413373151}
+ {:block/name "publishing what i write on logseq",
+  :block/created-at 1666017788169,
+  :block/updated-at 1666017788496}
  {:block/name "pulso",
   :block/created-at 1659063652894,
   :block/updated-at 1659063652894}
