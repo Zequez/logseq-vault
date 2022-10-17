@@ -1,1 +1,2 @@
-- So we combine 2 environmental disasters and it might actually work.
+- Maybe?
+- https://www.iaea.org/bulletin/plastic-pollution-recycling-with-radiation-to-protect-the-environment
