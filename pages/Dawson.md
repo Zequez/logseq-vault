@@ -1,7 +1,8 @@
 - Dawson Allen is someone I met while working on my last [[Patriarchy]] job.
 - The sense I got is that he's some sort of getting-in-touch-with-people master. He does stuff with gathering data from the Internet and messaging people that is truly an art on itself. He identifies to whom the messages might land and finds them, and delivers the message.
 - As far as I know he fundraised like a ton of money for [[Ubiquity]].
-- I cannot get much information on him.
+- I know he's got a company related to what he does.
+- And I know he has a  Marko.
 -
 -
 -
