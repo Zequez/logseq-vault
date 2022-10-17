@@ -13,7 +13,7 @@
  {:block/name
   "#56 possibilitators brazil with clinton callahan (29 august 2022)",
   :block/created-at 1665413369434,
-  :block/updated-at 1666008421495}
+  :block/updated-at 1666010724736}
  {:block/name ".v-kanba",
   :block/created-at 1663993407997,
   :block/updated-at 1663993407997}
@@ -354,8 +354,8 @@
   :block/created-at 1664836739115,
   :block/updated-at 1664836739115}
  {:block/name "changing identity",
-  :block/created-at 1664836560745,
-  :block/updated-at 1664836560745}
+  :block/created-at 1666010662440,
+  :block/updated-at 1666010662440}
  {:block/name "changing the story - llewellyn vaughan-lee",
   :block/created-at 1665413373393,
   :block/updated-at 1665413373393}
@@ -770,6 +770,9 @@
  {:block/name "ideas that might be appreciated if built",
   :block/created-at 1665413371380,
   :block/updated-at 1665413371380}
+ {:block/name "identity",
+  :block/created-at 1666010636895,
+  :block/updated-at 1666011030575}
  {:block/name "in-progress",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
@@ -922,7 +925,7 @@
   :block/updated-at 1664459089862}
  {:block/name "masks",
   :block/created-at 1666010227054,
-  :block/updated-at 1666010227054}
+  :block/updated-at 1666010636895}
  {:block/name "mastering a medium of thought",
   :block/created-at 1665413371770,
   :block/updated-at 1665413371770}
@@ -1019,6 +1022,12 @@
  {:block/name "my work",
   :block/created-at 1665413372527,
   :block/updated-at 1665413372527}
+ {:block/name "naming",
+  :block/created-at 1666010954347,
+  :block/updated-at 1666010957222}
+ {:block/name "naming the identities",
+  :block/created-at 1666010916771,
+  :block/updated-at 1666010991661}
  {:block/name "navigate",
   :block/created-at 1664834680909,
   :block/updated-at 1664834680909}
