@@ -1,3 +1,4 @@
 - Between every Identity there is a [gap in identity](https://gapinidentity.mystrikingly.com/) while new [[Masks]] are being created.
 - You can practice to [shift identity](https://shiftidentity.mystrikingly.com/) consciously.
-- You can play the game [[Naming the Identities]]
+	- You can play the game [[Naming the Identities]] to bring attention to the possibility of shifting identity.
+-
