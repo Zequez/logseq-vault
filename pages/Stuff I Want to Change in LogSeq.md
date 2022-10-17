@@ -1,3 +1,3 @@
-- I feel very angry about how the journal pages in LogSeq are, I want them to scroll upwards (start on the bottom of the page, as if I'm writing on a long scroll)
+- I feel very angry about how the journal pages in [[LogSeq]] are, I want them to scroll upwards (start on the bottom of the page, as if I'm writing on a long scrol[[]]
 - And I feel angry also about the fixed [[Gregorian Calendar]] date! I want it changed to the [[Galactic Synchro]]
 -
