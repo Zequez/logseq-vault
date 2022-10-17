@@ -1,4 +1,3 @@
 - Someone who feels and is [[Happy]] to feel more. Feelers are often malnourished from being numb and not distinguishing the [[4 Feelings]].
 - Humans are feeling-channeling organisms. An experienced Feeler can channel the feelings masterfully toward noble ends.
 -
--
