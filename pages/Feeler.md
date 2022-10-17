@@ -1,6 +1,6 @@
 - Someone who feels and is [[Happy]] to feel more. Feelers are often handicapped from being numb and not distinguishing the [[4 Feelings]] on low intensities. That's why they are so happy to feel more, it's very empowering for them.
 - A feeler knows that feelings can be repressed, expressed or channelled. Or rather, used consciously or unconsciously. Repression and expression are two sides of the same coin of unconsciousness. It's an illusion, the illusion of Irresponsibility. Channeling is using feelings consciously, responsibly. Feelings are actual sources of power and can be used to destroy and create.
-	- If I express them it's like "I don't know what to do with this radioactive waste I made, here you have a go at it"
+	- If I express them it's like "I don't know what to do with this radioactive poison I made, here you have a go at it"
 	- If I repress them it's like "I don't know what to do with this, I'll store it in my kidney until it rips open"
 	- Either way the feeling is not received, it's ignored and needs to complete its communication before it's truly gone.
 - Channeling the feeling I
