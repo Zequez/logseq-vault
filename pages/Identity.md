@@ -4,6 +4,7 @@
 	- If, while you are practicing shifting identities, your partner thinks 
 	  that you have gone nuts, tell them that before now you were only 
 	  pretending not to be nuts, and that you think they will get used to it.
+- When about to take action there are 2 barriers
 -
 - ---
 - ## References
