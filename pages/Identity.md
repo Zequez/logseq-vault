@@ -13,4 +13,4 @@
 -
 - ---
 - ## References
-	- https://shiftidentity.mystrikingly.com/
+	- https://shiftidentity.mystrikingly.com/ (not finished)
