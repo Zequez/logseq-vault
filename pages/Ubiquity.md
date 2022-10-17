@@ -1,4 +1,4 @@
-- Ubiquity is
+- Ubiquity is a crypto company I worked on. It's purpose is profit and making numbers go higher.
 - ## Pages
 - Github https://github.com/ubiquity
 -
