@@ -6,3 +6,5 @@
 - ---
 - ## References
 	- https://resentment.mystrikingly.com/
+	- https://hartleybradfordnicole.medium.com/becoming-an-un-resentful-person-bf4ab392062c
+-
