@@ -6,6 +6,7 @@
 	  pretending not to be nuts, and that you think they will get used to it.
 - When about to take action there are 2 barriers
 - We limit ourselves to what we know how to do.
+	- What if the challenge is venturing
 - We make decisions and forget we made them.
 	- "I'm good at this" "I'm not good at this"
 -
