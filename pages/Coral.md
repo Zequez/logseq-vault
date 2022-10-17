@@ -1,2 +1,2 @@
-- A human being we co-created with [[Celeste]].
+- A human being we are co-creating with [[Celeste]]. We are shaping it with our being.
 -
