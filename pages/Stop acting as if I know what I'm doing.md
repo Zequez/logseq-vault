@@ -1,4 +1,4 @@
 - Stop trying to keep it together; keep what together? The [[Fear]]? The [[Anger]]? Stop holding it in, it's time to stop, it's safe to release it now. Open the valve feel how all the pressure drops. The [[Masks]] fit in the release valve. And on it goes again. Who have I become?
 - What am I so afraid of that I cannot drop the act for just one second?
 - YES YES! I'LL BE THAT! PLEASE DON'T HURT ME ANYMORE.
-- It's all improvised, there is no script.
+- It's all improvised, there is no script. Yet I'm telling a story.
