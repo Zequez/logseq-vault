@@ -672,6 +672,9 @@
  {:block/name "gaia's tech team gameworld",
   :block/created-at 1665413370959,
   :block/updated-at 1665413370959}
+ {:block/name "galactic synchro",
+  :block/created-at 1666012427535,
+  :block/updated-at 1666012434689}
  {:block/name "gameworld",
   :block/created-at 1663651281760,
   :block/updated-at 1663651281760}
@@ -1099,7 +1102,7 @@
   :block/updated-at 1665889237153}
  {:block/name "oct 17th, 2022",
   :block/created-at 1666000803000,
-  :block/updated-at 1666012325007}
+  :block/updated-at 1666013448406}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
@@ -1448,6 +1451,9 @@
  {:block/name "streaming my thought process",
   :block/created-at 1663651281780,
   :block/updated-at 1663651281780}
+ {:block/name "stuff i want to change in logseq",
+  :block/created-at 1666012488726,
+  :block/updated-at 1666012488726}
  {:block/name "survival strategy",
   :block/created-at 1664892349707,
   :block/updated-at 1664892349707}
