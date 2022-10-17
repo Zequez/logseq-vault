@@ -7,8 +7,9 @@
 - When about to take action there are 2 barriers
 	- We limit ourselves to what we know how to do.
 		- What if the challenge was venturing into something new rather than fighting a big battle against what you think you can and cannot do?
-	- We make decisions and forget we made them.
+	- We make decisions/agreements and forget we made them.
 		- "I'm good at this" "I'm not good at this"
+		-
 -
 - ---
 - ## References
