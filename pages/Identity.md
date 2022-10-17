@@ -7,6 +7,7 @@
 - When about to take action there are 2 barriers
 - We limit ourselves to what we know how to do.
 - We make decisions and forget we made them.
+	- "I'm good at this" "I'm not good at this"
 -
 - ---
 - ## References
