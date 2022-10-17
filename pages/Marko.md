@@ -1,2 +1,2 @@
 - Marko is someone I met working at Ubiquity. I actually might have met him months before while working at the Linkedin Scraper thing.
-- He
+- Marko is nice.
