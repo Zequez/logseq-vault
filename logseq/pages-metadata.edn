@@ -427,7 +427,7 @@
   :block/updated-at 1665413369682}
  {:block/name "coral",
   :block/created-at 1659021837105,
-  :block/updated-at 1659021837105}
+  :block/updated-at 1666015394811}
  {:block/name "creating",
   :block/created-at 1664832110101,
   :block/updated-at 1664832110101}
@@ -446,6 +446,9 @@
  {:block/name "date",
   :block/created-at 1665413100594,
   :block/updated-at 1665413100594}
+ {:block/name "dawson",
+  :block/created-at 1666014086545,
+  :block/updated-at 1666014368493}
  {:block/name "declaración",
   :block/created-at 1659021837549,
   :block/updated-at 1659021837549}
@@ -455,6 +458,9 @@
  {:block/name "deep work",
   :block/created-at 1663651282587,
   :block/updated-at 1663651282587}
+ {:block/name "degrade plastic with radioactivity",
+  :block/created-at 1666017030632,
+  :block/updated-at 1666017078602}
  {:block/name "des-mezclar sentimientos mezclados",
   :block/created-at 1663768298514,
   :block/updated-at 1663768298514}
@@ -633,6 +639,9 @@
  {:block/name "feedback as a weapon",
   :block/created-at 1665413369175,
   :block/updated-at 1665413369175}
+ {:block/name "feeler",
+  :block/created-at 1666015931046,
+  :block/updated-at 1666016857964}
  {:block/name "feeling",
   :block/created-at 1663651282589,
   :block/updated-at 1663651282589}
@@ -714,6 +723,9 @@
  {:block/name "grounding visualization",
   :block/created-at 1663651282577,
   :block/updated-at 1663651282577}
+ {:block/name "happy",
+  :block/created-at 1666015986155,
+  :block/updated-at 1666015999755}
  {:block/name "hard",
   :block/created-at 1664833413413,
   :block/updated-at 1664833413413}
@@ -1102,7 +1114,7 @@
   :block/updated-at 1665889237153}
  {:block/name "oct 17th, 2022",
   :block/created-at 1666000803000,
-  :block/updated-at 1666013448406}
+  :block/updated-at 1666017030633}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
@@ -1528,7 +1540,7 @@
   :block/updated-at 1659021836900}
  {:block/name "ubiquity",
   :block/created-at 1665413373594,
-  :block/updated-at 1665413373594}
+  :block/updated-at 1666014829620}
  {:block/name "unblock third eye",
   :block/created-at 1665413373741,
   :block/updated-at 1665413373741}
