@@ -1,5 +1,8 @@
 - An experience of mixing 4 feelings:
-	- Emotional Anger about someone doing something that you expected them not to do, or they failed to do something that you expected them to do, mixed with
-	- Emotional Sadness about losing something that one part of you wanted, mixed with
-	- Emotional Fear that a previous wonderful condition will never be found again, mixed with
+	- Emotional Anger about someone doing something that you expected them not to do, or they failed to do something that you expected them to do
+	- Emotional Sadness about losing something that one part of you wanted
+	- Emotional Fear that a previous wonderful condition will never be found again
 	- Emotional Gremlin Joy from killing the possibility of intimacy and therefore returning to aloneness so that nothing will change. By keeping your Box patterns safely unchanged, your Gremlin thinks it is doing a good job keeping you safe.
+- ---
+- ## References
+	- https://resentment.mystrikingly.com/
