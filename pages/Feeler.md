@@ -1,3 +1,5 @@
 - Someone who feels and is [[Happy]] to feel more. Feelers are often handicapped from being numb and not distinguishing the [[4 Feelings]] on low intensities. That's why they are so happy to feel more, it's very empowering for them.
+- A feeler knows that feelings can be repressed, expressed or channelled.
+-
 - Humans are feeling-channeling organisms. An experienced Feeler can channel the feelings masterfully toward noble ends.
 -
