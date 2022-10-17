@@ -1,2 +1,2 @@
--
+- Between every Identity there is a [gap in identity](https://gapinidentity.mystrikingly.com/) while new [[Masks]] are being created.
 -
