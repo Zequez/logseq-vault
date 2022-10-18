@@ -2,13 +2,16 @@
 - I make use of Microsoft infrastructure to host websites on Github for free. I also host the raw LogSeq vault for free.
 	- It as size limitations; but works well for experimenting.
 	- I'm actually already hosting [my LogSeq vault](https://github.com/Zequez/logseq-vault/) and publishing it [with the LogSeq UI](http://notes.zequez.space/)
-		- I'm feeling very excited because I'm creating the UI that I want for the [[Stuff I Want to Change in LogSeq]] and testing it live in my personal website.
 - I create a subdirectory on the LogSeq vault that uses the LogSeq files directly to create a website (rather than "exporting" it as a website, it can be made so it works "on the fly")
 	- Sort of like a LogSeq Publishing Daemon that takes your LogSeq vault and continuously generates a website from it that can be statically hosted anywhere.
 	- Here I'm taking a shot at using [Astro](https://astro.build/) to generate the website.
-		- I'm feeling anxious now, want to check messages, specially answer to [[Dawson]] . I'm somehow really convinced that he's a key to this.
 - It is possible to make the website time-travel and be able to see the website evolution over time.
 - Have a welcome page to the Digital Knowledge Garden and use it as entry point to the DKG.
+-
+- ## Feelings
+	- I'm feeling very excited because I'm creating the UI that I want for the [[Stuff I Want to Change in LogSeq]] and testing it live in my personal website.
+	- I'm feeling anxious now, want to check messages, specially answer to [[Dawson]] . I'm somehow really convinced that he's a key to this.
+	-
 -
 - ## Features Wishlist
 	- Load markdown Logseq posts directly without having to export them
@@ -17,7 +20,6 @@
 	- Add creation and editing date to posts
 		- Can this be added on a line-by-line fashion?
 	- Make theme customizable
-	-
 	-
 -
 - # NEXT STEPS
@@ -28,16 +30,3 @@
 		- Money Club Experimenters
 		- ...?
 	-
-	-
-- ---
-- This is actually an experiment because I don't know how to actually do this yet.
-	- Put Hugo directory inside Logseq vault
-	- Install Hugo template
-	- Attempt to load Logseq posts from Hugo directly
-		- Modify posts so that they load correctly on Hugo?
-	- Link posts by following links; backlinks posts too
-	- Add creation and editing date to post
-	- Load journal pages into Hugo
-	- Create welcome page to site on LogSeq; use as Index
-	- Customize theme to what I actually want
-	- Share on Possibility Village; ask for feedback and proposals.
