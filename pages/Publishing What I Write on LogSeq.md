@@ -5,24 +5,22 @@
 - I create a subdirectory on the LogSeq vault that uses the LogSeq files directly to create a website (rather than "exporting" it as a website, it can be made so it works "on the fly")
 	- Sort of like a LogSeq Publishing Daemon that takes your LogSeq vault and continuously generates a website from it that can be statically hosted anywhere.
 	- Here I'm taking a shot at using [Astro](https://astro.build/) to generate the website.
-- It is possible to make the website time-travel and be able to see the website evolution over time.
-- Have a welcome page to the Digital Knowledge Garden and use it as entry point to the DKG.
 -
 - ## Feelings
 	- I'm feeling very excited because I'm creating the UI that I want for the [[Stuff I Want to Change in LogSeq]] and testing it live in my personal website.
 	- I'm feeling anxious now, want to check messages, specially answer to [[Dawson]] . I'm somehow really convinced that he's a key to this.
-	-
--
 - ## Features Wishlist
+	- Have a welcome page to the Digital Knowledge Garden and use it as entry point to the DKG.
 	- Load markdown Logseq posts directly without having to export them
 	- Generate links between posts
 		- Can this be done with a LogSeq library somehow?
 	- Add creation and editing date to posts
 		- Can this be added on a line-by-line fashion?
 	- Make theme customizable
-	-
+	- It is possible to make the website time-travel and be able to see the website evolution over time.
 -
 - # NEXT STEPS
+	- Write welcome page
 	- Publish on Github Pages as replacement of my current site at zequez.space
 	- Share on groups and get feedback and ask for proposals.
 		- Possibility Village
