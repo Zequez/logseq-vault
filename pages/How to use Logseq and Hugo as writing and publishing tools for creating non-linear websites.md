@@ -1,5 +1,2 @@
-- [[Hugo]]
-- [[Logseq]]
-- [[Github Pages]]
 -
 -

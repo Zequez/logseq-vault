@@ -9,3 +9,16 @@
 		- I'm feeling anxious now, want to check messages, specially answer to [[Dawson]] . I'm somehow really convinced that he's a key to this.
 - It is possible to make the website time-travel and be able to see the website evolution over time.
 -
+- ---
+- This is actually an experiment because I don't know how to actually do this yet.
+	- Put Hugo directory inside Logseq vault
+	- Install Hugo template
+	- Attempt to load Logseq posts from Hugo directly
+		- Modify posts so that they load correctly on Hugo?
+	- Link posts by following links; backlinks posts too
+	- Add creation and editing date to post
+	- Load journal pages into Hugo
+	- Create welcome page to site on LogSeq; use as Index
+	- Customize theme to what I actually want
+	- Publish on Github Pages as replacement of my current site at zequez.space
+	- Share on Possibility Village; ask for feedback and proposals.
