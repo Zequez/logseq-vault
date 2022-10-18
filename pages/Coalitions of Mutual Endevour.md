@@ -1,2 +1,4 @@
 - The Circle of Possibilitators in Training is a Coalition Of Mutual Endeavor.
-- There is a COME of empowering other COME; it's web address is []
+- There is a COME of empowering other COME; it's web address is [comeweb.org](https://comeweb.org/about-us/)
+	- They recommend the book [Connecting the Dots: A Roadmap for Critical Systemic Change](https://attractionretreat.org/Synopsis/)
+-
