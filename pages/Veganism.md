@@ -1,2 +1,2 @@
-- Veganism is a
+- Veganism is a practice of noticing where everything you consume comes from and checking with your heart if that's what you want to be supporting.
 - Does the commercial story about veganism keep us trapped in victim mentality?
