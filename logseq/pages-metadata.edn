@@ -116,6 +116,9 @@
  {:block/name "adult ego state decontamination",
   :block/created-at 1665409808375,
   :block/updated-at 1665409808375}
+ {:block/name "adulthood initiation",
+  :block/created-at 1666105955440,
+  :block/updated-at 1666105955440}
  {:block/name "all the social networks",
   :block/created-at 1665413368408,
   :block/updated-at 1665413368408}
@@ -146,6 +149,12 @@
  {:block/name "app:gaia",
   :block/created-at 1665413368543,
   :block/updated-at 1665413368543}
+ {:block/name "archan",
+  :block/created-at 1666106121279,
+  :block/updated-at 1666106126868}
+ {:block/name "archan hacker",
+  :block/created-at 1666106031112,
+  :block/updated-at 1666106044491}
  {:block/name "archearchy",
   :block/created-at 1665413368404,
   :block/updated-at 1665580442811}
@@ -783,7 +792,7 @@
   :block/updated-at 1665413370930}
  {:block/name "homepage",
   :block/created-at 1666104316927,
-  :block/updated-at 1666105457942}
+  :block/updated-at 1666106149595}
  {:block/name "homo noosféricus",
   :block/created-at 1665413371401,
   :block/updated-at 1665413371401}
@@ -1141,7 +1150,7 @@
   :block/updated-at 1666056735781}
  {:block/name "oct 18th, 2022",
   :block/created-at 1666064656482,
-  :block/updated-at 1666104316928}
+  :block/updated-at 1666106368495}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
@@ -1171,7 +1180,7 @@
   :block/updated-at 1665413373055}
  {:block/name "offerings",
   :block/created-at 1666101251470,
-  :block/updated-at 1666101307245}
+  :block/updated-at 1666106255262}
  {:block/name "on feeling really scared that coral might be unsafe",
   :block/created-at 1666017749066,
   :block/updated-at 1666017749324}
@@ -1240,10 +1249,10 @@
   :block/updated-at 1664832138407}
  {:block/name "possibilities",
   :block/created-at 1663651281775,
-  :block/updated-at 1663651281775}
+  :block/updated-at 1666105764416}
  {:block/name "possibility",
   :block/created-at 1663653415325,
-  :block/updated-at 1663653415325}
+  :block/updated-at 1666105779287}
  {:block/name "possibility books",
   :block/created-at 1666102842899,
   :block/updated-at 1666102852464}
@@ -1288,7 +1297,7 @@
   :block/updated-at 1665413373151}
  {:block/name "publishing what i write on logseq",
   :block/created-at 1666017788169,
-  :block/updated-at 1666104082612}
+  :block/updated-at 1666106408600}
  {:block/name "pulso",
   :block/created-at 1659063652894,
   :block/updated-at 1659063652894}
