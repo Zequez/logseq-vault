@@ -2,3 +2,5 @@
   Nonlinearity, Determination, Transformation, [[Evolution]], Elegance, 
   Commitment, Precision, High Level Fun, and [[Practice]]
 -
+- ## References
+	- https://brightprinciples.mystrikingly.com/
