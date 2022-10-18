@@ -1,8 +1,6 @@
 - [[Hugo]]
-- Logseq is a popular [[FLOSS]] non-linear writing Software
-	- Create pages outside a hierarchical structure
-	- Links pages with each other effortlessly as you write
-	- Export pages to be used on as Hugo pages
+- [[Logseq]]
+- [[Github Pages]]
 - We'll be publishing the website on a free hosting provider such as Github Pages.
 - This is actually an experiment because I don't know how to actually do this yet.
 	- Put Hugo directory inside Logseq vault

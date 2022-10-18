@@ -7,7 +7,7 @@
 	- Lego bricks
 	- Paintbrush and canvas
 	- Document
-	- [[LogSeq]]
+	- [[Logseq]]
 	- [[Patriarchy]]
 	- [[Archearchy]]
 	- Your body
