@@ -1,4 +1,3 @@
 - Veganism is a practice of noticing where everything you consume comes from and checking with your heart if that's what you want to be supporting.
 - ---
-- The traditional story about Veganism, about animals being exploited and victims of humans, might be a [[]]
-- Does the commercial story about veganism keep us trapped in victim mentality?
+- The traditional story about Veganism, about animals being exploited and [[Victim]] of humans, might be a [[Low Drama]] story.
