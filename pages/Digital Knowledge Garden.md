@@ -1,2 +1,3 @@
-- It's a new [[Medium of Thought]], similar to the Internet, where you write and inter-connect notes in a non-hierarchical way. It's called a Garden because the notes evolve over time as you accrue knowledge.
+- It's a new [[Medium of Thought]], similar to the Internet, where you write and inter-connect notes in a non-hierarchical way. It's called a garden because the notes are tended and evolve over time as you accrue knowledge.
+- Everyone has they own gardening style; you find yours by doing your own research and s
 -
