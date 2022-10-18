@@ -1,4 +1,4 @@
 - It's a [[Medium of Thought]] similar to the Internet, where you write and inter-connect notes in a non-hierarchical way. It's called a garden because the notes are tended and evolve over time as you accrue knowledge.
--
+- A Digital Knowledge Garden empowers you to write non-linearly. You can make small notes on topics you are interested on, interconnect them with all your existing knowledge.
 - Everyone has they own gardening style.
 -
