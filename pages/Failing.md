@@ -3,6 +3,7 @@
 - Failure is an event, not a person.
 - Don't call it failing, call it learning.
 - Failing is a perspective.
--
+- > “I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. Twenty-six times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.” - Michael Jordan
+- Failure is only the opportunity to begin again, only this time more wisely.
 -
 -
