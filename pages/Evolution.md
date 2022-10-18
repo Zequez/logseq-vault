@@ -1,1 +1,1 @@
-- Evolution is a [[Bright Principles]]
+- Evolution is one of the [[Bright Principles]].
