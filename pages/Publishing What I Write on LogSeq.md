@@ -8,7 +8,7 @@
 	- Here I'm taking a shot at using [Astro](https://astro.build/) to generate the website.
 		- I'm feeling anxious now, want to check messages, specially answer to [[Dawson]] . I'm somehow really convinced that he's a key to this.
 - It is possible to make the website time-travel and be able to see the website evolution over time.
-- Have a welcome page to the Digital Knowledge Garden and use it as personal
+- Have a welcome page to the Digital Knowledge Garden and use it as entry point to the DKG.
 -
 - Tool features
 	- Load markdown Logseq posts directly without having to export them
