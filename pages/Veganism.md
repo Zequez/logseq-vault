@@ -1,0 +1,2 @@
+- Veganism is a
+- Does the commercial story about veganism keep us trapped in victim mentality?
