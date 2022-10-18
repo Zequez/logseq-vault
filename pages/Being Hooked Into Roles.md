@@ -1,2 +1,1 @@
--
-- Whenever I'm liquid I'm in the gap between identities. When I'm liquid I can be hooked into roles.
+- Whenever I'm liquid I'm in the gap between identities. When I'm liquid I can be hooked into roles. Or I can shift [[Identity]] consciously.

@@ -293,6 +293,9 @@
  {:block/name "being centered",
   :block/created-at 1664839569911,
   :block/updated-at 1664839569911}
+ {:block/name "being hooked into roles",
+  :block/created-at 1666102991188,
+  :block/updated-at 1666103018384}
  {:block/name "being out of school",
   :block/created-at 1664839907748,
   :block/updated-at 1664839907748}
@@ -377,6 +380,9 @@
  {:block/name "clicker",
   :block/created-at 1665413370281,
   :block/updated-at 1665413370281}
+ {:block/name "coalitions of mutual endevour",
+  :block/created-at 1666102616481,
+  :block/updated-at 1666102842899}
  {:block/name "coersion",
   :block/created-at 1664459418423,
   :block/updated-at 1664459418423}
@@ -778,13 +784,16 @@
  {:block/name
   "how to use logseq and hugo as writing and publishing tools for creating non-linear websites",
   :block/created-at 1665413370857,
-  :block/updated-at 1665414378794}
+  :block/updated-at 1666103063089}
+ {:block/name "hugo",
+  :block/created-at 1666103057774,
+  :block/updated-at 1666103057774}
  {:block/name "human body",
   :block/created-at 1663651281786,
   :block/updated-at 1663651281786}
  {:block/name "i feel scared journal",
   :block/created-at 1665503593985,
-  :block/updated-at 1665503984544}
+  :block/updated-at 1666102939240}
  {:block/name "ideas that might be appreciated if built",
   :block/created-at 1665413371380,
   :block/updated-at 1665413371380}
@@ -1102,7 +1111,7 @@
   :block/updated-at 1665410569564}
  {:block/name "oct 11th, 2022",
   :block/created-at 1665457203805,
-  :block/updated-at 1665543471702}
+  :block/updated-at 1666102936054}
  {:block/name "oct 12th, 2022",
   :block/created-at 1665673915972,
   :block/updated-at 1665673915972}
@@ -1123,7 +1132,7 @@
   :block/updated-at 1666056735781}
  {:block/name "oct 18th, 2022",
   :block/created-at 1666064656482,
-  :block/updated-at 1666064656482}
+  :block/updated-at 1666102616481}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
@@ -1147,7 +1156,7 @@
   :block/updated-at 1665198027295}
  {:block/name "oct 9th, 2022",
   :block/created-at 1665291613355,
-  :block/updated-at 1665410466920}
+  :block/updated-at 1666102992956}
  {:block/name "offering: custom bubble in the bubble website",
   :block/created-at 1665413373055,
   :block/updated-at 1665413373055}
@@ -1226,6 +1235,9 @@
  {:block/name "possibility",
   :block/created-at 1663653415325,
   :block/updated-at 1663653415325}
+ {:block/name "possibility books",
+  :block/created-at 1666102842899,
+  :block/updated-at 1666102852464}
  {:block/name "possibility management",
   :block/created-at 1665413368576,
   :block/updated-at 1665413368576}
