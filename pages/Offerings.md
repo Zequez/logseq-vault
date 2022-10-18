@@ -4,4 +4,4 @@
 	- Workshops
 	- Worktalks
 	- Just teaming up and standing up for [[Evolution]]
-- Set you up with your own web-publishable [[Digital Knowledge Garden]] for your [[Archearchy]] research
+- Set you up with your own web-publishable [[Digital Knowledge Garden]] for your [[Archearchy]] research.
