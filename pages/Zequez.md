@@ -1,2 +1,2 @@
 - Alias I picked when I was young to use on the Internet. Its use has spread to people outside the web.
-- The alias is charged with a personal history and emotional baggage, so I'm
+- The alias is charged with a personal history and emotional baggage, so I'm tending towards dropping it's use and using my full name, [[Ezequiel Adrian Schwartzman]] instead.
