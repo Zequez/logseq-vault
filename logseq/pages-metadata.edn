@@ -472,7 +472,7 @@
   :block/updated-at 1663768298514}
  {:block/name "digital knowledge garden",
   :block/created-at 1663651282593,
-  :block/updated-at 1663651282593}
+  :block/updated-at 1666105332436}
  {:block/name
   "directing the power of conscious feelings - callahan clinton",
   :block/created-at 1659564799401,
@@ -627,6 +627,9 @@
  {:block/name "ezequiel",
   :block/created-at 1659021837110,
   :block/updated-at 1659021837110}
+ {:block/name "ezequiel adrian schwartzman",
+  :block/created-at 1666104380179,
+  :block/updated-at 1666104470566}
  {:block/name "failing",
   :block/created-at 1666007205366,
   :block/updated-at 1666100873153}
@@ -778,6 +781,9 @@
  {:block/name "holon planetario",
   :block/created-at 1665413370930,
   :block/updated-at 1665413370930}
+ {:block/name "homepage",
+  :block/created-at 1666104316927,
+  :block/updated-at 1666105457942}
  {:block/name "homo noosféricus",
   :block/created-at 1665413371401,
   :block/updated-at 1665413371401}
@@ -1135,7 +1141,7 @@
   :block/updated-at 1666056735781}
  {:block/name "oct 18th, 2022",
   :block/created-at 1666064656482,
-  :block/updated-at 1666102616481}
+  :block/updated-at 1666104316928}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
@@ -1676,6 +1682,9 @@
  {:block/name "youtube",
   :block/created-at 1659021837309,
   :block/updated-at 1659021837309}
+ {:block/name "zequez",
+  :block/created-at 1666104470565,
+  :block/updated-at 1666104635110}
  {:block/name "¿qué es el dinero?",
   :block/created-at 1665413374083, 
   :block/updated-at 1665413374083}]

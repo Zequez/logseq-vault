@@ -1,3 +1,4 @@
 - This is the [[Digital Knowledge Garden]] of [[Ezequiel Adrian Schwartzman]], also known as the [[Zequez]] [[Identity]].
-- On the [:a {:href "#/all-journals"} "all journals"]
+- The notes I'm writing every day on the [:a {:href "#/all-journals"} "journals"] page.
+-
 -
