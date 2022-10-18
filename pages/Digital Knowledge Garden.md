@@ -1,1 +1,2 @@
-- It's a new , similar to the Internet, where you write
+- It's a new [[Medium of Thought]], similar to the Internet, where you write and inter-connect notes in a non-hierarchical way. It's called a Garden because the space needs
+-
