@@ -2,6 +2,7 @@
 - The notes I'm writing on each day are logged on the [:a {:href "#/all-journals"} "journals"] page. My writing strategy changed over time and there are many old notes that I haven't fully integrated into the garden yet.
 - I'm an [[Experimenter]], a [[Possibilitator]] in training and [[Mage]]. I'm currently researching [[Possibility Management]] and [[Archearchy]], and I'm committed to my [[Adulthood Initiation]] path.
 - My edge is the Internet, and I'm exploring the [[Possibilities]] of harnessing the powers of the web to do collaborative research and build [[Matrix]]. This website is how the research looks like.
+- I also take on [[Archan Hacker]] craft the neccessary digital tools to help in this process.
 - I have [[Offerings]]
 -
 -
