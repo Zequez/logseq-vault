@@ -20,7 +20,8 @@
 	- It is possible to make the website time-travel and be able to see the website evolution over time.
 -
 - # NEXT STEPS
-	- Write welcome page
+	- DONE Write welcome page
+		- [[Homepage]]
 	- Publish on Github Pages as replacement of my current site at zequez.space
 	- Share on groups and get feedback and ask for proposals.
 		- Possibility Village
