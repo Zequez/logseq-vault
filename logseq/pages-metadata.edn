@@ -702,6 +702,9 @@
  {:block/name "get shit done",
   :block/created-at 1665413369761,
   :block/updated-at 1665413369761}
+ {:block/name "github pages",
+  :block/created-at 1666103112678,
+  :block/updated-at 1666103149723}
  {:block/name "global transition",
   :block/created-at 1665413368405,
   :block/updated-at 1665413368405}
@@ -784,7 +787,7 @@
  {:block/name
   "how to use logseq and hugo as writing and publishing tools for creating non-linear websites",
   :block/created-at 1665413370857,
-  :block/updated-at 1666103063089}
+  :block/updated-at 1666103557174}
  {:block/name "hugo",
   :block/created-at 1666103057774,
   :block/updated-at 1666103057774}
@@ -898,7 +901,7 @@
   :block/updated-at 1665413371534}
  {:block/name "logseq",
   :block/created-at 1659108305792,
-  :block/updated-at 1659108305792}
+  :block/updated-at 1666103089032}
  {:block/name "logseq design",
   :block/created-at 1659564799561,
   :block/updated-at 1659564799561}
@@ -1108,7 +1111,7 @@
   :block/updated-at 1664154946621}
  {:block/name "oct 10th, 2022",
   :block/created-at 1665403209006,
-  :block/updated-at 1665410569564}
+  :block/updated-at 1666103580202}
  {:block/name "oct 11th, 2022",
   :block/created-at 1665457203805,
   :block/updated-at 1666102936054}
@@ -1279,7 +1282,7 @@
   :block/updated-at 1665413373151}
  {:block/name "publishing what i write on logseq",
   :block/created-at 1666017788169,
-  :block/updated-at 1666017788496}
+  :block/updated-at 1666104082612}
  {:block/name "pulso",
   :block/created-at 1659063652894,
   :block/updated-at 1659063652894}
