@@ -1,0 +1,2 @@
+- The Circle of Possibilitators in Training is a Coalition Of Mutual Endeavor.
+-
