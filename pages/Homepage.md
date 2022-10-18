@@ -3,6 +3,6 @@
 - I'm an [[Experimenter]], a [[Possibilitator]] in training and [[Mage]]. I'm currently researching [[Possibility Management]] and [[Archearchy]], and I'm committed to my [[Adulthood Initiation]] path.
 - My edge is the Internet, and I'm exploring the [[Possibilities]] of harnessing the powers of the web to do collaborative research and build [[Matrix]]. This website is how the research looks like.
 - I also take on the role of [[Archan Hacker]] to craft digital tools for [[Archan]] culture.
-- I have [[Offerings]]
+- I have [[Offerings]] that everyone is welcome to ask for.
 -
 -
