@@ -10,15 +10,18 @@
 - It is possible to make the website time-travel and be able to see the website evolution over time.
 - Have a welcome page to the Digital Knowledge Garden and use it as entry point to the DKG.
 -
-- Tool features
+- ## Features Wishlist
 	- Load markdown Logseq posts directly without having to export them
 	- Generate links between posts
 		- Can this be done with a LogSeq library somehow?
 	- Add creation and editing date to posts
 		- Can this be added on a line-by-line fashion?
+	- Make theme customizable
+	-
 	-
 -
 - # NEXT STEPS
+	-
 	-
 - ---
 - This is actually an experiment because I don't know how to actually do this yet.
