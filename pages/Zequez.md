@@ -1,1 +1,1 @@
-- Alias I picked when I was young to use on the Internet. It's use has spread to
+- Alias I picked when I was young to use on the Internet. Its use has spread to people outside the web.
