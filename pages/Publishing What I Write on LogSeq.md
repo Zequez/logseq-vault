@@ -9,6 +9,9 @@
 		- I'm feeling anxious now, want to check messages, specially answer to [[Dawson]] . I'm somehow really convinced that he's a key to this.
 - It is possible to make the website time-travel and be able to see the website evolution over time.
 -
+- Tool features
+	- Load markdown Logseq posts directly without having to export them
+	- Generate links
 - ---
 - This is actually an experiment because I don't know how to actually do this yet.
 	- Put Hugo directory inside Logseq vault
