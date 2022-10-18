@@ -1,7 +1,7 @@
 - [[Hugo]]
 - [[Logseq]]
 - [[Github Pages]]
-- We'll be publishing the website on a free hosting provider such as Github Pages.
+-
 - This is actually an experiment because I don't know how to actually do this yet.
 	- Put Hugo directory inside Logseq vault
 	- Install Hugo template
