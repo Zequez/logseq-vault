@@ -319,7 +319,7 @@
   :block/updated-at 1663771432370}
  {:block/name "bright principles",
   :block/created-at 1665413368711,
-  :block/updated-at 1665413368711}
+  :block/updated-at 1666101598684}
  {:block/name "bubble in the bubble pages ui",
   :block/created-at 1665413368722,
   :block/updated-at 1665413368722}
@@ -573,6 +573,9 @@
  {:block/name "escaping the patriarchy",
   :block/created-at 1664468060449,
   :block/updated-at 1664468060449}
+ {:block/name "evolution",
+  :block/created-at 1666101307244,
+  :block/updated-at 1666101348148}
  {:block/name "executable strategy",
   :block/created-at 1665413370599,
   :block/updated-at 1665413370599}
@@ -620,7 +623,7 @@
   :block/updated-at 1659021837110}
  {:block/name "failing",
   :block/created-at 1666007205366,
-  :block/updated-at 1666100638436}
+  :block/updated-at 1666100873153}
  {:block/name "fantasy world",
   :block/created-at 1664835059282,
   :block/updated-at 1664835059282}
@@ -1132,10 +1135,10 @@
   :block/updated-at 1664894050661}
  {:block/name "oct 5th, 2022",
   :block/created-at 1664938839957,
-  :block/updated-at 1665021398171}
+  :block/updated-at 1666100995747}
  {:block/name "oct 6th, 2022",
   :block/created-at 1665027201117,
-  :block/updated-at 1665069756554}
+  :block/updated-at 1666101253904}
  {:block/name "oct 7th, 2022",
   :block/created-at 1665111604820,
   :block/updated-at 1665777425898}
@@ -1148,6 +1151,9 @@
  {:block/name "offering: custom bubble in the bubble website",
   :block/created-at 1665413373055,
   :block/updated-at 1665413373055}
+ {:block/name "offerings",
+  :block/created-at 1666101251470,
+  :block/updated-at 1666101307245}
  {:block/name "on feeling really scared that coral might be unsafe",
   :block/created-at 1666017749066,
   :block/updated-at 1666017749324}
@@ -1592,6 +1598,12 @@
  {:block/name "vegan cat food recipe",
   :block/created-at 1665413373862,
   :block/updated-at 1665413373862}
+ {:block/name "veganism",
+  :block/created-at 1666100995747,
+  :block/updated-at 1666101172197}
+ {:block/name "victim",
+  :block/created-at 1666101168082,
+  :block/updated-at 1666101202029}
  {:block/name "videoconference",
   :block/created-at 1664154748374,
   :block/updated-at 1664154748374}
