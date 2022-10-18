@@ -2,5 +2,7 @@
 - When you try to change someone else you might fail; the Feedback could be a simple "Fuck you".
 - Failure is an event, not a person.
 - Don't call it failing, call it learning.
+- Failing is a perspective.
+-
 -
 -
