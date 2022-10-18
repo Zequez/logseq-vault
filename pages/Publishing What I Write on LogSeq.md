@@ -11,7 +11,11 @@
 -
 - Tool features
 	- Load markdown Logseq posts directly without having to export them
-	- Generate links
+	- Generate links between posts
+		- Can this be done with a LogSeq library somehow?
+	- Add creation and editing date to posts
+		- Can this be added on a line-by-line fashion?
+	-
 - ---
 - This is actually an experiment because I don't know how to actually do this yet.
 	- Put Hugo directory inside Logseq vault
