@@ -3,6 +3,8 @@
 - As you write lots of concept-oriented notes you can make an outline by shuffling the note titles, write notes on any missing material, and edit them together into a narrative.
 - Everyone has they own gardening style.
 -
-- A lot of [research on this Medium of Thought has been done by Andy Matuschak](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C?stackedNotes=z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8), who inspired me to start writing in this way too.
-  id:: 634ebf33-4ba2-4aa5-9d6a-8ae90fe67752
 -
+-
+- ---
+- ## References
+	- [Evergreen notes -> Executable strategy for writing](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C?stackedNotes=z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8)
