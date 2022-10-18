@@ -1,2 +1,2 @@
 - The Circle of Possibilitators in Training is a Coalition Of Mutual Endeavor.
--
+- There is a COME of empowering other COME; it's web address is []
