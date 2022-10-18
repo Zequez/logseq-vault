@@ -1,2 +1,3 @@
-- This is the [[Digital Knowledge Garden]] of [[Ezequiel Adrian Schwartzman]], also known as the [[Zequez]] [].
+- This is the [[Digital Knowledge Garden]] of [[Ezequiel Adrian Schwartzman]], also known as the [[Zequez]] [[Identity]].
+-
 -
