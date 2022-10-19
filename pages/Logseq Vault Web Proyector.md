@@ -1,2 +1,2 @@
-- Creating folder inside Logseq with web building toolchain Vite inside.
+- Creating folder inside Logseq called with 11ty
 - Load all Logseq markdown files into Vite and create a web entrypoint for each.
