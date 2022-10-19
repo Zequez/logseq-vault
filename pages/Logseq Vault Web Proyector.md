@@ -1,3 +1,4 @@
+- Using 11ty
 - Creating folder inside Logseq called web-projector with 11ty.
 - Use Logseq folders:
 	- /pages
