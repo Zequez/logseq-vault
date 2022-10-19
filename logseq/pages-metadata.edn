@@ -155,9 +155,6 @@
  {:block/name "archan hacker",
   :block/created-at 1666106031112,
   :block/updated-at 1666106044491}
- {:block/name "archearchy",
-  :block/created-at 1665413368404,
-  :block/updated-at 1665580442811}
  {:block/name "archetypal activist",
   :block/created-at 1664247783284,
   :block/updated-at 1664247783284}
@@ -176,6 +173,9 @@
  {:block/name "archetypal spaces",
   :block/created-at 1664837130882,
   :block/updated-at 1664837130882}
+ {:block/name "archiarchy",
+  :block/created-at 1665413368404,
+  :block/updated-at 1665580442811}
  {:block/name "arquearquía",
   :block/created-at 1665413371681,
   :block/updated-at 1665413371681}
@@ -1153,7 +1153,7 @@
   :block/updated-at 1666106368495}
  {:block/name "oct 19th, 2022",
   :block/created-at 1666176660273,
-  :block/updated-at 1666176660273}
+  :block/updated-at 1666181113415}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
