@@ -1,3 +1,5 @@
 - Creating folder inside Logseq called web-projector with 11ty.
 - Use Logseq folders:
-	-
+	- /pages
+	- /journals
+	- /assets
