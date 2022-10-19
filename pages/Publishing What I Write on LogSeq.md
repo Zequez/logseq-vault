@@ -5,7 +5,7 @@
 - I create a subdirectory on the LogSeq vault that uses the LogSeq files directly to create a website (rather than "exporting" it as a website, it can be made so it works "on the fly")
 	- Sort of like a LogSeq Publishing Daemon that takes your LogSeq vault and continuously generates a website from it that can be statically hosted anywhere.
 	- Here I'm taking a shot at using [Astro](https://astro.build/) to generate the website.
--
+- [[Logseq Vault Web Proyector]]
 - ## Feelings
 	- I'm feeling very excited because I'm creating the UI that I want for the [[Stuff I Want to Change in LogSeq]] and testing it live in my personal website.
 	- I'm feeling anxious now, want to check messages, specially answer to [[Dawson]] . I'm somehow really convinced that he's a key to this.
