@@ -928,7 +928,7 @@
   :block/updated-at 1663651282575}
  {:block/name "logseq vault web proyector",
   :block/created-at 1666182109379,
-  :block/updated-at 1666183415138}
+  :block/updated-at 1666183570396}
  {:block/name "long for longing",
   :block/created-at 1665413371559,
   :block/updated-at 1665413371559}
@@ -1301,9 +1301,12 @@
  {:block/name "proyecto: sincronario",
   :block/created-at 1665413373151,
   :block/updated-at 1665413373151}
+ {:block/name "publishing logseq vault with github actions",
+  :block/created-at 1666183556698,
+  :block/updated-at 1666183556698}
  {:block/name "publishing what i write on logseq",
   :block/created-at 1666017788169,
-  :block/updated-at 1666182109380}
+  :block/updated-at 1666183556699}
  {:block/name "pulso",
   :block/created-at 1659063652894,
   :block/updated-at 1659063652894}
