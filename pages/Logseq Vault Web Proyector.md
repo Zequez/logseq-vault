@@ -1,1 +1,2 @@
-- Creating folder insi
+- Creating folder inside Logseq with web building toolchain Vite inside.
+- Load all
