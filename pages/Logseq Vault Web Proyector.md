@@ -1,2 +1,3 @@
-- Creating folder inside Logseq called with 11ty
-- Load all Logseq markdown files into Vite and create a web entrypoint for each.
+- Creating folder inside Logseq called web-projector with 11ty.
+- Use Logseq folders:
+	-
