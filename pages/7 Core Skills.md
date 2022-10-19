@@ -1,5 +1,5 @@
 - 1. Shift Identity to [[Possibilitator]] and Become Present in a small Now
-- 2. Become Centered, Grounded, Bubbled and [[Unhookable]] in the [[Radical Responsibility]] of [[Archearchy]] including being able to [[Stellate]] in [[4 Feelings]]
+- 2. Become Centered, Grounded, Bubbled and [[Unhookable]] in the [[Radical Responsibility]] of [[Archiarchy]] including being able to [[Stellate]] in [[4 Feelings]]
 - 3. Create, Hold and Navigate Space (Set Context, Make Distinctions and Open Doorways)
 - 4. Make Contact (Experientially distinguish Box and Being, keeping your [[Gremlin]] on leash sitting at your side)
 - 5. Go Nonlinear and Go Unreasonable

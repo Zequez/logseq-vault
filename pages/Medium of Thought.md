@@ -9,7 +9,7 @@
 	- Document
 	- [[Logseq]]
 	- [[Patriarchy]]
-	- [[Archearchy]]
+	- [[Archiarchy]]
 	- Your body
 	- Your clothing
 	- [[Mnemonic Medium]]

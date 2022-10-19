@@ -4,6 +4,6 @@
 	- Workshops
 	- Worktalks
 	- Just teaming up and standing up for [[Evolution]]
-- Set you up with your own web-publishable [[Digital Knowledge Garden]] for your [[Archearchy]] research.
+- Set you up with your own web-publishable [[Digital Knowledge Garden]] for your [[Archiarchy]] research.
 - Assist as an [[Archan Hacker]] to craft the digital tools to serve the spaces you are at.
 -

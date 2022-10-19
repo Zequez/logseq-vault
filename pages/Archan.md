@@ -1,1 +1,1 @@
-- Citizen of [[Archearchy]].
+- Citizen of [[Archiarchy]].
