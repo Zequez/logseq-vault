@@ -1,4 +1,6 @@
 - Information is a fundamental building block of everything we do.
-- The ability to manage the information around you.
+- Your ability to manage the information around you.
+- Outsource the job of remembering to technology.
+-
 - ---
 - References: https://www.buildingasecondbrain.com/
