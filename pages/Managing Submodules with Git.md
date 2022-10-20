@@ -1,0 +1,4 @@
+- ## Commands
+	- git clone --recursive-submodules
+		- `git submodule foreach git <any-git command>`
+		-

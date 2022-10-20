@@ -1,1 +1,1 @@
-- [[Working with Submodule in Git]]
+- [[Managing Submodules with Git]]
