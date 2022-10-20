@@ -1080,6 +1080,9 @@
  {:block/name "messages for jacquelin smith",
   :block/created-at 1665413372303,
   :block/updated-at 1665413372303}
+ {:block/name "midjourney",
+  :block/created-at 1666245988118,
+  :block/updated-at 1666246077605}
  {:block/name "miedo",
   :block/created-at 1663768062402,
   :block/updated-at 1663768062402}
@@ -1226,7 +1229,7 @@
   :block/updated-at 1664653113583}
  {:block/name "oct 20th, 2022",
   :block/created-at 1666234804028,
-  :block/updated-at 1666245321225}
+  :block/updated-at 1666245988119}
  {:block/name "oct 3rd, 2022",
   :block/created-at 1664798664343,
   :block/updated-at 1664831440137}
