@@ -31,7 +31,7 @@
   :block/updated-at 1665413368479}
  {:block/name "5 bodies",
   :block/created-at 1665413368566,
-  :block/updated-at 1665413368566}
+  :block/updated-at 1666228130610}
  {:block/name "56",
   :block/created-at 1665413369433,
   :block/updated-at 1665413369433}
@@ -122,6 +122,10 @@
  {:block/name "all the social networks",
   :block/created-at 1665413368408,
   :block/updated-at 1665413368408}
+ {:block/name
+  "allow information to move into the cells of your body and not just get stuck in your mind",
+  :block/created-at 1666227877982,
+  :block/updated-at 1666227888800}
  {:block/name "amando al dinero",
   :block/created-at 1665413368446,
   :block/updated-at 1665413368446}
@@ -373,10 +377,10 @@
   :block/updated-at 1665413373393}
  {:block/name "chasing external results",
   :block/created-at 1666227506423,
-  :block/updated-at 1666227548347}
+  :block/updated-at 1666227590057}
  {:block/name "chasing internal results",
   :block/created-at 1666227529721,
-  :block/updated-at 1666227529721}
+  :block/updated-at 1666227571739}
  {:block/name "child ego state",
   :block/created-at 1664945622287,
   :block/updated-at 1664945622287}
@@ -563,7 +567,7 @@
   :block/updated-at 1665413370233}
  {:block/name "emotional body",
   :block/created-at 1664152561619,
-  :block/updated-at 1664152561619}
+  :block/updated-at 1666228139976}
  {:block/name "emotional reactivity",
   :block/created-at 1663651282590,
   :block/updated-at 1663651282590}
@@ -839,6 +843,9 @@
  {:block/name "instagram",
   :block/created-at 1659564799614,
   :block/updated-at 1659564799614}
+ {:block/name "intellectual body",
+  :block/created-at 1666227977977,
+  :block/updated-at 1666228150003}
  {:block/name "intimacy",
   :block/created-at 1664835907221,
   :block/updated-at 1664835907221}
@@ -1123,7 +1130,7 @@
   :block/updated-at 1663651283796}
  {:block/name "not chasing any results",
   :block/created-at 1666227548346,
-  :block/updated-at 1666227548346}
+  :block/updated-at 1666227768924}
  {:block/name "notes inbox",
   :block/created-at 1663651282593,
   :block/updated-at 1663651282593}
@@ -1165,7 +1172,7 @@
   :block/updated-at 1666106368495}
  {:block/name "oct 19th, 2022",
   :block/created-at 1666176660273,
-  :block/updated-at 1666227506424}
+  :block/updated-at 1666227922396}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
@@ -1559,6 +1566,9 @@
  {:block/name "the hidden purpose process",
   :block/created-at 1665413370671,
   :block/updated-at 1665413370671}
+ {:block/name "the illusion of money",
+  :block/created-at 1666227922395,
+  :block/updated-at 1666227977981}
  {:block/name "the language of emotions - karla mclaren",
   :block/created-at 1659564799399,
   :block/updated-at 1659564799399}
