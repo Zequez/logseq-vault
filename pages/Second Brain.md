@@ -3,7 +3,9 @@
 - Outsource the job of remembering to technology.
 - Cultivate a [[Digital Knowledge Garden]]
 - Reasons to building a second brain:
-	- Organize your knowledge and use it consisten
+	- Organize your knowledge and use it consistently
+	- Digital environment that promotes clarity and peace of mind
+	-
 -
 - ---
 - References: https://www.buildingasecondbrain.com/
