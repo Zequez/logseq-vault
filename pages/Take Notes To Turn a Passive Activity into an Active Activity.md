@@ -1,4 +1,5 @@
 - By taking notes, for example in [[Logseq]], while you watch a video from YouTube or even a movie or series on Netflix. It's actually more en[[Joy]]able than just watching the thing.
 - Watch while taking action, do not wait until you finish watching to write a review. Pause the video if you need to. Take notes of anything peculiar, feelings that arise, distinctions you notice, games you play with what's happening, hooks you get hooked at, comments from your partner. Share your notes with others, get feedback, propose experiments.
--
+- Experiment
+	- Take a movie from the [Possibility Films](possibilityfilms.mystrikingly.com/) list and watch it throughly
 -
