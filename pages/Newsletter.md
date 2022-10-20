@@ -1,6 +1,6 @@
 - Every week make a summary of everything that has been alive in you that week, everything you learned, everything you created. Share.
 	- Propose [[Experiments]] every week
-	- Propose circle to talk to you about ideas for experiment
+	- Propose circle to talk to you about ideas for Experiments
 	- Propose interviews
 - A Newsletter is broadcasted
 	- Into Twitter, Facebook, Medium, Emails
