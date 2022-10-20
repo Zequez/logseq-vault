@@ -36,4 +36,5 @@
 		- I don't think patriarchy was well despicted here, it probably does not understand what patriarchy is
 	- Going through a magical portal out of a violent environment into an earth goddess arms
 		- ![image.png](../assets/image_1666249038329_0.png)
--
+		- Mmm, a little better but not quite
+	-
