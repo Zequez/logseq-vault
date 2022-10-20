@@ -1,0 +1,1 @@
+- By taking notes, for example in [[Logseq]], to
