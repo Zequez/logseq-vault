@@ -1,2 +1,3 @@
-- [[Learning in Public]] https://joschuasgarden.com/50+Slipbox/Learning+in+public
+- Learning in Public https://joschuasgarden.com/50+Slipbox/Learning+in+public
+-
 -
