@@ -494,7 +494,7 @@
   :block/updated-at 1663768298514}
  {:block/name "digital knowledge garden",
   :block/created-at 1663651282593,
-  :block/updated-at 1666230608363}
+  :block/updated-at 1666235347389}
  {:block/name
   "directing the power of conscious feelings - callahan clinton",
   :block/created-at 1659564799401,
@@ -930,6 +930,9 @@
  {:block/name "leap coaching movie",
   :block/created-at 1665413371545,
   :block/updated-at 1665413371545}
+ {:block/name "learning in public",
+  :block/created-at 1666235347387,
+  :block/updated-at 1666235360283}
  {:block/name "library genesis",
   :block/created-at 1665413371514,
   :block/updated-at 1665413371514}
@@ -1188,6 +1191,9 @@
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
+ {:block/name "oct 20th, 2022",
+  :block/created-at 1666234804028,
+  :block/updated-at 1666234804028}
  {:block/name "oct 3rd, 2022",
   :block/created-at 1664798664343,
   :block/updated-at 1664831440137}
@@ -1388,7 +1394,7 @@
   :block/updated-at 1665413372732}
  {:block/name "second brain",
   :block/created-at 1666229770788,
-  :block/updated-at 1666230966882}
+  :block/updated-at 1666235297750}
  {:block/name "seizing control of the narrative - derrick jensen",
   :block/created-at 1665413372773,
   :block/updated-at 1665413372773}

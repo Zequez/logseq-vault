@@ -1,3 +1,4 @@
 -
 -
-- References
+- ## References
+	- https://joschuasgarden.com/50+Slipbox/Learning+in+public
