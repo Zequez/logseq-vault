@@ -1,5 +1,5 @@
 - https://maggieappleton.com
-- Digital Gardening Tools And Resources on Github
+- [Digital Gardening Tools And Resources on Github](https://github.com/MaggieAppleton/digital-gardeners/)
 - History of Digital Gardening
 	- https://maggieappleton.com/garden-history
 	- [[Digital Gardening]]
