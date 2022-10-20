@@ -1,5 +1,5 @@
-- Intellectual
+- [[Intellectual Body]]
 - Physical
-- Emotional
+- [[Emotional Body]]
 - Energetic
 - Archetypal
