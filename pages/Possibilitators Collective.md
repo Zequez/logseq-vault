@@ -1,5 +1,5 @@
 - [[Michael Lebensfreude]]
 - [[Clinton Callahan]]
-- [[Ann Chloe]]
+- [[Anne-Chloé Destremau]]
 - [[Nicole Hartley Bradford]]
 -
