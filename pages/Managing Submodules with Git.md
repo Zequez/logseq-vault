@@ -6,4 +6,6 @@
 	- Run same [[Git]] command on every Submodule
 		- `git submodule foreach git <any-git command>`
 	- Remove a Submodule
+		- `git rm <the-submodule>`
+		- `git -rf .git/modules/the-submodule`
 		-
