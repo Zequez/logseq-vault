@@ -26,6 +26,10 @@
 			- It looks very dark, I wanted more emphasis on the fantasy world
 	- Fractal pattern of colorful beings that cover the surface of the Earth
 		- ![image.png](../assets/image_1666248583406_0.png)
-		- Not what I had in mind, but curious about what can be done. Variations fir 4
-		-
+		- Not what I had in mind, but curious about what can be done. Variations for \#4
+			- ![image.png](../assets/image_1666248637351_0.png)
+			- A little more of the same, but let's pick again \#4
+				- ![image.png](../assets/image_1666248660295_0.png)
+				- Does not look like it's gonna get much better
+	-
 -
