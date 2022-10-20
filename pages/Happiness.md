@@ -1,2 +1,2 @@
 - Happiness comes from internal order rather than outward circumstances.
-	- How do we interpret our circumstances?
+	- How do we interpret our circumstances? How do you respond?

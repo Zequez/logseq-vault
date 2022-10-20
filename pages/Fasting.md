@@ -1,6 +1,9 @@
 - When fasting we practice to suffer joyfully.
 - [[Happiness]] comes from internal order rather than outward circumstances.
--
+- ## Experiments
+	- Fast for 1 day
+	- Fast for 3 days
+	- Fast for 7 days
 - ---
 - ## References
 	- https://joschuasgarden.com/50+Slipbox/Fasting
