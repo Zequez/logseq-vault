@@ -13,8 +13,8 @@
 	- Despertar a bebe a la noche y llevarlo a hacer pis
 		- A partir de los 12 meses. Hasta los 6 años incluso.
 	- Muchas opciones acorde a lo que pueda probar con bebé
-		-
 - Andrea Olson
 	- Coach de Elimination Communication
 	- Go Diaper Free website
 - Dolor de dientes darle homeopatía
+- Si está lactando la mamá reco
