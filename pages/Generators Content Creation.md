@@ -8,6 +8,7 @@
 	- Set intention to allow messages that want to flow through me and be expressed for the benefit of others.
 	- This is an act of surrender and openness to co-create with source that allows you to download ideas after not knowing what to create.
 - "What if I'm no longer feel lit up by anything?"
+	- Take a break, do an activity that fills you with pleasure, joy and satisfaction, even if it's 15 minutes. This nourishes [[Sacral Center]].
 -
 -
 - ---
