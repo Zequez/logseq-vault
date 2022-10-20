@@ -5,11 +5,14 @@
 - Everyone has they own gardening style.
 -
 - Also related to [[Second Brain]] notion.
+- ((6350ddc0-6c18-430d-b99f-1d589bed9164))
 -
--
--
+- Gardens are
+	- Explorable
+	- Slowly grown over time
 -
 -
 - ---
 - ## References
 	- [Evergreen notes -> Executable strategy for writing](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C?stackedNotes=z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8)
+	- https://maggieappleton.com/nontechnical-gardening
