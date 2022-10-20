@@ -1,7 +1,8 @@
 - From an impersonal service
 - From a personal newsletter
 	- A publication from someone; a Tweet, a Facebook Message, a Medium Post; anything public.
-	- A newsletter can be broadcasted
+	- A Newsletter Is Broadcasted
+		- Into Twitter, Facebook, Medium, Emails
 - From a teammate
 -
 -
