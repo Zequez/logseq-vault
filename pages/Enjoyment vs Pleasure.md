@@ -1,0 +1,4 @@
+- We can experience pleasure without any investment of energy, but enjoyment takes effort.
+-
+- ## References
+	-
