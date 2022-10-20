@@ -414,6 +414,9 @@
  {:block/name "collab web lab",
   :block/created-at 1665413368834,
   :block/updated-at 1665413368834}
+ {:block/name "command line",
+  :block/created-at 1666236134332,
+  :block/updated-at 1666236134332}
  {:block/name "committing",
   :block/created-at 1664153508955,
   :block/updated-at 1664153508955}
@@ -494,7 +497,7 @@
   :block/updated-at 1663768298514}
  {:block/name "digital knowledge garden",
   :block/created-at 1663651282593,
-  :block/updated-at 1666235347389}
+  :block/updated-at 1666235421106}
  {:block/name
   "directing the power of conscious feelings - callahan clinton",
   :block/created-at 1659564799401,
@@ -873,6 +876,9 @@
  {:block/name "jacquelin smith",
   :block/created-at 1665413371451,
   :block/updated-at 1665413371451}
+ {:block/name "joschua's garden",
+  :block/created-at 1666235439706,
+  :block/updated-at 1666235512361}
  {:block/name "joy",
   :block/created-at 1664894355127,
   :block/updated-at 1664894355127}
@@ -932,7 +938,7 @@
   :block/updated-at 1665413371545}
  {:block/name "learning in public",
   :block/created-at 1666235347387,
-  :block/updated-at 1666235360283}
+  :block/updated-at 1666235408746}
  {:block/name "library genesis",
   :block/created-at 1665413371514,
   :block/updated-at 1665413371514}
@@ -1187,13 +1193,13 @@
   :block/updated-at 1666106368495}
  {:block/name "oct 19th, 2022",
   :block/created-at 1666176660273,
-  :block/updated-at 1666232024931}
+  :block/updated-at 1666235632140}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
  {:block/name "oct 20th, 2022",
   :block/created-at 1666234804028,
-  :block/updated-at 1666234804028}
+  :block/updated-at 1666236245985}
  {:block/name "oct 3rd, 2022",
   :block/created-at 1664798664343,
   :block/updated-at 1664831440137}
@@ -1302,6 +1308,9 @@
  {:block/name "possibility team",
   :block/created-at 1663769988001,
   :block/updated-at 1663769988001}
+ {:block/name "possibilityfilms.mystrikingly.com",
+  :block/created-at 1666236727666,
+  :block/updated-at 1666236727666}
  {:block/name "practice",
   :block/created-at 1665413368577,
   :block/updated-at 1665413368577}
@@ -1491,6 +1500,9 @@
  {:block/name "software",
   :block/created-at 1665413370852,
   :block/updated-at 1665413370852}
+ {:block/name "source code control",
+  :block/created-at 1666235900472,
+  :block/updated-at 1666235900472}
  {:block/name "space",
   :block/created-at 1663653896504,
   :block/updated-at 1663653896504}
@@ -1560,12 +1572,19 @@
  {:block/name "stuff i want to change in logseq",
   :block/created-at 1666012488726,
   :block/updated-at 1666019056933}
+ {:block/name "submodule",
+  :block/created-at 1666236137059,
+  :block/updated-at 1666236137059}
  {:block/name "survival strategy",
   :block/created-at 1664892349707,
   :block/updated-at 1664892349707}
  {:block/name "sword of clarity",
   :block/created-at 1663653476945,
   :block/updated-at 1663653476945}
+ {:block/name
+  "take notes to turn a passive activity into an active activity",
+  :block/created-at 1666236245985,
+  :block/updated-at 1666236783530}
  {:block/name "team",
   :block/created-at 1664154694885,
   :block/updated-at 1664154694885}
@@ -1742,7 +1761,7 @@
   :block/updated-at 1663651281763}
  {:block/name "your teams",
   :block/created-at 1664149893907,
-  :block/updated-at 1664149893907}
+  :block/updated-at 1666236852556}
  {:block/name "youtube",
   :block/created-at 1659021837309,
   :block/updated-at 1659021837309}
