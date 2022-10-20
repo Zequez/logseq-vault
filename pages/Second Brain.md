@@ -1,6 +1,7 @@
 - Information is a fundamental building block of our [[Intellectual Body]] work.
 - You have an ability to manage the information around you. This ability can be enhanced.
 - Outsource the job of remembering to technology.
-- Cultivate a growing body of knowledge that is uniquely your own.
+- Cultivate a [[Digital Knowledge Garden]]
+-
 - ---
 - References: https://www.buildingasecondbrain.com/
