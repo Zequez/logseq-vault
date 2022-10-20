@@ -6,4 +6,5 @@
 	- Walls that can be painted
 	- Gardens that can be mindfully tended
 	- Rainwater collection systems that can be cleverly installed
-	- Underground bunker for consciousness exploration
+	- Sensory deprivation chamber for self exploration
+	- Bio-pool to
