@@ -1,1 +1,4 @@
-- Being OK with what I'm feeling. Wanting to be OK with what I'm feeling I'm still chasing something.
+- Being OK with what I'm feeling.
+- Wanting to be OK with what I'm feeling I'm still chasing something.
+- Sitting.
+-
