@@ -7,4 +7,6 @@
 	- Gardens that can be mindfully tended
 	- Rainwater collection systems that can be cleverly installed
 	- Sensory deprivation chamber for self exploration
-	- Bio-pool to
+	- Bio-pool to be in the water
+	- A doorway to our neighbour's garden
+	- A home for our cat
