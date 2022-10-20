@@ -28,7 +28,7 @@
   :block/updated-at 1665413368524}
  {:block/name "4 feelings",
   :block/created-at 1665413368479,
-  :block/updated-at 1665413368479}
+  :block/updated-at 1666252495091}
  {:block/name "5 bodies",
   :block/created-at 1665413368566,
   :block/updated-at 1666229078139}
@@ -899,7 +899,7 @@
   :block/updated-at 1666242047625}
  {:block/name "joy",
   :block/created-at 1664894355127,
-  :block/updated-at 1664894355127}
+  :block/updated-at 1666252482071}
  {:block/name "jul 26th, 2022",
   :block/created-at 1658886679756,
   :block/updated-at 1659022523787}
@@ -1425,6 +1425,9 @@
  {:block/name "running",
   :block/created-at 1659565047359,
   :block/updated-at 1659565047359}
+ {:block/name "sadness",
+  :block/created-at 1666252491952,
+  :block/updated-at 1666252491952}
  {:block/name "scarcity work talk",
   :block/created-at 1665777424867,
   :block/updated-at 1665782989186}
