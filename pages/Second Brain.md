@@ -1,3 +1,4 @@
--
--
+- Information is a fundamental building block of everything we do.
+- The ability to manage the information around you.
+- ---
 - References: https://www.buildingasecondbrain.com/
