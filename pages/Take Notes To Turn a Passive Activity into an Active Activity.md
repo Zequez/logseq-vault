@@ -1,1 +1,2 @@
-- By taking notes, for example in [[Logseq]], to
+- By taking notes, for example in [[Logseq]], while you watch a video from YouTube or even a movie or series on Netflix. It's
+-
