@@ -3,6 +3,7 @@
 	- A publication from someone; a Tweet, a Facebook Message, a Medium Post; anything public.
 	- A Newsletter Is Broadcasted
 		- Into Twitter, Facebook, Medium, Emails
+		- Every
 - From a teammate
 -
 -
