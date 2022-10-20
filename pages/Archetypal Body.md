@@ -1,3 +1,5 @@
 - The whole.
 - The one that channels.
+- The one that resonates.
+- The one that's [[Truth]] .
 -
