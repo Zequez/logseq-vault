@@ -1,6 +1,7 @@
-- From a service
+- From a robotic [[Newsletter]]
 - From a personal [[Newsletter]]
 - From an organization [[Newsletter]]
 - From a teammate
+	- It's both
 -
 -
