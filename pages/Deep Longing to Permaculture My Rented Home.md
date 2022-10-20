@@ -11,5 +11,6 @@
 	- A doorway to our neighbour's garden
 	- An outdoors home for our cat
 	- A watching tower on the giant pine tree
-	- An outdoors space that's
+	- An outdoors space that's sheltered from the elements
+	- Changing the kitchen floor for something that's actually easy to clean
 	-
