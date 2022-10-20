@@ -1,6 +1,6 @@
-- Anger
-- Sadness
-- Fear
-- Joy
+- [[Anger]]
+- [[Sadness]]
+- [[Fear]]
+- [[Joy]]
 - ---
 - https://4feelings.mystrikingly.com/
