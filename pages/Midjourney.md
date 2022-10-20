@@ -11,7 +11,7 @@
 		- $30 subscription
 			- 4.5 times as many fast jobs
 			- Unlimited jobs in relax mode
-- ## Attempts at directing the AI
+- ## Personal attempts at directing the AI
 	- Human with raised arms energetic body overlapping physical body in a held space
 		- ![image.png](../assets/image_1666248231256_0.png)
 		- Super creepy, not what I had in mind
@@ -51,6 +51,6 @@
 		- Now this is quite nice, let's ask for variations in \#4
 			- ![image.png](../assets/image_1666249230495_0.png)
 			- Ok I'm done.
-- ## Conclusions
+- ## Thoughts
 	- I think it's amazing what a computer can make on the fly.
-	- And I'm curious about this technology will unleash.
+	- And I'm curious about what this technology can be used for.
