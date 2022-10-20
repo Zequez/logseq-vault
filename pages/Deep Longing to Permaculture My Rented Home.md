@@ -1,4 +1,4 @@
-- Every month I'm gathering a pile of money and giving it to someone because I'm afraid I will be forcefully removed from my home or some form of coercive force will be used on me against my will.
+- Every month I'm gathering a pile of [[Money]] and giving it to someone because I'm afraid I will be forcefully removed from my home or some form of coercive force will be used on me against my will.
 - How can I possibly see this as normal?
 - Is it possible to be happy about giving a pile of money to someone else for no reason?
 	- Yes. My body says yes.
@@ -7,7 +7,7 @@
 	- Gardens that can be mindfully tended
 	- Rainwater collection systems that can be cleverly installed
 	- Sensory deprivation chamber for self exploration
-	- Bio-pool to be in the water
+	- Bio-pool to be in the water with a waterfall
 	- A doorway to our neighbour's garden
 	- An outdoors home for our cat
 	- A watching tower on the giant pine tree
