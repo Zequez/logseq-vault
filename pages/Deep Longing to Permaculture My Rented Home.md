@@ -9,4 +9,7 @@
 	- Sensory deprivation chamber for self exploration
 	- Bio-pool to be in the water
 	- A doorway to our neighbour's garden
-	- A home for our cat
+	- An outdoors home for our cat
+	- A watching tower on the giant pine tree
+	- An outdoors space that's
+	-
