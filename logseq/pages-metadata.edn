@@ -1,16 +1,4 @@
-[{:block/name " amo el dinero",
-  :block/created-at 1665410255079,
-  :block/updated-at 1665410255079}
- {:block/name "\"my first post\"",
-  :block/created-at 1665543132050,
-  :block/updated-at 1665543132050}
- {:block/name "\"welcome to my non-linear website\"",
-  :block/created-at 1665543132005,
-  :block/updated-at 1665543132005}
- {:block/name "\"{{ replace .name \"-\" \" \" | title }}\"",
-  :block/created-at 1665413100596,
-  :block/updated-at 1665413100596}
- {:block/name
+[{:block/name
   "#56 possibilitators brazil with clinton callahan (29 august 2022)",
   :block/created-at 1665413369434,
   :block/updated-at 1666010724736}
@@ -32,9 +20,6 @@
  {:block/name "5 bodies",
   :block/created-at 1665413368566,
   :block/updated-at 1666229078139}
- {:block/name "56",
-  :block/created-at 1665413369433,
-  :block/updated-at 1665413369433}
  {:block/name "62e0b31e-b0ca-441e-892b-1c4bdcf40fff",
   :block/created-at 1659021836904,
   :block/updated-at 1659021836904}
@@ -165,6 +150,9 @@
  {:block/name "archan hacker",
   :block/created-at 1666106031112,
   :block/updated-at 1666106044491}
+ {:block/name "archearchy",
+  :block/created-at 1666279349554,
+  :block/updated-at 1666279349554}
  {:block/name "archetypal activist",
   :block/created-at 1664247783284,
   :block/updated-at 1664247783284}
@@ -381,9 +369,6 @@
  {:block/name "change the energy of a space",
   :block/created-at 1664836739115,
   :block/updated-at 1664836739115}
- {:block/name "changing identity",
-  :block/created-at 1666010662440,
-  :block/updated-at 1666010662440}
  {:block/name "changing the story - llewellyn vaughan-lee",
   :block/created-at 1665413373393,
   :block/updated-at 1665413373393}
@@ -492,9 +477,6 @@
  {:block/name "cuentas-servicios",
   :block/created-at 1659111331727,
   :block/updated-at 1659111331727}
- {:block/name "date",
-  :block/created-at 1665413100594,
-  :block/updated-at 1665413100594}
  {:block/name "dawson",
   :block/created-at 1666014086545,
   :block/updated-at 1666017546443}
@@ -562,9 +544,6 @@
  {:block/name "done",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
- {:block/name "draft",
-  :block/created-at 1665413100595,
-  :block/updated-at 1665413100595}
  {:block/name "dragon dreaming",
   :block/created-at 1665413370388,
   :block/updated-at 1665413370388}
@@ -1230,18 +1209,6 @@
  {:block/name "oct 12th, 2022",
   :block/created-at 1665673915972,
   :block/updated-at 1665673915972}
- {:block/name "oct 13th, 2022",
-  :block/created-at 1665630000924,
-  :block/updated-at 1665630000924}
- {:block/name "oct 14th, 2022",
-  :block/created-at 1665716851898,
-  :block/updated-at 1665716851898}
- {:block/name "oct 15th, 2022",
-  :block/created-at 1665802856934,
-  :block/updated-at 1665802856934}
- {:block/name "oct 16th, 2022",
-  :block/created-at 1665889237153,
-  :block/updated-at 1665889237153}
  {:block/name "oct 17th, 2022",
   :block/created-at 1666000803000,
   :block/updated-at 1666056735781}
@@ -1272,9 +1239,6 @@
  {:block/name "oct 7th, 2022",
   :block/created-at 1665111604820,
   :block/updated-at 1665777425898}
- {:block/name "oct 8th, 2022",
-  :block/created-at 1665198027295,
-  :block/updated-at 1665198027295}
  {:block/name "oct 9th, 2022",
   :block/created-at 1665291613355,
   :block/updated-at 1666102992956}
@@ -1434,9 +1398,6 @@
  {:block/name "reading",
   :block/created-at 1659284779017,
   :block/updated-at 1659284779017}
- {:block/name "readme",
-  :block/created-at 1665413263405,
-  :block/updated-at 1665413263405}
  {:block/name "really fun",
   :block/created-at 1665413369417,
   :block/updated-at 1665413369417}
@@ -1572,9 +1533,6 @@
  {:block/name "source code control",
   :block/created-at 1666235900472,
   :block/updated-at 1666235900472}
- {:block/name "source code managing",
-  :block/created-at 1666240961330,
-  :block/updated-at 1666240961330}
  {:block/name "source control",
   :block/created-at 1666240665445,
   :block/updated-at 1666240932820}
@@ -1666,9 +1624,6 @@
  {:block/name "teamplayer",
   :block/created-at 1666056735780,
   :block/updated-at 1666056764630}
- {:block/name "tell a better story - seth godin",
-  :block/created-at 1665110070285,
-  :block/updated-at 1665110070285}
  {:block/name "tell a story",
   :block/created-at 1664834961653,
   :block/updated-at 1664834961653}
