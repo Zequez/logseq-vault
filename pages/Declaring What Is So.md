@@ -2,8 +2,7 @@
 - You pay the price of making unconscious, mechanical, reactive declarations your whole life.
 - Making declarations conscious is a skill that can be learned, and it can look like Magic.
 - Declaring is 1 of your 3 powers.
-- ## Declaring is made with [[Is Glue]]
-	- {{embed ((632944fa-4e6d-4ab6-9c0c-c59ddb69347e))}}
+- Declaring is made with [[Is Glue]]
 - ## Every declaration has a purpose
 	- Conscious declarations serve conscious purposes
 	- Unconscious declarations serve unconscious purposes
