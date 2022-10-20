@@ -5,4 +5,5 @@
 - I'm so afraid to lose my home that I don't quite dare to embrace it.
 	- Walls that can be painted
 	- Gardens that can be mindfully tended
-	-
+	- Rainwater collection systems that can be cleverly installed
+	- Underground bunker for consciousness exploration
