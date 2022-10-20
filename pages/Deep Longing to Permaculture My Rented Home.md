@@ -17,5 +17,9 @@
 	- Adding ceiling windows
 	- Making a green roof
 	- Making a hobbit home for visitors and maybe just moving there and leave current house for visitors instead
+	- Mushrooms gardening
+	- Sacred space for hosting workshops and circles
+	-
+	-
 	-
 	-
