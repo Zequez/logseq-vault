@@ -12,4 +12,8 @@
 - Dream pee
 	- Despertar a bebe a la noche y llevarlo a hacer pis
 		- A partir de los 12 meses.
-- EC Andrea Olson
+	-
+- Andrea Olson
+	- Coach de Elimination Communication
+	- Go Diaper Free website
+	-
