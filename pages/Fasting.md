@@ -1,0 +1,5 @@
+- When fasting we practice to suffer joyfully.
+-
+- ---
+- ## References
+	- https://joschuasgarden.com/50+Slipbox/Fasting
