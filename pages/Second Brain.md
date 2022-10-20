@@ -1,3 +1,4 @@
+-
 - Information is a fundamental building block of our [[Intellectual Body]] work.
 - You have an ability to manage the information around you. This ability can be enhanced.
 - Outsource the job of remembering to technology.
@@ -6,6 +7,6 @@
 	- Organize your knowledge and use it consistently
 	- Digital environment that promotes clarity and peace of mind
 	-
--
+- Q: How is this different from a [[Digital Knowledge Garden]]?
 - ---
 - References: https://www.buildingasecondbrain.com/
