@@ -742,6 +742,9 @@
  {:block/name "get shit done",
   :block/created-at 1665413369761,
   :block/updated-at 1665413369761}
+ {:block/name "git",
+  :block/created-at 1666240647561,
+  :block/updated-at 1666240758810}
  {:block/name "github pages",
   :block/created-at 1666103112678,
   :block/updated-at 1666103149723}
@@ -999,6 +1002,9 @@
  {:block/name "mamás que ayudan",
   :block/created-at 1665413374515,
   :block/updated-at 1665413374515}
+ {:block/name "managing submodules with git",
+  :block/created-at 1666240391823,
+  :block/updated-at 1666240647562}
  {:block/name "map of how to consciously feel",
   :block/created-at 1665413371697,
   :block/updated-at 1665413371697}
@@ -1392,6 +1398,9 @@
  {:block/name "regocijo",
   :block/created-at 1663768048104,
   :block/updated-at 1663768048104}
+ {:block/name "repository",
+  :block/created-at 1666240549036,
+  :block/updated-at 1666240549036}
  {:block/name "resentment",
   :block/created-at 1666008693650,
   :block/updated-at 1666009305392}
@@ -1512,6 +1521,9 @@
  {:block/name "source code control",
   :block/created-at 1666235900472,
   :block/updated-at 1666235900472}
+ {:block/name "source code managing",
+  :block/created-at 1666240665445,
+  :block/updated-at 1666240665445}
  {:block/name "space",
   :block/created-at 1663653896504,
   :block/updated-at 1663653896504}
@@ -1583,7 +1595,7 @@
   :block/updated-at 1666019056933}
  {:block/name "submodule",
   :block/created-at 1666236137059,
-  :block/updated-at 1666236137059}
+  :block/updated-at 1666240391824}
  {:block/name "survival strategy",
   :block/created-at 1664892349707,
   :block/updated-at 1664892349707}

@@ -1,3 +1,4 @@
-- A [[Source Code Managing]] software
+- A fractal [[Source Control]] software
+-
 -
 -
