@@ -1,6 +1,6 @@
 - From a robot
 - From a personal [[Newsletter]]
 - From an organization [[Newsletter]]
-- From your team
+- From your team community
 -
 -
