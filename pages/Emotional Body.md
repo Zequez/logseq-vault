@@ -1,4 +1,4 @@
 - The heart.
 - The one that feels.
-- The one that knows we are one
-- The one that navigates
+- The one that knows we are one.
+- The one that navigates.
