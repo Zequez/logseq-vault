@@ -12,5 +12,7 @@
 	- Circle of people sitting around in a solarpunk village setting
 		- ![image.png](../assets/image_1666248304218_0.png)
 		- Ok I see how that instruction might be misinterpreted
-	-
+	- People sitting in a circle in nature
+		- ![image.png](../assets/image_1666248329453_0.png)
+		- Alright, that's a little closer to what I had in mind. Give me variations of N1
 -
