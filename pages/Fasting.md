@@ -1,5 +1,5 @@
 - When fasting we practice to suffer joyfully.
-- Happiness comes from internal order rather than outward circumstances.
+- [[Happiness]] comes from internal order rather than outward circumstances.
 -
 - ---
 - ## References
