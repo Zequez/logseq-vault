@@ -429,6 +429,9 @@
  {:block/name "completion loops",
   :block/created-at 1664240501347,
   :block/updated-at 1664240501347}
+ {:block/name "computer messages",
+  :block/created-at 1666238037932,
+  :block/updated-at 1666238925330}
  {:block/name "comí",
   :block/created-at 1659284605535,
   :block/updated-at 1659284605535}
@@ -1149,6 +1152,9 @@
  {:block/name "newinternet",
   :block/created-at 1663651283796,
   :block/updated-at 1663651283796}
+ {:block/name "newsletter",
+  :block/created-at 1666238581547,
+  :block/updated-at 1666238670755}
  {:block/name "not chasing any results",
   :block/created-at 1666227548346,
   :block/updated-at 1666227768924}
@@ -1199,7 +1205,7 @@
   :block/updated-at 1664653113583}
  {:block/name "oct 20th, 2022",
   :block/created-at 1666234804028,
-  :block/updated-at 1666236245985}
+  :block/updated-at 1666238037933}
  {:block/name "oct 3rd, 2022",
   :block/created-at 1664798664343,
   :block/updated-at 1664831440137}
