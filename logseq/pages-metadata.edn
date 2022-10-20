@@ -371,6 +371,12 @@
  {:block/name "changing the story - llewellyn vaughan-lee",
   :block/created-at 1665413373393,
   :block/updated-at 1665413373393}
+ {:block/name "chasing external results",
+  :block/created-at 1666227506423,
+  :block/updated-at 1666227548347}
+ {:block/name "chasing internal results",
+  :block/created-at 1666227529721,
+  :block/updated-at 1666227529721}
  {:block/name "child ego state",
   :block/created-at 1664945622287,
   :block/updated-at 1664945622287}
@@ -1115,6 +1121,9 @@
  {:block/name "newinternet",
   :block/created-at 1663651283796,
   :block/updated-at 1663651283796}
+ {:block/name "not chasing any results",
+  :block/created-at 1666227548346,
+  :block/updated-at 1666227548346}
  {:block/name "notes inbox",
   :block/created-at 1663651282593,
   :block/updated-at 1663651282593}
@@ -1156,7 +1165,7 @@
   :block/updated-at 1666106368495}
  {:block/name "oct 19th, 2022",
   :block/created-at 1666176660273,
-  :block/updated-at 1666185912266}
+  :block/updated-at 1666227506424}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
@@ -1679,6 +1688,9 @@
  {:block/name "what can you do with an empty plastic pen?",
   :block/created-at 1664150650237,
   :block/updated-at 1664150650237}
+ {:block/name "what would i do with 1 million dollars",
+  :block/created-at 1666227487751,
+  :block/updated-at 1666227487751}
  {:block/name "whiteboard test",
   :block/created-at 1665413374525,
   :block/updated-at 1665413374525}
