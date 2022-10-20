@@ -1,2 +1,5 @@
 - ((6350ddc0-6c18-430d-b99f-1d589bed9164))
--
+- A practice that treats a personal website as a constantly evolving landscape where you develop your ideas in public.
+- ---
+- ## References
+	-
