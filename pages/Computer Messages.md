@@ -1,4 +1,4 @@
-- From a service
-- From a newsletter
+- From an impersonal service
+- From a personal newsletter
 - From a teammate
 -
