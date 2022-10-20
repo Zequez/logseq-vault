@@ -4,7 +4,7 @@
 	- A Newsletter Is Broadcasted
 		- Into Twitter, Facebook, Medium, Emails
 		- Every week make a summary of everything that has been alive in you that week, everything you learned, everything you created. Share.
-			-
+			- Propose experiments every week; ask people to talk to you about ideas for experiments
 - From a teammate
 -
 -
