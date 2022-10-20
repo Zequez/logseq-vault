@@ -1,0 +1,2 @@
+- Content creation for [[Generators]] is based on energy levels.
+-
