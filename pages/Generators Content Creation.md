@@ -5,7 +5,8 @@
 	- When you tune to "What feels alive in you" you connect to [[Sacral Center]] and you get opportunity to respond to [[What's Circulating In Your Field]]
 	- Once you **feel excited about an idea** meditate into how you can channel it into a piece of content that will serve your audience/client base.
 	- Imagine you are a clear channel or vehicle for whatever wants to flow through me.
-	- Set intention to allow messages that
+	- Set intention to allow messages that want to flow through me and be expressed for the benefit of others.
+	- This is an act of surrender and openness to co-create with source that allows you to download ideas after not knowing what to create.
 -
 -
 - ---
