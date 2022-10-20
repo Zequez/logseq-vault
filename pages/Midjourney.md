@@ -39,4 +39,6 @@
 		- Mmm, a little better but not quite
 	- Going through a magical gateway out of a busy city into a colorful green landscape
 		- ![image.png](../assets/image_1666249179180_0.png)
-		- Now this is quite nice, let's
+		- Now this is quite nice, let's ask for variations in \#4
+			- ![image.png](../assets/image_1666249230495_0.png)
+			- Ok I'm done. I think it's amazing what a computer can make on the fly. And I'm
