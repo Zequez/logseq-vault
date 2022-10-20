@@ -1,4 +1,4 @@
 - We can experience pleasure without any investment of energy, but enjoyment takes effort.
 -
 - ## References
-	-
+	- https://joschuasgarden.com/50+Slipbox/Good+rest+takes+some+effort
