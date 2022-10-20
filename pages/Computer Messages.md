@@ -1,8 +1,7 @@
 - From a robot
 - From a personal [[Newsletter]]
 - From an organization [[Newsletter]]
-- From a teammate message
+- From a collaborative group
 	- Only visible within the team
-	-
 -
 -
