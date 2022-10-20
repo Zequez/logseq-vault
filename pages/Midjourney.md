@@ -14,5 +14,10 @@
 		- Ok I see how that instruction might be misinterpreted
 	- People sitting in a circle in nature
 		- ![image.png](../assets/image_1666248329453_0.png)
-		- Alright, that's a little closer to what I had in mind. Give me variations of N1
+		- Alright, that's a little closer to what I had in mind. Give me variations of V1
+		  ![image.png](../assets/image_1666248386907_0.png)
+		- Pretty cool stuff
+	- [[Digital Garden]]
+		- ![image.png](../assets/image_1666248407686_0.png)
+		-
 -
