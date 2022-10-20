@@ -431,7 +431,7 @@
   :block/updated-at 1664240501347}
  {:block/name "computer messages",
   :block/created-at 1666238037932,
-  :block/updated-at 1666238925330}
+  :block/updated-at 1666239099904}
  {:block/name "comí",
   :block/created-at 1659284605535,
   :block/updated-at 1659284605535}
@@ -489,6 +489,9 @@
  {:block/name "declaring what is so",
   :block/created-at 1665413369078,
   :block/updated-at 1665413369078}
+ {:block/name "deep longing to permaculture my rented home",
+  :block/created-at 1666239198378,
+  :block/updated-at 1666240149484}
  {:block/name "deep work",
   :block/created-at 1663651282587,
   :block/updated-at 1663651282587}
@@ -1205,7 +1208,7 @@
   :block/updated-at 1664653113583}
  {:block/name "oct 20th, 2022",
   :block/created-at 1666234804028,
-  :block/updated-at 1666238037933}
+  :block/updated-at 1666239198379}
  {:block/name "oct 3rd, 2022",
   :block/created-at 1664798664343,
   :block/updated-at 1664831440137}
