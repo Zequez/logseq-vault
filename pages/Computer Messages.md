@@ -1,5 +1,6 @@
-- From an impersonal service
+- From a service
 - From a personal [[Newsletter]]
+- From an organization [[Newsletter]]
 - From a teammate
 -
 -
