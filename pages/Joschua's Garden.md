@@ -1,3 +1,5 @@
 - Learning in Public https://joschuasgarden.com/50+Slipbox/Learning+in+public
+- Giving [[Attention]] is giving [[Authority]]
+	- https://joschuasgarden.com/50+Slipbox/Giving+attention+is+giving+authority
 -
 -
