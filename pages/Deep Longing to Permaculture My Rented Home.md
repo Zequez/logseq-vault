@@ -15,6 +15,7 @@
 	- Changing the kitchen floor for something that can be kept clean with less effort
 	- Completely changing the kitchen
 	- Adding ceiling windows
-	- Covering the
+	- Making a green roof
+	- Making a hobbit home for visitors and maybe just moving there and leave current house for visitors instead
 	-
 	-
