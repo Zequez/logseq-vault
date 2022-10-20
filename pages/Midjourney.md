@@ -31,5 +31,6 @@
 			- A little more of the same, but let's pick again \#4
 				- ![image.png](../assets/image_1666248660295_0.png)
 				- Does not look like it's gonna get much better
+	- Going through a portal out of patriarchy
 	-
 -
