@@ -1,4 +1,5 @@
 - Si bebé está desnudo a la noche
 - Señal de Coral a la noche cuando quiere ir al baño es después de tomar la teta se mueve mucho.
 - Otra señal está llorando y lo sacamos de la cama y se despierta y hace.
-- Quiere conseguir sacaleches silicona para
+- Quiere conseguir sacaleches silicona para pis de [[Coral]].
+-
