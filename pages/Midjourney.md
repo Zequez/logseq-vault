@@ -8,5 +8,9 @@
 		- Super creepy, not what I had in mind
 	- Emotional body expanding from heart of humanoid shape in psychedelic space, Alex Grey style
 		- ![image.png](../assets/image_1666248166160_0.png)
-		-
+		- Pretty good, interesting that the style direction worked quite well. The images still feel a little creepy
+	- Circle of people sitting around in a solarpunk village setting
+		- ![image.png](../assets/image_1666248304218_0.png)
+		- Ok I see how that instruction might be misinterpreted
+	-
 -
