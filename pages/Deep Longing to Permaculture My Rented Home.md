@@ -1,1 +1,1 @@
-- Every month I'm gathering
+- Every month I'm gathering a pile of money and giving it to someone because I'm afraid I will be forcefully removed from my home or some form of coercive force will be used on me against my will.
