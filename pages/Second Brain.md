@@ -1,6 +1,6 @@
-- Information is a fundamental building block of everything we do.
+- Information is a fundamental building block of our [[Intellectual Body]].
 - Your ability to manage the information around you.
 - Outsource the job of remembering to technology.
--
+- Cultivate a growing body of knowledge that is uniquely your own.
 - ---
 - References: https://www.buildingasecondbrain.com/
