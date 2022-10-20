@@ -9,3 +9,6 @@
 	- Comando
 	- Bombachón
 	- Kaidanku
+- Dream pee
+	- Despertar a Coral a la noche y llevarlo a hacer pis
+		-
