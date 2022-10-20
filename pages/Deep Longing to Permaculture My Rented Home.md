@@ -2,4 +2,7 @@
 - How can I possibly see this as normal?
 - Is it possible to be happy about giving a pile of money to someone else for no reason?
 	- Yes. My body says yes.
-- I'm so afraid to lose my home that I don't quite dare to embrace it. It's
+- I'm so afraid to lose my home that I don't quite dare to embrace it.
+	- Walls that can be painted
+	- Gardens that can be mindfully tended
+	-
