@@ -1,14 +1,7 @@
 - From an impersonal service
-- From a personal newsletter
+- From a personal [[Newsletter]]
 	- A publication from someone; a Tweet, a Facebook Message, a Medium Post; anything public.
-	- A Newsletter Is Broadcasted
-		- Into Twitter, Facebook, Medium, Emails
-		- Every week make a summary of everything that has been alive in you that week, everything you learned, everything you created. Share.
-			- Propose experiments every week
-			- Propose circle to
-			- Ask
-				- ask people to talk to you about ideas for experiments
-				- offer interviews; ask for interviews;
+	-
 - From a teammate
 -
 -
