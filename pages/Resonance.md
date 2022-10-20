@@ -1,1 +1,1 @@
--
+- An universal phenomenon of entities entering a sort of energetic dance by vibrating at collaborative frequencies.
