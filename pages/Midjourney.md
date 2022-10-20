@@ -37,4 +37,6 @@
 	- Going through a magical portal out of a violent environment into an earth goddess arms
 		- ![image.png](../assets/image_1666249038329_0.png)
 		- Mmm, a little better but not quite
-	-
+	- Going through a magical gateway out of a busy city into a colorful green landscape
+		- ![image.png](../assets/image_1666249179180_0.png)
+		- Now this is quite nice, let's
