@@ -1,7 +1,7 @@
-- From a robotic [[Newsletter]]
+- From a robot
 - From a personal [[Newsletter]]
 - From an organization [[Newsletter]]
 - From a teammate
-	- It's both
+	- It's looking for your feedback
 -
 -
