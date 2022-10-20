@@ -1,1 +1,4 @@
-- Your thinking mind. The one that reasons.
+- The one that thinks.
+- The one that reasons.
+- The one that makes the stories.
+-
