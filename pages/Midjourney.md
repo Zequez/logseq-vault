@@ -5,7 +5,8 @@
 - They are a small self-funded team of 11 people.
 - They are the team to generating human-prompted AI generated digital art to what LogSeq is the team to creating a thinking environment.
 - They give you 30 free images prompts and then they ask for a subscription. [You can use it from their Discord Channel.](https://discord.com/invite/midjourney)
-	- They have a
+	- $10 subscription -- 200 jobs every month
+	- and a $30 subscription.
 - ## Attempts at directing the AI
 	- Human with raised arms energetic body overlapping physical body in a held space
 		- ![image.png](../assets/image_1666248231256_0.png)
