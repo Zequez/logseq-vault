@@ -1,2 +1,9 @@
 - Content creation for [[Generators]] is based on energy levels.
+- "I don't know what to create"
+	- Ask yourself "What is alive in me today?"
+		- Thoughts, ideas, lessons, insights, challenges, and
 -
+-
+- ---
+- ## References
+	- https://www.instagram.com/p/CjlItu8umE1/?igshid=YmMyMTA2M2Y%3D
