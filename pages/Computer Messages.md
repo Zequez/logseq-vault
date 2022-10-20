@@ -2,6 +2,6 @@
 - From a personal [[Newsletter]]
 - From an organization [[Newsletter]]
 - From a teammate
-	- It's looking for your feedback
+	- It's
 -
 -
