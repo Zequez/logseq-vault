@@ -1,3 +1,4 @@
 - Every month I'm gathering a pile of money and giving it to someone because I'm afraid I will be forcefully removed from my home or some form of coercive force will be used on me against my will.
 - How can I possibly see this as normal?
-- Is it possible to be
+- Is it possible to be happy about giving a pile of money to someone else for no reason?
+	- Yes. My body says yes.
