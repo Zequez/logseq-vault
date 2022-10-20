@@ -1,2 +1,3 @@
-- By taking notes, for example in [[Logseq]], while you watch a video from YouTube or even a movie or series on Netflix. It's
+- By taking notes, for example in [[Logseq]], while you watch a video from YouTube or even a movie or series on Netflix. It's actually more en[[Joy]]able than just watching the thing.
+-
 -
