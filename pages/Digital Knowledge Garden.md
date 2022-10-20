@@ -5,8 +5,7 @@
 - Everyone has they own gardening style.
 -
 - Also related to [[Second Brain]] notion.
-- ((6350ddc0-6c18-430d-b99f-1d589bed9164))
--
+- [[Digital Gardening]]
 - Gardens are
 	- Explorable
 	- Slowly grown over time
