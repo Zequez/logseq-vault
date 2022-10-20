@@ -7,7 +7,6 @@
 	- Conscious declarations serve conscious purposes
 	- Unconscious declarations serve unconscious purposes
 	- You can sniff the purpose of a declaration with the [[Purpose Sniffer]]
-		- {{embed [[Purpose Sniffer]]}}
 - ## There are many kinds of declaring
 	- Beliefs
 	- Conclusions
