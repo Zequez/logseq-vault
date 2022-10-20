@@ -3,7 +3,8 @@
 	- A publication from someone; a Tweet, a Facebook Message, a Medium Post; anything public.
 	- A Newsletter Is Broadcasted
 		- Into Twitter, Facebook, Medium, Emails
-		- Every
+		- Every week make a summary of everything that has been alive in you that week, everything you learned, everything you created. Share.
+			-
 - From a teammate
 -
 -
