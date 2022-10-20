@@ -4,4 +4,8 @@
 - Quiere conseguir sacaleches silicona para pis de [[Coral]].
 - Dice que le estamos enseñando a mojar la cama a Coral.
 	- Noche EC es reflejo de día EC.
-	-
+- Formas de dejar a Coral
+	- Bolitas
+	- Comando
+	- Bombachón
+	- Kaidanku
