@@ -1,0 +1,4 @@
+- [[Chasing External Results]]
+- Allow information to move into the cells of your body and not just get stuck in your mind
+	- Integrate new [[Distinctions]] in all your [[5 Bodies]] and not just your [[Intellectual Body]]
+-
