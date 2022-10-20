@@ -1,7 +1,8 @@
 - Content creation for [[Generators]] is based on energy levels.
 - "I don't know what to create"
 	- Ask yourself "What is alive in me today?"
-		- Thoughts, ideas, lessons, insights, challenges, and
+		- What thoughts, ideas, lessons, insights, challenges, and/or wins are present in your reality?
+	- When you tune to "What feels alive in you" you connect to [[Sacral Center]] and you get opportunity to respond
 -
 -
 - ---
