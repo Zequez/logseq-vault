@@ -11,4 +11,4 @@
 	- Kaidanku
 - Dream pee
 	- Despertar a Coral a la noche y llevarlo a hacer pis
-		-
+		- A partir de los 12 meses.
