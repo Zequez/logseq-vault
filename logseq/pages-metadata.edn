@@ -31,7 +31,7 @@
   :block/updated-at 1665413368479}
  {:block/name "5 bodies",
   :block/created-at 1665413368566,
-  :block/updated-at 1666228130610}
+  :block/updated-at 1666229078139}
  {:block/name "56",
   :block/created-at 1665413369433,
   :block/updated-at 1665413369433}
@@ -164,7 +164,7 @@
   :block/updated-at 1664247783284}
  {:block/name "archetypal body",
   :block/created-at 1664152570270,
-  :block/updated-at 1664152570270}
+  :block/updated-at 1666229156913}
  {:block/name "archetypal lineage",
   :block/created-at 1665407644475,
   :block/updated-at 1665407644475}
@@ -362,7 +362,7 @@
   :block/updated-at 1659021837548}
  {:block/name "celeste",
   :block/created-at 1659021837109,
-  :block/updated-at 1659021837109}
+  :block/updated-at 1666230374408}
  {:block/name "center",
   :block/created-at 1664247704147,
   :block/updated-at 1664247704147}
@@ -491,7 +491,7 @@
   :block/updated-at 1663768298514}
  {:block/name "digital knowledge garden",
   :block/created-at 1663651282593,
-  :block/updated-at 1666105332436}
+  :block/updated-at 1666230608363}
  {:block/name
   "directing the power of conscious feelings - callahan clinton",
   :block/created-at 1659564799401,
@@ -567,13 +567,13 @@
   :block/updated-at 1665413370233}
  {:block/name "emotional body",
   :block/created-at 1664152561619,
-  :block/updated-at 1666228740120}
+  :block/updated-at 1666228781937}
  {:block/name "emotional reactivity",
   :block/created-at 1663651282590,
   :block/updated-at 1663651282590}
  {:block/name "energetic body",
   :block/created-at 1663653352128,
-  :block/updated-at 1663653352128}
+  :block/updated-at 1666228904502}
  {:block/name "energetic center",
   :block/created-at 1664831926337,
   :block/updated-at 1664831926337}
@@ -1172,7 +1172,7 @@
   :block/updated-at 1666106368495}
  {:block/name "oct 19th, 2022",
   :block/created-at 1666176660273,
-  :block/updated-at 1666227922396}
+  :block/updated-at 1666229770789}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
@@ -1253,7 +1253,7 @@
   :block/updated-at 1665413370680}
  {:block/name "physical body",
   :block/created-at 1664894355126,
-  :block/updated-at 1664894355126}
+  :block/updated-at 1666229004890}
  {:block/name "physical center",
   :block/created-at 1663651282579,
   :block/updated-at 1663651282579}
@@ -1374,6 +1374,9 @@
  {:block/name "science",
   :block/created-at 1665413372732,
   :block/updated-at 1665413372732}
+ {:block/name "second brain",
+  :block/created-at 1666229770788,
+  :block/updated-at 1666230966882}
  {:block/name "seizing control of the narrative - derrick jensen",
   :block/created-at 1665413372773,
   :block/updated-at 1665413372773}
@@ -1611,6 +1614,9 @@
  {:block/name "tristeza",
   :block/created-at 1663768059125,
   :block/updated-at 1663768059125}
+ {:block/name "truth",
+  :block/created-at 1666229156913,
+  :block/updated-at 1666229199828}
  {:block/name "tu burbuja",
   :block/created-at 1659068102543,
   :block/updated-at 1659068102543}
