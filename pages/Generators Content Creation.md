@@ -3,7 +3,9 @@
 	- Ask yourself "What is alive in me today?"
 		- What thoughts, ideas, lessons, insights, challenges, and/or wins are present in your reality?
 	- When you tune to "What feels alive in you" you connect to [[Sacral Center]] and you get opportunity to respond to [[What's Circulating In Your Field]]
-	- Once you **feel excited about an idea** meditate into how you can channel it into a piece of content that will serve your audience/client base
+	- Once you **feel excited about an idea** meditate into how you can channel it into a piece of content that will serve your audience/client base.
+	- Imagine you are a clear channel or vehicle for whatever wants to flow through me.
+	- Set intention to allow messages that
 -
 -
 - ---
