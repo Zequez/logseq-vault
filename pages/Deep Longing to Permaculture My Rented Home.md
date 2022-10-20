@@ -12,5 +12,9 @@
 	- An outdoors home for our cat
 	- A watching tower on the giant pine tree
 	- An outdoors space that's sheltered from the elements
-	- Changing the kitchen floor for something that's actually easy to clean
+	- Changing the kitchen floor for something that can be kept clean with less effort
+	- Completely changing the kitchen
+	- Adding ceiling windows
+	- Covering the
+	-
 	-
