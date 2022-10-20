@@ -8,4 +8,5 @@
 	- Remove a Submodule
 		- `git rm <the-submodule>`
 		- `git -rf .git/modules/the-submodule`
-- The <uri-to-repo can be a simple Github or Gitlab URL; anyone can create this.
+- The <uri-to-repo> can be a simple Github or Gitlab URL; anyone can publish their software for free there.
+-
