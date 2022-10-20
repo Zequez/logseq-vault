@@ -1,0 +1,16 @@
+- History of Digital Gardening
+	- https://maggieappleton.com/garden-history
+	- [[Digital Gardening]]
+	- [[Digital Knowledge Garden]]
+	- Six patterns of gardening
+	- id:: 6350ddc0-6c18-430d-b99f-1d589bed9164
+	  > Gardening is a practice that treats a personal website as a constantly evolving landscape where you develop your ideas in public.
+- Note Oppression
+	- https://maggieappleton.com/note-oppression
+	- This is a fantastic critique of linear writing, and proposes taking notes on an environment that's more like paper.
+	- Resonates with idea of using web whiteboard as notes graph building block
+	- Folk Interfaces
+		- https://maggieappleton.com/folk-interfaces
+		- Example of using browser as a media
+	-
+-
