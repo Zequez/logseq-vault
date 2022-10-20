@@ -3,7 +3,7 @@
 		- `git clone --recursive-submodules <uri-to-repo>`
 	- Add [[Submodule]] to existing Git Repository
 		- `git submodule add <uri-to-submodule> <path-on-disk>`
-	- Run same git command on every submodule
+	- Run same [[Git]] command on every Submodule
 		- `git submodule foreach git <any-git command>`
 	- Remove a Submodule
 		-
