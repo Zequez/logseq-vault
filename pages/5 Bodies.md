@@ -2,4 +2,5 @@
 - [[Physical Body]]
 - [[Emotional Body]]
 - [[Energetic Body]]
-- Archetypal
+- [[Archetypal Body]]
+-
