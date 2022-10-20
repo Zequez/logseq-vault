@@ -22,5 +22,7 @@
 	- Bright fantasy world inside head of person in sorrowful environment
 		- ![image.png](../assets/image_1666248481504_0.png)
 		- I accidentally asked for variations on V4
-		  ![image.png](../assets/image_1666248495462_0.png)
+			- ![image.png](../assets/image_1666248508432_0.png)
+			- It looks very dark, I wanted more emphasis on the fantasy world
+		-
 -
