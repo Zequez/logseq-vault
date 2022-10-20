@@ -6,9 +6,6 @@
 	- Human with raised arms energetic body overlapping physical body in a held space
 		- ![image.png](../assets/image_1666248231256_0.png)
 		- Super creepy, not what I had in mind
-	- Emotional body expanding from heart of humanoid shape in psychedelic space, Alex Grey style
-		- ![image.png](../assets/image_1666248166160_0.png)
-		- Pretty good, interesting that the style direction worked quite well. The images still feel a little creepy
 	- Circle of people sitting around in a solarpunk village setting
 		- ![image.png](../assets/image_1666248304218_0.png)
 		- Ok I see how that instruction might be misinterpreted
@@ -19,5 +16,11 @@
 		- Pretty cool stuff
 	- [[Digital Garden]]
 		- ![image.png](../assets/image_1666248407686_0.png)
-		-
+	- Emotional body expanding from heart of humanoid shape in psychedelic space, Alex Grey style
+		- ![image.png](../assets/image_1666248166160_0.png)
+		- Pretty good, interesting that the style direction worked quite well. The images still feel a little creepy
+	- Bright fantasy world inside head of person in sorrowful environment
+		- ![image.png](../assets/image_1666248481504_0.png)
+		- I accidentally asked for variations on V4
+		  ![image.png](../assets/image_1666248495462_0.png)
 -
