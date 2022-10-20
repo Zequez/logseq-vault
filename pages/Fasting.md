@@ -4,6 +4,7 @@
 	- Fast for 1 day
 	- Fast for 3 days
 	- Fast for 7 days
+	- Fast intermitently 1 day on and 1 day off for 13 days.
 - ---
 - ## References
 	- https://joschuasgarden.com/50+Slipbox/Fasting
