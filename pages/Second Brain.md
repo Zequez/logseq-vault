@@ -2,6 +2,8 @@
 - You have an ability to manage the information around you. This ability can be enhanced.
 - Outsource the job of remembering to technology.
 - Cultivate a [[Digital Knowledge Garden]]
+- Reasons to building a second brain:
+	- Organize your knowledge and use it consisten
 -
 - ---
 - References: https://www.buildingasecondbrain.com/
