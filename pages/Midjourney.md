@@ -24,5 +24,8 @@
 		- I accidentally asked for variations on V4
 			- ![image.png](../assets/image_1666248508432_0.png)
 			- It looks very dark, I wanted more emphasis on the fantasy world
+	- Fractal pattern of colorful beings that cover the surface of the Earth
+		- ![image.png](../assets/image_1666248583406_0.png)
+		- Not what I had in mind, but curious about what can be done. Variations fir 4
 		-
 -
