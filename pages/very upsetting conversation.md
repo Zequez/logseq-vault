@@ -1,1 +1,1 @@
-- A conversation that leaves you feeling like shit.
+- A conversation where you are , you lose your center, and leaves you feeling like shit.
