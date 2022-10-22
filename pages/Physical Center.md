@@ -1,0 +1,3 @@
+- Center of the [[Physical Body]].
+- Located 3 fingers below the belly button.
+-
