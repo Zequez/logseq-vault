@@ -492,6 +492,9 @@
  {:block/name "degrade plastic with radioactivity",
   :block/created-at 1666017030632,
   :block/updated-at 1666017178398}
+ {:block/name "depression",
+  :block/created-at 1666424002367,
+  :block/updated-at 1666424084882}
  {:block/name "des-mezclar sentimientos mezclados",
   :block/created-at 1663768298514,
   :block/updated-at 1663768298514}
@@ -588,7 +591,7 @@
   :block/updated-at 1666228904502}
  {:block/name "energetic center",
   :block/created-at 1664831926337,
-  :block/updated-at 1664831926337}
+  :block/updated-at 1666423914827}
  {:block/name "energetic surgery",
   :block/created-at 1664948333958,
   :block/updated-at 1664948333958}
@@ -694,6 +697,9 @@
  {:block/name "feeling",
   :block/created-at 1663651282589,
   :block/updated-at 1663651282589}
+ {:block/name "feeling like shit",
+  :block/created-at 1666423961731,
+  :block/updated-at 1666424006440}
  {:block/name "feelings",
   :block/created-at 1659107724412,
   :block/updated-at 1659107724412}
@@ -1140,6 +1146,9 @@
  {:block/name "my logseq notes deployment",
   :block/created-at 1665413372387,
   :block/updated-at 1665413372387}
+ {:block/name "my room",
+  :block/created-at 1666424253622,
+  :block/updated-at 1666424443034}
  {:block/name "my work",
   :block/created-at 1665413372527,
   :block/updated-at 1665413372527}
@@ -1313,7 +1322,7 @@
   :block/updated-at 1666229004890}
  {:block/name "physical center",
   :block/created-at 1663651282579,
-  :block/updated-at 1663651282579}
+  :block/updated-at 1666423940905}
  {:block/name "playcraft",
   :block/created-at 1664837306819,
   :block/updated-at 1664837306819}
@@ -1659,7 +1668,7 @@
   :block/updated-at 1659564799399}
  {:block/name "the poop journey",
   :block/created-at 1666423552228,
-  :block/updated-at 1666423641296}
+  :block/updated-at 1666424253625}
  {:block/name "the source",
   :block/created-at 1664834861655,
   :block/updated-at 1664834861655}
@@ -1752,7 +1761,7 @@
   :block/updated-at 1666101172197}
  {:block/name "very upsetting conversation",
   :block/created-at 1666423641295,
-  :block/updated-at 1666423802961}
+  :block/updated-at 1666423966437}
  {:block/name "victim",
   :block/created-at 1666101168082,
   :block/updated-at 1666101202029}
