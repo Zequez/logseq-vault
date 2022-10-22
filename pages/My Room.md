@@ -1,1 +1,1 @@
-- My room is my physical personal living space.
+- My room is my physical personal living space where I have the expectation that I will last word as to what can or cannot be done in it.
