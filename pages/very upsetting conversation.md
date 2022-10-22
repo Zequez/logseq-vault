@@ -1,0 +1,1 @@
+- A conversation that you would really like to go one way but you feel hopeless to shift the space into it.
