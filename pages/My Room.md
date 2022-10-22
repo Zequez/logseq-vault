@@ -1,1 +1,2 @@
-- My room is my physical personal living space where I have the expectation that I will last word as to what can or cannot be done in it.
+- My room is my physical personal living space where I hold the [[Expectation]] that I will last word as to what can or cannot be done in it.
+- Why do I have this Expectation? I'm not sure. I Assume people will respect m
