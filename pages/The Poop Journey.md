@@ -1,4 +1,5 @@
 - This is something that happened. That's all I can say.
+- Scene 1
 - Team! I just had a discovery! I just had started to feel emotional anger after I remembered that an amazing idea I just got was actually just something that someone else was already working on (who now I realize I don't see as being part of my team).
 - Long story short, I was letting my anger get bigger, and my son is asleep just in the next room so I couldn't scream in anger. I started to just scream in silence while standing up and felt as if I was acting on an angry caricature mad scientist.
 - Then after the above realization I felt the anger of "YES! I LOVE THAT! YES! YES!" and again I turned into a character, this time a CEO absolutely excited about what his team had done.
