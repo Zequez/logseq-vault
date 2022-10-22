@@ -7,7 +7,7 @@
 - I did the anger for no reason and felt like Goku again.
 - Then I tried to re-do the YES anger experiment and again I mixed it with joy. I turned into a sadist looking into a bug being dismembered.
 - Then as I was about to do another experiment with anger, my partner came out and my anger immediately retreated replaced with fear.
-- After a [[very upsetting conversation]] she proceeds to go to my bedroom, pick a sort of shovel from the tools storage, and go to the bathroom,  pick up 3 little poops that I had left in the toilet and throw them, shovel and all, into the middle of the living room and proceed to invite me into cleaning it up, which I haven't done yet, but which I feel drawn to avoid another of her "tantrums?".
+- After a [[Very Upsetting Conversation]] she proceeds to go to my bedroom, pick a sort of shovel from the tools storage, and go to the bathroom,  pick up 3 little poops that I had left in the toilet and throw them, shovel and all, into the middle of the living room and proceed to invite me into cleaning it up, which I haven't done yet, but which I feel drawn to avoid another of her "tantrums?".
   Then as I was left alone again in the kitchen, my anger came back in a wave of emotion that felt like someone (after trying to contain it for a few seconds) screaming "I LIVE WITH A FUCKING CHILD!" and collapsing to the floor. Like someone being absolutely frustrated by the absolute irrationality of someone.
   Now sadness came up and I realized that what I saw was she was _acting out_ her anger unconsciously (Low Drama?).
   I felt joy from seeing this, but it was a sort of joy of laughing about the situation, as if in telling it to a group of friends as a joke (unconscious joy?). But I'm actually scared to talk to her about it.
