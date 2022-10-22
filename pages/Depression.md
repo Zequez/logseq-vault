@@ -1,0 +1,3 @@
+- The [[Mixed Emotions]] of [[Anger]] and [[Sadness]].
+- A big stop sign from your higher being.
+-

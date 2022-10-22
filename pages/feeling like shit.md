@@ -1,1 +1,1 @@
-- A mixed feeling that you can't quite identify yet. Probably [[Depressed]].
+- A mixed feeling that you can't quite identify yet. Probably [[Depression]].

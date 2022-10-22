@@ -1,1 +1,0 @@
-- A  of [[Anger]] and [[Sadness]].
