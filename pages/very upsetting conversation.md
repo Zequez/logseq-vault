@@ -1,1 +1,3 @@
-- A conversation where you are , you lose your center, and leaves you feeling like shit.
+- A conversation where you are [[Hooked]], you lose your [[Energetic Center]], and leaves you feeling like shit.
+-
+-
