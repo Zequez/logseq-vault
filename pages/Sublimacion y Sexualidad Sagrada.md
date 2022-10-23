@@ -6,7 +6,9 @@
 		- Lo más profundo de la sexualidad es lo sagrado
 	- No hay enseñanza que no pase por la sexualidad cuando llega a lo más sagrado.
 	- División/unión es sexualización? (Muro berlin, Barcelona?)
-	- Los conflictos en los libros mitológicamente fue
+	- Los conflictos en los libros mitológicamente fue sexual, problemas sexuales.
+	- Si no aprendemos a usar las fuerzas sexuales se transforman en división, guerra.
+	-
 	-
 	-
 - Cultura Iniciatica
