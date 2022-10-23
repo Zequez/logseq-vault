@@ -30,7 +30,13 @@
 		- Desorden sexual de las personas que realizan el ritual; terremotos.
 		- LAs fuerzas más primarias del planeta reflejan las fuerzas más primarias del ser humano
 	- Si hacemos un ritual con una vida sexual que no armoniza con la iniciación, hacemos caos/catástrofes.
-- Mo
+- Maoma
+	- Fue el más conectado con la sexualidad
+- Aprender a sublimar es aprender una elección personal
+	- Desde el yo
+	- Desde la magia
+	- Desde la divinidad
+-
 	-
 	-
 	-
