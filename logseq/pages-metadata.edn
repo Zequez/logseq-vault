@@ -556,6 +556,9 @@
  {:block/name "easy",
   :block/created-at 1664833366597,
   :block/updated-at 1664833366597}
+ {:block/name "ec",
+  :block/created-at 1666568158601,
+  :block/updated-at 1666568186072}
  {:block/name "ecovillaging",
   :block/created-at 1665413369764,
   :block/updated-at 1665413369764}
@@ -1247,7 +1250,7 @@
   :block/updated-at 1666486829222}
  {:block/name "oct 23rd, 2022",
   :block/created-at 1666494045522,
-  :block/updated-at 1666494045522}
+  :block/updated-at 1666568158602}
  {:block/name "oct 3rd, 2022",
   :block/created-at 1664798664343,
   :block/updated-at 1664831440137}
