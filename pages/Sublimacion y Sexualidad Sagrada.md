@@ -4,7 +4,8 @@
 	- "Cristo, todo eso es subliacmíOn?"?
 	- No hay posibilidad de conectarse con lo más profundo, con lo sagrado, sin conectarse con la energía sexual
 		- Lo más profundo de la sexualidad es lo sagrado
-	- No hay enseñanza que no pase por la sexualidad cuando
+	- No hay enseñanza que no pase por la sexualidad cuando llega a lo más sagrado.
+	-
 	-
 - Cultura Iniciatica
 - Energía Sexual
