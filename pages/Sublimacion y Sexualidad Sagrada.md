@@ -34,6 +34,9 @@
 	- Fue el más conectado con la sexualidad
 - Aprender a sublimar es aprender una elección personal
 	- Desde el yo
+		- 1er
+		- 2do
+		- 3er
 	- Desde la magia
 	- Desde la divinidad
 -
