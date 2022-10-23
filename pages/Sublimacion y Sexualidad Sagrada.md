@@ -13,7 +13,8 @@
 		- Muerte
 		- Sexualidad
 	- Algo extraño entre Cristo y María Magdalena que sus discipulos repudiaban
-		- Hay evangelios que ponen a Cristo
+		- Hay evangelios que ponen a Cristo explicando sobre sexualidad; evangelios poco conocidos
+	-
 	-
 	-
 	-
@@ -22,4 +23,6 @@
 - La "No-acción"
 - Victor Brossah
 	- Método Syneidesis
+- JL Parise
+	- Psicoanalista e investigador
 -
