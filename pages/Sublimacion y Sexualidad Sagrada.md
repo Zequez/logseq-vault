@@ -5,6 +5,8 @@
 	- No hay posibilidad de conectarse con lo más profundo, con lo sagrado, sin conectarse con la energía sexual
 		- Lo más profundo de la sexualidad es lo sagrado
 	- No hay enseñanza que no pase por la sexualidad cuando llega a lo más sagrado.
+	- División/unión es sexualización? (Muro berlin, Barcelona?)
+	- Los conflictos en los libros mitológicamente fue
 	-
 	-
 - Cultura Iniciatica
