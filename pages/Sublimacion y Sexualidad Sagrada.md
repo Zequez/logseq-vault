@@ -19,7 +19,8 @@
 			- 14 encarnaciones más tarde volvió como Dama Pada, quien enseño sexualidad; él finalmente entendió qué hizo con su sexualidad.
 	- Rituales con la intención de armonizar la tierra
 		- Desorden sexual de las personas que realizan el ritual; terremotos.
-		- LAs fuerzas más primarias del planeta reflejan las fuerzas
+		- LAs fuerzas más primarias del planeta reflejan las fuerzas más primarias del ser humano
+	- Si hacemos un ritual con una vida sexual que no armoniza con la iniciación, hacemos problemas.
 		-
 		-
 		-
