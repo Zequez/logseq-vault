@@ -14,7 +14,9 @@
 		- Sexualidad
 	- Algo extraño entre Cristo y María Magdalena que sus discipulos repudiaban
 		- Hay evangelios que ponen a Cristo explicando sobre sexualidad; evangelios poco conocidos
-	-
+	- Buda
+		- Buda dijo que tenía que volver a encarnar para poder entender como hizo para iluminarse
+			- 14 encarnaciones más tarde volvió como Dama Pada, quien enseño sexualidad
 	-
 	-
 	-
