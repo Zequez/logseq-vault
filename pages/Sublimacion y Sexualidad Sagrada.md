@@ -32,7 +32,7 @@
 	- Si hacemos un ritual con una vida sexual que no armoniza con la iniciación, hacemos caos/catástrofes.
 - Maoma
 	- Fue el más conectado con la sexualidad
-- Aprender a sublimar es aprender una elección personal
+- Aprender a sublimar es aprender una elección personal; el viaje
 	- Desde el yo 21:18m
 		- 4 categorías prefabricadas
 		- 1er Lo contingente
@@ -45,7 +45,10 @@
 		- La vida
 			- Es el pasaje de un mundo denso a uno más sutil, o sutil a denso
 			- Aprender a sublimar es aprender a generar lo denso que yo quiero
-			-
-			-
-			-
+- Destino
+	- La huella de mis ancestros
+	- Ese destino venimos a perforarlo
+	-
+	-
+	-
 -
