@@ -44,6 +44,7 @@
 		- El proceso de lo sublime abarca el mismo proceso de nuestra vida si queremos transformar nuestra vida en algo divino
 		- La vida
 			- Es el pasaje de un mundo denso a uno más sutil, o sutil a denso
+			- Aprender a sublimar es aprender a generar lo denso que yo quiero
 			-
 			-
 			-
