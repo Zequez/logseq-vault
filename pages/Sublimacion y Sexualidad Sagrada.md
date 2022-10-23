@@ -1,3 +1,12 @@
+- Cultura Iniciatica
+- Energía Sexual
+- La "No-acción"
+- Victor Brossah
+	- Método Syneidesis
+- JL Parise
+	- Psicoanalista e investigador
+- ---
+-
 - Sublimarse
 	- Encarnar la divinidad a traves de cada acto, de cada accion
 	- La sublimación es o no es
@@ -21,15 +30,8 @@
 		- Desorden sexual de las personas que realizan el ritual; terremotos.
 		- LAs fuerzas más primarias del planeta reflejan las fuerzas más primarias del ser humano
 	- Si hacemos un ritual con una vida sexual que no armoniza con la iniciación, hacemos caos/catástrofes.
+- Mo
 	-
-		-
-		-
-		-
-- Cultura Iniciatica
-- Energía Sexual
-- La "No-acción"
-- Victor Brossah
-	- Método Syneidesis
-- JL Parise
-	- Psicoanalista e investigador
+	-
+	-
 -
