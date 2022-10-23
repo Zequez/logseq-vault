@@ -34,11 +34,14 @@
 	- Fue el más conectado con la sexualidad
 - Aprender a sublimar es aprender una elección personal
 	- Desde el yo 21:18m
+		- 4 categorías prefabricadas
 		- 1er Lo contingente
 		- 2do Lo necesario
 		- 3er Lo posible/lo imposible
 	- Desde la magia
+		- Genero yo una realidad donde lo posible deseo yo que sea
 	- Desde la divinidad
+		- El proceso de lo sublime abarca el mismo proceso de nuestra vida si queremos transformar nuestra vida en algo divino
 -
 	-
 	-
