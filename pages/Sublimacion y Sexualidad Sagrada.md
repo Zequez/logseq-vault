@@ -1,0 +1,2 @@
+- Sublimarse
+	- Encarnar la divinidad a traves de cada acto, de ca
