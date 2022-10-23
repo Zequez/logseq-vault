@@ -33,10 +33,10 @@
 - Maoma
 	- Fue el más conectado con la sexualidad
 - Aprender a sublimar es aprender una elección personal
-	- Desde el yo
-		- 1er
-		- 2do
-		- 3er
+	- Desde el yo 21:18m
+		- 1er Lo contingente
+		- 2do Lo necesario
+		- 3er Lo posible/lo imposible
 	- Desde la magia
 	- Desde la divinidad
 -
