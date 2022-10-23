@@ -1,7 +1,10 @@
 - Sublimarse
 	- Encarnar la divinidad a traves de cada acto, de cada accion
+	- La sublimación es o no es
+	-
 - Cultura Iniciatica
 - Energía Sexual
 - La "No-acción"
--
+- Victor Brossah
+	- Método Syneidesis
 -
