@@ -8,6 +8,11 @@
 	- División/unión es sexualización? (Muro berlin, Barcelona?)
 	- Los conflictos en los libros mitológicamente fue sexual, problemas sexuales.
 	- Si no aprendemos a usar las fuerzas sexuales se transforman en división, guerra.
+		- Nuestro psiqiusmo la utiliza para lo contrario de la vida
+	- Profecías para este tiempo hablan de si vamos a rebotar en conceptos de
+		- Muerte
+		- Sexualidad
+	-
 	-
 	-
 	-
