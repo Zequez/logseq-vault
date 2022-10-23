@@ -42,8 +42,9 @@
 		- Genero yo una realidad donde lo posible deseo yo que sea
 	- Desde la divinidad
 		- El proceso de lo sublime abarca el mismo proceso de nuestra vida si queremos transformar nuestra vida en algo divino
--
-	-
-	-
-	-
+		- La vida
+			- Es el pasaje de un mundo denso a uno más sutil, o sutil a denso
+			-
+			-
+			-
 -
