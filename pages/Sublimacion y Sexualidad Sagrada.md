@@ -17,7 +17,9 @@
 	- Buda
 		- Buda dijo que tenía que volver a encarnar para poder entender como hizo para iluminarse
 			- 14 encarnaciones más tarde volvió como Dama Pada, quien enseño sexualidad; él finalmente entendió qué hizo con su sexualidad.
-	- Rituali
+	- Rituales con la intención de armonizar la tierra
+		- Desorden sexual de las personas que realizan el ritual; terremotos.
+		- LAs fuerzas más primarias del planeta reflejan las fuerzas
 		-
 		-
 		-
