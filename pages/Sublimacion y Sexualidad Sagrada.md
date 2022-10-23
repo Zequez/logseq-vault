@@ -20,7 +20,8 @@
 	- Rituales con la intención de armonizar la tierra
 		- Desorden sexual de las personas que realizan el ritual; terremotos.
 		- LAs fuerzas más primarias del planeta reflejan las fuerzas más primarias del ser humano
-	- Si hacemos un ritual con una vida sexual que no armoniza con la iniciación, hacemos problemas.
+	- Si hacemos un ritual con una vida sexual que no armoniza con la iniciación, hacemos caos/catástrofes.
+	-
 		-
 		-
 		-
