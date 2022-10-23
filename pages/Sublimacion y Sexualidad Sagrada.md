@@ -12,7 +12,8 @@
 	- Profecías para este tiempo hablan de si vamos a rebotar en conceptos de
 		- Muerte
 		- Sexualidad
-	-
+	- Algo extraño entre Cristo y María Magdalena que sus discipulos repudiaban
+		- Hay evangelios que ponen a Cristo
 	-
 	-
 	-
