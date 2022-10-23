@@ -1,6 +1,8 @@
 - Sublimarse
 	- Encarnar la divinidad a traves de cada acto, de cada accion
 	- La sublimación es o no es
+	- "Cristo, todo eso es subliacmíOn?"?
+	- No hay posibilidad de conectarse con lo más profundo sin conectarse con la energía sexual
 	-
 - Cultura Iniciatica
 - Energía Sexual
