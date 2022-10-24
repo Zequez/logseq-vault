@@ -9,6 +9,8 @@
 			- It wears us out.
 			- It is the major source of all human stress
 			- Lying kills people.
+			- People being too hard on themselves when they don't live up to their own images of how others think they should act.
+				-
 -
 - ---
 -
