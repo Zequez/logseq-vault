@@ -4,6 +4,11 @@
 	- Radical Honestly
 		- The lie is a fundamental element of storytelling and one of the most common driving forces for conflict.
 		- You have two people withhold a piece of information from the other, and you got a pretty basic recipe for dramatic tension.
+		- Brad Blanton
+			- We all lie like Hell
+			- It wears us out.
+			- It is the major source of all human stress
+			- Lying kills people.
 -
 - ---
 -
