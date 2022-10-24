@@ -31,7 +31,7 @@
 	- If you break a promise that you intended to keep
 	- If you are struggling to do your best without getting any results; try and find those you are trying to please; you are probably angry at them
 	- If you are a perfectionist that nothing is good enough
-	- You
+	- We get angry at people for dying
 - ---
 -
 - ## References
