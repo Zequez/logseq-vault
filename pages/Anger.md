@@ -26,6 +26,7 @@
 			- A person capable of intimacy means a person capable of telling the truth
 				- Still has roles to play, but is no longer trapped in them
 				- The person is then in charge rather than the role
+		- Yesterday's truth is today's bullshit.
 - Unconscious Anger
 	- If you gossip or criticise someone's behaviour behind their back
 	- If you break a promise that you intended to keep
