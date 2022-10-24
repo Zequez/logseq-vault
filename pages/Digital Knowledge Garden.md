@@ -8,7 +8,7 @@
 - As you write lots of concept-oriented notes you can make an outline by shuffling the note titles, write notes on any missing material, and edit them together into a narrative.
 - Everyone discovers their own gardening style
 - Also related to [[Second Brain]] notion.
--
+- [[Anger]]
 -
 - ---
 - ## References
