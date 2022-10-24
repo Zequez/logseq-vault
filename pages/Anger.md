@@ -19,7 +19,12 @@
 			- Admit all the things that in your false modesty pretending that you didn't care about (like you don't really want money!)
 			- If you don't truly embarrass yourself from all you have to say about about yourself then you don't truly know shit from "shmola?" about transformation.
 		- Purpose
-		- Not a path to absolute self-trascendence, a path to deeper self intimacy. A lie is a wall
+			- Not a path to absolute self-trascendence
+			- A path to deeper self intimacy
+			- A lie is a wall
+				- Only being more honest can we break down this walls
+			- A person capable of intimacy means a person capable of telling the truth
+				- Still has roles to play, but is no longer trapped in them
 -
 - ---
 -
