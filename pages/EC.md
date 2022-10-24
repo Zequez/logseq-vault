@@ -1,3 +1,11 @@
 - Sobre plan de acompanamiento
   mi intencion con [[esparcir]] la semilla de EC es hacer
 -
+-
+- ---
+- dsafasdf
+- dasfasdf
+	- fsadfs
+		- sdafasd
+	- fadfasf
+-
