@@ -775,6 +775,9 @@
  {:block/name "goingo orthogonal",
   :block/created-at 1664833508865,
   :block/updated-at 1664833508865}
+ {:block/name "golden key",
+  :block/created-at 1666613142282,
+  :block/updated-at 1666613142282}
  {:block/name "gong journey",
   :block/created-at 1666278218866,
   :block/updated-at 1666278489415}
@@ -1179,6 +1182,9 @@
  {:block/name "navigating space from the being",
   :block/created-at 1665413369410,
   :block/updated-at 1665413369410}
+ {:block/name "necessity",
+  :block/created-at 1666613126313,
+  :block/updated-at 1666613126313}
  {:block/name "needs of the space",
   :block/created-at 1664835654078,
   :block/updated-at 1664835654078}
@@ -1259,7 +1265,7 @@
   :block/updated-at 1666568158602}
  {:block/name "oct 24th, 2022",
   :block/created-at 1666580524614,
-  :block/updated-at 1666586864282}
+  :block/updated-at 1666613346240}
  {:block/name "oct 3rd, 2022",
   :block/created-at 1664798664343,
   :block/updated-at 1664831440137}
