@@ -2,7 +2,8 @@
 	- Too often we ask "What can I do?" instead of asking "What needs to be done?"
 		- We need to start asking "What needs to be done, and then we need to start doing it"
 	- Radical Honestly
-		- The lie is the most fundamental element of storytelling
+		- The lie is a fundamental element of storytelling and one of the most common driving forces for conflict.
+		- You have two people withhold a piece of information from the other, and you got a pretty basic recipe for dramatic tension.
 -
 - ---
 -
