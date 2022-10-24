@@ -25,6 +25,7 @@
 				- Only being more honest can we break down this walls
 			- A person capable of intimacy means a person capable of telling the truth
 				- Still has roles to play, but is no longer trapped in them
+				- The person is then in charge rather than the role
 -
 - ---
 -
