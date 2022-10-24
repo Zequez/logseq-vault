@@ -14,6 +14,7 @@
 					- We get lost in the process and beat the hell out of ourselves before we even know we are hurt
 		- Level 1: Revealing the facts; confess everything you have hidden. Un-tell those lies.
 		- Level 2: Honestly expressing feelings and thoughts
+		- Level 3: Demythologizing ourselves. Who we are is not who we have been pretending to be. We admit we don't really know who we are.
 -
 - ---
 -
