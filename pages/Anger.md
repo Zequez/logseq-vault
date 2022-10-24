@@ -2,6 +2,7 @@
 	- Too often we ask "What can I do?" instead of asking "What needs to be done?"
 		- We need to start asking "What needs to be done, and then we need to start doing it"
 	- Radical Honestly
+		- https://www.youtube.com/watch?v=6viSZCnIpPY
 		- The lie is a fundamental element of storytelling and one of the most common driving forces for conflict.
 		- You have two people withhold a piece of information from the other, and you got a pretty basic recipe for dramatic tension.
 		- Brad Blanton
@@ -16,7 +17,7 @@
 		- Level 2: Honestly expressing feelings and thoughts
 		- Level 3: Demythologizing ourselves. Who we are is not who we have been pretending to be. We admit we don't really know who we are.
 			- Admit all the things that in your false modesty pretending that you didn't care about (like you don't really want money!)
-			- If you don't truly embarrass yourself from all you have to say about about yourself then you don't truly know shit from
+			- If you don't truly embarrass yourself from all you have to say about about yourself then you don't truly know shit from "shmola?" about transformation.
 -
 - ---
 -
