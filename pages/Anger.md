@@ -1,6 +1,8 @@
 - Conscious Anger
 	- Too often we ask "What can I do?" instead of asking "What needs to be done?"
 		- We need to start asking "What needs to be done, and then we need to start doing it"
+	- Radical Honestly
+-
 - ---
 -
 - ## References
