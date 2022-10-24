@@ -10,7 +10,9 @@
 			- It is the major source of all human stress
 			- Lying kills people.
 			- People being too hard on themselves when they don't live up to their own images of how others think they should act.
-				-
+				- We don't know who we are and we try to guess who we have to be in order to do the right thing and be happy
+					- We get lost in the process and beat the hell out of ourselves before we even know we are hurt
+		- Revealing the facts
 -
 - ---
 -
