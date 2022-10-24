@@ -15,6 +15,7 @@
 		- Level 1: Revealing the facts; confess everything you have hidden. Un-tell those lies.
 		- Level 2: Honestly expressing feelings and thoughts
 		- Level 3: Demythologizing ourselves. Who we are is not who we have been pretending to be. We admit we don't really know who we are.
+			- Admit all the things that in your false modesty pretending that you didn't care about (like you don't really want money!)
 -
 - ---
 -
