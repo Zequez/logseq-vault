@@ -18,6 +18,8 @@
 		- Level 3: Demythologizing ourselves. Who we are is not who we have been pretending to be. We admit we don't really know who we are.
 			- Admit all the things that in your false modesty pretending that you didn't care about (like you don't really want money!)
 			- If you don't truly embarrass yourself from all you have to say about about yourself then you don't truly know shit from "shmola?" about transformation.
+		- Purpose
+		- Not a path to absolute self-trascendence, a path to deeper self intimacy. A lie is a wall
 -
 - ---
 -
