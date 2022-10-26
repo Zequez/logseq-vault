@@ -854,9 +854,6 @@
  {:block/name "holon planetario",
   :block/created-at 1665413370930,
   :block/updated-at 1665413370930}
- {:block/name "homepage",
-  :block/created-at 1666104316927,
-  :block/updated-at 1666106149595}
  {:block/name "homo noosféricus",
   :block/created-at 1665413371401,
   :block/updated-at 1665413371401}
@@ -891,6 +888,9 @@
  {:block/name "inbox-0",
   :block/created-at 1665413370898,
   :block/updated-at 1665413370898}
+ {:block/name "index",
+  :block/created-at 1666104316927,
+  :block/updated-at 1666106149595}
  {:block/name "initiated adults",
   :block/created-at 1663771686905,
   :block/updated-at 1663771686905}
