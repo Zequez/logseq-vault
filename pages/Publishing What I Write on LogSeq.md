@@ -22,7 +22,7 @@
 -
 - # NEXT STEPS
 	- DONE Write welcome page
-		- [[Homepage]]
+		- [[index]]
 	- Publish on Github Pages as replacement of my current site at zequez.space
 	- Share on groups and get feedback and ask for proposals.
 		- Possibility Village
