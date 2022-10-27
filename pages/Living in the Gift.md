@@ -40,6 +40,7 @@
 		- Relationship
 			- In a real world gifts are usually witnessed, and they generate gratitude.
 			- You can't say something isn't a gift because there are also selfish motives.
+			- Creates and strengthens relationships and that distinguishes them from transactions and from barter.
 -
 -
 -
