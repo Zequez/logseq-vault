@@ -990,6 +990,9 @@
  {:block/name "lifestyle experiment: rewilding myself",
   :block/created-at 1665413371606,
   :block/updated-at 1665413371606}
+ {:block/name "living in the gift",
+  :block/created-at 1666833198745,
+  :block/updated-at 1666833505869}
  {:block/name "living outdoors",
   :block/created-at 1665413371534,
   :block/updated-at 1665413371534}
@@ -1268,7 +1271,7 @@
   :block/updated-at 1666568158602}
  {:block/name "oct 24th, 2022",
   :block/created-at 1666580524614,
-  :block/updated-at 1666620806028}
+  :block/updated-at 1666833231178}
  {:block/name "oct 25th, 2022",
   :block/created-at 1666666836641,
   :block/updated-at 1666666836641}
