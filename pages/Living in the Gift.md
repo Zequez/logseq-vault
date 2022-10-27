@@ -58,6 +58,7 @@
 			- Release of making sure you get a result for your investment
 		- Releasing control on the receiving side
 			- Release of staying independent
+		- Recognize readiness to what form of control are you ready to release.
 -
 -
 -
