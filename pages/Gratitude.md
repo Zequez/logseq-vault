@@ -1,0 +1,4 @@
+- The knowledge of having received a [[Gift]]
+	- The consequent desire to give in turn by [[Expressing Your Gifts]].
+- The knowledge that [[Life is a Gift]], the knowledge of having received.
+	- # Gratitude is my native state

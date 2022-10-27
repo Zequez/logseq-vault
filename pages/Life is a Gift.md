@@ -1,0 +1,3 @@
+- > Why does the sun shine? We did not earn the sun. It's not thanks to our hard efforts that the sun shines
+- Your life is a [[Gift]]; Your native state is [[Gratitude]]; the world is a gift, the cosmos operates on the principles of gift.
+- The knowledge that it is a gift, the knowledge of having received, the knowledge that you didn't earn your breath, your heartbeat, your blood, your conception, your... Your life is a gift. So Gratitude is your native state.
