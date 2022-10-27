@@ -63,7 +63,7 @@
 		- Any release of control is a step into gift.
 	- # What form of control are you ready to let go of?
 - ---
--
+- Life and play
 	-
 	-
 -
