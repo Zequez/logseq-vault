@@ -46,6 +46,8 @@
 				- This creates a reluctance to receive.
 				- ### Receiving a gifts affirms your dependency on gifts; therefore it is an affront to delusion of independence
 					- Invites us into greater dependency.
+				- I don't owe anything; we remain separtae.
+			-
 				-
 -
 -
