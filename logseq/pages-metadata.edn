@@ -992,7 +992,7 @@
   :block/updated-at 1665413371606}
  {:block/name "living in the gift",
   :block/created-at 1666833198745,
-  :block/updated-at 1666834617184}
+  :block/updated-at 1666835266577}
  {:block/name "living outdoors",
   :block/created-at 1665413371534,
   :block/updated-at 1665413371534}
@@ -1569,6 +1569,9 @@
  {:block/name "sep 9th, 2022",
   :block/created-at 1662692402668,
   :block/updated-at 1662778589649}
+ {:block/name "separate self",
+  :block/created-at 1666835158241,
+  :block/updated-at 1666835158241}
  {:block/name "setting context",
   :block/created-at 1663653925765,
   :block/updated-at 1663653925765}
