@@ -24,6 +24,9 @@
 		- Yearning to make art of your work, and your work your art.
 		- Urge to create something beautiful
 		- Expand your capacities in doing their full potential in service of something magnificent
+- Books
+	- The Gift by Lewis Hyde
+	-
 - What is a gift?
 	- Limitations of definitions
 		- Wary of definitions;  precision means exclusion.
@@ -34,6 +37,7 @@
 		- Release
 			- Release of control; we don't know wether or how it will come back to us.
 			- From the perspective of a [[Separate Self]] giving is profoundly irrational
+			- In a real world gifts are usually witnessed, and they generate gratitude
 		- Relationship
 -
 -
