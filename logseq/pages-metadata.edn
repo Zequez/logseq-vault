@@ -992,7 +992,7 @@
   :block/updated-at 1665413371606}
  {:block/name "living in the gift",
   :block/created-at 1666833198745,
-  :block/updated-at 1666839550006}
+  :block/updated-at 1666839562952}
  {:block/name "living outdoors",
   :block/created-at 1665413371534,
   :block/updated-at 1665413371534}
@@ -1278,6 +1278,9 @@
  {:block/name "oct 26th, 2022",
   :block/created-at 1666764161169,
   :block/updated-at 1666764161169}
+ {:block/name "oct 27th, 2022",
+  :block/created-at 1666839603561,
+  :block/updated-at 1666839603561}
  {:block/name "oct 3rd, 2022",
   :block/created-at 1664798664343,
   :block/updated-at 1664831440137}
