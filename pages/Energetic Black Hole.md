@@ -1,3 +1,3 @@
-- At any time you have the power to use your [[Clicker]] to declare an Energetic Black Hole where you can throw any of your Energetic Garbage to be instantly destroyed and turned into raw energy. You then can use your Clicker again to un-declare it.
+- At any time you have the power to use your [[Clicker]] to declare an Energetic Black Hole where you can throw any of your Energetic Garbage. You then can use your Clicker again to un-declare it.
 -
 -

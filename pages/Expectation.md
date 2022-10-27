@@ -20,4 +20,4 @@
 	- Becoming Mindful That You Are Projecting Expectations
 		- Choosing to release these expectations as best as you can is game changer
 		- Expectations are very engrained habit and will require conscious [[Anger]] pry them off you.
-			- Try removing each expectation and throwing it into a [[Energetic Black Hole]].
+			- As an experiment try removing each expectation your notice with conscious Anger and throwing it into an [[Energetic Black Hole]].
