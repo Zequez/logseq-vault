@@ -32,6 +32,7 @@
 		- Sovereignty
 			- Must involve some kind of free choice
 		- Release
+			- Release of control; we don't know wether or how it will come back to us.
 			-
 		- Relationship
 -
