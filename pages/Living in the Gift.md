@@ -44,6 +44,7 @@
 			- Receiving a gift creates a kind of obligation
 				- Not attractive to [[Separate Self]]; Separate Self does not want obligations; wants to be independent, not to own anyone anything.
 				- This creates a reluctance to receive.
+				- ### Receiving a gifts affirms your dependency on gifts; therefore it is an affront to delusions of independence
 				-
 -
 -
