@@ -1,0 +1,2 @@
+- At any time you have the power to use your [[Clicker]] to declare an Energetic Black Hole where you can throw any of your
+-
