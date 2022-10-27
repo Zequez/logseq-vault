@@ -39,6 +39,7 @@
 			- From the perspective of a [[Separate Self]] giving is profoundly irrational
 		- Relationship
 			- In a real world gifts are usually witnessed, and they generate gratitude.
+			- You can't say something isn't a gift because there are also selfish motives.
 -
 -
 -
