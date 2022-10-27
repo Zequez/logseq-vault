@@ -659,8 +659,8 @@
   :block/created-at 1665413370431,
   :block/updated-at 1665543455221}
  {:block/name "expressing your gifts",
-  :block/created-at 1666840963031,
-  :block/updated-at 1666840963031}
+  :block/created-at 1666841919541,
+  :block/updated-at 1666841919703}
  {:block/name "extraordinary conversation",
   :block/created-at 1664151086584,
   :block/updated-at 1664151086584}
@@ -1007,7 +1007,7 @@
   :block/updated-at 1665413371606}
  {:block/name "living in the gift",
   :block/created-at 1666833198745,
-  :block/updated-at 1666841157515}
+  :block/updated-at 1666841946464}
  {:block/name "living outdoors",
   :block/created-at 1665413371534,
   :block/updated-at 1665413371534}
@@ -1497,6 +1497,9 @@
  {:block/name "sadness",
   :block/created-at 1666252491952,
   :block/updated-at 1666252491952}
+ {:block/name "scarcity",
+  :block/created-at 1666841946463,
+  :block/updated-at 1666841946463}
  {:block/name "scarcity work talk",
   :block/created-at 1665777424867,
   :block/updated-at 1665782989186}
@@ -1590,6 +1593,9 @@
  {:block/name "separate self",
   :block/created-at 1666835158241,
   :block/updated-at 1666835158241}
+ {:block/name "service",
+  :block/created-at 1666841782496,
+  :block/updated-at 1666841782496}
  {:block/name "setting context",
   :block/created-at 1663653925765,
   :block/updated-at 1663653925765}
@@ -1608,6 +1614,9 @@
  {:block/name "software",
   :block/created-at 1665413370852,
   :block/updated-at 1665413370852}
+ {:block/name "song of anger",
+  :block/created-at 1666841932503,
+  :block/updated-at 1666841932713}
  {:block/name "source code control",
   :block/created-at 1666235900472,
   :block/updated-at 1666235900472}

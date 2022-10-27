@@ -1,0 +1,8 @@
+- An unstoppable desire to develop and express your capacity to give to the world in [[Service]] of something that you care about
+	- Can be repressed to some extent.
+	- You were born to **sing your song**
+	- Better than necessary for the grade, the boss, the market.
+	- ### Yearning to make [[Art]] of your [[Work]], and your Work your Art.
+	- The urge to [[Creating]] something [[Beautiful]]
+	- Expand your capacities in doing their full potential in Service of something magnificent
+- If your gifts aren't met with receptivity you are going to want to get out of there.
