@@ -21,7 +21,7 @@
 - Your Song
 	- You were born to sign it; whatever your song is.
 	- Better than necessary for the grade, the boss, the market.
-		- Yearning to make art of your work, and your work your art.
+		- ### Yearning to make art of your work, and your work your art.
 		- Urge to create something beautiful
 		- Expand your capacities in doing their full potential in service of something magnificent
 - ---
