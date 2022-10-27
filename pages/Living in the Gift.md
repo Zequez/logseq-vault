@@ -33,7 +33,7 @@
 			- Must involve some kind of free choice
 		- Release
 			- Release of control; we don't know wether or how it will come back to us.
-			-
+			- From the perspective of a [[Separate Self]] giving is profoundly irrational
 		- Relationship
 -
 -
