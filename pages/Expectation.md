@@ -11,4 +11,8 @@
 		- Expecting not to be lied to or betrayed by the people in your inner circle or your trusted friends and family members. This means they have the right to expect exactly the same from you.
 			- I can use expectations as a way to energetically keep a mutual agreement.
 		- > When expectations are not mutually agreed upon, a person walks on very delicate ground because hidden wounds, unmet personal needs, and who knows what other dark ingredients get projected into the psychic airwaves, bombarding the psychic field of the person you are targeting. Or you get targeted.
-		- Psychic Free Radicals
+		- Psychic Free Radicals that lead to a person to scream one day "No matter what I do, I just can't make you happy. I just can't fulfill your expectatiosn"
+	- Questions
+		- What are your expectations in life?
+		- What are your disappointments?
+		-
