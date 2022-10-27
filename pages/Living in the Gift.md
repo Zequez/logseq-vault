@@ -12,7 +12,7 @@
 - an unstoppable desire to develop and express your capacity to give to the world in service of
   something that you care about.
 -
--
+- The scarcity and the struggle are very much artificial and systemic.
 -
 -
 -
