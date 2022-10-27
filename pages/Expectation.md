@@ -6,4 +6,6 @@
 	- Goal of becoming conscious:
 		- Realize what shadow practices you have to release in your life because they do not serve you. Expectations do not serve you.
 	- I have been target of expectations; and I have also projected my expectations onto the people in our life
-		- This is not an attempt to create a victim/perpetrator drama; projecting expectations is not "bad"; it's a Psychic Power
+		- This is not an attempt to create a victim/perpetrator drama; projecting expectations is not "bad"; it's a [[Psychic Power]]
+	- Are any expectations acceptable? Yes
+		- Expecting not to be lied to or betrayed by the people in your inner circle or your trusted friends and family members.
