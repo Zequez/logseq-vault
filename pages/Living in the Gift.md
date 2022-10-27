@@ -1,8 +1,6 @@
 - These are notes on the [Living in the Gift course by Charles Eistenstein](https://charleseisenstein.org/courses/living-in-the-gift)
 - Gratitude
 	- Gratitude is the knowledge of having received and the consequent desire to give in turn.
-	- Better than neccesary for the grade
-	- Why does the sun shine?
 	- Your life is a gift; Your native state is gratitude; the world is a gift, the cosmos operates on the principles of gift.
 		- The knowledge that it is a gift, the knowledge of having received.
 	- # Gratitude is my native state
