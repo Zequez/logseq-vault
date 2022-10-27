@@ -28,7 +28,12 @@
 	- Limitations of definitions
 		- Wary of definitions;  precision means exclusion.
 			- Dance around the edges of what a gift is.
-	-
+	- 3 characteristics
+		- Sovereignty
+			- Must involve some kind of free choice
+		- Release
+			-
+		- Relationship
 -
 -
 -
