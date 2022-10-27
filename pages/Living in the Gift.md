@@ -80,6 +80,7 @@
 		- "We are in it together"
 		- Polarization as a symptom of the breakdown of community
 		- You can't have "community" be the motivation for community; there has to be some other aim we are willing to commit to.
+		- "Wear
 		-
 -
 -
