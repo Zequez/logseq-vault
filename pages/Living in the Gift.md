@@ -10,12 +10,14 @@
 - Expressing Your Gifts
 	- Singing Your Song
 		- You were born to sign it; whatever your song is.
-	- There is unstoppable desire to develop and express your capacity to give to the world in service of something that you care about. Can be repressed to some extent.
-	- If your gifts aren't met with receptivity you are going to want to get out of there.
+	-
+	- There is unstoppable desire to develop and express your capacity to give to the world in service of something that you care about
+		- Can be repressed to some extent.
 		- Better than necessary for the grade, the boss, the market.
 		- ### Yearning to make art of your work, and your work your art.
-		- Urge to create something beautiful
+		- The urge to create something beautiful
 		- Expand your capacities in doing their full potential in service of something magnificent
+	- If your gifts aren't met with receptivity you are going to want to get out of there.
 - Scarcity
 	- The scarcity and the struggle are very much artificial and systemic. They have a systemic dimension and an internal dimension creating additional struggle that’s not even built into the system and not built into the course of a normal life.
 - Ease and leisure
