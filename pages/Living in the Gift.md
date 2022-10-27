@@ -70,7 +70,8 @@
 			- We are all plugged into the money economy and we meet all our needs with money.
 	- Community is woven from gifts.
 		- Gifts are the warp; stories the woof
-		- Everybydy
+		- Everybydy is in debt with everyone else
+		-
 		-
 		-
 -
