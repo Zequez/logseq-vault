@@ -23,12 +23,12 @@
 -
 - Community
 	- The Money Economy
-		- > Life and play had migrated indoors out of the public realm into the private realm
-		- > Cooking club was not helping to meet any of their real needs; it fell into the category of Leisure.
-		- > We didn't really need each other.
-		- > We are all plugged into the money economy and we meet all our needs with money.
-	- Community is woven from gifts.
-		- Gifts are the warp; stories the woof
+		- Life and play had migrated indoors out of the public realm into the private realm
+		- Cooking club was not helping to meet any of their real needs; it fell into the category of Leisure.
+		- We didn't really need each other.
+			- We are all plugged into the money economy and we meet all our needs with money.
+	- Community is woven from Gift.
+		- [[Gifts]] are the warp; [[Stories]] the woof
 		- Everybydy is in debt with everyone else
 		- Disintegration of community
 			- It has essentially been strip mined; the gift relationships have been turned into goods and services we can buy
