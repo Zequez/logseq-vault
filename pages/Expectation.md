@@ -17,4 +17,6 @@
 		- What are your disappointments?
 		- What do you feel is expected of you and do those expectations feel comfortable or like an unfair projection?
 		- What is that you expect of others? Specifically, are your expectations rooted in compensating for actions you do not wish to do for yourself?
+	- Becoming Mindful That You Are Projecting Expectations
+		- Choosing to release these expectations as best as you can is game changer
 		-
