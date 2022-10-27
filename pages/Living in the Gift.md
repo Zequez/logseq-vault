@@ -10,21 +10,22 @@
 		- Is this part of the fabric of life or are these just interruptions in a normalized reality of scarcity?
 # Gratitude is my native state
 - ---
-- Sovereei
-- Books
-	- The Gift by Lewis Hyde
-	- Debts: The First 5000 Years by David Graeber
-- What is a [[Gift]]?
-- Living in the Gifts is a step into another story of the world, another self, another reality.
-	- Loss of control is compensated by a feeling of greater belonging, greater connection.
-	- This is not a formula or a path with a map.
+- Sovereignty, Release and Relationship
+	- Books
+		- The Gift by Lewis Hyde
+		- Debts: The First 5000 Years by David Graeber
+	- What is a [[Gift]]?
+	- Living in the Gifts is a step into another story of the world, another self, another reality.
+		- Loss of control is compensated by a feeling of greater belonging, greater connection.
+		- This is not a formula or a path with a map.
 # What form of control are you ready to let go of?
 - ---
 -
-- Life and play had migrated indoors out of the public realm into the private realm
-	- Cooking club was not helpig to meet any of their real needs; it fell into the category of Leisure.
-		- We didn't really need each other.
-			- We are all plugged into the money economy and we meet all our needs with money.
+- Community
+	- > Life and play had migrated indoors out of the public realm into the private realm
+		- Cooking club was not helpig to meet any of their real needs; it fell into the category of Leisure.
+			- We didn't really need each other.
+				- We are all plugged into the money economy and we meet all our needs with money.
 	- Community is woven from gifts.
 		- Gifts are the warp; stories the woof
 		- Everybydy is in debt with everyone else
@@ -37,10 +38,10 @@
 		- "We are in it together"
 		- Polarization as a symptom of the breakdown of community
 		- You can't have "community" be the motivation for community; there has to be some other aim we are willing to commit to.
-	- # We are in this Together
-		- "On some level this person is an ally"
-		-
-		-
+		- # We are in this Together
+			- "On some level this person is an ally"
+			-
+			-
 -
 -
 -
