@@ -27,7 +27,7 @@
 - Books
 	- The Gift by Lewis Hyde
 	- Debts: The First 5000 Years by David Graeber
-- What is a gift?
+- What is a [[Gift]]?
 	- Limitations of definitions
 		- Wary of definitions;  precision means exclusion.
 			- Dance around the edges of what a gift is.
@@ -47,7 +47,7 @@
 				- ### Receiving a gifts affirms your dependency on gifts; therefore it is an affront to delusion of independence
 					- Invites us into greater dependency.
 				- I don't owe anything; we remain separtae.
-	- Living in the Gifts is a step into another story of the world, another self, anotherreality.
+	- Living in the Gifts is a step into another story of the world, another self, another reality.
 		- Loss of control is compensated by a feeling of greater belonging, greater connection.
 		- This is not a formula or a path with a map.
 	- Releasing Boundaries
