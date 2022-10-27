@@ -63,7 +63,9 @@
 		- Any release of control is a step into gift.
 	- # What form of control are you ready to let go of?
 - ---
-- Life and play
+-
+- Life and play had migrated indoors out of the public realm into the private realm
+	-
 	-
 	-
 -
