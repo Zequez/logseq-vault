@@ -8,7 +8,6 @@
 	- Your life is a gift; Your native state is [[Gratitude]]; the world is a gift, the cosmos operates on the principles of gift.
 	- The knowledge that it is a gift, the knowledge of having received, the knowledge that you didn't earn your breath, your heartbeat, your blood, your conception, your... Your life is a gift. So gratitude is your native state.
 - Expressing Your Gifts
-	-
 	- There is unstoppable desire to develop and express your capacity to give to the world in service of something that you care about
 		- Can be repressed to some extent.
 		- You were born to **sing your song**
