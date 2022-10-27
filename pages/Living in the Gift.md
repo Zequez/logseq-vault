@@ -54,6 +54,8 @@
 		- Sometimes it is appropriate to refuse a gift if you don’t want that relationship and you don’t
 		  want to release that boundary.
 		- Gifts is fundamentally about a release of control and stepping into trust, giving into mystery.
+		- Releasing control on the giving side
+			-
 -
 -
 -
