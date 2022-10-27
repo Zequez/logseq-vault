@@ -76,7 +76,12 @@
 		- The more developed a country is the more community is broken down
 			- Rural people and the poor tend to have mor community than the affluent.
 		- Commitment to an aim beyond themselves
+			- > I propose that that aim should be to repair, regenerate and
+			  beautify our hurting planet, to heal its ecological and social trauma. That is something we
+			  can all give our gifts toward.
 		- "We are in it together"
+		- Polarization as a symptom of the breakdown of community
+		-
 		-
 		-
 -
