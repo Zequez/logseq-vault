@@ -11,10 +11,10 @@
 -
 - Expressing your gifts
 	- If your gifts aren't met with receptivity you are going to want to get out of there.
-	- an unstoppable desire to develop and express your capacity to give to the world in service of
+	- An unstoppable desire to develop and express your capacity to give to the world in service of
 	  something that you care about.
 - Scarcity
 	- The scarcity and the struggle are very much artificial and systemic. They have a systemic dimension and an internal dimension creating additional struggle that’s not even built into the system and not built into the course of a normal life.
--
+- Ease and leisure
 -
 -
