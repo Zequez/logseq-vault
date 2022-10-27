@@ -14,10 +14,10 @@
 	  something that you care about.
 	- Your Song
 		- You were born to sign it; whatever your song is.
-		- Better than necessary for the grade, the boss, the market.
-			- ### Yearning to make art of your work, and your work your art.
-			- Urge to create something beautiful
-			- Expand your capacities in doing their full potential in service of something magnificent
+	- Better than necessary for the grade, the boss, the market.
+		- ### Yearning to make art of your work, and your work your art.
+		- Urge to create something beautiful
+		- Expand your capacities in doing their full potential in service of something magnificent
 - Scarcity
 	- The scarcity and the struggle are very much artificial and systemic. They have a systemic dimension and an internal dimension creating additional struggle that’s not even built into the system and not built into the course of a normal life.
 - Ease and leisure
