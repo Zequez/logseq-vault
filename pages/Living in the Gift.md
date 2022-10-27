@@ -47,8 +47,10 @@
 				- ### Receiving a gifts affirms your dependency on gifts; therefore it is an affront to delusion of independence
 					- Invites us into greater dependency.
 				- I don't owe anything; we remain separtae.
+		- Living in the Gifts is a step into another story of the world, another self, anotherreality.
+			- Loss of control is compensated by a feeling of greater belonging, greater connection.
 			-
-				-
+			-
 -
 -
 -
