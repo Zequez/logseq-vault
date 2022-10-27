@@ -13,7 +13,7 @@
 		- Can be repressed to some extent.
 		- You were born to **sing your song**
 		- Better than necessary for the grade, the boss, the market.
-		- ### Yearning to make art of your work, and your work your art.
+		- ### Yearning to make [[Art]] of your [[Work]], and your Work your Art.
 		- The urge to create something beautiful
 		- Expand your capacities in doing their full potential in service of something magnificent
 	- If your gifts aren't met with receptivity you are going to want to get out of there.
