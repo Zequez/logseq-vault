@@ -2,5 +2,6 @@
 - If your Expectation is not fulfilled, it turns into a [[Resentment]].
 - Expectations Are a Form of Control
 	- https://www.myss.com/third-setting-the-controlling-power-of-expectations/
-	- Giving up the compulsion to have expectations
+	- Giving up the compulsion to have expectations is a rigorous spiritual practice
+	-
 -
