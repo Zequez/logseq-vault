@@ -15,7 +15,7 @@
 		- The Gift by Lewis Hyde
 		- Debts: The First 5000 Years by David Graeber
 	- What is a [[Gift]]?
-	- Living in the Gifts is a step into another story of the world, another self, another reality.
+	- Living in the Gift is a step into another story of the world, another self, another reality.
 		- Loss of control is compensated by a feeling of greater belonging, greater connection.
 		- This is not a formula or a path with a map.
 # What form of control are you ready to let go of?
