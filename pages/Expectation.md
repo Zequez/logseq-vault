@@ -5,4 +5,5 @@
 	- Giving up the compulsion to have expectations is a rigorous spiritual practice
 	- Goal of becoming conscious:
 		- Realize what shadow practices you have to release in your life because they do not serve you. Expectations do not serve you.
-	- We have been target of expectations; and we have also projected our expectations onto the people in our life
+	- I have been target of expectations; and I have also projected my expectations onto the people in our life
+		- This is not an attempt to create a victim/perpertator drama;
