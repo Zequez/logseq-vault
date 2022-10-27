@@ -19,4 +19,4 @@
 		- What is that you expect of others? Specifically, are your expectations rooted in compensating for actions you do not wish to do for yourself?
 	- Becoming Mindful That You Are Projecting Expectations
 		- Choosing to release these expectations as best as you can is game changer
-		-
+		- Expectations are very powerful; it's a
