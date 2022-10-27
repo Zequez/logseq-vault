@@ -71,6 +71,8 @@
 	- Community is woven from gifts.
 		- Gifts are the warp; stories the woof
 		- Everybydy is in debt with everyone else
+		- Disintegration of community
+			- It has essentially been strip mined; the gift relationships have been turned into goods and services we can buy
 		-
 		-
 		-
