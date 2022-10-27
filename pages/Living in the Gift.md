@@ -11,13 +11,13 @@
 - Expressing Your Gifts
 	- See [[Song of Anger]]
 - Song of Anger
-	- An unstoppable desire to develop and express your capacity to give to the world in service of something that you care about
+	- An unstoppable desire to develop and express your capacity to give to the world in [[Service]] of something that you care about
 		- Can be repressed to some extent.
 		- You were born to **sing your song**
 		- Better than necessary for the grade, the boss, the market.
 		- ### Yearning to make [[Art]] of your [[Work]], and your Work your Art.
 		- The urge to [[Creating]] something [[Beautiful]]
-		- Expand your capacities in doing their full potential in [[Service]] of something magnificent
+		- Expand your capacities in doing their full potential in Service of something magnificent
 	- If your gifts aren't met with receptivity you are going to want to get out of there.
 - Scarcity
 	- The scarcity and the struggle are very much artificial and systemic. They have a systemic dimension and an internal dimension creating additional struggle that’s not even built into the system and not built into the course of a normal life.
