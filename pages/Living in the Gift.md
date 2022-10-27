@@ -24,6 +24,7 @@
 		- Yearning to make art of your work, and your work your art.
 		- Urge to create something beautiful
 		- Expand your capacities in doing their full potential in service of something magnificent
+- ---
 - Books
 	- The Gift by Lewis Hyde
 	- Debts: The First 5000 Years by David Graeber
@@ -61,7 +62,8 @@
 		- Recognize readiness to what form of control are you ready to release.
 		- Any release of control is a step into gift.
 	- # What form of control are you ready to let go of?
-	- ---
+- ---
+-
 	-
 	-
 -
