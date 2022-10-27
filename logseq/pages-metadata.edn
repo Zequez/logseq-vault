@@ -417,12 +417,18 @@
  {:block/name "command line",
   :block/created-at 1666236134332,
   :block/updated-at 1666236134332}
+ {:block/name "commitment",
+  :block/created-at 1666842718069,
+  :block/updated-at 1666842718069}
  {:block/name "committing",
   :block/created-at 1664153508955,
   :block/updated-at 1664153508955}
  {:block/name "commonplace book",
   :block/created-at 1663651281928,
   :block/updated-at 1663651281928}
+ {:block/name "community",
+  :block/created-at 1666842730286,
+  :block/updated-at 1666842875595}
  {:block/name "completar la comunicación",
   :block/created-at 1663768183764,
   :block/updated-at 1663768183764}
@@ -771,7 +777,7 @@
   :block/updated-at 1665413369761}
  {:block/name "gift",
   :block/created-at 1666840935640,
-  :block/updated-at 1666840935640}
+  :block/updated-at 1666842330953}
  {:block/name "git",
   :block/created-at 1666240647561,
   :block/updated-at 1666240770273}
@@ -996,6 +1002,9 @@
  {:block/name "learning in public",
   :block/created-at 1666235347387,
   :block/updated-at 1666235408746}
+ {:block/name "leisure",
+  :block/created-at 1666841966780,
+  :block/updated-at 1666841966780}
  {:block/name "library genesis",
   :block/created-at 1665413371514,
   :block/updated-at 1665413371514}
@@ -1007,7 +1016,7 @@
   :block/updated-at 1665413371606}
  {:block/name "living in the gift",
   :block/created-at 1666833198745,
-  :block/updated-at 1666841946464}
+  :block/updated-at 1666842994634}
  {:block/name "living outdoors",
   :block/created-at 1665413371534,
   :block/updated-at 1665413371534}
@@ -1206,6 +1215,9 @@
  {:block/name "necessity",
   :block/created-at 1666613126313,
   :block/updated-at 1666613126313}
+ {:block/name "needs",
+  :block/created-at 1666842855974,
+  :block/updated-at 1666842855974}
  {:block/name "needs of the space",
   :block/created-at 1664835654078,
   :block/updated-at 1664835654078}
@@ -1679,7 +1691,7 @@
   :block/updated-at 1666010542046}
  {:block/name "stories",
   :block/created-at 1663651282591,
-  :block/updated-at 1663651282591}
+  :block/updated-at 1666842679255}
  {:block/name "story",
   :block/created-at 1666010510434,
   :block/updated-at 1666010528906}
@@ -1732,6 +1744,9 @@
  {:block/name "the language of emotions - karla mclaren",
   :block/created-at 1659564799399,
   :block/updated-at 1659564799399}
+ {:block/name "the money economy",
+  :block/created-at 1666842839092,
+  :block/updated-at 1666842839092}
  {:block/name "the poop journey",
   :block/created-at 1666423552228,
   :block/updated-at 1666424253625}
