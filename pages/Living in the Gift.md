@@ -9,8 +9,8 @@
 	- Your life is a [[Gift]]; Your native state is [[Gratitude]]; the world is a gift, the cosmos operates on the principles of gift.
 	- The knowledge that it is a gift, the knowledge of having received, the knowledge that you didn't earn your breath, your heartbeat, your blood, your conception, your... Your life is a gift. So Gratitude is your native state.
 - Expressing Your Gifts
-	- [[Rage Singing]]
-- Rage Singing
+	- [[Song of Anger]]
+- Song of Anger
 	- An unstoppable desire to develop and express your capacity to give to the world in service of something that you care about
 		- Can be repressed to some extent.
 		- You were born to **sing your song**
