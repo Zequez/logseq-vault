@@ -1,0 +1,4 @@
+- Life and play had migrated indoors out of the public realm into the private realm
+- Cooking club was not helping to meet any of their real needs; it fell into the category of Leisure.
+- We didn't really need each other.
+	- We are all plugged into the money economy and we meet all our [[Needs]] with money.

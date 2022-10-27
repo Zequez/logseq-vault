@@ -1,14 +1,9 @@
-- The Money Economy
-	-
-	- Life and play had migrated indoors out of the public realm into the private realm
-	- Cooking club was not helping to meet any of their real needs; it fell into the category of Leisure.
-	- We didn't really need each other.
-		- We are all plugged into the money economy and we meet all our needs with money.
+- [[The Money Economy]]
 - Community is woven from [[Gift]].
 	- Gifts are the warp; [[Stories]] the woof
 	- Everybody is in debt with everyone else
 	- Disintegration of community
-		- It has essentially been strip mined; the gift relationships have been turned into goods and services we can buy
+		- It has essentially been strip mined by [[The Money Economy]]; the gift relationships have been turned into goods and services we can buy
 	- The more developed a country is the more community is broken down
 		- Rural people and the poor tend to have mor community than the affluent.
 	- [[Commitment]] to an aim beyond themselves
