@@ -1,5 +1,5 @@
-- [[Story]]
+- Plurality of [[Story]]
 - Story of Separation
--
+- Story of [[Money]]
 -
 -

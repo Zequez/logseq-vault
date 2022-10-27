@@ -29,7 +29,7 @@
 			- We are all plugged into the money economy and we meet all our needs with money.
 	- Community is woven from Gift.
 		- [[Gifts]] are the warp; [[Stories]] the woof
-		- Everybydy is in debt with everyone else
+		- Everybody is in debt with everyone else
 		- Disintegration of community
 			- It has essentially been strip mined; the gift relationships have been turned into goods and services we can buy
 		- The more developed a country is the more community is broken down
