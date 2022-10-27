@@ -1,21 +1,24 @@
 - These are notes on the [Living in the Gift course by Charles Eistenstein](https://charleseisenstein.org/courses/living-in-the-gift)
 - ---
-- [[Gratitude]]
-- [[Life is a Gift]]
-- [[Expressing Your Gifts]]
-- [[Song of Anger]]
-- [[Scarcity]]
-- Ease and [[Leisure]]
-	- Is this part of the fabric of life or are these just interruptions in a normalized reality of scarcity?
+- Our Native State
+	- [[Gratitude]]
+	- [[Life is a Gift]]
+	- [[Expressing Your Gifts]]
+	- [[Song of Anger]]
+	- [[Scarcity]]
+	- Ease and [[Leisure]]
+		- Is this part of the fabric of life or are these just interruptions in a normalized reality of scarcity?
 # Gratitude is my native state
 - ---
+- Sovereei
 - Books
 	- The Gift by Lewis Hyde
 	- Debts: The First 5000 Years by David Graeber
 - What is a [[Gift]]?
-	- Living in the Gifts is a step into another story of the world, another self, another reality.
-		- Loss of control is compensated by a feeling of greater belonging, greater connection.
-		- This is not a formula or a path with a map.
+- Living in the Gifts is a step into another story of the world, another self, another reality.
+	- Loss of control is compensated by a feeling of greater belonging, greater connection.
+	- This is not a formula or a path with a map.
+# What form of control are you ready to let go of?
 - ---
 -
 - Life and play had migrated indoors out of the public realm into the private realm
