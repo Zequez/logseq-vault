@@ -7,14 +7,12 @@
 	- > Why does the sun shine? We did not earn the sun. It's not thanks to our hard efforts that the sun shines
 	- Your life is a gift; Your native state is [[Gratitude]]; the world is a gift, the cosmos operates on the principles of gift.
 	- The knowledge that it is a gift, the knowledge of having received, the knowledge that you didn't earn your breath, your heartbeat, your blood, your conception, your... Your life is a gift. So gratitude is your native state.
--
 - Expressing Your Gifts
 	- If your gifts aren't met with receptivity you are going to want to get out of there.
-	- There is unstoppable desire to develop and express your capacity to give to the world in service of
-	  something that you care about.
+	- There is unstoppable desire to develop and express your capacity to give to the world in service of something that you care about.
 	- Your Song
 		- You were born to sign it; whatever your song is.
-	- Better than necessary for the grade, the boss, the market.
+		- Better than necessary for the grade, the boss, the market.
 		- ### Yearning to make art of your work, and your work your art.
 		- Urge to create something beautiful
 		- Expand your capacities in doing their full potential in service of something magnificent
