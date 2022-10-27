@@ -3,9 +3,10 @@
 	- Gratitude is the knowledge of having received and the consequent desire to give in turn.
 	- Better than neccesary for the grade
 	- Why does the sun shine?
-	- Your life is a gift; Your native state is gratitude
-		- The knowledeg that it is a gift, the knowledge of having received.
+	- Your life is a gift; Your native state is gratitude; the world is a gift, the cosmos operates on the principles of gift.
+		- The knowledge that it is a gift, the knowledge of having received.
 	- ## Gratitude is my native state
+		- The knowledge that it is a gift, the knowledge of having received, the knowledge that you didn't earn your breath, your geat
 - Life is a gift
 	- > "We did not earn the sun. It's not thanks to our hard efforts that the sun shines"
 -
