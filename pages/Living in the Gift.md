@@ -16,8 +16,8 @@
 		- You were born to **sing your song**
 		- Better than necessary for the grade, the boss, the market.
 		- ### Yearning to make [[Art]] of your [[Work]], and your Work your Art.
-		- The urge of [[Creating]] something [[Beautiful]]
-		- Expand your capacities in doing their full potential in service of something magnificent
+		- The urge to [[Creating]] something [[Beautiful]]
+		- Expand your capacities in doing their full potential in [[Service]] of something magnificent
 	- If your gifts aren't met with receptivity you are going to want to get out of there.
 - Scarcity
 	- The scarcity and the struggle are very much artificial and systemic. They have a systemic dimension and an internal dimension creating additional struggle that’s not even built into the system and not built into the course of a normal life.
