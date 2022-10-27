@@ -1,11 +1,11 @@
 - These are notes on the [Living in the Gift course by Charles Eistenstein](https://charleseisenstein.org/courses/living-in-the-gift)
 - Gratitude
 	- Gratitude is the knowledge of having received and the consequent desire to give in turn.
-	- Your life is a gift; Your native state is Gratitude; the world is a gift, the cosmos operates on the principles of gift.
-		- The knowledge that [[Life is a Gift]], the knowledge of having received.
+	- The knowledge that [[Life is a Gift]], the knowledge of having received.
 	- # Gratitude is my native state
 - Life is a Gift
 	- > Why does the sun shine? We did not earn the sun. It's not thanks to our hard efforts that the sun shines
+	- Your life is a gift; Your native state is [[Gratitude]]; the world is a gift, the cosmos operates on the principles of gift.
 	- The knowledge that it is a gift, the knowledge of having received, the knowledge that you didn't earn your breath, your heartbeat, your blood, your conception, your... Your life is a gift. So gratitude is your native state.
 -
 - Expressing Your Gifts
