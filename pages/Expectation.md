@@ -1,3 +1,6 @@
 - A double [[Assumption]]. An assumption that your assumption is true.
 - If your Expectation is not fulfilled, it turns into a [[Resentment]].
-- [[Expectations Are a Form of Control]]
+- Expectations Are a Form of Control
+	- https://www.myss.com/third-setting-the-controlling-power-of-expectations/
+	- Giving up the compulsion to have expectations
+-
