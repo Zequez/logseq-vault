@@ -5,23 +5,23 @@
 		- The knowledge that it is a gift, the knowledge of having received.
 	- # Gratitude is my native state
 		- The knowledge that it is a gift, the knowledge of having received, the knowledge that you didn't earn your breath, your heartbeat, your blood, your conception, your... Your life is a gift. So gratitude is your native state.
-- Life is a gift
-	- > "We did not earn the sun. It's not thanks to our hard efforts that the sun shines"
+- Life is a Gift
+	- > Why does the sun shine? We did not earn the sun. It's not thanks to our hard efforts that the sun shines
 -
-- Expressing your gifts
+- Expressing Your Gifts
 	- If your gifts aren't met with receptivity you are going to want to get out of there.
-	- An unstoppable desire to develop and express your capacity to give to the world in service of
+	- There is unstoppable desire to develop and express your capacity to give to the world in service of
 	  something that you care about.
+	- Your Song
+		- You were born to sign it; whatever your song is.
+		- Better than necessary for the grade, the boss, the market.
+			- ### Yearning to make art of your work, and your work your art.
+			- Urge to create something beautiful
+			- Expand your capacities in doing their full potential in service of something magnificent
 - Scarcity
 	- The scarcity and the struggle are very much artificial and systemic. They have a systemic dimension and an internal dimension creating additional struggle that’s not even built into the system and not built into the course of a normal life.
 - Ease and leisure
 	- Is this part of the fabric of life or are these just interruptions in a normalized reality of scarcity?
-- Your Song
-	- You were born to sign it; whatever your song is.
-	- Better than necessary for the grade, the boss, the market.
-		- ### Yearning to make art of your work, and your work your art.
-		- Urge to create something beautiful
-		- Expand your capacities in doing their full potential in service of something magnificent
 - ---
 - Books
 	- The Gift by Lewis Hyde
