@@ -21,5 +21,5 @@
 		- Choosing to release these expectations as best as you can is game changer
 		- Expectations are very engrained habit and will require conscious [[Anger]] pry them off you.
 			- As an experiment try removing each expectation you notice with conscious Anger and throwing it into an [[Energetic Black Hole]].
-		-
+		- Wisdom replaces "negativity" (as in negative-attracting pole force? As I'm creating an attracting field) as you come to trust the "truth" that you have no idea "what's really unfolding"
 		-
