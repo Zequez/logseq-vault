@@ -1,0 +1,19 @@
+- Limitations of definitions
+	- Wary of definitions;  precision means exclusion.
+		- Dance around the edges of what a gift is.
+- 3 characteristics
+	- Sovereignty
+		- Must involve some kind of free choice
+	- Release
+		- Release of control; we don't know wether or how it will come back to us.
+		- From the perspective of a [[Separate Self]] giving is profoundly irrational
+	- Relationship
+		- In a real world gifts are usually witnessed, and they generate gratitude.
+		- You can't say something isn't a gift because there are also selfish motives.
+		- Creates and strengthens relationships and that distinguishes them from transactions and from barter.
+		- Receiving a gift creates a kind of obligation
+			- Not attractive to [[Separate Self]]; Separate Self does not want obligations; wants to be independent, not to own anyone anything.
+			- This creates a reluctance to receive.
+			- ### Receiving a gifts affirms your dependency on gifts; therefore it is an affront to delusion of independence
+				- Invites us into greater dependency.
+			- I don't owe anything; we remain separtae.
