@@ -41,7 +41,10 @@
 			- In a real world gifts are usually witnessed, and they generate gratitude.
 			- You can't say something isn't a gift because there are also selfish motives.
 			- Creates and strengthens relationships and that distinguishes them from transactions and from barter.
-			- Receiving a giftts
+			- Receiving a gift creates a kind of obligation
+				- Not attractive to [[Separate Self]]; Separate Self does not want obligations; wants to be independent, not to own anyone anything.
+				- This creates a reluctance to receive.
+				-
 -
 -
 -
