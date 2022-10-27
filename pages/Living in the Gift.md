@@ -59,6 +59,10 @@
 		- Releasing control on the receiving side
 			- Release of staying independent
 		- Recognize readiness to what form of control are you ready to release.
+		- Any release of control is a step into gift.
+	- # What form of control are you ready to let go of?
+	-
+	-
 -
 -
 -
