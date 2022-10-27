@@ -18,6 +18,9 @@
 - Ease and leisure
 	- Is this part of the fabric of life or are these just interruptions in a normalized reality of scarcity?
 - Your Song
-	-
+	- You were born to sign it; whatever your song is.
+	- Better than necessary for the grade, the boss, the market.
+		- Yearning to make art and your work
+-
 -
 -
