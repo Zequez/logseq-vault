@@ -75,6 +75,8 @@
 			- It has essentially been strip mined; the gift relationships have been turned into goods and services we can buy
 		- The more developed a country is the more community is broken down
 			- Rural people and the poor tend to have mor community than the affluent.
+		- Commitment to an aim beyond themselves
+		- "We are in it together"
 		-
 		-
 -
