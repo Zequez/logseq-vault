@@ -15,4 +15,6 @@
 	- Questions
 		- What are your expectations in life?
 		- What are your disappointments?
+		- What do you feel is expected of you and do those expectations feel comfortable or like an unfair projection?
+		- What is that you expect of others? Specifically, are your expectations rooted in compensating for actions you do not wish to do for yourself?
 		-
