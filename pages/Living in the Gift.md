@@ -6,7 +6,9 @@
 	- Your life is a gift; Your native state is gratitude
 		- The knowledeg that it is a gift, the knowledge of having received.
 	- ## Gratitude is my native state
-- > "We did not earn the sun. It's not thanks to our hard efforts that the sun shines"
+- Life is a gift
+	- > "We did not earn the sun. It's not thanks to our hard efforts that the sun shines"
+-
 -
 -
 -
