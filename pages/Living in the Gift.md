@@ -1,7 +1,7 @@
 - These are notes on the [Living in the Gift course by Charles Eistenstein](https://charleseisenstein.org/courses/living-in-the-gift)
 - Gratitude
-	- Gratitude is the knowledge of having received (a [[Gift]]) and the consequent desire to give in turn.
-		-
+	- The knowledge of having received a [[Gift]]
+		- The consequent desire to give in turn by [[Expressing Your Gifts]].
 	- The knowledge that [[Life is a Gift]], the knowledge of having received.
 	- # Gratitude is my native state
 - Life is a Gift
