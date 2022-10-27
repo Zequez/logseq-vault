@@ -9,10 +9,11 @@
 - Life is a gift
 	- > "We did not earn the sun. It's not thanks to our hard efforts that the sun shines"
 -
-- an unstoppable desire to develop and express your capacity to give to the world in service of
-  something that you care about.
--
-- The scarcity and the struggle are very much artificial and systemic.
+- Expressing your gifts
+	- an unstoppable desire to develop and express your capacity to give to the world in service of
+	  something that you care about.
+- Scarcity
+	- The scarcity and the struggle are very much artificial and systemic. They have a systemic dimension and an internal dimension creating additional struggle that’s not even built into the system and not built into the course of a normal life.
 -
 -
 -
