@@ -8,4 +8,5 @@
 	- I have been target of expectations; and I have also projected my expectations onto the people in our life
 		- This is not an attempt to create a victim/perpetrator drama; projecting expectations is not "bad"; it's a [[Psychic Power]]
 	- Are any expectations acceptable? Yes
-		- Expecting not to be lied to or betrayed by the people in your inner circle or your trusted friends and family members.
+		- Expecting not to be lied to or betrayed by the people in your inner circle or your trusted friends and family members. This means they have the right to expect exactly the same from you.
+			- I can use expectations as a way to energetically keep a mutual agreement.
