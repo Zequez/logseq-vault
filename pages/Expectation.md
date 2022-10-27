@@ -22,5 +22,7 @@
 		- Expectations are very engrained habit and will require conscious [[Anger]] pry them off you.
 			- As an experiment try removing each expectation you notice with conscious Anger and throwing it into an [[Energetic Black Hole]].
 		- Wisdom replaces "negativity" (as in negative-attracting pole force? As in I'm creating a "negative" attracting field with my Psychic Power?) as you come to trust the "truth" that you have no idea "what's really unfolding"
-		-
+	- Grace
+		- Divine influence; elegance of movement; good will
+		- Grace strikes us
 		-
