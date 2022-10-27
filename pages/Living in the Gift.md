@@ -55,7 +55,9 @@
 		  want to release that boundary.
 		- Gifts is fundamentally about a release of control and stepping into trust, giving into mystery.
 		- Releasing control on the giving side
-			-
+			- Release of making sure you get a result for your investment
+		- Releasing control on the receiving side
+			- Release of staying independent
 -
 -
 -
