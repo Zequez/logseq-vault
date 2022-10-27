@@ -3,5 +3,6 @@
 - Expectations Are a Form of Control
 	- https://www.myss.com/third-setting-the-controlling-power-of-expectations/
 	- Giving up the compulsion to have expectations is a rigorous spiritual practice
-	-
--
+	- Goal of becoming conscious:
+		- Realize what shadow practices you have to release in your life because they do not serve you. Expectations do not serve you.
+	- We have been target of expectations; and we have also projected our expectations onto the people in our life
