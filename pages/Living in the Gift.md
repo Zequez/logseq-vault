@@ -26,7 +26,7 @@
 		- Expand your capacities in doing their full potential in service of something magnificent
 - Books
 	- The Gift by Lewis Hyde
-	-
+	- Debts: The First 5000 Years by David Graeber
 - What is a gift?
 	- Limitations of definitions
 		- Wary of definitions;  precision means exclusion.
