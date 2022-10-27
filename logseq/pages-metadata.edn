@@ -601,6 +601,9 @@
  {:block/name "emotional reactivity",
   :block/created-at 1663651282590,
   :block/updated-at 1663651282590}
+ {:block/name "energetic black hole",
+  :block/created-at 1666884545613,
+  :block/updated-at 1666884741510}
  {:block/name "energetic body",
   :block/created-at 1663653352128,
   :block/updated-at 1666228904502}
@@ -645,7 +648,7 @@
   :block/updated-at 1663771600734}
  {:block/name "expectation",
   :block/created-at 1666008634052,
-  :block/updated-at 1666884210931}
+  :block/updated-at 1666885101957}
  {:block/name "experiential reality",
   :block/created-at 1665542783026,
   :block/updated-at 1665543105230}
