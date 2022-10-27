@@ -24,7 +24,11 @@
 		- Yearning to make art of your work, and your work your art.
 		- Urge to create something beautiful
 		- Expand your capacities in doing their full potential in service of something magnificent
-		-
+- What is a gift?
+	- Limitations of definitions
+		- Wary of definitions;  precision means exclusion.
+			- Dance around the edges of what a gift is.
+	-
 -
 -
 -
