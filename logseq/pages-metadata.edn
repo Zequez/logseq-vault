@@ -645,10 +645,7 @@
   :block/updated-at 1663771600734}
  {:block/name "expectation",
   :block/created-at 1666008634052,
-  :block/updated-at 1666883586896}
- {:block/name "expectations are a form of control",
-  :block/created-at 1666883586896,
-  :block/updated-at 1666883591370}
+  :block/updated-at 1666884210931}
  {:block/name "experiential reality",
   :block/created-at 1665542783026,
   :block/updated-at 1665543105230}
@@ -1455,6 +1452,9 @@
  {:block/name "proyecto: sincronario",
   :block/created-at 1665413373151,
   :block/updated-at 1665413373151}
+ {:block/name "psychic power",
+  :block/created-at 1666883956348,
+  :block/updated-at 1666883956348}
  {:block/name "publishing logseq vault with github actions",
   :block/created-at 1666183556698,
   :block/updated-at 1666183556698}
