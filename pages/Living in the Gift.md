@@ -10,6 +10,7 @@
 	- > "We did not earn the sun. It's not thanks to our hard efforts that the sun shines"
 -
 - Expressing your gifts
+	- If your gifts aren't met with receptivity you are going to want to get out of there.
 	- an unstoppable desire to develop and express your capacity to give to the world in service of
 	  something that you care about.
 - Scarcity
