@@ -1,3 +1,3 @@
 - A double [[Assumption]]. An assumption that your assumption is true.
 - If your Expectation is not fulfilled, it turns into a [[Resentment]].
-- Expectations Have a Controlling Power
+- [[Expectations Are a Form of Control]]

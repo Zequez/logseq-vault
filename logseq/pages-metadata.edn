@@ -645,7 +645,10 @@
   :block/updated-at 1663771600734}
  {:block/name "expectation",
   :block/created-at 1666008634052,
-  :block/updated-at 1666008693651}
+  :block/updated-at 1666883586896}
+ {:block/name "expectations are a form of control",
+  :block/created-at 1666883586896,
+  :block/updated-at 1666883591370}
  {:block/name "experiential reality",
   :block/created-at 1665542783026,
   :block/updated-at 1665543105230}
@@ -1307,7 +1310,7 @@
   :block/updated-at 1666764161169}
  {:block/name "oct 27th, 2022",
   :block/created-at 1666839603561,
-  :block/updated-at 1666839603561}
+  :block/updated-at 1666883558357}
  {:block/name "oct 3rd, 2022",
   :block/created-at 1664798664343,
   :block/updated-at 1664831440137}
