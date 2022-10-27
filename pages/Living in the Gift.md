@@ -1,4 +1,5 @@
 - These are notes on the [Living in the Gift course by Charles Eistenstein](https://charleseisenstein.org/courses/living-in-the-gift)
+- ---
 - [[Gratitude]]
 - [[Life is a Gift]]
 - [[Expressing Your Gifts]]
