@@ -9,6 +9,10 @@
 - Life is a gift
 	- > "We did not earn the sun. It's not thanks to our hard efforts that the sun shines"
 -
+- an unstoppable desire to develop and express your capacity to give to the world in service of
+  something that you care about.
+-
+-
 -
 -
 -
