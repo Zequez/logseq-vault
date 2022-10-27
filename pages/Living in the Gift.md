@@ -49,10 +49,11 @@
 				- I don't owe anything; we remain separtae.
 	- Living in the Gifts is a step into another story of the world, another self, anotherreality.
 		- Loss of control is compensated by a feeling of greater belonging, greater connection.
+		- This is not a formula or a path with a map.
 	- Releasing Boundaries
 		- Sometimes it is appropriate to refuse a gift if you don’t want that relationship and you don’t
 		  want to release that boundary.
-		-
+		- Gifts is fundamentally about a release of control and stepping into trust, giving into mystery.
 -
 -
 -
