@@ -6,5 +6,8 @@
 			- Commit to being committed
 	- Old map
 		- Commitments exist somewhere else; it does not exist here (to my job, my partner, my project, etc)
-		- "
+		- "I said I would, I'm supposed to, I should, I have to"
+	- New Map
+		- Commitment emerges from the creation of inner structure
+		- Potentially a result of
 -
