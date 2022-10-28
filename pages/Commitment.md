@@ -1,5 +1,6 @@
 - https://www.youtube.com/watch?v=WORnY1xRaFY
 	- I cannot will myself to be committed
 	- In [[Archiarchy]] vocation is being-based
-	-
+		- "It's not skilled-based; they are not holding a context, they are holding a skill"
+		-
 -
