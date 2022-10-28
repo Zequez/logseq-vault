@@ -419,7 +419,7 @@
   :block/updated-at 1666236134332}
  {:block/name "commitment",
   :block/created-at 1666842718069,
-  :block/updated-at 1666842718069}
+  :block/updated-at 1666928962370}
  {:block/name "committing",
   :block/created-at 1664153508955,
   :block/updated-at 1664153508955}

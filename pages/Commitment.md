@@ -12,4 +12,6 @@
 			- Broadening of inner structure; broader sphere of responsibility
 				- Commitments exist within this
 				- Larger
+		- When I commit I
+		- I choose this; therefore I don't want this or that
 -
