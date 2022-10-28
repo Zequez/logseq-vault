@@ -35,4 +35,5 @@
 	- Realize I'm receiving
 	- Dancing; you don't keep track
 - Bigger sense of I
-	- Paradox; be selfish be generous; selfish for this giant whole
+	- Paradox; be selfish be generous; selfish for this giant whole that is truly our identity
+-
