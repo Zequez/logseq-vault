@@ -11,7 +11,6 @@
 		- Commitment emerges from the creation of inner structure
 			- Broadening of inner structure; broader sphere of responsibility
 				- Commitments exist within this
-				- Larger
-		- When I commit I
-		- I choose this; therefore I don't want this or that
+		- When I commit I lose something
+			- I choose this; therefore I don't want this or that
 -
