@@ -2,5 +2,7 @@
 	- I cannot will myself to be committed
 	- In [[Archiarchy]] vocation is being-based
 		- "It's not skilled-based; they are not holding a context, they are holding a skill"
-		-
+		- "I commit to become the thing that will be committed to the trainer path"
+			- Commit to being committed
+	-
 -
