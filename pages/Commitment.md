@@ -1,0 +1,5 @@
+- https://www.youtube.com/watch?v=WORnY1xRaFY
+	- I cannot will myself to be committed
+	- In [[Archiarchy]] vocation is being-based
+	-
+-
