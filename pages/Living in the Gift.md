@@ -30,4 +30,8 @@
 - Any small thing I do creates a ripple effect
 - Citrus makes you feel good after throwing up
 - When I'm giving it creates a transformation in me
+- 3 stages
+	- Giving
+	- Realize I'm receiving
+	- Dancing; you don't keep track
 -
