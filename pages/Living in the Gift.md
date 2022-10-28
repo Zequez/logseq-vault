@@ -27,4 +27,5 @@
 - ---
 - Nipun Mehta
 - Trust that only makes sense if the Universe is generous
-- Any small thin
+- Any small thing I do creates a ripple effect
+-
