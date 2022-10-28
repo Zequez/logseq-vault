@@ -9,5 +9,7 @@
 		- "I said I would, I'm supposed to, I should, I have to"
 	- New Map
 		- Commitment emerges from the creation of inner structure
-		- Potentially a result of
+			- Broadening of inner structure; broader sphere of responsibility
+				- Commitments exist within this
+				- Larger
 -
