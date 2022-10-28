@@ -26,4 +26,4 @@
 # We are in this Together
 - ---
 - Nipun Mehta
--
+- Trust that only makes sense if the Universe is generous
