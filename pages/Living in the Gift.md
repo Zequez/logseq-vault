@@ -37,5 +37,6 @@
 - Bigger sense of I
 	- Paradox; be selfish be generous; selfish for this giant whole that is truly our identity
 - "Breath, be here, we are not giving and receiving, we're dancing as a whole"
+- Gratitude is the source of Generosity
 -
 -
