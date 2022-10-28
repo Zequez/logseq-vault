@@ -4,5 +4,7 @@
 		- "It's not skilled-based; they are not holding a context, they are holding a skill"
 		- "I commit to become the thing that will be committed to the trainer path"
 			- Commit to being committed
-	-
+	- Old map
+		- Commitments exist somewhere else; it does not exist here (to my job, my partner, my project, etc)
+		- "
 -
