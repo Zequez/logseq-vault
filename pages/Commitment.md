@@ -7,10 +7,14 @@
 	- Old map
 		- Commitments exist somewhere else; it does not exist here (to my job, my partner, my project, etc)
 		- "I said I would, I'm supposed to, I should, I have to"
+		- I'm a slave to my commitments
 	- New Map
 		- Commitment emerges from the creation of inner structure
 			- Broadening of inner structure; broader sphere of responsibility
 				- Commitments exist within this
 		- When I commit I lose something
 			- I choose this; therefore I don't want this or that
+			- Lose invisibility; you commit you become visible
+		- My commitments are forces of energy of information; I'm energized by the commitment
+			-
 -
