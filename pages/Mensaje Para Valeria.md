@@ -3,7 +3,7 @@
 	- Actualmente tenemos un acuerdo en el cual yo por 2 años más me comprometo a transferirte mensualmente un monto decidido por un banco en base a un índice que lo decide alguien que no conozco.
 	- Pienso que debido a las circumstances planetarias actuales creo adecuada una renegociación de nuestro acuerdo, que tiene implícito un contexto de una civilización que está destruyendo la vida en la tierra.
 - No nos interesa atrincherarnos en la casa y quedarnos toda la vida. Queremos viajar y habitar distintos lugares alrededor del mundo. Conectar con las comunidades locales y regenerar el habitat donde sea que estemos viviendo.
-- Quisiera que juntes podamos trascender esta dualidad inquilino-propietario y seamos un equipo para crear un hábitat en este espacio en particular, que sea propenso a la salud de sus habitantes y de la tierra misma.
+- Quisiera que juntes podamos trascender esta dualidad inquilino-propietario y el obsoleto juego del alquiler y la renta, y en vez de eso seamos un equipo para crear un hábitat en este espacio en particular, que sea propenso a la salud de sus habitantes y de la tierra misma.
 - Nos interesa mejorar la habitabilidad del espacio terrestre delimitado y sus alrededores, e incluso si es posible la capacidad de huéspedes que pueden habitarlo. Esto se traduce en mejoras en la infraestructura de la casa en resonancia con principios permaculturales.
 	- Jardín comestible
 	- Agroecología
