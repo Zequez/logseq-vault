@@ -11,8 +11,9 @@
 	- Recolección de agua de lluvia
 	- Tratamientos de agua
 	- Bioconstrucción
-	- Taller / Laboratorio
+	- Taller / Laboratorio / Depósito de materiales
 	- Baños seco
+	- Programa de integración al tejido barrial con
 	-
 -
 - Quisiera introducir ciertas distinciones:
