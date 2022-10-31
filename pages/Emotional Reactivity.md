@@ -36,7 +36,7 @@
 		- When you experience low blood sugar, weird hormonal combinatios, protein deficiency, lack of water, not enough sleep, stress from over-exertion, jet lag, lack of exercise, illness, or accident, etc...
 			- You might experience Emotional Reactivity.
 		- Reactivity appears gradually, sideways, from no apparent stimulus
-		- If physical symptom does not change after treatment from known [[Healers]]
+		- If physical symptom does not change after treatment from known [[Healers]] try with Feelings Practitioner; Emotional Body Healer.
 - It is possible to detect immediately which kind of Emotional Reactivity you or anyone is having and respond usefully.
 	-
 - These cause upsets in your life
@@ -44,3 +44,7 @@
 		- The way becomes obvious and helpful with understanding
 - Learning to choose healing and transformation instead of INDULGING in reactivity
 	- Can create astonishing differences in the quality of your life
+-
+- ## Why am I reactive?
+	- Because 4 of our 6 [[Ego States]]
+-
