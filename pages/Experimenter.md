@@ -1,4 +1,6 @@
 - Using a capital 'E' in the term 'Experimenter' means
 - a 'Conscious Experimenter', that is, being the kind of Experimenter who is at risk of changing-shape during your Experiment
 	- Compared to a stereotype image of a 'Scientist' who dutifully documents data and then compares his results to his hypothesis and... thinks about things...
+- Experiment with changing your identity to Experimenter
+	- 'I am a Reactivity Experimenter with Nonlinear Possibility'
 -
