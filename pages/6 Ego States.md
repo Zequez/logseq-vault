@@ -31,7 +31,7 @@
 			- Hurtful jokes, insults
 			- Good/Bad
 		- Use
-			- Have one
+			- Move one behaviour at a time back to gremlin
 	- [[Demon Ego State]]
 	-
 	- [[Adult Ego State]]
