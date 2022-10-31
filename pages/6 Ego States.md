@@ -1,5 +1,5 @@
 - The "I" you are identified with.
-	- ## [[Parent Ego State]]
+	- [[Parent Ego State]]
 		- Keys
 			- Approve/Disapprove
 			- Praise/Blame
@@ -12,7 +12,7 @@
 			- Should, Must, Have To, Cannot, Rules
 		- Use
 			- [[Voice Blaster]]
-	- ## [[Child Ego State]]
+	- [[Child Ego State]]
 		- Keys
 			- ### Incomplete emotions
 			- Needy
@@ -30,7 +30,10 @@
 			- Revenge, Sabotage, Superiority, Deception, Being Right
 			- Hurtful jokes, insults
 			- Good/Bad
+		- Use
+			- Have one
 	- [[Demon Ego State]]
+	-
 	- [[Adult Ego State]]
 	- [[Archetypal Ego State]]
 -
