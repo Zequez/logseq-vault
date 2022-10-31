@@ -5,7 +5,8 @@
 	- Hooks
 		- [[Gremlin]] to Gremlin to start Gremlin Feeding Frenzy
 		- You can become [[Unhookable]]
-			- You can detect  a
+			- You can detect a Hook by it's purpose with [[Purpose Sniffer]]
+				- There aren't any accidents, there are just Unconscious Purposes
 	- Triggers
 		-
 	- Traumas
