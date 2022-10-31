@@ -13,7 +13,7 @@
 	- Bioconstrucción
 	- Taller / Laboratorio / Depósito de materiales
 	- Baños seco
-	- Programa de integración al tejido barrial con
+	- Integración al tejido barrial mediante encuentros presenciales con propósitos conscientes
 	-
 -
 - Quisiera introducir ciertas distinciones:
