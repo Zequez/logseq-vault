@@ -17,6 +17,7 @@
 				- Give him [[Radically Responsible]] jobs to do.
 	- Triggers
 		- A phrase you say to yourself that gives permission to an energetic entity to devour your life energy.
+		- Feeding entities with your energy is a common survival strategy that works by disempowering yourself
 	- Traumas
 	- Voices
 	- Physical Imbalances
