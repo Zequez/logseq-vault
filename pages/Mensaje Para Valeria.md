@@ -21,7 +21,8 @@
 - Nos interesa que les siguientes habitantes de la casa reciban un lugar sano que les invite a una forma de vivir más consciente. Y que puedan honrar el espacio del mismo modo.
 - A todo esto, me surge hacerte la siguiente propuesta:
 	- Mientras estemos habitando la casa, seguiremos invirtiendo la cantidad que habíamos acordado en la casa, como si fuese propia.
-		- Si no se llega a utilizar lo invertido en el tesoro de la casa, sus próximos habitantes toman responsabilidad de que esto se
+	- Si no se llega a utilizar lo invertido en el tesoro de la casa, sus próximos habitantes toman responsabilidad de que esto.
+	- Si
 	-
 - Qué sentís/pensás sobre esto? Te parece coordinar un Zoom para hablarlo?
 -
