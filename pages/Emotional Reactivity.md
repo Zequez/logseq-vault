@@ -1,8 +1,8 @@
 - 6 Sources of Reactivity
-	- [[Buttons]]
+	- [[Buttons]] / Botones
 		- Your own [[Box]] design
 		- You can redesign your buttons with [[Memetic Engineering]]
-	- Hooks
+	- Hooks / Ganchos
 		- [[Gremlin]] to Gremlin to start Gremlin Feeding Frenzy
 		- You can become [[Unhookable]]
 			- You can detect a Hook by it's purpose with [[Purpose Sniffer]]
@@ -15,10 +15,10 @@
 				- Keep him on a leash
 				- Keep him on a [[Gremlin Food Diet Program]]
 				- Give him [[Radically Responsible]] jobs to do.
-	- Triggers
+	- Triggers / Frases Gatillo
 		- A phrase you say to yourself that gives permission to an energetic entity to devour your life energy.
 		- Feeding entities with your energy is a common survival strategy that works by disempowering yourself
-	- Traumas
+	- Traumas / Trauma
 		- You can incomplete and unexpressed emotions
 		- We live in a feelings-phobic and mind-centered culture
 			- Emotional Wounds are valuable gateways for Emotional Healing Processes that bring valuable parts of your being alive
