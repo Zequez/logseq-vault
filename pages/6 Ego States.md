@@ -37,6 +37,12 @@
 			- Depression, lifelessness, low energy, isolation
 			- Trigger phrases
 		- Use
+			- Spark 137: Close the café, become a "trigger hunter", capture the phrases
+	- [[Adult Ego State]]
+		- You are yourself
+		- Small here
+		- Small now
+		- Small you
 			-
 	-
 	- [[Adult Ego State]]
