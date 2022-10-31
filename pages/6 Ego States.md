@@ -1,15 +1,25 @@
 - The "I" you are identified with.
 	- [[Parent Ego State]]
-		- Approve/Disapprove
-		- Praise/Blame
-		- Voices from external authorities
-		- Parents / Teachers / Bosses
-		- Government / Politics
-		- Religion / Belief System
-		- Corporations culture
-		- Fidelity / Sports
-		- Should, Must, Have To, Cannot, Rules
+		- Keys
+			- Approve/Disapprove
+			- Praise/Blame
+			- Voices from external authorities
+			- Parents / Teachers / Bosses
+			- Government / Politics
+			- Religion / Belief System
+			- Corporations culture
+			- Fidelity / Sports
+			- Should, Must, Have To, Cannot, Rules
+		- Use
+			- [[Voice Blaster]]
 	- [[Child Ego State]]
+		- Keys
+			- Incomplete emotions
+			- Needy
+			- Complaining
+			- Weak victim irresponsible
+			- Powerless comfort zone
+			- Overwhelm
 	- [[Gremlin Ego State]]
 	- [[Demon Ego State]]
 	- [[Adult Ego State]]
