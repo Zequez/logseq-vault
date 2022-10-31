@@ -1,4 +1,4 @@
 - Por lo del alquiler, te invito a una alternativa.
--
+- Actualmente estamos en un acuerdo en el cual yo por 2 años más me comprometo a transferirte mensualmente
 -
 - Como sabés tenemos un acuerdo en el cual mientras yo esté habitando en esta casa hago una contribución que te la doy a vos
