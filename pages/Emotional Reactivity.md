@@ -32,7 +32,8 @@
 		- You have a [[Voice Blaster]]
 		-
 	- Physical Imbalances
-		-
+		- When you experience low blood sugar, weird hormonal combinatios, protein deficiency, lack of water, not enough sleep, stress from over-exertion, jet lag, lack of exercise, illness, or accident, etc...
+			-
 - It is possible to detect immediately which kind of Emotional Reactivity you or anyone is having and respond usefully.
 	-
 - These cause upsets in your life
