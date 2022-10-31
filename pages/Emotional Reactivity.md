@@ -1,8 +1,11 @@
 - 6 Sources of Reactivity
 	- [[Buttons]]
 		- Your own [[Box]] design
+		- You can redesign your buttons with [[Memetic Engineering]]
 	- Hooks
 		- [[Gremlin]] to Gremlin to start Gremlin Feeding Frenzy
+		- You can become [[Unhookable]]
+			- You can detect  a
 	- Triggers
 		-
 	- Traumas
