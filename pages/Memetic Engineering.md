@@ -1,0 +1,1 @@
+- Detection, creation, transformation and application of memes.
