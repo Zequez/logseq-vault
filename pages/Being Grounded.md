@@ -1,1 +1,1 @@
-- Connected by [[Grounding Coord]] to Gaia
+- Connected by [[Grounding Coord]] to [[Gaia[[]]

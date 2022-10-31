@@ -43,6 +43,9 @@
 		- [[Being Centered]]
 		- Being on [[Personal Bubble]]
 		- [[Being Grounded]]
+		- [[Presence]]
+		- [[Conscious Will]]
+		- [[Conscious Purpose]]
 		- Small here
 		- Small now
 		- Small you
