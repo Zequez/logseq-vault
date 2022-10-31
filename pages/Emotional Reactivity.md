@@ -52,5 +52,5 @@
 			- a 'Conscious Experimenter', that is, being the kind of Experimenter who is at risk of changing-shape during your Experiment (as the young Wizard in the logo to the right was changed by his Experiment), in comparison to
 		-
 - # Experiments
--
+	-
 -
