@@ -1,9 +1,9 @@
 - The "I" you are identified with.
 	- ## [[Parent Ego State]]
 		- Keys
-			- ### Approve/Disapprove
-			- ### Praise/Blame
-			- ### Voices from external authorities
+			- Approve/Disapprove
+			- Praise/Blame
+			- Voices from external authorities
 			- Parents / Teachers / Bosses
 			- Government / Politics
 			- Religion / Belief System
@@ -27,7 +27,9 @@
 			- Voice of your underworld
 			- Serving shadow principles
 			- Low Drama
-			-
+			- Revenge, Sabotage, Superiority, Deception, Being Right
+			- Hurtful jokes, insults
+			- Good/Bad
 	- [[Demon Ego State]]
 	- [[Adult Ego State]]
 	- [[Archetypal Ego State]]
