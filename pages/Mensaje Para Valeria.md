@@ -16,7 +16,7 @@
 	- Sauna / Agua termal
 	- Espacio de agua afuera tipo estanque o bio-piscina
 	- Espacio para organizar círculos presenciales
-	- Integración al tejido barrial expandiendo la influencia por fuera del límite del lote
+	- Integración experimental al tejido barrial expandiendo la influencia por fuera del límite del lote (por ejemplo tomando responsabilidad del lote de enfrente, o de conectar la manzana mediante puertas entre las medianeras de les vecines, o armando un)
 	- Etc
 - Nos interesa que les siguientes habitantes de la casa reciban un lugar sano que les invite a una forma de vivir más consciente. Y que puedan honrar el espacio del mismo modo.
 - A todo esto, me surge hacerte la siguiente propuesta:
