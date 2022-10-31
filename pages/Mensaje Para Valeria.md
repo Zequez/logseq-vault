@@ -14,13 +14,8 @@
 	- Taller / Laboratorio / Depósito de materiales
 	- Baños seco
 	- Integración al tejido barrial mediante encuentros presenciales con propósitos conscientes
-	-
--
-- Quisiera introducir ciertas distinciones:
-	- Tesoro de la Casa
-		- Es un fondo monetario en dólares o en pesos que
--
-- Te hago la siguiente propuesta:
+	- Etc
+- A todo esto, te quiero hacer la siguiente propuesta:
 	- Mientras estemos habitando vamos a continuar contribuyendo al Tesoro de la Casa.
 		- El Tesoro de la Casa es usado por sus habitantes a discreción para mejorar la habitabilidad de la casa
 	- Sigo invirtiendo la cantidad que habíamos acordado en la casa, como si fuese propia
