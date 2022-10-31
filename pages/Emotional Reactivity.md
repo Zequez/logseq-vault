@@ -19,7 +19,8 @@
 		- A phrase you say to yourself that gives permission to an energetic entity to devour your life energy.
 		- Feeding entities with your energy is a common survival strategy that works by disempowering yourself
 	- Traumas
-		- We live in a
+		- You can incomplete and unexpressed emotions
+		- We live in a feelings-phobic and mind-centered culture
 	- Voices
 	- Physical Imbalances
 - It is possible to detect immediately which kind of Emotional Reactivity you or anyone is having and respond usefully.
