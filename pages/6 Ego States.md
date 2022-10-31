@@ -1,5 +1,5 @@
 - The "I" you are identified with.
-	- [[Parent Ego State]]
+	- ## [[Parent Ego State]]
 		- Keys
 			- ### Approve/Disapprove
 			- ### Praise/Blame
@@ -12,9 +12,9 @@
 			- Should, Must, Have To, Cannot, Rules
 		- Use
 			- [[Voice Blaster]]
-	- [[Child Ego State]]
+	- ## [[Child Ego State]]
 		- Keys
-			- Incomplete emotions
+			- ### Incomplete emotions
 			- Needy
 			- Complaining
 			- Weak victim irresponsible
@@ -23,6 +23,11 @@
 		- Use
 			- Emotional Healing Process
 	- [[Gremlin Ego State]]
+		- Keys
+			- Voice of your underworld
+			- Serving shadow principles
+			- Low Drama
+			-
 	- [[Demon Ego State]]
 	- [[Adult Ego State]]
 	- [[Archetypal Ego State]]
