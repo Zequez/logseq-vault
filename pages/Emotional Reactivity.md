@@ -13,7 +13,8 @@
 				- Hold up [[Disk of Nothing]] so hook does not go into your [[Gremlin]] or [[Box]].
 			- You can also use your Gremlin
 				- Keep him on a leash
-				- Keep him on a Gremlin Diet program
+				- Keep him on a [[Gremlin Food Diet Program]]
+				- Give him [[Radically Responsible]] jobs to do.
 				-
 	- Triggers
 		-
