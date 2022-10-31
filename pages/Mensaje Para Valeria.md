@@ -5,7 +5,8 @@
 - No nos interesa atrincherarnos en la casa y quedarnos toda la vida. Queremos viajar y habitar distintos lugares alrededor del mundo. Conectar con las comunidades locales y regenerar el habitat donde sea que estemos viviendo.
 - Quisiera que juntes podamos trascender esta dualidad inquilino-propietario y seamos un equipo para crear un hábitat en este espacio en particular, que sea propenso a la salud de sus habitantes y de la tierra misma.
 - Te hago la siguiente propuesta:
-	- Mientras estemos habitando vamos a continuar contribuyendo al
+	- Mientras estemos habitando vamos a continuar contribuyendo al Tesoro de la Casa.
+		- El Tesoro de la Casa es usado por sus habitantes a discreción para cuestiones de salud
 	- Sigo invirtiendo la cantidad que habíamos acordado en la casa, como si fuese propia
 	-
 -
