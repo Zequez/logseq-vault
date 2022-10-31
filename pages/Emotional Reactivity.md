@@ -24,7 +24,7 @@
 			- Emotional Wounds are valuable gateways for Emotional Healing Processes that bring valuable parts of your being alive
 		- It is possible to leave behind the identity of being a "wounded person"
 		- Some physical symptoms have emotional components to them that cannot be treated with [[Physical Medicine]]
-	- Voices
+	- Voices / Voces
 		- Voices will accompany other sort of reactivities.
 		- There is also reactivity in voices alone
 			- Voices of authority figures that were dominant during the time you were assembling the components of your childhood survival strategy
@@ -32,7 +32,7 @@
 				- These appear as the [[Parent Ego State]]
 		- You have a [[Voice Blaster]]
 		-
-	- Physical Imbalances
+	- Physical Imbalances / Desbalances Físicos
 		- When you experience low blood sugar, weird hormonal combinatios, protein deficiency, lack of water, not enough sleep, stress from over-exertion, jet lag, lack of exercise, illness, or accident, etc...
 			- You might experience Emotional Reactivity.
 		- Reactivity appears gradually, sideways, from no apparent stimulus
