@@ -20,5 +20,5 @@
 		- El Tesoro de la Casa es usado por sus habitantes a discreción para mejorar la habitabilidad de la casa
 	- Sigo invirtiendo la cantidad que habíamos acordado en la casa, como si fuese propia
 	-
--
+- Qué sentís/pensás sobre esto? Te parece coordinar un Zoom para hablarlo?
 -
