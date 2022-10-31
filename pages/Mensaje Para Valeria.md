@@ -21,7 +21,9 @@
 - Nos interesa que les siguientes habitantes de la casa reciban un lugar sano que les invite a una forma de vivir más consciente. Y que puedan honrar el espacio del mismo modo.
 - A todo esto, me surge hacerte la siguiente propuesta:
 	- Mientras estemos habitando la casa, seguiremos invirtiendo la cantidad que habíamos acordado en la casa, como si fuese propia; hay muchas cosas para hacerle.
-	- Quisiera hacer visible otros costos de mantenimiento de la casa que
+	- Quisiera hacer visible otros costos de mantenimiento de la casa:
+		- Obras Sanitarias (que puede eliminarse con recolección de agua de lluvia, baños secos, y lechos nitrificantes)
+		- Luz ()
 	- Si dependés de este dinero y quisieras
 	- Si no se llega a utilizar lo invertido en el tesoro de la casa, sus próximos habitantes toman responsabilidad de que esto.
 	- Hacemos un compromiso mutuo de multiplicar el valor que producimos mensualmente
