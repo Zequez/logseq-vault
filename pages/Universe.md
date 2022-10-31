@@ -1,1 +1,4 @@
-- Everything in relation to you
+- Everything in relation to you.
+- ---
+- Q: Why do I feel separate from the Universe?
+	-
