@@ -1,8 +1,10 @@
 - 6 Sources of Reactivity
 	- [[Buttons]]
+		- Your own [[Box]] design
 	- Hooks
-		- Gremlin-to-gremlin
+		- [[Gremlin]] to Gremlin to start Gremlin Feeding Frenzy
 	- Triggers
+		-
 	- Traumas
 	- Voices
 	- Physical Imbalances
