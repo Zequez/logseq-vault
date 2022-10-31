@@ -29,12 +29,13 @@
 		- There is also reactivity in voices alone
 			- Voices of authority figures that were dominant during the time you were assembling the components of your childhood survival strategy
 				- Your box has been repeating them since you programmed it to do it
+				- These appear as the [[Parent Ego State]]
 		- You have a [[Voice Blaster]]
 		-
 	- Physical Imbalances
 		- When you experience low blood sugar, weird hormonal combinatios, protein deficiency, lack of water, not enough sleep, stress from over-exertion, jet lag, lack of exercise, illness, or accident, etc...
 			- You might experience Emotional Reactivity.
-		- Reactivity appears gradually, sideways,
+		- Reactivity appears gradually, sideways, from no apparent stimulus
 - It is possible to detect immediately which kind of Emotional Reactivity you or anyone is having and respond usefully.
 	-
 - These cause upsets in your life
