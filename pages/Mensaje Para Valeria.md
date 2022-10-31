@@ -15,8 +15,8 @@
 	- Baños seco
 	- Sauna / Agua termal
 	- Espacio de agua afuera tipo estanque o bio-piscina
-	-
-	- Integración al tejido barrial mediante encuentros presenciales con propósitos conscientes
+	- Espacio para organizar círculos presenciales conscientes
+	- Integración al tejido barrial
 	- Etc
 - Nos interesa que les siguientes habitantes de la casa reciban un lugar sano que les invite a una forma de vivir más consciente. Y que puedan honrar el espacio del mismo modo.
 - A todo esto, me surge hacerte la siguiente propuesta:
