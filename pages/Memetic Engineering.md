@@ -1,5 +1,4 @@
-- Who designs what I think with? I do
-- By practicing Memetic Engineering you can design whatyuo think with
+- I choose and design what I think with.
 -
 - Detection, creation, transformation and application of memes.
 -
