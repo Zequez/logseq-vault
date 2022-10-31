@@ -3,6 +3,7 @@
 - Detection, creation, transformation and application of [[Memes]].
 -
 - [[Possibility Psychology]]
+	-
 - Standard Human Intelligence Thoughtware ([[S.H.I.T.]])
 -
 -
