@@ -25,6 +25,8 @@
 		- It is possible to leave behind the identity of being a "wounded person"
 		- Some physical symptoms have emotional components to them that cannot be treated with [[Physical Medicine]]
 	- Voices
+		- Voices will accompany other sort of reactivities.
+		- There is also reactivity in voices alone
 	- Physical Imbalances
 - It is possible to detect immediately which kind of Emotional Reactivity you or anyone is having and respond usefully.
 	-
