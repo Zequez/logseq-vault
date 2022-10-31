@@ -8,7 +8,9 @@
 			- You can detect a Hook by it's purpose with [[Purpose Sniffer]]
 				- There aren't any accidents, there are just Unconscious Purposes
 			- Keep your [[Energetic Center]]
-			- Use your [[Sword of Clarity]] to stay in contact
+			- Use your [[Sword of Clarity]] to stay in contact while letting the hook slide by
+			- Hold up [[Disk of Nothing]] so hook does not go into your [[Gremlin]] or [[Box]].
+			- You can keep your Gremlin on a leash
 	- Triggers
 		-
 	- Traumas
