@@ -21,6 +21,7 @@
 	- Traumas
 		- You can incomplete and unexpressed emotions
 		- We live in a feelings-phobic and mind-centered culture
+			- Emotional Wounds are valuable gateways for Emotional Healing Processes that bring valuable parts of your being alive
 		- Leave behind identity of being a "wounded person"
 	- Voices
 	- Physical Imbalances
