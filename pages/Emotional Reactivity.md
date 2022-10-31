@@ -7,7 +7,8 @@
 		- You can become [[Unhookable]]
 			- You can detect a Hook by it's purpose with [[Purpose Sniffer]]
 				- There aren't any accidents, there are just Unconscious Purposes
-			-
+			- Keep your [[Energetic Center]]
+			- Use your [[Sword of Clarity]] to stay in contact
 	- Triggers
 		-
 	- Traumas
