@@ -612,7 +612,7 @@
   :block/updated-at 1666228781937}
  {:block/name "emotional reactivity",
   :block/created-at 1663651282590,
-  :block/updated-at 1667212735834}
+  :block/updated-at 1667213899288}
  {:block/name "energetic black hole",
   :block/created-at 1666884545613,
   :block/updated-at 1666884741510}
@@ -1419,6 +1419,9 @@
  {:block/name "physical center",
   :block/created-at 1663651282579,
   :block/updated-at 1666423940905}
+ {:block/name "physical medicine",
+  :block/created-at 1667213189122,
+  :block/updated-at 1667213201730}
  {:block/name "playcraft",
   :block/created-at 1664837306819,
   :block/updated-at 1664837306819}
