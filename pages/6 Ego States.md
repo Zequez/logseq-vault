@@ -14,7 +14,7 @@
 			- [[Voice Blaster]]
 	- [[Child Ego State]]
 		- Keys
-			- ### Incomplete emotions
+			- Incomplete emotions
 			- Needy
 			- Complaining
 			- Weak victim irresponsible
@@ -33,6 +33,11 @@
 		- Use
 			- Move one behaviour at a time back to gremlin
 	- [[Demon Ego State]]
+		- Keys
+			- Depression, lifelessness, low energy, isolation
+			- Trigger phrases
+		- Use
+			-
 	-
 	- [[Adult Ego State]]
 	- [[Archetypal Ego State]]
