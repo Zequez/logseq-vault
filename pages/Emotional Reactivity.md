@@ -27,7 +27,7 @@
 	- Voices
 		- Voices will accompany other sort of reactivities.
 		- There is also reactivity in voices alone
-			-
+			- Voices of authority figures that were dominant during the time you were assembling the components of your childhood survival strategy
 		- You have a [[Voice Blaster]]
 		-
 	- Physical Imbalances
