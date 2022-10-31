@@ -1,4 +1,5 @@
 - Por lo del alquiler, te invito a una alternativa.
-- Actualmente estamos en un acuerdo en el cual yo por 2 años más me comprometo a transferirte mensualmente un monto decidido por un banco en base a un indice inflacionario que no entiendo ni me interesa intender.
+- Actualmente estamos en un acuerdo en el cual yo por 2 años más me comprometo a transferirte mensualmente un monto decidido por un banco en base a un indice decidido en algún lugar.
+-
 -
 - Como sabés tenemos un acuerdo en el cual mientras yo esté habitando en esta casa hago una contribución que te la doy a vos
