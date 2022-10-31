@@ -1,9 +1,9 @@
 - Por lo del alquiler, te invito a una alternativa.
 - Actualmente estamos en un acuerdo en el cual yo por 2 años más me comprometo a transferirte mensualmente un monto decidido por un banco en base a un índice que lo decide alguien que no conozco.
 - La verdad que debido a las circumstancias planetarias actuales creo adecuada una renegociación de nuestro acuerdo, que tiene implícito un contexto de una civilización que está destruyendo la vida en la tierra.
-- Quisiera que juntes podamos trascender la dualidad inquilino-propietario y seamos un equipo para crear un hábitat
+- Quisiera que juntes podamos trascender la dualidad inquilino-propietario y seamos un equipo para crear un hábitat en este espacio en particular, que sea propenso a la salud de sus habitantes y de la tierra misma.
 - Te hago la siguiente propuesta:
-	- -
+	- - Sigo invirtiendo la cantidad que habíamos acordado en
 -
 -
 - Como sabés tenemos un acuerdo en el cual mientras yo esté habitando en esta casa hago una contribución que te la doy a vos
