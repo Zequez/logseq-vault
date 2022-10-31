@@ -48,7 +48,7 @@
 - ## Why am I reactive?
 	- Because 4 of our 6 [[6 Ego States]]
 	- If you are not an Experimenter in relation to Reactivity, then you have no Gap between being Reactive and any other possible way of being.
-		- Become a Reactivity Experimenter
+		- Become a Reactivity [[Experimenter]]
 			- a 'Conscious Experimenter', that is, being the kind of Experimenter who is at risk of changing-shape during your Experiment (as the young Wizard in the logo to the right was changed by his Experiment), in comparison to
 		-
 			-
