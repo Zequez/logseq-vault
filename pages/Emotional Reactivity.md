@@ -46,5 +46,5 @@
 	- Can create astonishing differences in the quality of your life
 -
 - ## Why am I reactive?
-	- Because 4 of our 6 [[Ego States]]
+	- Because 4 of our 6 [[6 Ego States]]
 -

@@ -1,0 +1,12 @@
+- The "I" you are identified with.
+	- [[Parent Ego State]]
+		- Approve/Disapprove
+		- Praise/Blame
+		- Voices from external authorities
+		-
+	- [[Child Ego State]]
+	- [[Gremlin Ego State]]
+	- [[Demon Ego State]]
+	- [[Adult Ego State]]
+	- [[Archetypal Ego State]]
+-

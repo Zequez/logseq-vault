@@ -1,8 +1,0 @@
--
-- [[Parent Ego State]]
-- [[Child Ego State]]
-- [[Gremlin Ego State]]
-- [[Demon Ego State]]
-- [[Adult Ego State]]
-- [[Archetypal Ego State]]
--
