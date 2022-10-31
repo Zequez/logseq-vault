@@ -33,12 +33,9 @@
 		- Arreglos simples
 		- Mejoras simples
 	- Y vos estás pagando si no me equivoco, los impuestos de la casa, que no sé cuánto serán.
-	- Si dependés del dinero del alquiler que actualmente te estoy pasando, quisiera ofrecerte posibilidades de alternativas financieras
+	- Quisiera ofrecerte posibilidades de alternativas financieras
 	- De ser necesario prefiero arreglar un monto a invertir en dólares a
 	- Si no se llega a utilizar lo invertido en el tesoro de la casa, sus próximos habitantes toman responsabilidad de que esto.
-	- Hacemos un compromiso mutuo de multiplicar el valor que producimos mensualmente
-	- Armamos una llamada semanal de posibilidades sobre formas de habitar
-	- Si $71.942
 	-
 - Qué sentís/pensás sobre esto? Te parece coordinar un Zoom para hablarlo?
 -
