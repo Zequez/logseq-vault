@@ -28,6 +28,7 @@
 		- Voices will accompany other sort of reactivities.
 		- There is also reactivity in voices alone
 			- Voices of authority figures that were dominant during the time you were assembling the components of your childhood survival strategy
+				- Your box has been repeating them since you programmed it to do it
 		- You have a [[Voice Blaster]]
 		-
 	- Physical Imbalances
