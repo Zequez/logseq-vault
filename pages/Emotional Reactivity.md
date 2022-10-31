@@ -27,6 +27,9 @@
 	- Voices
 		- Voices will accompany other sort of reactivities.
 		- There is also reactivity in voices alone
+			-
+		- You have a [[Voice Blaster]]
+		-
 	- Physical Imbalances
 - It is possible to detect immediately which kind of Emotional Reactivity you or anyone is having and respond usefully.
 	-
