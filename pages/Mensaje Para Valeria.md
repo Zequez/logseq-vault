@@ -22,7 +22,8 @@
 - A todo esto, me surge hacerte la siguiente propuesta:
 	- Mientras estemos habitando la casa, seguiremos invirtiendo la cantidad que habíamos acordado en la casa, como si fuese propia; hay muchas cosas para hacerle.
 	- Quisiera transparentizar todas las actividades de mantenimiento de la casa que yo estoy tomando responsabilidad:
-		- Obras Sanitarias (que puede eliminarse con recolección de agua de lluvia, baños secos, y lechos nitrificantes)
+		- Obras Sanitarias (que podría eliminarse con recolección de agua de lluvia, baños secos, y lechos nitrificantes)
+		- Agua potable (que podría ponerse un filtro o utilizar agua de lluvia)
 		- Electricidad
 		- Gas
 		- Internet
@@ -32,8 +33,7 @@
 		- Arreglos simples
 		- Mejoras simples
 	- Y vos estás pagando si no me equivoco, los impuestos de la casa, que no sé cuánto serán.
-	-
-	- Si dependés de este dinero y quisieras
+	- Si dependés del dinero del alquieler
 	- Si no se llega a utilizar lo invertido en el tesoro de la casa, sus próximos habitantes toman responsabilidad de que esto.
 	- Hacemos un compromiso mutuo de multiplicar el valor que producimos mensualmente
 	- Armamos una llamada semanal de posibilidades sobre formas de habitar
