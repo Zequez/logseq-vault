@@ -15,7 +15,7 @@
 	- Baños seco
 	- Integración al tejido barrial mediante encuentros presenciales con propósitos conscientes
 	- Etc
-- Nos interesa que les siguientes habitantes de la casa reciban un lugar sano que les invite a una forma de vivir diferente.
+- Nos interesa que les siguientes habitantes de la casa reciban un lugar sano que les invite a una forma de vivir más consciente. Y que puedan honrar el espacio del mismo modo.
 - A todo esto, te quiero hacer la siguiente propuesta:
 	- Mientras estemos habitando vamos a continuar contribuyendo al Tesoro de la Casa.
 		- El Tesoro de la Casa es usado por sus habitantes a discreción para mejorar la habitabilidad de la casa
