@@ -15,9 +15,8 @@
 				- Keep him on a leash
 				- Keep him on a [[Gremlin Food Diet Program]]
 				- Give him [[Radically Responsible]] jobs to do.
-				-
 	- Triggers
-		-
+		- A phrase you say to yourself that gives permission to an energetic entity to devour your life energy.
 	- Traumas
 	- Voices
 	- Physical Imbalances
