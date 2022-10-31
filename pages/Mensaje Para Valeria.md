@@ -36,7 +36,7 @@
 	- Quisiera ofrecerte posibilidades de alternativas financieras para multiplicar tus ingresos para compensar lo que dejarías de recibir personalmente si continuamos con esta propuesta.
 		- También me ofrezco a prestarte dinero mientras tanto si necesitás.
 	- Queremos dejar toda la casa amueblada y lista para habitar cuando nos vayamos; no nos interesa ponernos a vender todo lo que está adentro antes de irnos.
-	- Quisiera que podamos decidir juntes la próxima persona que la habite (a vos te gustaría venir a habitar la casa? Me has expresado que no querés venderla.)
+	- Quisiera que podamos decidir juntes la próxima persona que la habite (A vos te gustaría venir a habitar la casa? Me has expresado que no querés venderla.). De este modo puede ser habitada en verano y demás.
 	-
 - Qué sentís/pensás sobre esto? Te parece coordinar un Zoom para hablarlo?
 -
