@@ -33,7 +33,7 @@
 		- Arreglos simples
 		- Mejoras simples
 	- Y vos estás pagando si no me equivoco, los impuestos de la casa, que no sé cuánto serán.
-	- Quisiera ofrecerte posibilidades de alternativas financieras
+	- Quisiera ofrecerte posibilidades de alternativas financieras para multiplicar tus ingresos para compensar lo que dejarías de recibir personalmente si continuamos con esta propuesta. También puedo prestarte dinero mientras tanto si es necesario.
 	- De ser necesario prefiero arreglar un monto a invertir en dólares a
 	- Si no se llega a utilizar lo invertido en el tesoro de la casa, sus próximos habitantes toman responsabilidad de que esto.
 	-
