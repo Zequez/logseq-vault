@@ -1,6 +1,6 @@
 - I choose and design what I think with.
+- Detection, creation, transformation and application of [[Memes]].
 -
-- Detection, creation, transformation and application of memes.
 -
 - ---
 - ## References
