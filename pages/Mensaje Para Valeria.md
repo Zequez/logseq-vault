@@ -3,8 +3,10 @@
 	- Actualmente tenemos un acuerdo en el cual yo por 2 años más me comprometo a transferirte mensualmente un monto decidido por un banco en base a un índice que lo decide alguien que no conozco.
 	- Pienso que debido a las circumstances planetarias actuales creo adecuada una renegociación de nuestro acuerdo, que tiene implícito un contexto de una civilización que está destruyendo la vida en la tierra.
 - Quisiera que juntes podamos trascender la dualidad inquilino-propietario y seamos un equipo para crear un hábitat en este espacio en particular, que sea propenso a la salud de sus habitantes y de la tierra misma.
+- Ni yo ni mi familia tenemos planeado quedarnos acá toda la vida.
 - Te hago la siguiente propuesta:
-	- - Sigo invirtiendo la cantidad que habíamos acordado en la casa, como si fuese propia.
-	  -
+	- Mientras yo esté habitando
+	- Sigo invirtiendo la cantidad que habíamos acordado en la casa, como si fuese propia
+	-
 -
 -
