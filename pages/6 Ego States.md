@@ -1,9 +1,9 @@
 - The "I" you are identified with.
 	- [[Parent Ego State]]
 		- Keys
-			- Approve/Disapprove
-			- Praise/Blame
-			- Voices from external authorities
+			- ### Approve/Disapprove
+			- ### Praise/Blame
+			- ### Voices from external authorities
 			- Parents / Teachers / Bosses
 			- Government / Politics
 			- Religion / Belief System
@@ -19,7 +19,9 @@
 			- Complaining
 			- Weak victim irresponsible
 			- Powerless comfort zone
-			- Overwhelm
+			- Overwhelm, adaptive, scared
+		- Use
+			- Emotional Healing Process
 	- [[Gremlin Ego State]]
 	- [[Demon Ego State]]
 	- [[Adult Ego State]]
