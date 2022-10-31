@@ -3,7 +3,12 @@
 		- Approve/Disapprove
 		- Praise/Blame
 		- Voices from external authorities
-		-
+		- Parents / Teachers / Bosses
+		- Government / Politics
+		- Religion / Belief System
+		- Corporations culture
+		- Fidelity / Sports
+		- Should, Must, Have To, Cannot, Rules
 	- [[Child Ego State]]
 	- [[Gremlin Ego State]]
 	- [[Demon Ego State]]
