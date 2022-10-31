@@ -6,9 +6,14 @@
 - Quisiera que juntes podamos trascender esta dualidad inquilino-propietario y seamos un equipo para crear un hábitat en este espacio en particular, que sea propenso a la salud de sus habitantes y de la tierra misma.
 - Nos interesa mejorar la habitabilidad del espacio terrestre delimitado y sus alrededores, e incluso si es posible la capacidad de huéspedes que pueden habitarlo. Esto se traduce en mejoras en la infraestructura de la casa en resonancia con principios permaculturales.
 	- Jardín comestible
-	- Cultura de compostaje y economía circular
+	- Agroecología
+	- Compostaje y economía circular
 	- Recolección de agua de lluvia
 	- Tratamientos de agua
+	- Bioconstrucción
+	- Taller / Laboratorio
+	- Baños seco
+	-
 -
 - Quisiera introducir ciertas distinciones:
 	- Tesoro de la Casa
