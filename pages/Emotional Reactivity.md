@@ -7,6 +7,7 @@
 		- You can become [[Unhookable]]
 			- You can detect a Hook by it's purpose with [[Purpose Sniffer]]
 				- There aren't any accidents, there are just Unconscious Purposes
+			-
 	- Triggers
 		-
 	- Traumas
