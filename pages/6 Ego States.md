@@ -43,6 +43,7 @@
 		- Small here
 		- Small now
 		- Small you
+		- Doorway to [[Archetypal Ego State]]
 			-
 	-
 	- [[Adult Ego State]]
