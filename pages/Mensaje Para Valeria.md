@@ -22,6 +22,7 @@
 - A todo esto, me surge hacerte la siguiente propuesta:
 	- Mientras estemos habitando la casa, seguiremos invirtiendo la cantidad que habíamos acordado en la casa, como si fuese propia.
 	- Si no se llega a utilizar lo invertido en el tesoro de la casa, sus próximos habitantes toman responsabilidad de que esto.
+	-
 	- Si $71.942
 	-
 - Qué sentís/pensás sobre esto? Te parece coordinar un Zoom para hablarlo?
