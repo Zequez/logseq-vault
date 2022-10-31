@@ -40,6 +40,9 @@
 			- Spark 137: Close the café, become a "trigger hunter", capture the phrases
 	- [[Adult Ego State]]
 		- You are yourself
+		- [[Being Centered]]
+		- Being on [[Personal Bubble]]
+		- [[Being Grounded]]
 		- Small here
 		- Small now
 		- Small you
