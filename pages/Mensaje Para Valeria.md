@@ -22,7 +22,8 @@
 - A todo esto, me surge hacerte la siguiente propuesta:
 	- Mientras estemos habitando vamos a continuar contribuyendo al Tesoro de la Casa.
 		- El Tesoro de la Casa es usado por sus habitantes a discreción para mejorar la habitabilidad de la casa
-	- Sigo invirtiendo la cantidad que habíamos acordado en la casa, como si fuese propia
+	- Sigo invirtiendo la cantidad que habíamos acordado en la casa, como si fuese propia.
+		- Si no se llega a utilizar lo invertido en el tesoro de la casa, la próxima pers
 	-
 - Qué sentís/pensás sobre esto? Te parece coordinar un Zoom para hablarlo?
 -
