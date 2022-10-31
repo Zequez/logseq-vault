@@ -1,6 +1,7 @@
 - Por lo del alquiler, te invito a una alternativa.
 - Actualmente estamos en un acuerdo en el cual yo por 2 años más me comprometo a transferirte mensualmente un monto decidido por un banco en base a un índice que lo decide alguien que no conozco.
-- La verdad que debido a las circumstancias planetarias actuales creo adecuada una renegociación de
+- La verdad que debido a las circumstancias planetarias actuales creo adecuada una renegociación de nuestro acuerdo, que tiene implícito un contexto de una civilización que está destruyendo la vida en la tierra.
+- Quisiera que juntes podamos trascender la dualidad inquilino-propietario y seamos un equipo para crear un hábitat
 - Te hago la siguiente propuesta:
 	- -
 -
