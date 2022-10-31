@@ -32,6 +32,7 @@
 		- You have a [[Voice Blaster]]
 		-
 	- Physical Imbalances
+		-
 - It is possible to detect immediately which kind of Emotional Reactivity you or anyone is having and respond usefully.
 	-
 - These cause upsets in your life
