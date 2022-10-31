@@ -47,4 +47,6 @@
 -
 - ## Why am I reactive?
 	- Because 4 of our 6 [[6 Ego States]]
+	- If you are not an Experimenter in relation to Reactivity, then you have no Gap between being Reactive and any other possible way of being.
+		- Become a Reactivity Experimenter
 -

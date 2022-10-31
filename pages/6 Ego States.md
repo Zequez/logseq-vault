@@ -50,8 +50,5 @@
 		- Small now
 		- Small you
 		- Doorway to [[Archetypal Ego State]]
-			-
-	-
-	- [[Adult Ego State]]
 	- [[Archetypal Ego State]]
 -

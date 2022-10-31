@@ -20,6 +20,9 @@
  {:block/name "5 bodies",
   :block/created-at 1665413368566,
   :block/updated-at 1666229078139}
+ {:block/name "6 ego states",
+  :block/created-at 1667214175188,
+  :block/updated-at 1667215169240}
  {:block/name "62e0b31e-b0ca-441e-892b-1c4bdcf40fff",
   :block/created-at 1659021836904,
   :block/updated-at 1659021836904}
@@ -159,6 +162,9 @@
  {:block/name "archetypal body",
   :block/created-at 1664152570270,
   :block/updated-at 1666229156913}
+ {:block/name "archetypal ego state",
+  :block/created-at 1667214205191,
+  :block/updated-at 1667214205191}
  {:block/name "archetypal lineage",
   :block/created-at 1665407644475,
   :block/updated-at 1665407644475}
@@ -309,6 +315,9 @@
  {:block/name "being centered",
   :block/created-at 1664839569911,
   :block/updated-at 1664839569911}
+ {:block/name "being grounded",
+  :block/created-at 1667214952014,
+  :block/updated-at 1667214969310}
  {:block/name "being hooked into roles",
   :block/created-at 1666102991188,
   :block/updated-at 1666103018384}
@@ -453,6 +462,9 @@
  {:block/name "conscious purpose",
   :block/created-at 1665066277388,
   :block/updated-at 1665066277388}
+ {:block/name "conscious will",
+  :block/created-at 1667215004142,
+  :block/updated-at 1667215004142}
  {:block/name "consciousness",
   :block/created-at 1663653588870,
   :block/updated-at 1663653588870}
@@ -504,6 +516,9 @@
  {:block/name "degrade plastic with radioactivity",
   :block/created-at 1666017030632,
   :block/updated-at 1666017178398}
+ {:block/name "demon ego state",
+  :block/created-at 1667214194507,
+  :block/updated-at 1667214194507}
  {:block/name "depression",
   :block/created-at 1666424002367,
   :block/updated-at 1666424084882}
@@ -612,7 +627,7 @@
   :block/updated-at 1666228781937}
  {:block/name "emotional reactivity",
   :block/created-at 1663651282590,
-  :block/updated-at 1667213899288}
+  :block/updated-at 1667214175189}
  {:block/name "energetic black hole",
   :block/created-at 1666884545613,
   :block/updated-at 1666884741510}
@@ -772,6 +787,9 @@
  {:block/name "gaia's tech team gameworld",
   :block/created-at 1665413370959,
   :block/updated-at 1665413370959}
+ {:block/name "gaia[[",
+  :block/created-at 1667214969309,
+  :block/updated-at 1667214969309}
  {:block/name "galactic synchro",
   :block/created-at 1666012427535,
   :block/updated-at 1666012434689}
@@ -826,6 +844,9 @@
  {:block/name "gremlin",
   :block/created-at 1665413368625,
   :block/updated-at 1665413368625}
+ {:block/name "gremlin ego state",
+  :block/created-at 1667214189685,
+  :block/updated-at 1667214189685}
  {:block/name "gremlin food diet program",
   :block/created-at 1667212569073,
   :block/updated-at 1667212569073}
@@ -856,6 +877,9 @@
  {:block/name "heal from school lab",
   :block/created-at 1664832166439,
   :block/updated-at 1664832166439}
+ {:block/name "healers",
+  :block/created-at 1667214018519,
+  :block/updated-at 1667214046395}
  {:block/name "hidden purpose",
   :block/created-at 1663770937747,
   :block/updated-at 1663770937747}
@@ -1340,7 +1364,7 @@
   :block/updated-at 1667012406639}
  {:block/name "oct 31st, 2022",
   :block/created-at 1667210979304,
-  :block/updated-at 1667212113477}
+  :block/updated-at 1667214018519}
  {:block/name "oct 3rd, 2022",
   :block/created-at 1664798664343,
   :block/updated-at 1664831440137}
