@@ -22,7 +22,8 @@
 		- You can incomplete and unexpressed emotions
 		- We live in a feelings-phobic and mind-centered culture
 			- Emotional Wounds are valuable gateways for Emotional Healing Processes that bring valuable parts of your being alive
-		- It is possible to leave behind identity of being a "wounded person"
+		- It is possible to leave behind the identity of being a "wounded person"
+		- Some physical symptoms have emotional components to them that
 	- Voices
 	- Physical Imbalances
 - It is possible to detect immediately which kind of Emotional Reactivity you or anyone is having and respond usefully.
