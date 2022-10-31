@@ -33,7 +33,7 @@
 		- Arreglos simples
 		- Mejoras simples
 	- Y vos estás pagando si no me equivoco, los impuestos de la casa, que no sé cuánto serán.
-	- Si dependés del dinero del alquieler
+	- Si dependés del dinero del alquiler que actualmente te estoy pasando, quisiera ofrecerte posibilidades
 	- Si no se llega a utilizar lo invertido en el tesoro de la casa, sus próximos habitantes toman responsabilidad de que esto.
 	- Hacemos un compromiso mutuo de multiplicar el valor que producimos mensualmente
 	- Armamos una llamada semanal de posibilidades sobre formas de habitar
