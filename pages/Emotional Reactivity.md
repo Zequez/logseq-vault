@@ -21,6 +21,7 @@
 	- Traumas
 		- You can incomplete and unexpressed emotions
 		- We live in a feelings-phobic and mind-centered culture
+		- Leave behind identity of being a "wounded person"
 	- Voices
 	- Physical Imbalances
 - It is possible to detect immediately which kind of Emotional Reactivity you or anyone is having and respond usefully.
