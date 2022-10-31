@@ -1,4 +1,6 @@
 - Everything in relation to you.
 - ---
 - Q: Why do I feel separate from the Universe?
-	-
+	- Because I'm choosing so.
+		- Q: Why am I choosing that?
+		-
