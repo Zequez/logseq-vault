@@ -1,4 +1,5 @@
 - I choose and design what I think with.
+- I upgrade my [[Thoughtware]]
 - Detection, creation, transformation and application of [[Memes]].
 -
 - [[Possibility Psychology]]
