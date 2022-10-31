@@ -6,8 +6,8 @@
 	- Something completely different from this is possible right now.
 - Standard Human Intelligence Thoughtware ([[S.H.I.T.]])
 -
-- The way out of the dead mechanical reactivity of your Meme Construct's survival strategy is through becoming fiercely aware of precisely how the parts of your Meme Construct trigger one another and work together.
-- Awareness is the transformational force in Memetic Engineering.
+- The way out of the dead mechanical [[Emotional Reactivity]] of your Meme Construct's survival strategy is through becoming fiercely aware of precisely how the parts of your Meme Construct trigger one another and work together.
+	- Awareness is the transformational force in Memetic Engineering.
 -
 - ---
 - ## References

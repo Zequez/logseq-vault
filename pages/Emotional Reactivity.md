@@ -1,0 +1,15 @@
+- 6 Sources of Reactivity
+	- [[Buttons]]
+	- Hooks
+		- Gremlin-to-gremlin
+	- Triggers
+	- Traumas
+	- Voices
+	- Physical Imbalances
+- It is possible to detect immediately which kind of Emotional Reactivity you or anyone is having and respond usefully.
+	-
+- These cause upsets in your life
+	- Once you understand them there is a way to take back your energy and attention
+		- The way becomes obvious and helpful with understanding
+- Learning to choose healing and transformation instead of INDULGING in reactivity
+	- Can create astonishing differences in the quality of your life
