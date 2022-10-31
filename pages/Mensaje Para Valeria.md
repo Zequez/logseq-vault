@@ -5,7 +5,8 @@
 - No nos interesa atrincherarnos en la casa y quedarnos toda la vida. Queremos viajar y habitar distintos lugares alrededor del mundo. Conectar con las comunidades locales y regenerar el habitat donde sea que estemos viviendo.
 - Quisiera que juntes podamos trascender esta dualidad inquilino-propietario y seamos un equipo para crear un hábitat en este espacio en particular, que sea propenso a la salud de sus habitantes y de la tierra misma.
 - Nos interesa mejorar la habitabilidad del Espacio Terrestre, e incluso si es posible la capacidad de huéspedes que pueden habitarlo. Esto se traduce en mejoras en la infraestructura de la casa en resonancia con principios permaculturales.
--
+	- Jardín comestible
+	- Prácticas de compostaje de residuos
 -
 - Quisiera introducir ciertas distinciones:
 	- Tesoro de la Casa
