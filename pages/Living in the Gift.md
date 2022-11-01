@@ -41,6 +41,7 @@
 - We're always receiving way more than what we are contributing with our [[Finite Egos]]
 - Identifying what masks gratitude, what keeps us away from the native state
 	- Lack of awareness
-	- Suspend your idea about what is valuable ()
+	- Suspend your idea about what is valuable (market sense)
+	- How do you get on that state of realizing that we are all receiving?
 -
 -
