@@ -48,7 +48,10 @@
 		- We can always expand our hearts; it's not easy but it's possible.
 	- Each expansion of the heart you enter into a new territory
 		- Is this safe, am I ready for the next stage?
-	-
+- The most powerful people could be anyone
+	- Ripple effect can influence immensely
+- Suspend attachment to outcome; you don't kow
+-
 	-
 -
 -
