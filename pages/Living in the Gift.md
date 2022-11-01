@@ -46,8 +46,9 @@
 	- Potential of my heart to give, can get bigger
 		- Faith in the capacity of the heart
 		- We can always expand our hearts; it's not easy but it's possible.
-	- Each expansion you enter into a new territory
+	- Each expansion of the heart you enter into a new territory
 		- Is this safe, am I ready for the next stage?
+	-
 	-
 -
 -
