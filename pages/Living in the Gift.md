@@ -39,6 +39,8 @@
 - "Breath, be here, we are not giving and receiving, we're dancing as a whole"
 - Gratitude is the source of Generosity
 - We're always receiving way more than what we are contributing with our [[Finite Egos]]
--
+- Identifying what masks gratitude, what keeps us away from the native state
+	- Lack of awareness
+	- Suspend your idea about what is valuable ()
 -
 -
