@@ -55,6 +55,7 @@
   happen – and to access that level of miracle, that level of causality.
 - There is a conspiracy of nature to land us at the doorsteps of greater good.
 - "The gratitude for not having a toothache"
+- When the boundaries betwen you and the other dissovle, your pain becomes my pain.
 -
 -
 -
