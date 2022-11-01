@@ -43,5 +43,7 @@
 	- Lack of awareness
 	- Suspend your idea about what is valuable (market sense)
 	- How do you get on that state of realizing that we are all receiving?
+	- Potential of my heart to give, can get bigger; faith in the capacity o
+	-
 -
 -
