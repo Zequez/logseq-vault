@@ -50,7 +50,8 @@
 		- Is this safe, am I ready for the next stage?
 - The most powerful people could be anyone
 	- Ripple effect can influence immensely
-- Suspend attachment to outcome; you don't kow
+- Suspend attachment to outcome; you don't know what the ultimate outcome of this is meant to be
+-
 -
 	-
 -
