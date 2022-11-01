@@ -54,6 +54,7 @@
 - > We need benefits that go beyond what we understand how to make
   happen – and to access that level of miracle, that level of causality.
 - There is a conspiracy of nature to land us at the doorsteps of greater good.
+- "The gratitude for not having a toothache"
 -
 -
 -
