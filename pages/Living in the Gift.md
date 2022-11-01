@@ -53,6 +53,7 @@
 - Suspend attachment to outcome; you don't know what the ultimate outcome of this is meant to be
 - > We need benefits that go beyond what we understand how to make
   happen – and to access that level of miracle, that level of causality.
+- There is a conspiracy of nature to land us at the doorsteps of greater good.
 -
 -
 -
