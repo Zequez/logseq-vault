@@ -20,6 +20,10 @@
  {:block/name "5 bodies",
   :block/created-at 1665413368566,
   :block/updated-at 1666229078139}
+ {:block/name
+  "56 possibilitators brazil with clinton callahan (29 august 2022)",
+  :block/created-at 1667389986178,
+  :block/updated-at 1667389986178}
  {:block/name "6 ego states",
   :block/created-at 1667214175188,
   :block/updated-at 1667215169240}
@@ -1316,7 +1320,7 @@
   :block/updated-at 1667274718392}
  {:block/name "nov 2nd, 2022",
   :block/created-at 1667360471999,
-  :block/updated-at 1667389481567}
+  :block/updated-at 1667389866057}
  {:block/name "now",
   :block/created-at 1658887939551,
   :block/updated-at 1658887939551}
