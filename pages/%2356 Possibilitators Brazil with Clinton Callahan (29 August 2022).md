@@ -106,7 +106,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- The question "What does it take to create and manage possibility?" It takes different practices in ordinary life. So they are just having a check in to what practices they are using. It's about being on an exciting adventure. Can you be unhookable on other places?
 			-
 			-
-		- Clinton talks about practicing to absurd levels of effectiveness.
+		- Clinton talks about practicing to absurd levels of effectiveness. This is the practice we want.
 			-
 			-
 - LATER Finish watching this possibilitator training video
