@@ -92,6 +92,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				-
 				-
 		- Giovana tells her story.
+		  collapsed:: true
 			- She was holding space for a group, practicing experiences with their energetic bodies.
 			- At the begging she started the process with [[Rage]] and the rest of the group had no [[Distinctions]] about it; they came from the context of [[New Age]] and [[Good Feelings / Bad Feelings]], and [[Bad Vibes / Good Vibes]].
 			- They started saying yes/no from their [[Anger]]. She asked to let their Anger to say what they are. And it was [[Beautiful]].
@@ -105,8 +106,9 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 				- The question "What does it take to create and manage possibility?" It takes different practices in ordinary life. So they are just having a check in to what practices they are using. It's about being on an exciting adventure. Can you be unhookable on other places?
 			-
 			-
-		-
-		-
+		- Clinton talks about practicing to absurd levels of effectiveness.
+			-
+			-
 - LATER Finish watching this possibilitator training video
 - ---
 - Reference: https://www.youtube.com/watch?v=w60DTS7aBcY
