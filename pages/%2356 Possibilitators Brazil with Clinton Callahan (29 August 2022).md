@@ -107,6 +107,7 @@ title:: #56 Possibilitators Brazil with Clinton Callahan (29 August 2022)
 			-
 			-
 		- Clinton talks about practicing to absurd levels of effectiveness. This is the practice we want.
+			- Proposal is made to watch movie The Prestige and report to the group.
 			-
 			-
 - LATER Finish watching this possibilitator training video
