@@ -7,11 +7,10 @@
 			- Additionally, the spreadsheet data will be used as source to generate a customizable website that acts as a sort of visual team page.
 				- Further down the line this can be enhanced with a monitoring system that keeps track of what's up with the team and highlights updates to their linked public online activity.
 		- For example for an hypothetical PM Language Exchange Gameworld these [forms](https://docs.google.com/forms/d/e/1FAIpQLSc81lzTXTC5GSE9IIItYRR97TEg0PyI0slpgIiSKsKdSiSCwg/viewform) and [spreadsheets](https://docs.google.com/spreadsheets/d/1vvb_znZfMiKrn9P5XimRUdE8yifTuunzjTGKFkFpjB8/edit#gid=1262274810) were created, where each member is asked what languages they want to practice, what language they are competent at, their time availability, if they've already found a partner, and experiments they would like to propose. With this, I believe new possibilities open up for play that are not available on just having Telegram as a team hub. Telegram would still be a vital part of the team tool system.
-	-
 	- I want to use this to fund my next steps, so part of the proposal is to ask for collaboration.
 		- For me the value is that of enhancing team collaboration by creating a space where a team can co-create and play with their information.
 		- I don't want to charge for the system itself. Digital tools are essentially free and I don't believe in creating artificial scarcity. So I want to automate the digital system as much as possible, and create detailed instructions on how to do this.
-		- However for the web system there is some maintenance costs that I would take responsibility for.
+		- However for the web system there is some maintenance costs that I would take responsibility for
 		- "Commit to my commitment to steward this Gameworld by supporting my next steps in Patreon/Ko-fi/Paypal/etc"
 			- This would live under "teampages.zequez.space" where "zequez.space" is my possibilitator website (right now it's the old developer website)
 		- Or maybe could make a sort of gameboard consulting fee where during a 1-1 meeting we just create what you have in mind and then we keep the conversation going?
