@@ -11,8 +11,8 @@
 	- I want to use this to fund my next steps, so part of the proposal is to ask for collaboration.
 		- I don't want to charge for the system itself. Digital tools are essentially free and I don't believe in creating artificial scarcity. So I want to automate the digital system as much as possible, and create detailed instructions on how to do this.
 		- However for the web system there is some maintenance costs that I would take responsibility for.
-		- "Commit to my commitment to steward this Gameworld by supporting my next steps in Patreon"
-		- This would live
+		- "Commit to my commitment to steward this Gameworld by supporting my next steps in Patreon/Ko-fi/Paypal/etc"
+			- This would live under "teampages.zequez.space" where "zequez.space" is my possibilitator website (right now it's the old developer website)
 		-
 	-
 	-
