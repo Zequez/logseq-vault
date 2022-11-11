@@ -6,6 +6,6 @@
 				- The spreadsheet can be played around with to create a sort of gameboard
 			- Additionally, the spreadsheet data will be used as source to generate a customizable website that acts as a sort of visual team page.
 				- Further down the line this can be enhanced with a monitoring system that keeps track of what's up with the team and highlights updates to their linked public online activity.
-		- For example for the Learning Language
+		- For example for an hypothetical PM Language Exchange Gameworld these forms and spreadsheets were created
 			-
 		-
