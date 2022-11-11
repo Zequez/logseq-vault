@@ -3,5 +3,6 @@
 		- It works like this:
 			- An editable web form (Google Forms) is created that each member maintain with a set questions that would be useful for the purpose of the gameworld you are playing at, sort of like a character sheet in a game
 			- The answers get recorded and are available to every team member on a spreadsheet (Google Sheets)
-				- The spreadsheet can be
+				- The spreadsheet can be played around with to create a sort of gameboard
+			- Additionally, the spreadsheet data will be used as source to generate a customizable website
 		-
