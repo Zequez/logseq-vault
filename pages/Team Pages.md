@@ -4,5 +4,6 @@
 			- An editable web form (Google Forms) is created that each member maintain with a set questions that would be useful for the purpose of the gameworld you are playing at, sort of like a character sheet in a game
 			- The answers get recorded and are available to every team member on a spreadsheet (Google Sheets)
 				- The spreadsheet can be played around with to create a sort of gameboard
-			- Additionally, the spreadsheet data will be used as source to generate a customizable website
+			- Additionally, the spreadsheet data will be used as source to generate a customizable website that acts as a sort of visual team page.
+				- This can further be enhanced with a notifications system that keeps track of what's up with the team and highlights updates to their
 		-
