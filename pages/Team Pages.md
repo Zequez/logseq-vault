@@ -1,3 +1,4 @@
 - Hello team! This idea has been consolidating in my mind for a few days already and I feel turned on about it, and I want to get feedback. Here is how a proposal for what I'm called to create would look like:
-	- I'm proposing to create for your own team or gameworld a digital toolbox for collaboratively sharing information and creating a team website.
+	- I'm proposing to create for your own team or gameworld a digital toolbox for collaboratively sharing information and co-creating a team website.
+		- It works like this: a Google Form is created for the team or gameworld and
 		-
