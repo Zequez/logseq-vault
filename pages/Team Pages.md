@@ -13,6 +13,7 @@
 		- However for the web system there is some maintenance costs that I would take responsibility for.
 		- "Commit to my commitment to steward this Gameworld by supporting my next steps in Patreon/Ko-fi/Paypal/etc"
 			- This would live under "teampages.zequez.space" where "zequez.space" is my possibilitator website (right now it's the old developer website)
+		- Or maybe could make a sort of gameboard consulting fee where during a 1-1 meeting we just create what you have in mind and then we keep the conversation going?
 		-
 	-
 	-
