@@ -7,7 +7,7 @@
 			- Additionally, the spreadsheet data will be used as source to generate a customizable website that acts as a sort of visual team page.
 				- Further down the line this can be enhanced with a monitoring system that keeps track of what's up with the team and highlights updates to their linked public online activity.
 		- For example for an hypothetical PM Language Exchange Gameworld these [forms](https://docs.google.com/forms/d/e/1FAIpQLSc81lzTXTC5GSE9IIItYRR97TEg0PyI0slpgIiSKsKdSiSCwg/viewform) and [spreadsheets](https://docs.google.com/spreadsheets/d/1vvb_znZfMiKrn9P5XimRUdE8yifTuunzjTGKFkFpjB8/edit#gid=1262274810) were created.
-	- Now, this requires the work of creating the spreadsheets and forms in a
+	- Now, this requires the work of creating the spreadsheets and forms which can easily be taught; and then the website generation system would also need some extra work that I'm capable of doing.
 		-
 		-
 		-
