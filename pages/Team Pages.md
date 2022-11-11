@@ -1,4 +1,4 @@
-- Hello team! This idea has been consolidating in my mind for a few days already and I feel turned on about it, and I want to get feedback. Here is how a proposal for what I'm called to create would look like:
+- Hello team! This idea has been consolidating in my mind for a few days already and I'm turned on about it, and I want to get feedback. Here is how a proposal for what I'm called to create would look like:
 	- I'm proposing to create for your own team or gameworld a digital toolbox for collaboratively sharing information and co-creating a team website.
 		- It works like this:
 			- An editable web form (Google Forms) is created that each member maintain with a set questions that would be useful for the purpose of the gameworld you are playing at, sort of like a character sheet in a game
@@ -6,6 +6,7 @@
 				- The spreadsheet can be played around with to create a sort of gameboard
 			- Additionally, the spreadsheet data will be used as source to generate a customizable website that acts as a sort of visual team page.
 				- Further down the line this can be enhanced with a monitoring system that keeps track of what's up with the team and highlights updates to their linked public online activity.
-		- For example for an hypothetical PM Language Exchange Gameworld these forms and spreadsheets were created.
+		- For example for an hypothetical PM Language Exchange Gameworld these [forms](https://docs.google.com/forms/d/e/1FAIpQLSc81lzTXTC5GSE9IIItYRR97TEg0PyI0slpgIiSKsKdSiSCwg/viewform) and [spreadsheets](https://docs.google.com/spreadsheets/d/1vvb_znZfMiKrn9P5XimRUdE8yifTuunzjTGKFkFpjB8/edit#gid=1262274810) were created.
+			-
 			-
 		-
