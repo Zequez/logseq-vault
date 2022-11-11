@@ -8,7 +8,9 @@
 				- Further down the line this can be enhanced with a monitoring system that keeps track of what's up with the team and highlights updates to their linked public online activity.
 		- For example for an hypothetical PM Language Exchange Gameworld these [forms](https://docs.google.com/forms/d/e/1FAIpQLSc81lzTXTC5GSE9IIItYRR97TEg0PyI0slpgIiSKsKdSiSCwg/viewform) and [spreadsheets](https://docs.google.com/spreadsheets/d/1vvb_znZfMiKrn9P5XimRUdE8yifTuunzjTGKFkFpjB8/edit#gid=1262274810) were created, where each member is asked what languages they want to practice, what language they are competent at, their time availability, if they've already found a partner, and experiments they would like to propose. With this, I believe new possibilities open up for play that are not available on just having Telegram as a team hub. Telegram would still be a vital part of the team tool system.
 	- For me the value is that of enhancing team collaboration by creating a space where a team can co-create and play with their information.
+	- I want to use this to fund my next steps, so part of the proposal is to ask for collaboration.
 		-
+	-
 	- Now, this requires the work of creating the spreadsheets and forms (which is quite easy); and then the website generation system (which requires some technical skills but can be seen as an opportunity to learn the essential web tech skills and can be co-created online with some tools) would also need some extra work that I'm capable of doing. I see this whole thing as a Gameworld of itself where the value is that of enhancing team collaboration by creating a  space where team can co-create with their information.
 		-
 		-
