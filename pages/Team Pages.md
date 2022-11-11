@@ -11,7 +11,7 @@
 	- I want to use this to fund my next steps, so part of the proposal is to ask for collaboration.
 		- I don't want to charge for the system itself. Digital tools are essentially free and I don't believe in creating artificial scarcity. So I want to automate the digital system as much as possible, and create detailed instructions on how to do this.
 		- However for the web system there is some maintenance costs that I would take responsibility for.
-		-
+		- "Commit to my stewarding of this Gameworld by supporting me on
 		-
 	-
 	- Now, this requires the work of creating the spreadsheets and forms (which is quite easy); and then the website generation system (which requires some technical skills but can be seen as an opportunity to learn the essential web tech skills and can be co-created online with some tools) would also need some extra work that I'm capable of doing. I see this whole thing as a Gameworld of itself where the value is that of enhancing team collaboration by creating a  space where team can co-create with their information.
