@@ -20,10 +20,6 @@
  {:block/name "5 bodies",
   :block/created-at 1665413368566,
   :block/updated-at 1666229078139}
- {:block/name
-  "56 possibilitators brazil with clinton callahan (29 august 2022)",
-  :block/created-at 1667389986178,
-  :block/updated-at 1667389986178}
  {:block/name "6 ego states",
   :block/created-at 1667214175188,
   :block/updated-at 1667215169240}
@@ -81,12 +77,6 @@
  {:block/name "62fe5331-fbb1-4b13-a66d-e2d0b6ba7084",
   :block/created-at 1660834644581,
   :block/updated-at 1660834644581}
- {:block/name "632944fa-4e6d-4ab6-9c0c-c59ddb69347e",
-  :block/created-at 1663651281323,
-  :block/updated-at 1663651281323}
- {:block/name "6344174e-1ac7-40be-a403-6f93b6fc1b5a",
-  :block/created-at 1665406813725,
-  :block/updated-at 1665406813725}
  {:block/name "7 core skills",
   :block/created-at 1665413368628,
   :block/updated-at 1665413368628}
@@ -1327,18 +1317,9 @@
  {:block/name "nov 11th, 2022",
   :block/created-at 1668181766583,
   :block/updated-at 1668181766583}
- {:block/name "nov 1st, 2022",
-  :block/created-at 1667274718392,
-  :block/updated-at 1667274718392}
  {:block/name "nov 2nd, 2022",
   :block/created-at 1667360471999,
   :block/updated-at 1667389866057}
- {:block/name "nov 3rd, 2022",
-  :block/created-at 1667469602850,
-  :block/updated-at 1667469602850}
- {:block/name "nov 4th, 2022",
-  :block/created-at 1667530803668,
-  :block/updated-at 1667530803668}
  {:block/name "nov 9th, 2022",
   :block/created-at 1668181766560,
   :block/updated-at 1668181766560}
@@ -1375,9 +1356,6 @@
  {:block/name "oct 20th, 2022",
   :block/created-at 1666234804028,
   :block/updated-at 1666302035013}
- {:block/name "oct 21st, 2022",
-  :block/created-at 1666350116310,
-  :block/updated-at 1666350116310}
  {:block/name "oct 22nd, 2022",
   :block/created-at 1666412713326,
   :block/updated-at 1666486829222}
@@ -1387,21 +1365,9 @@
  {:block/name "oct 24th, 2022",
   :block/created-at 1666580524614,
   :block/updated-at 1666833231178}
- {:block/name "oct 25th, 2022",
-  :block/created-at 1666666836641,
-  :block/updated-at 1666666836641}
- {:block/name "oct 26th, 2022",
-  :block/created-at 1666764161169,
-  :block/updated-at 1666764161169}
  {:block/name "oct 27th, 2022",
   :block/created-at 1666839603561,
   :block/updated-at 1666883558357}
- {:block/name "oct 28th, 2022",
-  :block/created-at 1666926002502,
-  :block/updated-at 1666926002502}
- {:block/name "oct 29th, 2022",
-  :block/created-at 1667012406639,
-  :block/updated-at 1667012406639}
  {:block/name "oct 31st, 2022",
   :block/created-at 1667210979304,
   :block/updated-at 1667223400165}
@@ -2033,9 +1999,6 @@
  {:block/name "workshops i would like to do",
   :block/created-at 1665413374566,
   :block/updated-at 1665413374566}
- {:block/name "your center",
-  :block/created-at 1666423843732,
-  :block/updated-at 1666423843732}
  {:block/name "your inner monologe",
   :block/created-at 1663651281763,
   :block/updated-at 1663651281763}
