@@ -1,4 +1,4 @@
-- Hello team! This idea has been consolidating in my mind for a few days already and I'm turned on about it. I want to get your perspective to see if it's of any value. For me the value is enhancing team collaboration by creating a digital space where a team can co-create and play with their information.
+- Hello team! This idea has been consolidating in my mind for a few days already and I'm turned on about it. I want to get your perspective to see if it's of any value. For me the value is catalyzing team collaboration by creating a digital space where team members can co-create and play with their information.
 - Here is how a proposal for what I'm called to create would look like:
 	- I'm proposing to create for your own team or gameworld a digital toolbox for collaboratively sharing information and co-creating a team website and gameworld gameboard.
 		- It works like this:
@@ -9,7 +9,6 @@
 				- Further down the line this can be enhanced with a monitoring system that keeps track of what's up with the team and highlights updates to their linked public online activity.
 		- For example for an hypothetical PM Language Exchange Gameworld these [forms](https://docs.google.com/forms/d/e/1FAIpQLSc81lzTXTC5GSE9IIItYRR97TEg0PyI0slpgIiSKsKdSiSCwg/viewform) and [spreadsheets](https://docs.google.com/spreadsheets/d/1vvb_znZfMiKrn9P5XimRUdE8yifTuunzjTGKFkFpjB8/edit#gid=1262274810) were created, where each member is asked what languages they want to practice, what language they are competent at, their time availability, if they've already found a partner, and experiments they would like to propose. With this, I believe new possibilities open up for play that are not available on just having Telegram as a team hub. Telegram would still be a vital part of the team tool system.
 	- I want to use this to fund my next steps, so part of the proposal is to ask for collaboration.
-		- For me the value is that of enhancing team collaboration by creating a space where a team can co-create and play with their information.
 		- I don't want to charge for the system itself. Digital tools are essentially free and I don't believe in creating artificial scarcity. So I want to automate the digital system as much as possible, and create detailed instructions on how to do this.
 		- However for the web system there is some maintenance costs that I would take responsibility for, and by supporting me you enable everyone on the wider community to have their own team page and gameworld board for free.
 		- "Commit to my commitment to steward this Gameworld by supporting my next steps in Patreon/Ko-fi/Paypal/etc"
