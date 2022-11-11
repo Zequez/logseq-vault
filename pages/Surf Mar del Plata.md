@@ -1,0 +1,12 @@
+- Clases
+	- https://puravidasurfclub.com.ar/clases/
+		- 1 hora
+		- Equipamiento incluido (tabla y traje neoprene)
+		- $1800 / $1800 / $2000
+		- Horarios: 8hs; 10hs; 12hs; 14hs; 16hs y 18hs PREVIA RESERVA
+		- Iniciales / Intermedias / Avanzadas
+		- Contacto
+			- contacto@puravidasurfclub.com.ar
+			- http://instagram.com/puravidasurfclub
+			- http://facebook.com/puravidasurfclub
+-

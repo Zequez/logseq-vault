@@ -1,0 +1,3 @@
+- ![design_spiral.png](../assets/design_spiral_1668147017578_0.png){:width 500}
+-
+- [[What is my service to Gaia?]]

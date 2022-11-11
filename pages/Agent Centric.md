@@ -1,0 +1,2 @@
+- Agent centric is a philosophy [which I've seen being used at Holochain](https://forum.holochain.org/t/what-does-agent-centric-mean-how-is-it-different-than-data-centric/190) in which data is seen as a perspective and instead of having a central database with all the data of an app or a platform, everyone is responsible for their own data and by sharing it with others they generate a network that resembles a database but with them at the center.
+-

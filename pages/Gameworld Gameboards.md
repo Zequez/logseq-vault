@@ -1,0 +1,25 @@
+- ## Prototyping
+	- Use Google Sheets and Google Forms to generate [[Agent Centric]] gameboards for [[Gameworlds]].
+		- Each person fills an editable-form (this is an option that is turned off by default on new forms) and maintains this as a sort of character sheet
+		- Every participant data is poured into a Google Sheets spreadsheet where everyone has access to explore
+		- The spreadsheet can be edited collaboratively too by selected participants (this being me for now as I have the technical skills) to add features such as data visualization or data transformation.
+		- Both the spreadsheet and form parameters are co-created on the Telegram group, and then the tech delegate implements un-resisted proposals.
+	- Use [Glitch.com](https://glitch.com/) to get the data from the spreadsheets and project it into a customized website anywhere on the Internet
+		- This way anyone can participate on the Gameworld Gameboard Creation Gameworld without having to install anything on their computer, and with easy code collaboration tools.
+		- See https://github.com/55sketch/gsx2json for example of how to read the spreadsheet data from an URL request
+- ## Plan
+	- Right now I'm talking with Eileen Vert about creating a Gameworld Board for the [[Learning Language in Connection Gameworld]]
+		- Spreadsheet: https://docs.google.com/spreadsheets/d/1vvb_znZfMiKrn9P5XimRUdE8yifTuunzjTGKFkFpjB8/edit#gid=290248475
+		- Form: https://docs.google.com/forms/d/1IvBCm9a7y8RSq6MXk2WgylsRuUd_bqJjWbXgh7vGiuo/edit
+	- Get Google Cloud API key so I can access the API
+		- Go to https://console.cloud.google.com
+		- Create a new project or select an existing one
+		- Search for "credentials" and go to "Credentials | APIs & Services"
+		- Pick a key or create one for API Key
+- ## How to present the project
+	- Gotta finish my possibilitator website, my old website is still from before I reached the edge and has stuff such as a CV and presents a fake "web developer" version of myself.
+	- Add a subdomain called "gameworldboards.zequez.space" and make it into a sort of gameworld presentation with a link to my main page and a prompt to support me?
+- ## Log
+	- Just managed to get the gsx2json script with the custom Google Cloud API key working!
+	-
+-
