@@ -8,11 +8,12 @@
 			- Additionally, the spreadsheet data will be used as source to generate a customizable website that acts as a sort of visual team page.
 				- Further down the line this can be enhanced with a monitoring system that keeps track of what's up with the team and highlights updates to their linked public online activity.
 		- For example for an hypothetical PM Language Exchange Gameworld these [forms](https://docs.google.com/forms/d/e/1FAIpQLSc81lzTXTC5GSE9IIItYRR97TEg0PyI0slpgIiSKsKdSiSCwg/viewform) and [spreadsheets](https://docs.google.com/spreadsheets/d/1vvb_znZfMiKrn9P5XimRUdE8yifTuunzjTGKFkFpjB8/edit#gid=1262274810) were created, where each member is asked what languages they want to practice, what language they are competent at, their time availability, if they've already found a partner, and experiments they would like to propose. With this, I believe new possibilities open up for play that are not available on just having Telegram as a team hub. Telegram would still be a vital part of the team tool system.
-	- I want to use this to fund my next steps, so part of the proposal is to ask for collaboration.
+	- I also need some things for my next steps, so part of the proposal is to ask for collaboration.
 		- I don't want to charge for the system itself. Digital tools are essentially free and I don't believe in creating artificial scarcity. So I want to automate the digital system as much as possible, and create detailed instructions on how to do this.
 		- However for the web system there is some maintenance costs that I would take responsibility for, and by supporting me you enable everyone on the wider community to have their own team page and gameworld board for free.
 		- "Commit to my commitment to steward this Gameworld by supporting my next steps in Patreon/Ko-fi/Paypal/etc"
 			- Maybe for Patreons I can offer 1-1 assistance to co-create with these tools? Even the tech skills?
+			- Also
 	- What do you think/feel about this?
 		-
 	-
