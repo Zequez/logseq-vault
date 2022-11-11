@@ -1,4 +1,5 @@
-- Hello team! This idea has been consolidating in my mind for a few days already and I'm turned on about it. I want to get your perspective to see if it's of any value. Here is how a proposal for what I'm called to create would look like:
+- Hello team! This idea has been consolidating in my mind for a few days already and I'm turned on about it. I want to get your perspective to see if it's of any value. For me the value is enhancing team collaboration by creating a digital space where a team can co-create and play with their information.
+- Here is how a proposal for what I'm called to create would look like:
 	- I'm proposing to create for your own team or gameworld a digital toolbox for collaboratively sharing information and co-creating a team website and gameworld gameboard.
 		- It works like this:
 			- An editable web form (Google Forms) is created that each member maintain with a set questions that would be useful for the purpose of the gameworld you are playing at, sort of like a character sheet in a game
@@ -13,7 +14,8 @@
 		- However for the web system there is some maintenance costs that I would take responsibility for, and by supporting me you enable everyone on the wider community to have their own team page and gameworld board for free.
 		- "Commit to my commitment to steward this Gameworld by supporting my next steps in Patreon/Ko-fi/Paypal/etc"
 			- Maybe for Patreons I can offer 1-1 assistance to co-create with these tools? Even the tech skills?
-				-
+	- What do you think/feel about this?
+		-
 	-
 	-
 		-
