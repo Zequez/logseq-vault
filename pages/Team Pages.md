@@ -13,8 +13,8 @@
 		- However for the web system there is some maintenance costs that I would take responsibility for, and by supporting me you enable everyone on the wider community to have their own team page and gameworld board for free.
 		- "Commit to my commitment to steward this Gameworld by supporting my next steps in Patreon/Ko-fi/Paypal/etc"
 			- Maybe for Patreons I can offer 1-1 assistance to co-create with these tools? Even the tech skills?
-			- If I'm taking request for creating or customizing boards/pages then a rule could be that highest paying Patreons could be on higher priority?
-			- I would also receive other form of value
+			- If I'm taking request for creating or customizing boards/pages then a rule could be that the highest paying Patreons could be on higher priority?
+			- I would also be open to receive other form of value
 	- What do you think/feel about this?
 		-
 	-
