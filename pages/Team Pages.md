@@ -1,5 +1,5 @@
 - Hello team! This idea has been consolidating in my mind for a few days already and I feel turned on about it, and I want to get feedback. Here is how a proposal for what I'm called to create would look like:
 	- I'm proposing to create for your own team or gameworld a digital toolbox for collaboratively sharing information and co-creating a team website.
 		- It works like this:
-			- - An editable Google Form is created for the team or gameworld with set questions that would be useful for the purpose of the gameworld you are playing
+			- An editable web form is created that each member maintain with a set questions that would be useful for the purpose of the gameworld you are playing at, sort of like a character sheet in a game
 		-
