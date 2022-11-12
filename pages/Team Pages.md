@@ -25,7 +25,8 @@
 	- Everyone can see everyone else information and play around in the team gameboard
 	- Use the team information to generate a dynamic website
 	- Request a Team Gameworld Gameboard for your team
-	- Support my stewardship of this Gameworld
+	- Support my stewardship of this Gameworld by patreoning me
+		- Higher paying patreons get priority on Gameboard customization request
 	-
 	-
 	-
