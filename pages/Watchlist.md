@@ -3,5 +3,7 @@
 	- [Tools Create Problems](https://www.youtube.com/watch?v=4UB84Sh06mw) 47:22
 	- [[#56 Possibilitators Brazil with Clinton Callahan (29 August 2022)]] 1:22hr
 	- [[Leap Coaching Movie]]
+	- [END Civ Resist or Die](https://www.youtube.com/watch?v=3hx-G1uhRqA)
+	-
 -
 -
