@@ -24,7 +24,8 @@
 	- Create a character sheet for team members
 	- Everyone can see everyone else information and play around in the team gameboard
 	- Use the team information to generate a dynamic website
-	- Request a Team Gameworld Gameboard for your Team
+	- Request a Team Gameworld Gameboard for your team
+	- Support my stewardship of this Gameworld
 	-
 	-
 	-
