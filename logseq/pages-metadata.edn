@@ -182,7 +182,7 @@
   :block/updated-at 1665580442811}
  {:block/name "archiarchy web",
   :block/created-at 1667387666589,
-  :block/updated-at 1667388626246}
+  :block/updated-at 1668293438926}
  {:block/name "arquearquía",
   :block/created-at 1665413371681,
   :block/updated-at 1665413371681}
@@ -594,7 +594,7 @@
   :block/updated-at 1664833366597}
  {:block/name "ec",
   :block/created-at 1666568158601,
-  :block/updated-at 1666585304149}
+  :block/updated-at 1668293572375}
  {:block/name "ec primeros pasos",
   :block/created-at 1666585304149,
   :block/updated-at 1666585304149}
@@ -1188,6 +1188,9 @@
  {:block/name "memory is a choice",
   :block/created-at 1665413371968,
   :block/updated-at 1665413371968}
+ {:block/name "mens circle",
+  :block/created-at 1668293515384,
+  :block/updated-at 1668293515384}
  {:block/name "mental mode",
   :block/created-at 1664834293705,
   :block/updated-at 1664834293705}
@@ -1319,7 +1322,7 @@
   :block/updated-at 1668182655655}
  {:block/name "nov 12th, 2022",
   :block/created-at 1668243525750,
-  :block/updated-at 1668285382184}
+  :block/updated-at 1668293492484}
  {:block/name "nov 2nd, 2022",
   :block/created-at 1667360471999,
   :block/updated-at 1667389866057}
@@ -1367,7 +1370,7 @@
   :block/updated-at 1666568158602}
  {:block/name "oct 24th, 2022",
   :block/created-at 1666580524614,
-  :block/updated-at 1666833231178}
+  :block/updated-at 1668293549799}
  {:block/name "oct 27th, 2022",
   :block/created-at 1666839603561,
   :block/updated-at 1666883558357}
@@ -1930,6 +1933,9 @@
  {:block/name "using words to navigate",
   :block/created-at 1664837115844,
   :block/updated-at 1664837115844}
+ {:block/name "value propositions",
+  :block/created-at 1668293492483,
+  :block/updated-at 1668293492483}
  {:block/name "vegan cat food recipe",
   :block/created-at 1665413373862,
   :block/updated-at 1665413373862}
