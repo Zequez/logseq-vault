@@ -1,11 +1,4 @@
-- Sobre plan de acompanamiento
-  mi intencion con [[esparcir]] la semilla de EC es hacer
-- [[EC Primeros Pasos]]
+- Elimination Communication
 -
 - ---
-- dsafasdf
-- dasfasdf
-	- fsadfs
-		- sdafasd
-	- fadfasf
 -
