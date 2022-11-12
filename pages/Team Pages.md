@@ -19,7 +19,8 @@
 		- What do you think/feel about this?
 		-
 - ## Website
-	- Create team collaboration possi
+	- Create team collaboration possibilities
+	- A digital space where team members can co-create and play with their information by building
 	-
 	-
 		-
