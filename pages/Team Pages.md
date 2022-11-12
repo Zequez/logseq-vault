@@ -16,7 +16,8 @@
 			- If I'm taking request for creating or customizing boards/pages then a rule could be that the highest paying Patreons could be on higher priority?
 			- I would also be open to receive other form of value
 	- What do you think/feel about this?
-		-
+	-
+-
 	-
 	-
 		-
