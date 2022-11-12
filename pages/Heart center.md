@@ -1,0 +1,30 @@
+- Is holographic projector
+- Works in combination with third eye is the dial: de-scrambles signals and enters us into any version of reality
+- From the quantum field; reality as the potential form
+- It's the no-thing
+- First manifestation is intention
+	- Dial into reality to experience the intent behind a reality
+	- Dial in even further
+		- Macro level the intention to experience a certain level of reality
+		- Micro level what we care about; how we generate our experience; what we put our focus and attention and our care into
+			- Where attention flows is where energy goes; that's creating our experience
+- Is the driving force behind our thoughts, our actions and our emotions. All 3 of these are coming from our Care.
+	- Physical heart is the primary motor in our body; the metaphysical corresponding is the heart center; the primary pump of the torus field of the quantum field.
+- Space beyond the heart chakra
+	- Heart Chakra acts as a bridge between the lower centers and the higher centers
+- Philosopher stone is the awakened heart center
+- You collapse pure potentiality waveform states of the toroid into material reality
+	- For transmutation: Collapse something by running through the Heart Center; now it's purified and free.
+- Heart center is the primary portal in our being
+	- Has the power to collapse the material realm back into the waveform state
+- Reconfigured and transmuted into enlightenment, or gold.
+- Developing the heart center is how we evolve, it what leads into the organic timelines
+- If region athropies and mind is overdeveloped
+	- We are still creative energy
+	- Creative energy goes all up into the mind
+		- Ends up creating logic for everything since logic can be used to justify anything
+		- Become obsessed with the far reaches of the external
+-
+- ---
+- ## References
+	- https://www.youtube.com/watch?v=CEU2XstIe34
