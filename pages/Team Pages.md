@@ -23,7 +23,7 @@
 	- A digital space where team members can co-create and play with their information
 	- Create a character sheet for team members (a form)
 	- Everyone can see everyone else information and play around in the team gameboard (a spreadsheet)
-	- On the team
+	- Use this information on the co
 	-
 	-
 	-
