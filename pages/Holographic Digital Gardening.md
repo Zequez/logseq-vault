@@ -1,0 +1,3 @@
+- Connect your garden with everyone else's garden by using the same words for concepts and everyone writing their version. Then you can see everyones perspective.
+- Imagine gardens stacked one on top of the other connecting ideas through vertical lines and forming patterns.
+- In a social network you can see concepts that other people around you are writing about.
