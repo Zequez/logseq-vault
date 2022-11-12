@@ -1,4 +1,4 @@
-- Hello team! This idea has been consolidating in my mind for a few days already and I'm turned on about it. I want to get your perspective to see if it's of any value. For me the value is catalyzing team collaboration by creating a digital space where team members can co-create and play with their information.
+- Hello team! This idea has been consolidating in my mind for a few weeks already and I'm turned on about it. I want to get your perspective to see if it's of any value. For me the value is creating team collaboration possibilities by creating a digital space where team members can co-create and play with their information.
 - Here is a test proposal for what I'm being called to create:
 	- I'm proposing to create for your own team or gameworld a digital toolbox for collaboratively sharing information and co-creating a team website and gameworld gameboard.
 		- It works like this:
