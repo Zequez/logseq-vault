@@ -889,6 +889,9 @@
  {:block/name "healers",
   :block/created-at 1667214018519,
   :block/updated-at 1667214046395}
+ {:block/name "heart center",
+  :block/created-at 1668293819950,
+  :block/updated-at 1668293835176}
  {:block/name "hidden purpose",
   :block/created-at 1663770937747,
   :block/updated-at 1663770937747}
@@ -920,6 +923,9 @@
  {:block/name "holochain",
   :block/created-at 1659711755502,
   :block/updated-at 1659711755502}
+ {:block/name "holographic digital gardening",
+  :block/created-at 1668294009630,
+  :block/updated-at 1668294009630}
  {:block/name "holon planetario",
   :block/created-at 1665413370930,
   :block/updated-at 1665413370930}
@@ -1322,10 +1328,10 @@
   :block/updated-at 1668182655655}
  {:block/name "nov 12th, 2022",
   :block/created-at 1668243525750,
-  :block/updated-at 1668293492484}
+  :block/updated-at 1668294204053}
  {:block/name "nov 2nd, 2022",
   :block/created-at 1667360471999,
-  :block/updated-at 1667389866057}
+  :block/updated-at 1668293824509}
  {:block/name "nov 9th, 2022",
   :block/created-at 1668181766560,
   :block/updated-at 1668181766560}
@@ -1355,13 +1361,13 @@
   :block/updated-at 1666106368495}
  {:block/name "oct 19th, 2022",
   :block/created-at 1666176660273,
-  :block/updated-at 1666235632140}
+  :block/updated-at 1668294022833}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664593204039,
   :block/updated-at 1664653113583}
  {:block/name "oct 20th, 2022",
   :block/created-at 1666234804028,
-  :block/updated-at 1666302035013}
+  :block/updated-at 1668293928431}
  {:block/name "oct 22nd, 2022",
   :block/created-at 1666412713326,
   :block/updated-at 1666486829222}
@@ -1933,9 +1939,6 @@
  {:block/name "using words to navigate",
   :block/created-at 1664837115844,
   :block/updated-at 1664837115844}
- {:block/name "value propositions",
-  :block/created-at 1668293492483,
-  :block/updated-at 1668293492483}
  {:block/name "vegan cat food recipe",
   :block/created-at 1665413373862,
   :block/updated-at 1665413373862}
@@ -1974,10 +1977,10 @@
   :block/updated-at 1659022233252}
  {:block/name "watchlist",
   :block/created-at 1665413373898,
-  :block/updated-at 1665413373898}
+  :block/updated-at 1668294243956}
  {:block/name "watchlist2",
   :block/created-at 1668181766334,
-  :block/updated-at 1668181766334}
+  :block/updated-at 1668294221025}
  {:block/name "web",
   :block/created-at 1665413373130,
   :block/updated-at 1665413373130}
