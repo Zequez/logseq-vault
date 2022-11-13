@@ -10,6 +10,7 @@
 - 6 different ways I give my word
 	- I do what I say
 	- I do what I know
+		- Example: I have an appointment with you and I know I'll be late, I give a notice.
 	- My word is what others expect them; and it's also to say what you expect of others
 		- Notice expectations and either fulfill them or make them know beforehand that the expectation won't be fulfilled
 		- Active expectation management
