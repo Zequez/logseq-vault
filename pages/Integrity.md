@@ -35,6 +35,7 @@
 	- Am I happy with the way I show up for life?
 	- Say yes to life, say yes to opportunities
 - Integrity is about me, not you. If I care about your integrity I behave out of integrity.
+- Integrity is lih
 - ---
 - ## References
 	- https://www.youtube.com/watch?v=Kv-Cs4l4H9s
