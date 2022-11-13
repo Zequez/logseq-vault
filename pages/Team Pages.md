@@ -23,10 +23,11 @@
 	- A digital space where team members can co-create and play with their information
 	- Create a character sheet for team members
 	- Everyone can see everyone else information and play around in the team gameboard
-	- Use the team information to generate a dynamic website
+	- Use the team information for enhanced team website
 	- Request a Team Gameworld Gameboard for your team
 	- Support my stewardship of this Gameworld by patreoning me
 		- Higher contributors get priority on Gameboard customization request and consulting
+	- Subscribe to my newsletter
 	-
 	-
 	-
