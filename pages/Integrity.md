@@ -25,3 +25,4 @@
 - Integrity is a mountain without top; you better learn to love to climb.
 - Keeping my word and honoring my word
 	- I give my word and keep my word, and if I cannot keep my word the moment I discover this, I tell the other person this is so.
+	- Energy is freed up
