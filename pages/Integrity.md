@@ -33,3 +33,7 @@
 		- Beyond the "I" mind we're so well trained to live in
 	- Am I happy with the way I show up for life?
 	- Say yes to life, say yes to opportunities
+-
+- ---
+- ## References
+	- https://www.youtube.com/watch?v=Kv-Cs4l4H9s
