@@ -21,5 +21,5 @@
 	- I do what I stand for
 		- Be that person
 		- Integrity is necessary to take a stand for the other bright principles
-	- I follow the rules and standards of every organization or government that I'm participant on; unless
+	- I follow the rules and standards of every organization or government that I'm participant on; unless you are in integrity if you say I don't
 	-
