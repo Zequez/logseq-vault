@@ -1,4 +1,5 @@
 - Without integrity nothing works
+	- If something doesn't work: start looking, where do I behave out of integrity?
 - Taking [[Radical Responsibility]] for your words.
 - When I say I do this and I don't do it, then I'm behaving out of integrity
 - When I say I don't do this and I do this, then I'm behaving out of integrity
