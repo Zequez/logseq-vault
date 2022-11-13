@@ -7,5 +7,5 @@
 - 6 different ways I give my word
 	- What I say or do
 	- .
-	- My word is what others expect them
-		- Notice expectations
+	- My word is what others expect them; and it's also to say what you expect of others
+		- Notice expectations and fulfill them
