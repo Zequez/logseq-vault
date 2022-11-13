@@ -1,4 +1,4 @@
-- Without integrity nothing works
+- Integrity is like a physical law, like gravity. Without integrity nothing works.
 	- If something doesn't work: start looking, where do I behave out of integrity?
 - Taking [[Radical Responsibility]] for your words.
 - When I say I do this and I don't do it, then I'm behaving out of integrity
@@ -35,7 +35,7 @@
 	- Am I happy with the way I show up for life?
 	- Say yes to life, say yes to opportunities
 - Integrity is about me, not you. If I care about your integrity I behave out of integrity.
-- Integrity is lih
+-
 - ---
 - ## References
 	- https://www.youtube.com/watch?v=Kv-Cs4l4H9s
