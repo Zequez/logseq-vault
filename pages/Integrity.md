@@ -16,4 +16,4 @@
 	- What I say is so
 		- Be honest with the limits of your knowledge; where you got it and how deep you went into researching
 	- I do what I stand for
-		-
+		- Be that person
