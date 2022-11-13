@@ -8,8 +8,8 @@
 - It's about being curious about what is the source of my action, or the source of my inactions.
 - Understatements and exaggerations are both out of integrity
 - 6 different ways I give my word
-	- What I say or do
-	- .
+	- I do what I say
+	- I do what I know
 	- My word is what others expect them; and it's also to say what you expect of others
 		- Notice expectations and either fulfill them or make them know beforehand that the expectation won't be fulfilled
 		- Active expectation management
@@ -17,3 +17,5 @@
 		- Be honest with the limits of your knowledge; where you got it and how deep you went into researching
 	- I do what I stand for
 		- Be that person
+		- Integrity is necessary to take a stand for the other bright principles
+	-
