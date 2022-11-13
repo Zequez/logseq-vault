@@ -6,6 +6,7 @@
 	- What is it that I didn't look at when I gave my word that I would do something?
 		- It's a revelation.
 - It's about being curious about what is the source of my action, or the source of my inactions.
+- Understatements and exaggerations are both out of integrity
 - 6 different ways I give my word
 	- What I say or do
 	- .
@@ -14,3 +15,5 @@
 		- Active expectation management
 	- What I say is so
 		- Be honest with the limits of your knowledge; where you got it and how deep you went into researching
+	- I do what I stand for
+		-
