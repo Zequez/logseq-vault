@@ -1,0 +1,2 @@
+- When I say I do this and I don't do it, then I'm behaving out of integrity
+- When I say I don't do this and I do this, then I'm behaving out of integrity
