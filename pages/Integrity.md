@@ -12,6 +12,7 @@
 	- I do what I know
 		- Example: I have an appointment with you and I know I'll be late, I give a notice.
 		- Example: I know a culture has certain rules, and if I act differently, I'm acting out of integrity
+			- Acting differently without taking a stand for acting differently
 	- My word is what others expect them; and it's also to say what you expect of others
 		- Notice expectations and either fulfill them or make them know beforehand that the expectation won't be fulfilled
 		- Active expectation management
@@ -20,4 +21,5 @@
 	- I do what I stand for
 		- Be that person
 		- Integrity is necessary to take a stand for the other bright principles
+	- I follow the rules and standards of every organization or government that I'm participant on; unless
 	-
