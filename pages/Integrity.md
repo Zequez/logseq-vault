@@ -31,3 +31,4 @@
 - What is necessary to love the climb?
 	- Wanting a life that's bigger than yourself
 		- Beyond the "I" mind we're so well trained to live in
+	- Am I happy with the way I show up for life?
