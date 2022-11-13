@@ -28,4 +28,5 @@
 	- Energy is freed up
 - Commitment is action; no action no commitment.
 	- No-action is also an action.
-- What is
+- What is necessary to love the climb?
+	- Wanting a life that's bigger than yourself
