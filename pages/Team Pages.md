@@ -27,7 +27,7 @@
 	- Request a Team Gameworld Gameboard for your team
 	- Support my stewardship of this Gameworld by patreoning me
 		- Higher contributors get priority on Gameboard customization request and consulting
-	- Subscribe to my newsletter
+	- Subscribe to my newsletter where I share the gold from working with Archiarchy teams
 	-
 	-
 	-
