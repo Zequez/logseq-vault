@@ -9,20 +9,20 @@
 - It's about being curious about what is the source of my action, or the source of my inactions.
 - Understatements and exaggerations are both out of integrity
 - 6 different ways I give my word
-	- I do what I say
-	- I do what I know
+	- 1. I do what I say
+	- 2. I do what I know
 		- Example: I have an appointment with you and I know I'll be late, I give a notice.
 		- Example: I know a culture has certain rules, and if I act differently, I'm acting out of integrity
 			- Acting differently without taking a stand for acting differently
-	- My word is what others expect them; and it's also to say what you expect of others
+	- 3. My word is what others expect them; and it's also to say what you expect of others
 		- Notice expectations and either fulfill them or make them know beforehand that the expectation won't be fulfilled
 		- Active expectation management
-	- What I say is so
+	- 4. What I say is so
 		- Be honest with the limits of your knowledge; where you got it and how deep you went into researching
-	- I do what I stand for
+	- 5. I do what I stand for
 		- Be that person
 		- Integrity is necessary to take a stand for the other bright principles
-	- I follow the rules and standards of every organization or government that I'm participant on; unless you are in integrity if you say I don't
+	- 6. I follow the rules and standards of every organization or government that I'm participant on; unless you are in integrity if you say I don't
 - Integrity is a mountain without top; you better learn to love to climb.
 - Keeping my word and honoring my word
 	- I give my word and keep my word, and if I cannot keep my word the moment I discover this, I tell the other person this is so.
