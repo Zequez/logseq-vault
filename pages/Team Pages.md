@@ -26,7 +26,7 @@
 	- Use the team information to generate a dynamic website
 	- Request a Team Gameworld Gameboard for your team
 	- Support my stewardship of this Gameworld by patreoning me
-		- Higher paying patreons get priority on Gameboard customization request
+		- Higher paying patreons get priority on Gameboard customization request and consulting
 	-
 	-
 	-
