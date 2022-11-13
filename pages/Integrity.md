@@ -5,6 +5,7 @@
 		- It's a revelation.
 - It's about being curious about what is the source of my action, or the source of my inactions.
 - 6 different ways I give my word
-	- 1. What I say or do
-	  2. t
-	  3. My word is what others expect them
+	- What I say or do
+	- .
+	- My word is what others expect them
+		- Notice expectations
