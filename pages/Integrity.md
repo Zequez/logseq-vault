@@ -1,2 +1,6 @@
 - When I say I do this and I don't do it, then I'm behaving out of integrity
 - When I say I don't do this and I do this, then I'm behaving out of integrity
+- What is the source of my behaviour?
+	- What is it that I didn't look at when I gave my word that I would do something?
+		- It's a revelation.
+	-
