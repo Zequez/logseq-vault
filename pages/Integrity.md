@@ -10,4 +10,5 @@
 	- My word is what others expect them; and it's also to say what you expect of others
 		- Notice expectations and either fulfill them or make them know beforehand that the expectation won't be fulfilled
 		- Active expectation management
-	- What I say is
+	- What I say is so
+		- Be honest with the limits of your knowledge; where you got it and how deep you went into researching
