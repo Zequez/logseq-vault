@@ -8,4 +8,4 @@
 	- What I say or do
 	- .
 	- My word is what others expect them; and it's also to say what you expect of others
-		- Notice expectations and fulfill them
+		- Notice expectations and either fulfill them or make them know beforehand that the expectation won't be fulfilled
