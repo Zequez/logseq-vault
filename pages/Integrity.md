@@ -23,4 +23,5 @@
 		- Integrity is necessary to take a stand for the other bright principles
 	- I follow the rules and standards of every organization or government that I'm participant on; unless you are in integrity if you say I don't
 - Integrity is a mountain without top; you better learn to love to climb.
--
+- Keeping my word and honoring my word
+	- I give my word and keep my word, and if I cannot keep my word the moment I discover this, I tell the other person this is so.
