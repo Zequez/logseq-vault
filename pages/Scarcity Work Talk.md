@@ -54,7 +54,8 @@
 	- Ricardo
 		- We have to talk with our feelings
 		- We don't identify with the feelings; if we do we become stuck
-		-
+	- Gabriela
+		- Shares distinction between the emotional fears that keep
 		-
 		-
 -
