@@ -59,7 +59,7 @@
 			- Emotional fear that you don't have enough.
 		- And the other kind of fear, and invites group to share about moments where they were feeling afraid and became creative.
 	- Gabriela
-		- Shares when I'm
+		- Shares when I'm talking that I'm numbing fear with joy.
 		-
 		-
 -
