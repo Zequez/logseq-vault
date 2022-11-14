@@ -64,6 +64,7 @@
 		- Some part does not want to use the fear to find solutions because then I need to find responsibility for that.
 		- Asked fear what is her next creation, and fear answered that she needed to take things off her schedule.
 		- Feelings come up as energy, and if we don't use them they crystalize on emotional body.
+		- Use conscious fear to connect to possibilities.
 		-
 		-
 -
