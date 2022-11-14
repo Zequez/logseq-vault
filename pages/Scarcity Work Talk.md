@@ -58,6 +58,8 @@
 		- Shares distinction between the emotional fears that keep you in your box, that you are relating with the present with the past. This fear comes from the past; gets you stuck in you box, does not allow you to create possibilities.
 			- Emotional fear that you don't have enough.
 		- And the other kind of fear, and invites group to share about moments where they were feeling afraid and became creative.
+	- Gabriela
+		- Shares when I'm
 		-
 		-
 -
