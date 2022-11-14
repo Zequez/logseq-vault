@@ -44,8 +44,11 @@
 			- Holes in energetic body
 			- Energy draining down the holes
 		- When creation is happening I have the experience of ecstasy of "I'm winning"
-		- Feeding your 5 bodies does not cost much; that belief is a trap
-			-
+		- Feeding your 5 bodies does not cost much; that belief is a trap.
+	- Gabriela
+		- What is in the center of your life
+		- What you have is not what you want, what you have is what you are
+		-
 		-
 -
 -
