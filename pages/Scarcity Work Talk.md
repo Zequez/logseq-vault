@@ -48,7 +48,9 @@
 	- Gabriela
 		- What is in the center of your life
 		- What you have is not what you want, what you have is what you are
+		- Put transformation in the center of your life
 		- Tells legend about a man she met on bus
+		- How can you unfold your value wherever you go
 		-
 		-
 		-
