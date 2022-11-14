@@ -48,6 +48,8 @@
 	- Gabriela
 		- What is in the center of your life
 		- What you have is not what you want, what you have is what you are
+		- Tells legend about a man she met on bus
+		-
 		-
 		-
 -
