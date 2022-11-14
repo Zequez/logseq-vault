@@ -51,7 +51,8 @@
 		- Put transformation in the center of your life
 		- Tells legend about a man she met on bus
 		- How can you unfold your value wherever you go
-		-
+	- Ricardo
+		- We have to talk with our feelings
 		-
 		-
 -
