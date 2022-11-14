@@ -35,6 +35,7 @@
 		- People don't have enough because we have holes in our energetic bodies
 			- Everything that we receive it does not stays, does not nourishes, because we receive and goes, receive and goes.
 				- We don't have the love and care inside of ourselves to just be with what it is, so we're always wanting more and more and more.
+		- Emotional holes, emotional scars that keep you distant from the abundance, the creation.
 -
 -
 	-
