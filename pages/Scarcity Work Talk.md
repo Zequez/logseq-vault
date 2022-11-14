@@ -30,7 +30,9 @@
 			- ...enough connection
 			- ...enough time
 			- ...enough learning
-	- Fantasy world "If some day I have enough money,
+	- Fantasy world "If some day money is not a problem in my life I'll be free"
+	- People don't have enough because we have holes in our energetic bodies
+		- Everything that we receive
 -
 -
 	-
