@@ -29,7 +29,8 @@
 			- ...enough money
 			- ...enough connection
 			- ...enough time
-			- ...eo
+			- ...enough learning
+			-
 -
 -
 	-
