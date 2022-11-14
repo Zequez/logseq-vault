@@ -21,9 +21,9 @@
 	- We plug money into our scarcity [[Thoughtware]]
 		- "I don't have enough"
 - 00:34:47
-	- Gabriela says her scarcity stories:
-		- "If I get out of scarcity I'll leave my family"
-		- "If I get out of scarcity I'll live full out"
+- Gabriela shares her scarcity stories:
+	- "If I get out of scarcity I'll leave my family"
+	- "If I get out of scarcity I'll live full out"
 	- I am the value. The money is a tool that we as human decided to use to exchange value. We use money in our [[Thoughtware]] of scarcity.
 		- Modern culture idea "I don't have enough"
 			- ...enough money
@@ -36,6 +36,7 @@
 			- Everything that we receive it does not stays, does not nourishes, because we receive and goes, receive and goes.
 				- We don't have the love and care inside of ourselves to just be with what it is, so we're always wanting more and more and more.
 		- Emotional holes, emotional scars that keep you distant from the abundance, the creation.
+- 00:37
 -
 -
 	-
