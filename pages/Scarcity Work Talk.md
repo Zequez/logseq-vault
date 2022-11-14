@@ -85,6 +85,10 @@
 	- Asked fear what is her next creation, and fear answered that she needed to take things off her schedule.
 	- Feelings come up as energy, and if we don't use them they crystalize on emotional body.
 	- Use conscious fear to connect to possibilities.
-	- Proposes 3 minutes to share about scarcity; what is stuck in scarcity in us. Then 5 minutes to the others to give possibilities to that person. Use conscious fear and give possibilities.
+-
+- ---
+	- Gabriela
+		- Proposes 3 minutes to share about scarcity; what is stuck in scarcity in us. Then 5 minutes to the others to give possibilities to that person. Use conscious fear and give possibilities.
+	- Ricardo
 	-
 	-
