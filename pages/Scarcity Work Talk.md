@@ -53,6 +53,7 @@
 		- How can you unfold your value wherever you go
 	- Ricardo
 		- We have to talk with our feelings
+		- We don't identify with the feelings; if we do we become stuck
 		-
 		-
 -
