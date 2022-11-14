@@ -39,7 +39,9 @@
 - 00:37:00
 	- Nicole
 		- The opposite of scarcity is creation
-		-
+		- My ability to create is connected to how I'm feeding my 5 bodies
+			- If any of my bodies is in pain or malnourished, sun of creation is behind clouds
+			-
 		-
 -
 -
