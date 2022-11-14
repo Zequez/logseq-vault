@@ -22,7 +22,9 @@
 		- "I don't have enough"
 - 00:34:47
 	- Gabriela says her scarcity stories:
-		- "
+		- "If I get out of scarcity I'll leave my family"
+		- "If I get out of scarcity I'll live full out"
+	- I am the value. The money is a tool that we as human decided to use to exchange value. We use money in our [[Thoughtware]] of scarcity.
 -
 -
 	-
