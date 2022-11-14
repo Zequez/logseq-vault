@@ -43,7 +43,7 @@
 			- If any of my bodies is in pain or malnourished, sun of creation is behind clouds
 			- Holes in energetic body
 			- Energy draining down the holes
-			-
+		- When creation is happening I have the experience of ecstasy of "I'm winning"
 			-
 		-
 -
