@@ -21,7 +21,8 @@
 	- We plug money into our scarcity [[Thoughtware]]
 		- "I don't have enough"
 - 00:34:47
--
+	- Gabriela says her scarcity stories:
+		- "
 -
 -
 	-
