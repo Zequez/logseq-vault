@@ -44,6 +44,7 @@
 			- Holes in energetic body
 			- Energy draining down the holes
 		- When creation is happening I have the experience of ecstasy of "I'm winning"
+		- Feeding your 5 bodies does not cost much; that belief is a trap
 			-
 		-
 -
