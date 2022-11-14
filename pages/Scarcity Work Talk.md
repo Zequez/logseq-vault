@@ -101,6 +101,6 @@
 			- Offer to your partner do an experiment with 1 week; instead of trying to get time alone you are each choosing what you want to do with your son; find some high level fun to do with your son and take him and do something high level fun with you son. This will turn it upside down.
 				- We're both in a victim story about having a son.
 		- Gabriela
-			- Do experiment about burden; take a bag
+			- Do experiment about burden; take a bag for 2 weeks and in 2 week you start to put rocks inside, and you name everything that is a burden in your life; everything you have or don't have. You walk everywhere with this bag. After the 2 weeks ask someone hold a space
 	-
 	-
