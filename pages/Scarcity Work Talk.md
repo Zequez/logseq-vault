@@ -61,7 +61,7 @@
 	- Gabriela
 		- Shares when I'm talking that I'm numbing fear with joy.
 		- Shares that when I'm using fear unconsciously I start to talk faster
-		- Some part does not want to use the fear to find solutions because then I need to find responsibility for that
+		- Some part does not want to use the fear to find solutions because then I need to find responsibility for that.
 		-
 		-
 -
