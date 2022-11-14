@@ -91,4 +91,11 @@
 		- Proposes 3 minutes to share about scarcity; what is stuck in scarcity in us. Then 5 minutes to the others to give possibilities to that person. Use conscious fear and give possibilities.
 	- Ricardo
 	-
+	- I share...
+		- Ricardo
+			- Make a proposal of value to yourself, then to others.
+		- Gabriela
+			- Do emotional healing process, what is your fear if you don't have time; what happens if you have time enough in your life.
+			-
+	-
 	-
