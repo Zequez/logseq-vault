@@ -30,7 +30,7 @@
 			- ...enough connection
 			- ...enough time
 			- ...enough learning
-			-
+	- Fantasy world "If some day I have enough money,
 -
 -
 	-
