@@ -98,6 +98,6 @@
 			- Do emotional healing process, what is your fear if you don't have time; what happens if you have time enough in your life.
 			- Distillate your bright principles if you don't have them; and become one bright principle for one month.
 		- Nicole
-			- Offer to your partner do an experiment with 1 week; instead of
+			- Offer to your partner do an experiment with 1 week; instead of trying to get time alone you are each choosing what you want to do with your son; find some high level fun to do with your son and take him and do something high level fun with you son. This will turn it upside down.
 	-
 	-
