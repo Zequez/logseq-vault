@@ -1,2 +1,3 @@
+- Trying with this https://vercel.com/guides/nextjs-multi-tenant-application
 -
 - https://app.planetscale.com/zequez/archy-web-gardens
