@@ -1,3 +1,6 @@
 - Choose one thing to experiment with on the web
--
+- Build it
+- Write about it
+- Share it
+- Ask
 -
