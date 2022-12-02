@@ -2,5 +2,5 @@
 - Build it
 - Write about it
 - Share it
-- Ask
+- Ask for further experiments to build
 -
