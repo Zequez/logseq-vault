@@ -507,6 +507,9 @@
  {:block/name "dec 2nd, 2022",
   :block/created-at 1670013911891,
   :block/updated-at 1670013940992}
+ {:block/name "dec 3rd, 2022",
+  :block/created-at 1670036405029,
+  :block/updated-at 1670036405029}
  {:block/name "declaración",
   :block/created-at 1659021837549,
   :block/updated-at 1659021837549}
