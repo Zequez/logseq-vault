@@ -20,7 +20,7 @@
 	- Share invitation with 5 people from the PM context
 		- Michael Lebensfreude
 		- DONE Sky Blu
-		- Nicole Bradford
+		- DONE Nicole Bradford
 		- Devin Gleeson
 		- Gabriela
 		- Eileen Vert
