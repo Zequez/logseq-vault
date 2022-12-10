@@ -11,7 +11,7 @@
 	- A plan is a set of steps; you commit to as many steps you want.
 	- DONE First is step is to write about Web Weaving Club
 	- DONE Second step is to choose a next step
-	- Design Invitation Card to Web Weaving Club
+	- Design Invitation Card for Web Weaving Club
 	- Create Web Weaving Club page with all members.
 	- Write Web [[Web Weaving Club Codex]].
 	- Share Web Weaving Club
