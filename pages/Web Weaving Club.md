@@ -12,6 +12,7 @@
 	- DONE First is step is to write about Web Weaving Club
 	- DONE Second step is to choose a next step
 	- Design Invitation Card for Web Weaving Club
+		- Hello village! I'm in the
 	- Create Web Weaving Club page with all members.
 	- Write Web [[Web Weaving Club Codex]].
 	- Share Web Weaving Club
