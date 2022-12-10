@@ -22,7 +22,7 @@
 		- Sky Blu
 		- Nicole Bradford
 		- Devin Gleeson
-		-
+		- Gabriela
 		-
 	- Create Web Weaving Club page with all members.
 	- Write Web [[Web Weaving Club Codex]].
