@@ -13,6 +13,7 @@
 	- DONE Second step is to choose a next step
 	- Design Invitation Card for Web Weaving Club
 		- Hello village! I'm at the intersection of Archiarchy and Web Development and I'm taking a stand for Web Weaving Club to exist. At Web Weaving Club we both build the web (as in the Internet web), and we also weave each other by sharing information.
+		- There is no scheduled meeting for Web Weaving Club yet, but you can fill the form
 	- Create Web Weaving Club page with all members.
 	- Write Web [[Web Weaving Club Codex]].
 	- Share Web Weaving Club
