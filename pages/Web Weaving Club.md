@@ -13,10 +13,9 @@
 	- DONE Second step is to choose a next step
 	- DONE Write invitation for Web Weaving Club
 		- Hello village! I'm at the intersection of Archiarchy and Web Development and I'm taking a stand for Web Weaving Club to exist. At Web Weaving Club we both build the web (as in the Internet web), and we also weave each other by sharing information.
-		- There is no scheduled meeting for Web Weaving Club yet.
-		- You can [visit the form here and sign up](https://forms.gle/z1nSULc4YS4rfCkW6). After signing up you may visit the current experimental [Web Weaving Club dashboard](https://gsheets-based-website.zequez.space/side-by-side) where you will see all other members. During Web Weaving Club meetings you can propose to add information-protocol prompts for all members to share and then display at the club dashboard.
+		- You can [visit the form here and sign up](https://forms.gle/z1nSULc4YS4rfCkW6). After signing up you may visit the current experimental [Web Weaving Club dashboard](https://gsheets-based-website.zequez.space/side-by-side) where you will see all other applied members. During Web Weaving Club meetings you can propose to add information-protocol prompts for all members to share and then display at the club dashboard.
 		- The club dashboard is in itself a web experiment; it uses and editable Google-form, a Google-spreadsheet and then with the data from the responses it generates a website to explore the information visually. If you are interested in such dashboard for your own club, team, village, group, family or whatever, I can set you up with one for you to experiment as a service in the spirit of the gift.
-			- If you are feeling grateful and are join Web Weaving Club you can just write down what you want to offer me with the Gratitude Virtual Currency Accounting protocol (it's another web experiment), to invite me to ask you privately for it.
+			- If you are feeling grateful and are join Web Weaving Club you can just write down what you want to offer me with the Gratitude Virtual Currency Accounting information-protocol (it's another web experiment), to invite me to ask you privately for it.
 		- I'm holding space for the next 3 hours at this Zoom room that anyone can join and explore with me the possibilities.
 	- Share invitation with 3 people from the PM context
 		- Michael
