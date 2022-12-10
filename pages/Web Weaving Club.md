@@ -23,7 +23,7 @@
 		- Nicole Bradford
 		- Devin Gleeson
 		- Gabriela
-	- Add [Join] card on Web Weaving Club dashboard page that links to Google Form
+	- Add [Join] card on Web Weaving Club dashboard page that links to the Google-form.
 		-
 	- Create Web Weaving Club page with all members.
 	- Write Web [[Web Weaving Club Codex]].
