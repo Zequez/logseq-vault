@@ -24,6 +24,7 @@
 		- Devin Gleeson
 		- Gabriela
 	- Add [Join] card on Web Weaving Club dashboard page that links to the Google-form.
+	- Update my personal website to reflect my new path
 	- Choose next step
 	- Create Web Weaving Club page with all members.
 	- Write Web [[Web Weaving Club Codex]].
