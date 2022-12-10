@@ -19,7 +19,7 @@
 		- I'm holding space for a Web Weaving Club circle in the next 3 hours at [this Zoom room](Not really yet) that anyone can join and explore with me the possibilities.
 	- Share invitation with 5 people from the PM context
 		- Michael Lebensfreude
-		- Sky Blu
+		- DONE Sky Blu
 		- Nicole Bradford
 		- Devin Gleeson
 		- Gabriela
