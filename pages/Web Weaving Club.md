@@ -14,7 +14,7 @@
 	- Design invitation for Web Weaving Club
 		- Hello village! I'm at the intersection of Archiarchy and Web Development and I'm taking a stand for Web Weaving Club to exist. At Web Weaving Club we both build the web (as in the Internet web), and we also weave each other by sharing information.
 		- There is no scheduled meeting for Web Weaving Club yet.
-		- You can visit the website here and sign up. After signing up you will have access to the Web Weaving Club dashboard where you will see all other members. During Web Weaving Club meetings you can propose to add information-protocol prompts for all members to share and then display at the club dashboard.
+		- You can [visit the website here and sign up](https://webweavingclub.zequez.space). After signing up you will be invited to the Web Weaving Club dashboard where you will see all other members. During Web Weaving Club meetings you can propose to add information-protocol prompts for all members to share and then display at the club dashboard.
 		- The club dashboard is in itself a web experiment; it uses and editable Google-form, a Google-spreadsheet and then with the data from the responses it generates a website to explore the information visually. If you are interested in such dashboard for your own club, group, family or whatever, I can set you up with one for you to experiment as a service in the spirit of the gift.
 			- If you decide to join Web Weaving Club you can just write down what you want to offer me with the Gratitude Virtual Currency Accounting protocol.
 		- I'm holding space for the next 3 hours at this Zoom room that anyone can join and explore with me the possibilities.
