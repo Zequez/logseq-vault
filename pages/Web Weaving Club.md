@@ -16,7 +16,7 @@
 		- There is no scheduled meeting for Web Weaving Club yet.
 		- You can [visit the form here and sign up](https://forms.gle/z1nSULc4YS4rfCkW6). After signing up you may visit the current experimental [Web Weaving Club dashboard](https://gsheets-based-website.zequez.space/side-by-side) where you will see all other members. During Web Weaving Club meetings you can propose to add information-protocol prompts for all members to share and then display at the club dashboard.
 		- The club dashboard is in itself a web experiment; it uses and editable Google-form, a Google-spreadsheet and then with the data from the responses it generates a website to explore the information visually. If you are interested in such dashboard for your own club, team, village, group, family or whatever, I can set you up with one for you to experiment as a service in the spirit of the gift.
-			- If you decide to join Web Weaving Club you can just write down what you want to offer me with the Gratitude Virtual Currency Accounting protocol.
+			- If you are feeling grateful and are join Web Weaving Club you can just write down what you want to offer me with the Gratitude Virtual Currency Accounting protocol (it's another web experiment).
 		- I'm holding space for the next 3 hours at this Zoom room that anyone can join and explore with me the possibilities.
 	- Create Web Weaving Club page with all members.
 	- Write Web [[Web Weaving Club Codex]].
