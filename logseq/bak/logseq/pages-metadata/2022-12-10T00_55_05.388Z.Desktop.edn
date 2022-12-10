@@ -524,7 +524,7 @@
   :block/updated-at 1670382315026}
  {:block/name "dec 8th, 2022",
   :block/created-at 1670475671753,
-  :block/updated-at 1670633113936}
+  :block/updated-at 1670538281860}
  {:block/name "dec 9th, 2022",
   :block/created-at 1670554858903,
   :block/updated-at 1670554858903}
@@ -2056,9 +2056,6 @@
  {:block/name "web tool",
   :block/created-at 1665413373946,
   :block/updated-at 1665413373946}
- {:block/name "web weaving club",
-  :block/created-at 1670633113934,
-  :block/updated-at 1670633146715}
  {:block/name "web weaving club codex",
   :block/created-at 1670537899794,
   :block/updated-at 1670537924526}
