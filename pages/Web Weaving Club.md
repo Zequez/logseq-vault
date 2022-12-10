@@ -23,6 +23,7 @@
 		- Nicole Bradford
 		- Devin Gleeson
 		- Gabriela
+	- Add [Join] card on Web
 		-
 	- Create Web Weaving Club page with all members.
 	- Write Web [[Web Weaving Club Codex]].
