@@ -15,7 +15,7 @@
 		- Hello village! I'm at the intersection of Archiarchy and Web Development and I'm taking a stand for Web Weaving Club to exist. At Web Weaving Club we both build the web (as in the Internet web), and we also weave each other by sharing information.
 		- There is no scheduled meeting for Web Weaving Club yet.
 		- You can visit the website here and sign up. After signing up you will have access to the Web Weaving Club dashboard where you will see all other members.
-		- I'm going to be available for the next 3 hours at this Zoom room that anyone can join and
+		- There is no scheduled meeting times, I'm working  available for the next 3 hours at this Zoom room that anyone can join and make proposal, ask questions
 	- Create Web Weaving Club page with all members.
 	- Write Web [[Web Weaving Club Codex]].
 	- Share Web Weaving Club
