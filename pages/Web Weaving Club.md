@@ -17,8 +17,8 @@
 		- The club dashboard is in itself a web experiment; it uses an editable Google-form, a Google-spreadsheet and then with the data from the responses it generates a website to explore the information visually. If you are interested in such dashboard for your own club, team, village, group, family or whatever, I can set you up with one for you to experiment as a service in the spirit of the gift.
 			- If you are feeling grateful and are joining Web Weaving Club you can express your gratitude by writing down a service-offer with the Gratitude Virtual Currency Accounting information-protocol (it's another web experiment), to invite anyone to ask you privately for it.
 		- I'm holding space for a Web Weaving Club circle in the next 3 hours at [this Zoom room](Not really yet) that anyone can join and explore with me the possibilities.
-	- Share invitation with 5 people from the PM context
-		- Michael Lebensfreude
+	- DONE Share invitation with at least 3 people from the PM context
+		- DONE Michael Lebensfreude
 		- DONE Sky Blu
 		- DONE Nicole Bradford
 		- DONE Devin Gleeson
