@@ -25,11 +25,12 @@
 			- Filled the form (and now she appears on the page)
 			- > I am turned on that this can be a place to 'meet' each other, other evolutionaries, to update info and touch in.
 			- Expressed confusion about how she didn't know where the thank you part went.
-				-
 		- DONE Devin Gleeson
 		- DONE Gabriela
 			- Sent me a long audio with a lot of feedback, clarity and proposals <3
+			-
 		- DONE Eileen Vert
+			-
 	- Add [Join] card on Web Weaving Club dashboard page that links to the Google-form.
 	- Update my personal website to reflect my new path
 	- Choose next step
