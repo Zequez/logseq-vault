@@ -35,7 +35,8 @@
 				- Why do I care about it, why I'm taking a stand
 				- For what, what is the purpose; bring a clear purpose behind; if you don't express the purpose clearly what goes on is shadow world.
 					- Does not have to be grandiose, could be simple like "have people together"
-				-
+				- Do a worktalk about it
+				- Recommended me to talk to Eileen
 		- DONE Eileen Vert
 			-
 	- Add [Join] card on Web Weaving Club dashboard page that links to the Google-form.
