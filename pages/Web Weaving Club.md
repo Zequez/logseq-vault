@@ -28,7 +28,9 @@
 		- DONE Devin Gleeson
 		- DONE Gabriela
 			- Sent me a long audio with a lot of feedback, clarity and proposals <3
-			-
+			- Make more clear value in your writing. Bring not reason, but use anger to bring why is important, why do you care. She says it's not clear for her what is the value to me.
+			- Invitation not working.
+			- Invite me to write what is Web Weaving Club;
 		- DONE Eileen Vert
 			-
 	- Add [Join] card on Web Weaving Club dashboard page that links to the Google-form.
