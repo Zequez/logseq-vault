@@ -22,10 +22,10 @@
 			- Expressed concerns about how public the information is
 		- DONE Sky Blu
 		- DONE Nicole Bradford
-			-
+			- Filled the form (and now she appears on the page) and
 		- DONE Devin Gleeson
 		- DONE Gabriela
-			-
+			- Sent me a long audio with a lot of feedback, clarity and proposals <3
 		- DONE Eileen Vert
 	- Add [Join] card on Web Weaving Club dashboard page that links to the Google-form.
 	- Update my personal website to reflect my new path
