@@ -19,8 +19,10 @@
 		- I'm holding space for a Web Weaving Club circle in the next 3 hours at [this Zoom room](Not really yet) that anyone can join and explore with me the possibilities.
 	- DONE Share invitation with at least 3 people from the PM context
 		- DONE Michael Lebensfreude
+			- Expressed concerns about how public the information is
 		- DONE Sky Blu
 		- DONE Nicole Bradford
+			-
 		- DONE Devin Gleeson
 		- DONE Gabriela
 		- DONE Eileen Vert
