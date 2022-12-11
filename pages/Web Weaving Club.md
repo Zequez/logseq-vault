@@ -37,6 +37,7 @@
 					- Does not have to be grandiose, could be simple like "have people together"
 				- Do a worktalk about it
 				- Recommended me to talk to Eileen
+			- Not clear about the exchanging thing; what's the big picture?
 		- DONE Eileen Vert
 			-
 	- Add [Join] card on Web Weaving Club dashboard page that links to the Google-form.
