@@ -25,6 +25,7 @@
 			-
 		- DONE Devin Gleeson
 		- DONE Gabriela
+			-
 		- DONE Eileen Vert
 	- Add [Join] card on Web Weaving Club dashboard page that links to the Google-form.
 	- Update my personal website to reflect my new path
