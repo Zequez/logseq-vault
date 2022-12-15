@@ -32,7 +32,7 @@
 		- I expect no one to give me their scarce time
 		- I expect to be a burden by asking others for their time
 		- I expect everyone to suffer about time passing and being scarce
-		-
+		- I expect time to be a scarce resource that everyone is fighting to get
 	- I assume time is cyclic and repeats itself
 		- I expect events in time to repeat themselves
 	- I assume evolution happens over time very slowly
