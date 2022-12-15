@@ -9,6 +9,9 @@
 	- I assume that there is not enough time for all the things I want to do
 		- I expect it will be very hard to chose what I want to commit to
 	- I assume that passes with or without me
-		- here will be lot of time after I die
+		- I expect there will be lot of time after I die
+	- I assume that having free time is a luxury
+		- I expect I need to work hard to have free time
+	-
 	-
 -
