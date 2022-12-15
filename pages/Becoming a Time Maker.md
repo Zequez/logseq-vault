@@ -14,6 +14,10 @@
 		- I expect I need to work hard to have free time
 	- I assume there is no way I'm assuming 20 things about time
 		- I expect this experiment to be very hard to complete
+	- I assume I'm a victim of time passing
+		- I expect to suffer every second
+			- Sadness EHP
+	-
 	-
 	-
 -
