@@ -34,7 +34,9 @@
 		- I expect to evolve very slowly
 	- I assume the illusion of time to be a defense mechanism that I can't see through
 		- I expect to be trapped in the illusion of time forever
-	-
+	- I assume time goes by slower when I'm present
+		- I expect to suffer more when I'm present
+	- I assume time can go slow or fast
 	-
 	-
 		-
