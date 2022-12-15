@@ -1,4 +1,5 @@
 - ## Experiments
 - ### Assumptions about time
-	-
+	- I assume that time goes forward and never stops
+	- I assume that time is
 -
