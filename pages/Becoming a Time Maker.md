@@ -40,7 +40,8 @@
 		- I expect to be able to choose wether time goes fast or slow by focusing my attention on different things
 	- I assume traveling through time is impossible
 		- I expect not to be able to travel through time
-	-
+	- I assume time can be taken away from me
+		- I expect to give my time to other people and resent it
 	-
 	-
 		-
