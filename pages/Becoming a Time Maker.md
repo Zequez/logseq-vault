@@ -1,9 +1,11 @@
 - ## Experiments
 - ### Assumptions about time
 	- I assume that time goes forward and never stops
-		- I expect that what I
+		- I expect that what I did cannot be changed
 	- I assume that time is an illusion made by my own Box
+		- I expect that every attempt to control time is futile
 	- I assume that Gremlin uses the illusion of time to avoid responsibility
+		- I expect
 	- I assume that there is not enough time for all the things I want to do
 	- I assume that passes with or without me
 	-
