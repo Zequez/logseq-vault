@@ -19,7 +19,8 @@
 			- Sadness EHP
 	- I assume I waste time constantly through the day
 		- I expect to do things that are not in alignment with me
-	- I assume time has to be scheduled
+	- I assume activities have to be scheduled in time
+		- I expect I won't be truly productive unless
 		-
 	-
 	-
