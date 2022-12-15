@@ -31,6 +31,7 @@
 		- I expect everyone to feel scarcity about time
 		- I expect no one to give me their scarce time
 		- I expect to be a burden by asking others for their time
+		- I expect everyone to suffer about time passing and being scarce
 		-
 	- I assume time is cyclic and repeats itself
 		- I expect events in time to repeat themselves
