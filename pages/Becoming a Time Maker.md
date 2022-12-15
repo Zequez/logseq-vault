@@ -20,7 +20,7 @@
 	- I assume I waste time constantly through the day
 		- I expect to do things that are not in alignment with me
 	- I assume activities have to be scheduled in time
-		- I expect I won't be truly productive unless
+		- I expect won't be truly productive until I know exactly what I will do and when
 		-
 	-
 	-
