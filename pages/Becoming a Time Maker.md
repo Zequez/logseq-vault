@@ -1,5 +1,7 @@
 - ## Experiments
 - ### Assumptions about time
 	- I assume that time goes forward and never stops
-	- I assume that time is
+	- I assume that time is an illusion made by my own Box
+	- I assume that Gremlin uses the illusion of time to avoid responsibility
+	-
 -
