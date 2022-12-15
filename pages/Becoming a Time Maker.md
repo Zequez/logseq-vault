@@ -17,6 +17,7 @@
 	- I assume I'm a victim of time passing
 		- I expect to suffer every second
 			- Sadness EHP
+		- I expect time to be my enemy
 	- I assume I waste time constantly through the day
 		- I expect to do things that are not in alignment with me
 	- I assume activities have to be scheduled in time
