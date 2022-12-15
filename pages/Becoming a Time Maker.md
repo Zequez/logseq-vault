@@ -34,7 +34,7 @@
 		- I expect to evolve very slowly
 	- I assume the illusion of time to be a defense mechanism that I can't see through
 		- I expect to be trapped in the illusion of time forever
-		-
+	-
 	-
 	-
 		-
