@@ -32,9 +32,10 @@
 		- I expect events in time to repeat themselves
 	- I assume evolution happens over time very slowly
 		- I expect to evolve very slowly
+		-
 	- I assume the illusion of time to be a defense mechanism that I can't see through
 		- I expect to be trapped in the illusion of time forever
-		- I expect every attempt to
+		- I expect every attempt to manage time is stupid
 	- I assume time goes by slower when I'm present
 		- I expect to suffer more when I'm present
 		- I expect to be bored when I'm present
