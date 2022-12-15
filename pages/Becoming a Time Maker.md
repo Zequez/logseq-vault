@@ -26,6 +26,7 @@
 		- I expect I won't give time or receive time from anyone
 	- I assume time is measured in seconds, minutes, hours, days, weeks, months, years
 		- I expect that I need a clock and a calendar to manage time effectively
+		- I expect that time can be divided, counted, hoarded
 	- I assume time passes the same to everyone
 		- I expect everyone feels the same way as me about time
 		- I expect everyone to feel scarcity about time
