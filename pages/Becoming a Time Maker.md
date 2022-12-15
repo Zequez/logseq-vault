@@ -3,5 +3,7 @@
 	- I assume that time goes forward and never stops
 	- I assume that time is an illusion made by my own Box
 	- I assume that Gremlin uses the illusion of time to avoid responsibility
+	- I assume that there is not enough time for all the things I want to do
+	- I assume that passes with or without me
 	-
 -
