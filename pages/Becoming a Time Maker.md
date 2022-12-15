@@ -29,6 +29,8 @@
 	- I assume time passes the same to everyone
 		- I expect everyone feels the same way as me about time
 	- I assume time is cyclic and repeats itself
+		- I expect events in time to repeat themselves
+	-
 	-
 	-
 		-
