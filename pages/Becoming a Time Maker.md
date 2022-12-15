@@ -38,7 +38,8 @@
 		- I expect to suffer more when I'm present
 	- I assume time has a velocity that's under my control
 		- I expect to be able to choose wether time goes fast or slow by focusing my attention on different things
-	-
+	- I assume traveling through time is impossible
+		- I expect not to be able to travel through time
 	-
 	-
 		-
