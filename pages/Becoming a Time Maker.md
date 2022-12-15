@@ -12,6 +12,6 @@
 		- I expect there will be lot of time after I die
 	- I assume that having free time is a luxury
 		- I expect I need to work hard to have free time
-	-
+	- I assume I don't assume 20
 	-
 -
