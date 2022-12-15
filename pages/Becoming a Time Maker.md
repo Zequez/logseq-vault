@@ -5,8 +5,10 @@
 	- I assume that time is an illusion made by my own Box
 		- I expect that every attempt to control time is futile
 	- I assume that Gremlin uses the illusion of time to avoid responsibility
-		- I expect
+		- I expect that I will use time as an excuse
 	- I assume that there is not enough time for all the things I want to do
+		- I expect it will be very hard to chose what I want to commit to
 	- I assume that passes with or without me
+		- I expect
 	-
 -
