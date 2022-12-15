@@ -17,7 +17,7 @@
 	- I assume I'm a victim of time passing
 		- I expect to suffer every second
 			- Sadness EHP
-	-
+	- I assume I waste time all the time I'm
 	-
 	-
 -
