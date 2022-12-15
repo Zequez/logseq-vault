@@ -36,7 +36,9 @@
 		- I expect to be trapped in the illusion of time forever
 	- I assume time goes by slower when I'm present
 		- I expect to suffer more when I'm present
-	- I assume time can go slow or fast
+	- I assume time has a velocity that's under my control
+		- I expect to be able to choose wether time goes fast or slow by focusing my attention on different things
+	-
 	-
 	-
 		-
