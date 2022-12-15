@@ -42,6 +42,7 @@
 		- I expect not to be able to travel through time
 	- I assume time can be taken away from me
 		- I expect to give my time to other people and resent it
+		- I expect I have to be defensive about my time
 	-
 	-
 		-
