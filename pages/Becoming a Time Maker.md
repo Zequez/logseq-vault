@@ -30,7 +30,8 @@
 		- I expect everyone feels the same way as me about time
 	- I assume time is cyclic and repeats itself
 		- I expect events in time to repeat themselves
-	-
+	- I assume evolution happens over time very slowly
+		- I expect to evolve very slowly
 	-
 	-
 		-
