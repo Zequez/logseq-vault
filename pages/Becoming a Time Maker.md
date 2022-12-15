@@ -24,7 +24,8 @@
 		- I expect I cannot be truly productive until I know exactly what I will do and when
 	- I assume time is abstract and cannot be given
 		- I expect I won't give time or receive time from anyone
-	-
+	- I assume time is measured in seconds, minutes and hours
+		- I expect that I need a clock to manage time
 		-
 	-
 	-
