@@ -28,6 +28,9 @@
 		- I expect that I need a clock and a calendar to manage time effectively
 	- I assume time passes the same to everyone
 		- I expect everyone feels the same way as me about time
+		- I expect everyone to feel scarcity about time
+		- I expect no one to give me their time
+		- I
 	- I assume time is cyclic and repeats itself
 		- I expect events in time to repeat themselves
 	- I assume evolution happens over time very slowly
