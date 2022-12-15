@@ -18,7 +18,9 @@
 		- I expect to suffer every second
 			- Sadness EHP
 	- I assume I waste time constantly through the day
-		- I expect to do things that are not
+		- I expect to do things that are not in alignment with me
+	- I assume time has to be scheduled
+		-
 	-
 	-
 -
