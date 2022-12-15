@@ -22,7 +22,7 @@
 		- I expect to do things that are not in alignment with me
 	- I assume activities have to be scheduled in time
 		- I expect I cannot be truly productive until I know exactly what I will do and when
-	-
+	- I assume
 		-
 	-
 	-
