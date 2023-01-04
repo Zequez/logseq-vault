@@ -1,0 +1,2 @@
+- It blow ups whatever comes to you, it doesn't even touch you, does not get into you.
+- Different form the Yes Torpedo
