@@ -6,7 +6,12 @@
 - Love
 - Possibility
 - Adventure
--
+- Courage
+- Beauty
+- Authentic Communication
+- Community
+- Discovery
+- Authenticity
 -
 - ## References
 	- https://brightprinciples.mystrikingly.com/
