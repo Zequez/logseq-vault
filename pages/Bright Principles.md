@@ -1,6 +1,15 @@
-- Diligence, Persistence, Acceptance, Forgiveness, Empowerment, 
-  Nonlinearity, Determination, Transformation, [[Evolution]], Elegance, 
-  Commitment, Precision, High Level Fun, and [[Practice]]
+- Diligence, Persistence, Acceptance
+- Forgiveness
+- Empowerment
+- Nonlinearity
+- Determination
+- Transformation
+- [[Evolution]]
+- Elegance
+- Commitment
+- Precision
+- High Level Fun
+- [[Practice]]
 - Connection
 - Clarity
 - Love
@@ -12,6 +21,9 @@
 - Community
 - Discovery
 - Authenticity
+- Being with Each other
+- Hospitality
+- Total Listening
 -
 - ## References
 	- https://brightprinciples.mystrikingly.com/
