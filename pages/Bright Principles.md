@@ -1,4 +1,6 @@
-- Diligence, Persistence, Acceptance
+- Diligence
+- Persistence
+- Acceptance
 - Forgiveness
 - Empowerment
 - Nonlinearity
