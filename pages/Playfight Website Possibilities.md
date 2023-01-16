@@ -31,7 +31,8 @@
 			- Most flexible
 		- #### Drawbacks
 			- Highest complexity; many moving parts that need to be tied together
-			- Diverse high-level skills for the maintenance of the app itself
+			- Requires a diverse spectrum of high-level skills for the maintenance and updating of the app itself
+			- Page editing with GrapeJS pales in comparison to t
 			-
 			-
 	- ### Alternative web architecture
