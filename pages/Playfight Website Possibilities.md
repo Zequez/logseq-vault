@@ -4,37 +4,38 @@
 		- > Playfight.org is a non profit organisation that aims to guarantee the quality of the work done under the name of Playfight.
 		- > Currently in order to support the community of Facilitators for their work and the coherence of the work itself we aim to have a new website that every facilitator can use and for anyone interested in Playfight to refer to.
 -
-- There are multiple paths for building the new website, each one with it's benefits and drawbacks.
+- Goals
 -
-- ### Using [Wordpress](https://wordpress.org/)
-- ### Using [Bubble](https://bubble.io/) web app builder
-	- Maintenance cost: $115/month for professional version which allow for adding collaborators to app
-- ### Creating a platform with common coding tools
-	- [Supabase](https://supabase.com/) as backend
-	- [Vercel](https://vercel.com/) as hosting platform
-	- Frontend tooling
-		- [Astro](https://astro.build/) as builder
-		- [React](https://reactjs.org/) for making components
-		- [GrapeJS](https://grapesjs.com) as visual page editor
-	- Custom code to tie it all together
-	- #### Maintenance
-		- $0 while the app stays within the limits of free options; which is quite high.
-		- Supabase is the most likely to hit the limit, then it's  [$25/month](https://supabase.com/pricing)
-		- Very unlikely that limits are hit on Vercel, if it did, it would be [$20/month](https://vercel.com/pricing)
-	- #### Benefits
-		- Most flexible
-	- #### Drawbacks
-		- Highest complexity
+- There are multiple paths for building the new website, each one with its benefits and drawbacks.
+	- ### Using [Wordpress](https://wordpress.org/)
+	- ### Using [Bubble](https://bubble.io/) web app builder
+		- Maintenance cost: $115/month for professional version which allow for adding collaborators to app
+	- ### Creating a platform with common coding tools
+		- [Supabase](https://supabase.com/) as backend
+		- [Vercel](https://vercel.com/) as hosting platform
+		- Frontend tooling
+			- [Astro](https://astro.build/) as builder
+			- [React](https://reactjs.org/) for making components
+			- [GrapeJS](https://grapesjs.com) as visual page editor
+		- Custom code to tie it all together
+		- #### Maintenance
+			- $0 while the app stays within the limits of free options; which is quite high.
+			- Supabase is the most likely to hit the limit, then it's  [$25/month](https://supabase.com/pricing)
+			- Very unlikely that limits are hit on Vercel, if it did, it would be [$20/month](https://vercel.com/pricing)
+		- #### Benefits
+			- Most flexible
+		- #### Drawbacks
+			- Highest complexity
+			-
+			-
+	- ### Alternative web architecture
+		- Every facilitator has their own personal website
+			- Events are handled by facilitators themselves in their websites with a agreed-upon protocol
+		- #### Benefits
+			- Highest resonance with [[Archiarchy]] values
+			- Most exciting
+		- #### Drawbacks
+			- Has never been done; it's an experiment
 		-
+			-
 		-
-- ### Alternative web architecture
-	- Every facilitator has their own personal website
-		- Events are handled by facilitators themselves in their websites with a agreed-upon protocol
-	- #### Benefits
-		- Highest resonance with [[Archiarchy]] values
-		- Most exciting
-	- #### Drawbacks
-		- Has never been done; it's an experiment
-	-
-		-
-	-
