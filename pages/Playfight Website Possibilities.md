@@ -15,8 +15,8 @@
 		- Maintenance
 		  background-color:: green
 			- $0 while the app stays within the limits of free options
-			- Supabase is the most likely to hit the limit, then it's $25/month
-			- Very unlikely that limits are hit on Vercel
+			- Supabase is the most likely to hit the limit, then [it's $25/month](https://supabase.com/pricing)
+			- Very unlikely that limits are hit on Vercel, if it did, it would be [$20/month]
 		- Benefits:
 			-
 	- ### Alternative web architecture
