@@ -125,12 +125,14 @@
 			- Integration with Hub Spot
 			- Other optional or additional features
 		- ### Stage 4: Maintenance and updates
-			- Nothing specific
+			- Nothing specific, just ongoing long-term support
 			-
 		-
-	- Here is a rough roadmap:
-		-
-		-
+- # Funding
+	- I'm requesting $600 investment for starting Stage 1
+	-
+	-
+	-
 	-
 -
 	-
