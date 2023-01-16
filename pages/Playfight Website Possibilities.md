@@ -10,12 +10,11 @@
 	- ### Using [Wordpress](https://wordpress.org/)
 		- Maintenance cost
 			- On Wordpress.com $25/month to be able to install plugins and install themes
-				-
+				- Also about $25 on other managed Wordpress hosting solutions such as [Flywheel](https://getflywheel.com/pricing/) or [WPEngine](https://wpengine.com/plans/)
 		- #### Benefits
 			- It's free and open source software
 			- Whatever you build here can be exported to somewhere else; you own all the code and tools
 			- Has a large amount of plugins systems with many functionalities
-			-
 		- #### Drawbacks
 			- It's not a whole platform by itself, even with plugins, custom code still needs to be written and maintained by someone with coding skills on a code editor elsewhere and deployed to a hosting service.
 			- It was originally made for blogging and it's general-use platform now; it's cluttered with a lot of things that wouldn't actually be used.
