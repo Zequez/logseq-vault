@@ -1,5 +1,7 @@
 - ### Background
-	- Nada Elissa contacted me regarding the Playfight.org new website that includes many new features that the  does not have
+	- Nada Elissa contacted me regarding the Playfight.org new website that includes many new features.
+	- > Currently in order to support the community of Facilitators for their work and the coherence of the work itself we aim to have a new website that every facilitator can use and for anyone interested in Playfight to refer to.
+	-
 	-
 - Context: https://docs.google.com/document/d/10B2i4CknKOptbheR2LPve2CaFi6ivzxhf3WrS4JaHMI/edit
 -
