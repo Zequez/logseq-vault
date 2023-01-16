@@ -1,11 +1,10 @@
-- ### Context
+- # Context
 	- Nada Elissa contacted me regarding the [Playfight.org new website](https://docs.google.com/document/d/10B2i4CknKOptbheR2LPve2CaFi6ivzxhf3WrS4JaHMI/edit#) that includes many new features.
 		- > Playfight is a Body Practice that supports people to reconnect with their bodies and with other people in a natural way. Playfight is based on an international network of Facilitators that offer different events around the globe.
 		- > Playfight.org is a non profit organisation that aims to guarantee the quality of the work done under the name of Playfight.
 		- > Currently in order to support the community of Facilitators for their work and the coherence of the work itself we aim to have a new website that every facilitator can use and for anyone interested in Playfight to refer to.
--
-- Exploration
-- There are multiple paths for building the new website, each one with its benefits and drawbacks.
+- # Web-building Options Exploration
+	- There are multiple paths for building the new website, each one with its benefits and drawbacks.
 	- ### Using [Wordpress](https://wordpress.org/)
 		- Maintenance cost
 			- On Wordpress.com $25/month to be able to install plugins and install themes
