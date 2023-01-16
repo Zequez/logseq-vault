@@ -113,6 +113,7 @@
 		- Page layout with either member name/avatar
 		- Recreate existing pages from Strikingly
 		- Setup site translation to other languages
+		- Connect events with
 		-
 		-
 	- Here is a rough roadmap:
