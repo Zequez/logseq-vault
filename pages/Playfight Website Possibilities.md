@@ -6,9 +6,11 @@
 		- Maintenance cost: $115/month for professional version which allow for adding collaborators to app
 	- Creating a customized platform
 		- [Supabase](https://supabase.com/) as backend
-		- [Astro](https://astro.build/) plus [React](https://reactjs.org/) on frontend
 		- [Vercel](https://vercel.com/) as hosting platform
-		- [GrapeJS](https://grapesjs.com) as visual page editor
+		- Frontend tooling
+			- [Astro](https://astro.build/) as builder
+			- [React](https://reactjs.org/) as framework
+			- [GrapeJS](https://grapesjs.com) as visual page editor
 		- Custom code to tie it all together
 		- Maintenance cost: $0 while the app stays within the limits of free options; Supabase is the most likely to hit the limit, then it's $25/month
 	-
