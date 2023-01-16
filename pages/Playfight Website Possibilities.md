@@ -80,8 +80,10 @@
 	- #### Headless backend with web components that can be embedded into existing websites
 		- For the page building you can use whatever you want; Mystrikingly, Webflow
 		-
-- # Conclusion
-	- I believe the most effective path is to use Wix Velo to build the platform. It's very powerful and flexible. Has little maintenance cost;
+- # Conclusion of exploration
+	- I believe the most effective path is to use Wix Velo to build the platform. It's very powerful and flexible. Has little maintenance cost. Has database managing right into the app. It's looks really good to build on.
+	-
+-
 	-
 	-
 	-
