@@ -40,7 +40,8 @@
 			- Every facilitator gets their own personal website at the end of the workshop
 			- Events are handled by facilitators themselves in their websites with a agreed-upon protocol
 		- Headless backend is build with components that facilitators can include in their website
-			- Sign up with Playfight.org login
+			- Shared authentication with Playfight.org
+			- Events component for both managing and displaying events on their website
 		- The data is distributed, so the platform collects data from each facilitator website to create the collection of events
 		- The platform website is developed collaboratively by each facilitator with the same tools used to build their websites
 		- Non-facilitators membership and events registration would still need a backend
