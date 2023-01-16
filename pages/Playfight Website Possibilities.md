@@ -15,7 +15,8 @@
 		- Maintenance cost: $0 while the app stays within the limits of free options; Supabase is the most likely to hit the limit, then it's $25/month
 	- Going out of the ordinary web architecture
 		- Every facilitator has their own personal website
-			- Events
+			- Events are handled by facilitators themselves in their websites with a agreed-upon protocol
+			-
 	-
 		-
 	-
