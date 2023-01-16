@@ -102,20 +102,23 @@
 			- Basic homepage
 			- Facilitators page
 			- Profile page for each facilitator
+			- Profile editing for each facilitator, with links to event editing
 			- Events page
 				- Calendar view of events in chronological order
 				- Filtering by event type and location
 				- Show map with events locations?
 				  background-color:: yellow
 			- Event page for each event
+			- Event editing page
 			- Facilitator page that list their events
 			- Facilitators registration form and profile editing
+			-
 		- Part 2: Visitors members
 			- Visitors registration page
 			- Event registration page
 				- Add membership sign in / sign up if not logged in
 				- Just event registration if already authenticated
-			- Member page with their events and
+			- Member page with their events and information
 		-
 		- Page layout with either member name/avatar
 		- Port existing pages from Strikingly
