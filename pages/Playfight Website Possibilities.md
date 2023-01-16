@@ -4,7 +4,7 @@
 	- ### Using [Wordpress](https://wordpress.org/)
 	- ### Using [Bubble](https://bubble.io/) web app builder
 		- Maintenance cost: $115/month for professional version which allow for adding collaborators to app
-	- ### Creating a customized platform
+	- ### Creating a platform with ordinary coding tools
 		- [Supabase](https://supabase.com/) as backend
 		- [Vercel](https://vercel.com/) as hosting platform
 		- Frontend tooling
@@ -13,7 +13,7 @@
 			- [GrapeJS](https://grapesjs.com) as visual page editor
 		- Custom code to tie it all together
 		- Maintenance cost: $0 while the app stays within the limits of free options; Supabase is the most likely to hit the limit, then it's $25/month
-	- Going out of the ordinary web architecture
+	- ### Alternative web architecture
 		- Every facilitator has their own personal website
 			- Events are handled by facilitators themselves in their websites with a agreed-upon protocol
 			-
