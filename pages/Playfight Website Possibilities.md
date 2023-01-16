@@ -135,7 +135,8 @@
 	-
 - # Response to Matteo message
 	- I resonate with the concern of Wix being a proprietary platform. Personally, from what I've seen Wix Velo is very flexible in the sense that you can write arbitrary code from it, so it's unlikely that we'll hit a wall. In a sense it's similar to tools like [Code Sandbox](https://codesandbox.io/) where the whole development environment is cloud-based; but leveraging Wix visual page editor for the pages design. Having a cloud-based development environment has the advantage that contributors don't need a local version of the app and setting up a local server, a local database, and a deployment workflow, which can be quite complex as of itself.
-		- Having the distinction with closed/open source platforms and tools it's quite a painful. In one hand one can see amazing platforms build by for-profit companies that work really well; on the other hand there is the ethics of
+		- For some time I have struggled with
+		- Having the distinction with closed/open source platforms and tools it's quite a painful. In one hand one can see amazing platforms build by for-profit companies that work really well; on the other hand there is a matter of ethics about
 	-
 -
 	-
