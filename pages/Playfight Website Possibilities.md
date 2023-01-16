@@ -111,11 +111,9 @@
 			- Add membership sign if not logged in
 			- Just event registration if not logged in
 		- Page layout with either member name/avatar
-		- Recreate existing pages from Strikingly
+		- Port existing pages from Strikingly
 		- Setup site translation to other languages
 		- Integration with Hub Spot
-		-
-		-
 	- Here is a rough roadmap:
 		-
 		-
