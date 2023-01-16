@@ -144,8 +144,8 @@
 				- I do believe that as humanity transitions into Archiarchy and we all start working together as a team, companies will transform from the inside out into the emerging collaborative context. This is mostly why I'm not that concerned anymore about proprietary platforms.
 	- All said and done, I'm exploring right now the Elementor plugin that you mentioned. It seems it has many similarities with the Wordpress block editor, which also allows you to design pages within Wordpress.
 		- As I was researching I found a plugin called [WPIDE](https://wordpress.org/plugins/wpide/) which allows you to edit the Wordpress code from within Wordpress itself. This puts it in line with some capabilities of Wix Velo. I'm going to be exploring it also.
-		-
 	- Regarding the Wordpress platform. I cited Wordpress.com because I'm assuming it's a managed Wordpress hosting from the same team that works on the core Wordpress.org software; so they fund the Wordpress development by offering managed Wordpress hosting. I know [Discourse](https://www.discourse.org/) does this for example. I'm aware there are many options for hosting Wordpress that might be a better alternative. In that sense it's quite flexible because there are many hosting providers.
+	- Regarding the concern about Velo using JavaScript
 -
 	-
 	-
