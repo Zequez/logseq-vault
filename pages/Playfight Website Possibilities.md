@@ -157,6 +157,8 @@
 			- Needs pro version but can be somehow circumvented by using https://proelements.org/
 		- The Events Calendar
 		- TranslatePress
+			- Pro version for automatic user language detection
+				- And for translating SEO Title, description, slug
 		- WP User Manager
 			- Needs pro version to manage multiple registration forms
 		- WPIDE
