@@ -137,7 +137,7 @@
 	- I resonate with the concern of Wix being a proprietary platform. Personally, from what I've seen Wix Velo is very flexible in the sense that you can write arbitrary code from it, so it's unlikely that we'll hit a wall. In a sense it's similar to tools like [Code Sandbox](https://codesandbox.io/) where the whole development environment is cloud-based; but leveraging Wix visual page editor for the pages design. Having a cloud-based development environment has the advantage that contributors don't need a local version of the app and setting up a local server, a local database, and a deployment workflow, which can be quite complex as of itself.
 		- For some time I have struggled with the issue of using proprietary vs free and open source software.
 			- I used to be a little moralistic about open source software vs proprietary. However I've started to change my mind about recently.
-				- Just because something is open source does not mean it's open to everyone; just to the ones that understand the code. Using no-code platforms encourages accessibility. From practical perspective, we don't have access nor could we understand most of the code that runs the web as a whole.
+				- Just because something is open source does not mean it's open to everyone; just to the ones that understand the code. Using no-code platforms encourages accessibility. From practical perspective, we don't have access nor could we understand most of the code that runs the web as a whole, and yet we use it and we don't think about it.
 				-
 			- One hand one can see amazing platforms build by for-profit companies that work really well and for which open source alternatives are yet not available or don't work as seamlessly.
 			- On the other hand,
