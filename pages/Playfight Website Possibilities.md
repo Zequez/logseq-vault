@@ -12,9 +12,9 @@
 		- Maintenance cost: $115/month for professional version which allow for adding collaborators to app
 		- #### Benefits
 			- Fully no-code platform, the entire platform is creating and maintained without any coding skills
-			- Very exciting new technology
+			- Very exciting new technology that I would like to study further
 		- #### Drawbacks
-			- I've never used it, si
+			- I've never used it
 	- ### Creating a platform with common coding tools
 		- [Supabase](https://supabase.com/) as backend
 		- [Vercel](https://vercel.com/) as hosting platform
@@ -31,6 +31,7 @@
 			- Most flexible
 		- #### Drawbacks
 			- Highest complexity
+			- Very high diverse skills for the maintenance of the app itself
 			-
 			-
 	- ### Alternative web architecture
