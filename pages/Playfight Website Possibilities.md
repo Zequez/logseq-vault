@@ -21,7 +21,10 @@
 		- #### Drawbacks
 			- I've never used it
 			- It's a closed platform; app can only be run there and cannot be exported elsewhere
-	- ### Using Wix Velo
+	- ### Using [Wix Velo](https://www.wix.com/velo/) web app builder
+		- ### Benefits
+			- Uses the Wix website editor which is one of the best available
+			- Whole low code platform
 	- ### Creating a platform with common coding tools
 		- [Supabase](https://supabase.com/) as backend
 		- [Vercel](https://vercel.com/) as hosting platform
