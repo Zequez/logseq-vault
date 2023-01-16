@@ -13,7 +13,7 @@
 			- Whatever you build here can be exported to somewhere else; you own all the code and tools
 			- Has a large amount of plugins systems
 		- #### Drawbacks
-			- Even with plugins, custom code still needs to be written and maintained
+			- Even with plugins, custom code still needs to be written and maintained by someone with coding skills with
 			-
 	- ### Using [Bubble](https://bubble.io/) web app builder
 		- Maintenance cost
