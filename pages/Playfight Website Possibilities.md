@@ -63,28 +63,29 @@
 			- Template editing with GrapeJS is lacking in comparison to commercial platforms such as Strikingly, Webflow or Bubble; and needs a lot of integration code (GrapeJS by itself does not do much)
 			-
 	- ### Alternative web architecture
-		- I organize a workshop for every facilitator to learn how to build and maintain their own websites with events using free no-code tools
-			- Every facilitator has its own personal website at the end of the workshop
-			- Events are handled by facilitators themselves in their websites with a agreed-upon protocol
-			- Facilitator profiles pages are completely customizable and can be either embedded into Playfight.org or linked to their website instead
-			- Facilitators decide what languages their profile is written on
-		- Headless backend is build with components that facilitators can include in their website
-			- Shared visitors authentication with Playfight.org
-			- Embeddable events component for both managing and displaying events on their website
-			-
-		- The data is distributed, so the platform collects data from each facilitator website to create the collection of events
-		- The platform website is developed collaboratively by each facilitator with the same tools used to build their websites
-		- Non-facilitators membership and events registration would still need a backend
-		- Might be able to use peer-to-peer [Holochain](https://www.holochain.org/) for backend
+		- How would it work
+			- I organize a workshop for every facilitator to learn how to build and maintain their own websites with events using free no-code tools
+				- Every facilitator has its own personal website at the end of the workshop
+				- Events are handled by facilitators themselves in their websites with a agreed-upon protocol
+				- Facilitator profiles pages are completely customizable and can be either embedded into Playfight.org or linked to their website instead
+				- Facilitators decide what languages their profile is written on
+			- Headless backend is build with components that facilitators can include in their website
+				- Shared visitors authentication with Playfight.org
+				- Embeddable events component for both managing and displaying events on their website
+			- The data is distributed, so the platform collects data from each facilitator website to create the collection of events
+			- The platform website is developed collaboratively by each facilitator with the same tools used to build their websites
+			- Non-facilitators membership and events registration would still need a backend
+			- Might be able to use peer-to-peer [Holochain](https://www.holochain.org/) for backend
 		- #### Benefits
 			- Highest resonance with [[Archiarchy]] values
-			- Most exciting
+			- Very exciting
 		- #### Drawbacks
 			- Has never been done; it's an experiment
 			- Neither Holochain nor [Holo.host](https://holo.host/) (a web hosting platform for Holochain apps) are public ready; so we would still need to use an alternative backend in the meantime
 			- A lot of moving parts, very complex
 			- Alright, this idea is not practical, I admit it; I still want to organize the workshop
 			- Would need separate research and even building things to be able to enable people to use free no-code tools to build their website
+			-
 			-
 	- #### Headless backend with web components that can be embedded into existing websites
 		- For the page building you can use whatever you want; Mystrikingly, Webflow
