@@ -32,7 +32,7 @@
 		- #### Drawbacks
 			- Highest complexity; many moving parts that need to be tied together
 			- Requires a diverse spectrum of high-level skills for the maintenance and updating of the app itself
-			- Template editing with GrapeJS is lacking in comparison to commercial platforms such as Strikingly, Webflow or Bubble; and needs a lot of integration code (Grap)
+			- Template editing with GrapeJS is lacking in comparison to commercial platforms such as Strikingly, Webflow or Bubble; and needs a lot of integration code (GrapeJS by itself does not do much)
 			-
 			-
 	- ### Alternative web architecture
