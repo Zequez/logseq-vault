@@ -5,9 +5,9 @@
 	- Using [Bubble](https://bubble.io/) web app builder
 	- Creating a customized platform
 		- [Supabase](https://supabase.com/) as backend
-		- [Astro](https://astro.build/) on frontend
+		- [Astro](https://astro.build/) plus [React](https://reactjs.org/) on frontend
 		- [Vercel](https://vercel.com/) as hosting platform
 		- [GrapeJS](https://grapesjs.com) as visual page editor
-		- Custom code to tie
+		- Custom code to tie it all together
 		-
 	-
