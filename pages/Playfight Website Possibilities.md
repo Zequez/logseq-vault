@@ -12,8 +12,9 @@
 			- It's free and open source software
 			- Whatever you build here can be exported to somewhere else; you own all the code and tools
 			- Has a large amount of plugins systems with many functionalities
+			-
 		- #### Drawbacks
-			- Even with plugins, custom code still needs to be written and maintained by someone with coding skills with; plugins need to be customized and
+			- Even with plugins, custom code still needs to be written and maintained by someone with coding skills with
 			- It was originally made for blogging and it's general-use platform now; it's cluttered with a lot of things that wouldn't actually be used.
 			-
 			-
