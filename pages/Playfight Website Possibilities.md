@@ -122,6 +122,9 @@
 		- ### Part 3: Polishing
 			- Translation to other languages
 			- Feature-parity with existing Strikingly site
+			- Other optional or additional features
+		- ### Part 4: Maintenance and updates
+			- Nothing specific, but
 			-
 		-
 		- Page layout with either member name/avatar
