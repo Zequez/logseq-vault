@@ -103,8 +103,11 @@
 			- Calendar view of events in chronological order
 			- Filtering by event type and location
 			- Show map with events locations?
+			  background-color:: yellow
 		- Event page for each event
 		- Facilitators page
+		- Facilitator page that list their events
+		- Event registration page bundled with membership sign up
 		-
 	- Here is a rough roadmap:
 		-
