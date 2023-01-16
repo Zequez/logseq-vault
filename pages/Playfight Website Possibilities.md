@@ -85,10 +85,12 @@
 			- A lot of moving parts, very complex
 			- Alright, this idea is not practical, I admit it; I still want to organize the workshop
 			- Would need separate research and even building things to be able to enable people to use free no-code tools to build their website
-			-
+			- An entire whitepaper would need to be written to actually make this doable
 			-
 	- #### Headless backend with web components that can be embedded into existing websites
 		- For the page building you can use whatever you want; Mystrikingly, Webflow
+		- Very similar to Creating platform with custom code tools; except the page design would be offloaded to one of the popular website builders
+		- Still needs
 		-
 - # Conclusion of exploration
 	- I believe the most effective path is to use Wix Velo to build the platform. It's very powerful and flexible. Has little maintenance cost. Has database managing right into the app. It's looks really good to build on.
