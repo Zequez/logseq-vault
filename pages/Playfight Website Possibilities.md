@@ -113,7 +113,7 @@
 		- Page layout with either member name/avatar
 		- Recreate existing pages from Strikingly
 		- Setup site translation to other languages
-		- Connect events with
+		- Integration with Hub Spot
 		-
 		-
 	- Here is a rough roadmap:
