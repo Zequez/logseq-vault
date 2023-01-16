@@ -71,7 +71,7 @@
 		- #### Drawbacks
 			- Has never been done; it's an experiment
 			- Neither Holochain nor [Holo.host](https://holo.host/) (a web hosting platform for Holochain apps) are public ready; so we would still need to use an alternative backend in the meantime
-			- I have no idea
+			- A lot of moving parts, very complex
 			-
 	- #### Headless backend with web components that can be embedded into existing websites
 		- For the page building you can use whatever you want; Mystrikingly, Webflow,
