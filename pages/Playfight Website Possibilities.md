@@ -7,4 +7,5 @@
 		- [Supabase](https://supabase.com/) as backend
 		- [Astro](https://astro.build/) on frontend
 		-
+		-
 	-
