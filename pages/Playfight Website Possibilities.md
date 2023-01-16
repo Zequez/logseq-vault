@@ -39,6 +39,7 @@
 		- I organize a workshop for every facilitator to learn how to build and maintain their own websites with events using free no-code tools
 			- Every facilitator gets their own personal website at the end of the workshop
 			- Events are handled by facilitators themselves in their websites with a agreed-upon protocol
+			- Facilitator profiles pages are completely customizable and can be either embedded into Playfight.org or lin
 		- Headless backend is build with components that facilitators can include in their website
 			- Shared authentication with Playfight.org
 			- Events component for both managing and displaying events on their website
