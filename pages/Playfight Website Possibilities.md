@@ -119,7 +119,8 @@
 				- Add membership sign in / sign up if not logged in
 				- Just event registration if already authenticated
 			- Member page with their events and information
-			- Messaging
+		- ### Part 3: Polishing
+			-
 		-
 		- Page layout with either member name/avatar
 		- Port existing pages from Strikingly
