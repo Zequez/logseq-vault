@@ -134,7 +134,7 @@
 	-
 	-
 - # Response to Matteo message
-	-
+	- I resonate with the concern of Wix being a proprietary platform. Personally, from what I've seen Wix Velo is very flexible in the sense that you can write arbitary code from it, si
 	-
 -
 	-
