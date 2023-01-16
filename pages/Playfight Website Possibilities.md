@@ -3,6 +3,7 @@
 - There are multiple paths for building the new website, each one with it's benefits and drawbacks.
 	- Using [Wordpress](https://wordpress.org/)
 	- Using [Bubble](https://bubble.io/) web app builder
+		- Maintenance cost: $115 for
 	- Creating a customized platform
 		- [Supabase](https://supabase.com/) as backend
 		- [Astro](https://astro.build/) plus [React](https://reactjs.org/) on frontend
