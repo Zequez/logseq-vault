@@ -1,7 +1,7 @@
 - Context: https://docs.google.com/document/d/10B2i4CknKOptbheR2LPve2CaFi6ivzxhf3WrS4JaHMI/edit
 -
 - There are multiple paths for building the new website, each one with it's benefits and drawbacks.
-	- Using Wordpress
+	- Using [Wordpress](https://wordpress.org/)
 	- Using [Bubble](https://bubble.io/) web app builder
 	- Creating a customized platform
 		- [Supabase](https://supabase.com/) as backend
