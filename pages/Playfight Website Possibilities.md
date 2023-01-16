@@ -36,11 +36,11 @@
 			-
 			-
 	- ### Alternative web architecture
+		- I organize a workshop for every facilitator to learn how to build and maintain their own websites with events using free no-code tools
 		- Every facilitator has their own personal website
 			- Events are handled by facilitators themselves in their websites with a agreed-upon protocol
 		- The data is distributed, so the platform collects data from each facilitator website to create the collection of events
 		- The platform website is developed collaboratively by each facilitator with the same tools used to build their websites
-		- I organize a workshop for everyone
 		- Non-facilitators membership and events registration would still need a backend
 		- Might be able to use peer-to-peer [Holochain](https://www.holochain.org/) for backend
 		- #### Benefits
