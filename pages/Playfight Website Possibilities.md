@@ -25,7 +25,11 @@
 	- ### Alternative web architecture
 		- Every facilitator has their own personal website
 			- Events are handled by facilitators themselves in their websites with a agreed-upon protocol
-			-
+		- #### Benefits
+			- Highest resonance with Archiarchy values
+			- Most exciting
+		- #### Drawbacks
+			- Has never been done; it's an experiment
 	-
 		-
 	-
