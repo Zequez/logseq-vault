@@ -133,7 +133,7 @@
 	- Then after finishing each subsequent stage (1, 2 and 3) I will prompt for additional contribution
 	-
 	-
-	-
+-
 	-
 -
 	-
