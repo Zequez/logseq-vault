@@ -96,7 +96,6 @@
 - # Conclusion of exploration
 	- I believe the most effective path is to use Wix Velo to build the platform. It's very powerful and flexible. Has little maintenance cost. Has database managing right into the platform. It's looks really good to build on, and it would be the quickest and easiest to maintain.
 - # Roadmap
-  collapsed:: true
 	- Let's split the features into parts and create a rough roadmap with 2-weeks milestones; or sprints, as they are called on the industry-lingo.
 		- ### Stage 1: Working prototype
 			- Basic homepage with navigation
@@ -119,18 +118,16 @@
 				- Add membership sign in / sign up if not logged in
 				- Just event registration if already authenticated
 			- Member page with their events and information
+			- Page layout with either member name/avatar
 		- ### Stage 3: Polishing
 			- Translation to other languages
 			- Feature-parity with existing Strikingly site
+			- Integration with Hub Spot
 			- Other optional or additional features
 		- ### Stage 4: Maintenance and updates
 			- Nothing specific
 			-
 		-
-		- Page layout with either member name/avatar
-		- Port existing pages from Strikingly
-		- Setup site translation to other languages
-		- Integration with Hub Spot
 	- Here is a rough roadmap:
 		-
 		-
