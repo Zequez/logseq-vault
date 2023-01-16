@@ -130,7 +130,8 @@
 		-
 - # Funding
 	- I'm requesting $600 investment for starting Stage 1
-	- Then after finishing each subsequent stage (1, 2 and 3) an additional contribution will be requested.
+	- Then after finishing each subsequent stage (1, 2 and 3) an additional non-specific contribution will be requested.
+	- Also, I would like to offer
 	-
 	-
 	-
