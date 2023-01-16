@@ -107,7 +107,10 @@
 		- Event page for each event
 		- Facilitators page
 		- Facilitator page that list their events
-		- Event registration page bundled with membership sign up
+		- Event registration page
+			- Add membership sign if not logged in
+			- Just event registration if not logged in
+		- Page layout with sign up form
 		-
 	- Here is a rough roadmap:
 		-
