@@ -45,7 +45,7 @@
 			- Most exciting
 		- #### Drawbacks
 			- Has never been done; it's an experiment
-			- Holochain is not publicly
+			- [Holo.host](https://holo.host/) is still not
 		-
 			-
 		-
