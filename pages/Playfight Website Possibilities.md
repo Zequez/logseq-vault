@@ -134,7 +134,7 @@
 	-
 	-
 - # Response to Matteo message
-	- I resonate with the concern of Wix being a proprietary platform. Personally, from what I've seen Wix Velo is very flexible in the sense that you can write arbitary code from it, si
+	- I resonate with the concern of Wix being a proprietary platform. Personally, from what I've seen Wix Velo is very flexible in the sense that you can write arbitrary code from it, so it's unlikely that we'll hit a wall. In a sense it's similar to tools like [Code Sandbox](https://codesandbox.io/) where the whole development environment is accessible from the browser.
 	-
 -
 	-
