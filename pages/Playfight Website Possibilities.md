@@ -98,7 +98,9 @@
 - # Conclusion of exploration
 	- I believe the most effective path is to use Wix Velo to build the platform. It's very powerful and flexible. Has little maintenance cost. Has database managing right into the platform. It's looks really good to build on, and it would be the quickest and easiest to maintain.
 	- Let's split the features into parts and create a rough roadmap with 2-weeks milestones
-		- Sign up for members
+		- Profile page for each facilitator
+		- Event page for each event
+		- Calendar view of events on
 		-
 	- Here is a rough roadmap:
 		-
