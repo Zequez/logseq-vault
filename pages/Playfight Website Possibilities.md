@@ -22,6 +22,7 @@
 		- #### Drawbacks
 			- I've never used it
 			- It's a closed platform; app can only be run there and cannot be exported elsewhere
+			- Translation is done by a separate service that's very expensive
 	- ### Using [Wix Velo](https://www.wix.com/velo/) web app builder
 		- Maintenance cost
 			- $12.50/month ($25/month for priority customer support); the same as for regular Wix websites; which is surprisingly cheap
@@ -77,8 +78,8 @@
 	- #### Headless backend with web components that can be embedded into existing websites
 		- For the page building you can use whatever you want; Mystrikingly, Webflow
 		-
-- # Conclusion of research
-	-
+- # Conclusion
+	- I believe the most effective path is to use Wix Velo to build the platform. It's very powerful,
 	-
 	-
 	-
