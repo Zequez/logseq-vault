@@ -24,7 +24,7 @@
 			- It's a closed platform; app can only be run there and cannot be exported elsewhere
 	- ### Using [Wix Velo](https://www.wix.com/velo/) web app builder
 		- Maintenance cost
-			- $12.50/month ($25/month for support); the same as for regular Wix websites; which is surprisingly cheap
+			- $12.50/month ($25/month for priority customer support); the same as for regular Wix websites; which is surprisingly cheap
 		- ### Benefits
 			- Uses the Wix website editor which is one of the best available
 			- Low code platform; can edit visually but has complete code editing capabilities right in the browser
