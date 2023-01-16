@@ -141,13 +141,9 @@
 				- Just because something is open source does not mean it's open to everyone; just to the ones that understand the code. Using no-code platforms encourages accessibility. From practical perspective, we don't have practical access nor could we understand most of the code that runs the web as a whole, and yet we use it and we don't think about it. Open source is a story.
 				- If we're all essentially on the same team, and people in a company created a proprietary software; nothing stops us from being on their team and advocating for them open sourcing their software. This has happened in the past and there are many companies develop open source software and usually the way they fund themselves is by offering hosting services specifically tailored for their platform. That's how Wordpress works for example, or the Discourse forum platform.
 					- I do believe that as humanity transitions into Archiarchy and we all start working together as a team, companies will transform from the inside out into the emerging collaborative context. This is mostly why I'm not that concerned anymore about proprietary platforms.
-		- All said and done, I'm exploring right now the Elementor plugin that you mentioned. It seems it has many similarities with the Wordpress block editor, which also allows you to design pages within Wordpress.
-			- As I was researching I found a plugin called [WPIDE](https://wordpress.org/plugins/wpide/) which allows you to edit the Wordpress code from within Wordpress itself. This puts it in line with some capabilities of Wix Velo. I'm going to be exploring it also.
-			-
-			-
-			- One hand one can see amazing platforms build by for-profit companies that work really well and for which open source alternatives are yet not available or don't work as seamlessly.
-			- On the other hand,
-		- Having the distinction with closed/open source platforms and tools it's quite a painful. In ; on the other hand there is a matter of ethics about
+	- All said and done, I'm exploring right now the Elementor plugin that you mentioned. It seems it has many similarities with the Wordpress block editor, which also allows you to design pages within Wordpress.
+		- As I was researching I found a plugin called [WPIDE](https://wordpress.org/plugins/wpide/) which allows you to edit the Wordpress code from within Wordpress itself. This puts it in line with some capabilities of Wix Velo. I'm going to be exploring it also.
+		-
 	-
 -
 	-
