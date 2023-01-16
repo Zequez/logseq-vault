@@ -130,7 +130,7 @@
 		-
 - # Funding
 	- I'm requesting $600 investment for starting Stage 1
-	- Then after finishing each subsequent stage (1, 2 and 3) an additional contribution will be requested in the spirit of the gift.
+	- Then after finishing each subsequent stage (1, 2 and 3) I will prompt for additional constr
 	-
 	-
 	-
