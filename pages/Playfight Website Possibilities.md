@@ -2,8 +2,9 @@
 -
 - There are multiple paths for building the new website, each one with it's benefits and drawbacks.
 	- Using Wordpress
-	- Using Bubble web app builder
+	- Using [Bubble](https://bubble.io/) web app builder
 	- Creating a customized platform
 		- [Supabase](https://supabase.com/) as backend
-		- Astro on frontend
+		- [Astro](https://astro.build/) on frontend
+		-
 	-
