@@ -4,5 +4,6 @@
 	- Using Wordpress
 	- Using Bubble web app builder
 	- Creating a customized platform
-		-
+		- [Supabase](https://supabase.com/) as backend
+		- Astro on frontend
 	-
