@@ -3,3 +3,5 @@
 - There are multiple paths for building the new website, each one with it's benefits and drawbacks.
 	- Using Wordpress
 	- Using Bubble web app builder
+	-
+	-
