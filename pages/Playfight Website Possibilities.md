@@ -1,10 +1,10 @@
 - Context: https://docs.google.com/document/d/10B2i4CknKOptbheR2LPve2CaFi6ivzxhf3WrS4JaHMI/edit
 -
 - There are multiple paths for building the new website, each one with it's benefits and drawbacks.
-	- Using [Wordpress](https://wordpress.org/)
-	- Using [Bubble](https://bubble.io/) web app builder
+	- ### Using [Wordpress](https://wordpress.org/)
+	- ### Using [Bubble](https://bubble.io/) web app builder
 		- Maintenance cost: $115/month for professional version which allow for adding collaborators to app
-	- Creating a customized platform
+	- ### Creating a customized platform
 		- [Supabase](https://supabase.com/) as backend
 		- [Vercel](https://vercel.com/) as hosting platform
 		- Frontend tooling
@@ -13,6 +13,9 @@
 			- [GrapeJS](https://grapesjs.com) as visual page editor
 		- Custom code to tie it all together
 		- Maintenance cost: $0 while the app stays within the limits of free options; Supabase is the most likely to hit the limit, then it's $25/month
+	- Going out of the ordinary web architecture
+		- Every facilitator has their own personal website
+			- Events
 	-
 		-
 	-
