@@ -45,11 +45,11 @@
 			- Very unlikely that limits are hit on Vercel, if it did, it would be [$20/month](https://vercel.com/pricing)
 		- #### Benefits
 			- Most flexible
+			- Highest ego inflation; I assert myself as a true programmer
 		- #### Drawbacks
 			- Highest complexity; many moving parts that need to be tied together
 			- Requires a diverse spectrum of high-level skills for the maintenance and updating of the app itself
 			- Template editing with GrapeJS is lacking in comparison to commercial platforms such as Strikingly, Webflow or Bubble; and needs a lot of integration code (GrapeJS by itself does not do much)
-			-
 			-
 	- ### Alternative web architecture
 		- I organize a workshop for every facilitator to learn how to build and maintain their own websites with events using free no-code tools
