@@ -144,7 +144,7 @@
 	- All said and done, I'm exploring right now the Elementor plugin that you mentioned. It seems it has many similarities with the Wordpress block editor, which also allows you to design pages within Wordpress.
 		- As I was researching I found a plugin called [WPIDE](https://wordpress.org/plugins/wpide/) which allows you to edit the Wordpress code from within Wordpress itself. This puts it in line with some capabilities of Wix Velo. I'm going to be exploring it also.
 		-
-	-
+	- Regarding the Wordpress platform. I cited Wordpress.com because I'm assuming it's a managed Wordpress hosting from the same team that works on the core Wordpress software. I'm aware there are many
 -
 	-
 	-
