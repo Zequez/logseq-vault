@@ -22,13 +22,14 @@
 		- #### Drawbacks
 			- I've never used it
 			- It's a closed platform; app can only be run there and cannot be exported elsewhere
-			- Translation is done by a separate service that's very expensive
+			- Translation is done by a separate service called [Localize.js](https://localizejs.com/) that's [very pricy](https://localizejs.com/pricing).
 	- ### Using [Wix Velo](https://www.wix.com/velo/) web app builder
 		- Maintenance cost
 			- $12.50/month ($25/month for priority customer support); the same as for regular Wix websites; which is surprisingly cheap
 		- ### Benefits
 			- Uses the Wix website editor which is one of the best available
 			- Low code platform; can edit visually but has complete code editing capabilities right in the browser
+			- Translations are included in the Wix arsenal of tools, no external tool needed
 		- ### Drawbacks
 			- As with Bubble, I've never used it
 			- As with Bubble, it's a closed platform; app exists at Wix and cannot be exported elsewhere
