@@ -20,7 +20,7 @@
 			- Very exciting new technology that I would like to study further
 		- #### Drawbacks
 			- I've never used it
-			- It's a closed platform; app can only be run by Bubble
+			- It's a closed platform; app can only be run there and cannot be exported elsewhere
 	- ### Creating a platform with common coding tools
 		- [Supabase](https://supabase.com/) as backend
 		- [Vercel](https://vercel.com/) as hosting platform
@@ -62,7 +62,8 @@
 			- Has never been done; it's an experiment
 			- Neither Holochain nor [Holo.host](https://holo.host/) (a web hosting platform for Holochain apps) are public ready; so we would still need to use an alternative backend in the meantime
 			-
-	- #### Embeddable Events Managing Component
+	- #### Headless backend with web components that can be embedded into existing websites
+		-
 		-
 		-
 		-
