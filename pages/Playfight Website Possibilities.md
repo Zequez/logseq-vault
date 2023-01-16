@@ -120,6 +120,8 @@
 				- Just event registration if already authenticated
 			- Member page with their events and information
 		- ### Part 3: Polishing
+			- Translation to other languages
+			- Feature-parity with existing Strikingly site
 			-
 		-
 		- Page layout with either member name/avatar
