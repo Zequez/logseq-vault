@@ -138,6 +138,7 @@
 		- For some time I have struggled with the issue of using proprietary vs free and open source software.
 			- I used to be a little moralistic about open source software vs proprietary. However I've started to change my mind about recently.
 				- Just because something is open source does not mean it's open to everyone; just to the ones that understand the code. Using no-code platforms encourages accessibility. From practical perspective, we don't have access nor could we understand most of the code that runs the web as a whole, and yet we use it and we don't think about it.
+				- If we're all essentially on the same team, and people in a company created a proprietary software; nothing stops us from
 				-
 			- One hand one can see amazing platforms build by for-profit companies that work really well and for which open source alternatives are yet not available or don't work as seamlessly.
 			- On the other hand,
