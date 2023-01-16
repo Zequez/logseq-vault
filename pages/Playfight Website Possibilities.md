@@ -1,4 +1,5 @@
-- Nada Elissa and  contacted me
+- Background
+	- Nada Elissa and Matteo Tangi contacted me regarding their
 - Context: https://docs.google.com/document/d/10B2i4CknKOptbheR2LPve2CaFi6ivzxhf3WrS4JaHMI/edit
 -
 - There are multiple paths for building the new website, each one with it's benefits and drawbacks.
