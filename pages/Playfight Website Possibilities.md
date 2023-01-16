@@ -30,7 +30,7 @@
 			- Uses the Wix website editor which is one of the best available
 			- Low code platform; can edit visually but has complete code editing capabilities right in the browser
 			- Translations are included in the Wix arsenal of tools, no external tool needed
-			- It
+			- I'm very excited about building on this platform
 		- ### Drawbacks
 			- As with Bubble, I've never used it
 			- As with Bubble, it's a closed platform; app exists at Wix and cannot be exported elsewhere
@@ -81,7 +81,7 @@
 		- For the page building you can use whatever you want; Mystrikingly, Webflow
 		-
 - # Conclusion
-	- I believe the most effective path is to use Wix Velo to build the platform. It's very powerful,
+	- I believe the most effective path is to use Wix Velo to build the platform. It's very powerful and flexible. Has little maintenance cost;
 	-
 	-
 	-
