@@ -6,6 +6,6 @@
 	- Creating a customized platform
 		- [Supabase](https://supabase.com/) as backend
 		- [Astro](https://astro.build/) on frontend
-		-
+		- [Vercel](https://vercel.com/dashboard) as hosting platform
 		-
 	-
