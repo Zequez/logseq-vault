@@ -45,7 +45,7 @@
 			- Most exciting
 		- #### Drawbacks
 			- Has never been done; it's an experiment
-			- [Holo.host](https://holo.host/) is still not
+			- Neither Holochain nor [Holo.host](https://holo.host/) (a P2P hosting platform for Holochain apps) are public ready; so we would still ned
 		-
 			-
 		-
