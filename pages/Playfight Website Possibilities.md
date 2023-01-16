@@ -56,6 +56,7 @@
 			- Has never been done; it's an experiment
 			- Neither Holochain nor [Holo.host](https://holo.host/) (a web hosting platform for Holochain apps) are public ready; so we would still need to use an alternative backend in the meantime
 			-
-	-
+	- #### Embeddable Events Managing Component
+		-
 		-
 		-
