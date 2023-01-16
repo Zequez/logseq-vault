@@ -24,7 +24,10 @@
 	- ### Using [Wix Velo](https://www.wix.com/velo/) web app builder
 		- ### Benefits
 			- Uses the Wix website editor which is one of the best available
-			- Low code platform; can edit visually
+			- Low code platform; can edit visually but has complete code editing capabilities right in the browser
+		- ### Drawbacks
+			- As with Bubble, I've never used it
+			- As with Bubble, it's a closed platform; app exists at Wix and cannot be exported elsewhere
 	- ### Creating a platform with common coding tools
 		- [Supabase](https://supabase.com/) as backend
 		- [Vercel](https://vercel.com/) as hosting platform
