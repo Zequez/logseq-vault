@@ -1,5 +1,6 @@
-- Background
-	- Nada Elissa and Matteo Tangi contacted me regarding their
+- ### Background
+	- Nada Elissa contacted me regarding the Playfight.org new website that includes many new features that the  does not have
+	-
 - Context: https://docs.google.com/document/d/10B2i4CknKOptbheR2LPve2CaFi6ivzxhf3WrS4JaHMI/edit
 -
 - There are multiple paths for building the new website, each one with it's benefits and drawbacks.
