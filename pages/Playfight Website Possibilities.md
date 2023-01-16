@@ -38,7 +38,7 @@
 	- ### Alternative web architecture
 		- Every facilitator has their own personal website
 			- Events are handled by facilitators themselves in their websites with a agreed-upon protocol
-				-
+		- The data is distributed, so the platform collects data from each facilitator website to create the collection of events
 		- #### Benefits
 			- Highest resonance with [[Archiarchy]] values
 			- Most exciting
