@@ -10,7 +10,7 @@
 	- ### Using [Wordpress](https://wordpress.org/)
 		- Maintenance cost
 			- On Wordpress.com $25/month to be able to install plugins and install themes
-			-
+				-
 		- #### Benefits
 			- It's free and open source software
 			- Whatever you build here can be exported to somewhere else; you own all the code and tools
