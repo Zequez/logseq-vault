@@ -12,7 +12,13 @@
 			- [React](https://reactjs.org/) for making components
 			- [GrapeJS](https://grapesjs.com) as visual page editor
 		- Custom code to tie it all together
-		- Maintenance cost: $0 while the app stays within the limits of free options; Supabase is the most likely to hit the limit, then it's $25/month
+		- Maintenance
+		  background-color:: green
+			- $0 while the app stays within the limits of free options
+			- Supabase is the most likely to hit the limit, then it's $25/month
+			- Very unlikely that limits are hit on Vercel
+		- Benefits:
+			-
 	- ### Alternative web architecture
 		- Every facilitator has their own personal website
 			- Events are handled by facilitators themselves in their websites with a agreed-upon protocol
