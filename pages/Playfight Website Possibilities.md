@@ -24,7 +24,7 @@
 	- ### Using [Wix Velo](https://www.wix.com/velo/) web app builder
 		- ### Benefits
 			- Uses the Wix website editor which is one of the best available
-			- Fully low code platform
+			- Low code platform; can edit visually
 	- ### Creating a platform with common coding tools
 		- [Supabase](https://supabase.com/) as backend
 		- [Vercel](https://vercel.com/) as hosting platform
