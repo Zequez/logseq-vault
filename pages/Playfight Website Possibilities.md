@@ -99,7 +99,7 @@
 	- I believe the most effective path is to use Wix Velo to build the platform. It's very powerful and flexible. Has little maintenance cost. Has database managing right into the platform. It's looks really good to build on, and it would be the quickest and easiest to maintain.
 	- Let's split the features into parts and create a rough roadmap with 2-weeks milestones; or sprints, as they are called on the industry-lingo.
 		- Part 1: Working propotype
-			- Basic homepage with links to events and fa
+			- Basic homepage
 			- Facilitators page
 			- Profile page for each facilitator
 			- Events page
@@ -109,6 +109,7 @@
 				  background-color:: yellow
 			- Event page for each event
 			- Facilitator page that list their events
+			- Facilitators registration form
 			- Event registration page
 				- Add membership sign if not logged in
 				- Just event registration if not logged in
