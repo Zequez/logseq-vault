@@ -42,14 +42,14 @@
 			- As with Bubble, I've never used it
 			- As with Bubble, it's a closed platform; app exists at Wix and cannot be exported elsewhere
 	- ### Creating a platform with common coding tools
-		- T
-		- [Supabase](https://supabase.com/) as backend
-		- [Vercel](https://vercel.com/) as hosting platform
-		- Frontend tooling
-			- [Astro](https://astro.build/) as builder
-			- [React](https://reactjs.org/) for making components
-			- [GrapeJS](https://grapesjs.com) as visual page editor
-		- Custom code to tie it all together
+		- Stack of tools that would be used
+			- [Supabase](https://supabase.com/) as backend
+			- [Vercel](https://vercel.com/) as hosting platform
+			- Frontend tooling
+				- [Astro](https://astro.build/) as builder
+				- [React](https://reactjs.org/) for making components
+				- [GrapeJS](https://grapesjs.com) as visual page editor
+			- Custom code to tie it all together
 		- Maintenance cost
 			- $0 while the app stays within the limits of free options; which is quite high.
 			- Supabase is the most likely to hit the limit, then it's  [$25/month](https://supabase.com/pricing)
@@ -84,6 +84,7 @@
 			- Neither Holochain nor [Holo.host](https://holo.host/) (a web hosting platform for Holochain apps) are public ready; so we would still need to use an alternative backend in the meantime
 			- A lot of moving parts, very complex
 			- Alright, this idea is not practical, I admit it; I still want to organize the workshop
+			- Would need separate research and even building things to be able to enable people to use free no-code tools to build their website
 			-
 	- #### Headless backend with web components that can be embedded into existing websites
 		- For the page building you can use whatever you want; Mystrikingly, Webflow
