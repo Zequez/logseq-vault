@@ -30,6 +30,7 @@
 			- Uses the Wix website editor which is one of the best available
 			- Low code platform; can edit visually but has complete code editing capabilities right in the browser
 			- Translations are included in the Wix arsenal of tools, no external tool needed
+			- It
 		- ### Drawbacks
 			- As with Bubble, I've never used it
 			- As with Bubble, it's a closed platform; app exists at Wix and cannot be exported elsewhere
