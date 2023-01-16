@@ -9,7 +9,7 @@
 		- [Vercel](https://vercel.com/) as hosting platform
 		- Frontend tooling
 			- [Astro](https://astro.build/) as builder
-			- [React](https://reactjs.org/) as framework
+			- [React](https://reactjs.org/) for making components
 			- [GrapeJS](https://grapesjs.com) as visual page editor
 		- Custom code to tie it all together
 		- Maintenance cost: $0 while the app stays within the limits of free options; Supabase is the most likely to hit the limit, then it's $25/month
