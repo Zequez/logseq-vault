@@ -151,6 +151,8 @@
 	- ### About Velo using JavaScript
 		- Regarding the concern about Velo using JavaScript, I think it might be a misconception. The only heavy use of JavaScript on Velo is on the app editor, the app itself works as a normal web, same as Wordpress, mostly HTML and CSS, and JavaScript used for dynamic content; I don't believe performance would be an issue.
 -
+- # Further Exploration of Wordpress
+	-
 	-
 	-
 	-
