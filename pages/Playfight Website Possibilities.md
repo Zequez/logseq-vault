@@ -98,7 +98,7 @@
 - # Conclusion of exploration
 	- I believe the most effective path is to use Wix Velo to build the platform. It's very powerful and flexible. Has little maintenance cost. Has database managing right into the platform. It's looks really good to build on, and it would be the quickest and easiest to maintain.
 	- Let's split the features into parts and create a rough roadmap with 2-weeks milestones; or sprints, as they are called on the industry-lingo.
-		- ### Part 1: Working propotype
+		- ### Part 1: Working prototype
 			- Basic homepage with navigation
 			- Facilitators page
 			- Profile page for each facilitator, with list of events
@@ -112,12 +112,14 @@
 			- Event editing page
 			- Facilitators registration form
 			- Admins can edit any facilitator page and events
+			- Web app published accessible
 		- ### Part 2: Visitors members
 			- Visitors registration page
 			- Event registration page
 				- Add membership sign in / sign up if not logged in
 				- Just event registration if already authenticated
 			- Member page with their events and information
+			- Messaging
 		-
 		- Page layout with either member name/avatar
 		- Port existing pages from Strikingly
