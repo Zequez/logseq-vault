@@ -9,9 +9,11 @@
 - There are multiple paths for building the new website, each one with its benefits and drawbacks.
 	- ### Using [Wordpress](https://wordpress.org/)
 		- #### Benefits
-			- It's free and open source software ()
-			-
+			- It's free and open source software
+			- Whatever you build here can be exported to somewhere else; you own all the code and tools
+			- Has a large amount of plugins systems
 		- #### Drawbacks
+			- Even with plugins, custom code still needs to be written and maintained
 			-
 	- ### Using [Bubble](https://bubble.io/) web app builder
 		- Maintenance cost
