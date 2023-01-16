@@ -8,6 +8,11 @@
 -
 - There are multiple paths for building the new website, each one with its benefits and drawbacks.
 	- ### Using [Wordpress](https://wordpress.org/)
+		- #### Benefits
+			- It's free and open source software ()
+			-
+		- #### Drawbacks
+			-
 	- ### Using [Bubble](https://bubble.io/) web app builder
 		- Maintenance cost: $115/month for professional version which allow for adding collaborators to app
 		- #### Benefits
@@ -15,6 +20,7 @@
 			- Very exciting new technology that I would like to study further
 		- #### Drawbacks
 			- I've never used it
+			- It's a closed platform; app can only be run by Bubble
 	- ### Creating a platform with common coding tools
 		- [Supabase](https://supabase.com/) as backend
 		- [Vercel](https://vercel.com/) as hosting platform
