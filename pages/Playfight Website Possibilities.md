@@ -109,10 +109,13 @@
 				  background-color:: yellow
 			- Event page for each event
 			- Facilitator page that list their events
-			- Facilitators registration form
+			- Facilitators registration form and profile editing
+		- Part 2: Visitors members
+			- Visitors registration page
 			- Event registration page
-				- Add membership sign if not logged in
-				- Just event registration if not logged in
+				- Add membership sign in / sign up if not logged in
+				- Just event registration if already authenticated
+			- Member page with their events and
 		-
 		- Page layout with either member name/avatar
 		- Port existing pages from Strikingly
