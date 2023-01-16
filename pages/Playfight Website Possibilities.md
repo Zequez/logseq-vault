@@ -154,9 +154,11 @@
 - # Further Exploration of Wordpress
 	- I'm currently exploring the following Wordpress plugins
 		- Elementor
+			- Needs pro version but can be somehow circumvented by using https://proelements.org/
 		- The Events Calendar
 		- TranslatePress
 		- WP User Manager
+			- Needs pro version to manage multiple registration forms
 		- WPIDE
 	-
 	-
