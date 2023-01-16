@@ -38,7 +38,7 @@
 	- ### Alternative web architecture
 		- Every facilitator has their own personal website
 			- Events are handled by facilitators themselves in their websites with a agreed-upon protocol
-			- Each facilitator gets a website
+				-
 		- #### Benefits
 			- Highest resonance with [[Archiarchy]] values
 			- Most exciting
