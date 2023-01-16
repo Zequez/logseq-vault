@@ -14,7 +14,8 @@
 		- #### Drawbacks
 			-
 	- ### Using [Bubble](https://bubble.io/) web app builder
-		- Maintenance cost: $115/month for professional version which allow for adding collaborators to app
+		- Maintenance cost
+			- $115/month for professional version which allow for adding collaborators to app
 		- #### Benefits
 			- Fully no-code platform, the entire platform is creating and maintained without any coding skills
 			- Very exciting new technology that I would like to study further
