@@ -14,7 +14,7 @@
 			- Has a large amount of plugins systems with many functionalities
 			-
 		- #### Drawbacks
-			- Even with plugins, custom code still needs to be written and maintained by someone with coding skills with
+			- It's not a whole platform by itself, even with plugins, custom code still needs to be written and maintained by someone with coding skills on a code editor elsewhere and deployed to a hosting service.
 			- It was originally made for blogging and it's general-use platform now; it's cluttered with a lot of things that wouldn't actually be used.
 			-
 			-
