@@ -21,6 +21,7 @@
 		- #### Drawbacks
 			- I've never used it
 			- It's a closed platform; app can only be run there and cannot be exported elsewhere
+	- ### Using Wix Velo
 	- ### Creating a platform with common coding tools
 		- [Supabase](https://supabase.com/) as backend
 		- [Vercel](https://vercel.com/) as hosting platform
