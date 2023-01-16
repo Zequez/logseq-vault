@@ -4,8 +4,7 @@
 		- > Playfight.org is a non profit organisation that aims to guarantee the quality of the work done under the name of Playfight.
 		- > Currently in order to support the community of Facilitators for their work and the coherence of the work itself we aim to have a new website that every facilitator can use and for anyone interested in Playfight to refer to.
 -
-- Goals
--
+- Exploration
 - There are multiple paths for building the new website, each one with its benefits and drawbacks.
 	- ### Using [Wordpress](https://wordpress.org/)
 		- Maintenance cost
@@ -97,6 +96,8 @@
 		-
 - # Conclusion of exploration
 	- I believe the most effective path is to use Wix Velo to build the platform. It's very powerful and flexible. Has little maintenance cost. Has database managing right into the platform. It's looks really good to build on, and it would be the quickest and easiest to maintain.
+- # Roadmap
+  collapsed:: true
 	- Let's split the features into parts and create a rough roadmap with 2-weeks milestones; or sprints, as they are called on the industry-lingo.
 		- ### Stage 1: Working prototype
 			- Basic homepage with navigation
@@ -119,11 +120,11 @@
 				- Add membership sign in / sign up if not logged in
 				- Just event registration if already authenticated
 			- Member page with their events and information
-		- ### Part 3: Polishing
+		- ### Stage 3: Polishing
 			- Translation to other languages
 			- Feature-parity with existing Strikingly site
 			- Other optional or additional features
-		- ### Part 4: Maintenance and updates
+		- ### Stage 4: Maintenance and updates
 			- Nothing specific
 			-
 		-
