@@ -134,6 +134,7 @@
 	-
 	-
 - # Response to Matteo message
+	-
 	- I resonate with the concern of Wix being a proprietary platform. Personally, from what I've seen Wix Velo is very flexible in the sense that you can write arbitrary code from it, so it's unlikely that we'll hit a wall. In a sense it's similar to tools like [Code Sandbox](https://codesandbox.io/) where the whole development environment is cloud-based; but leveraging Wix visual page editor for the pages design. Having a cloud-based development environment has the advantage that contributors don't need a local version of the app and setting up a local server, a local database, and a deployment workflow, which can be quite complex as of itself.
 		- ### My take on the pain of proprietary vs free and open source software
 			- For a long time I have struggled with the issue of using proprietary vs free and open source software.
@@ -144,7 +145,7 @@
 	- All said and done, I'm exploring right now the Elementor plugin that you mentioned. It seems it has many similarities with the Wordpress block editor, which also allows you to design pages within Wordpress.
 		- As I was researching I found a plugin called [WPIDE](https://wordpress.org/plugins/wpide/) which allows you to edit the Wordpress code from within Wordpress itself. This puts it in line with some capabilities of Wix Velo. I'm going to be exploring it also.
 		-
-	- Regarding the Wordpress platform. I cited Wordpress.com because I'm assuming it's a managed Wordpress hosting from the same team that works on the core Wordpress.org software; so they fund the Wordpress development by offering managed Wordpress hosting. I'm aware there are many options for hosting Wordpress.
+	- Regarding the Wordpress platform. I cited Wordpress.com because I'm assuming it's a managed Wordpress hosting from the same team that works on the core Wordpress.org software; so they fund the Wordpress development by offering managed Wordpress hosting. I know [Discourse](https://www.discourse.org/) does this for example. I'm aware there are many options for hosting Wordpress.
 -
 	-
 	-
