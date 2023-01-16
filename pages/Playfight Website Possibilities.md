@@ -28,11 +28,10 @@
 			- Supabase is the most likely to hit the limit, then it's  [$25/month](https://supabase.com/pricing)
 			- Very unlikely that limits are hit on Vercel, if it did, it would be [$20/month](https://vercel.com/pricing)
 		- #### Benefits
-			- Most flexible, anything can be build
-			- Tried and tested; it's
+			- Most flexible
 		- #### Drawbacks
 			- Highest complexity; many moving parts that need to be tied together
-			- Very high diverse skills for the maintenance of the app itself
+			- Diverse high-level skills for the maintenance of the app itself
 			-
 			-
 	- ### Alternative web architecture
