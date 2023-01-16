@@ -37,7 +37,7 @@
 			-
 	- ### Alternative web architecture
 		- I organize a workshop for every facilitator to learn how to build and maintain their own websites with events using free no-code tools
-			- Every facilitator has it's own personal website at the end of the workshop
+			- Every facilitator has its own personal website at the end of the workshop
 			- Events are handled by facilitators themselves in their websites with a agreed-upon protocol
 			- Facilitator profiles pages are completely customizable and can be either embedded into Playfight.org or linked to their website instead
 			- Facilitators decide what languages their profile is written on
@@ -56,6 +56,6 @@
 			- Has never been done; it's an experiment
 			- Neither Holochain nor [Holo.host](https://holo.host/) (a web hosting platform for Holochain apps) are public ready; so we would still need to use an alternative backend in the meantime
 			-
+	-
 		-
-			-
 		-
