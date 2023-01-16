@@ -110,7 +110,8 @@
 		- Event registration page
 			- Add membership sign if not logged in
 			- Just event registration if not logged in
-		- Page layout with sign up form
+		- Page layout with either member name/avatar or
+		-
 		-
 	- Here is a rough roadmap:
 		-
