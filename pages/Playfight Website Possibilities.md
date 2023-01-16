@@ -45,7 +45,7 @@
 			- Very unlikely that limits are hit on Vercel, if it did, it would be [$20/month](https://vercel.com/pricing)
 		- #### Benefits
 			- Most flexible
-			- Highest ego inflation; I assert myself as a true programmer
+			- Highest ego inflation; I assert myself as a true programmer 🤣
 		- #### Drawbacks
 			- Highest complexity; many moving parts that need to be tied together
 			- Requires a diverse spectrum of high-level skills for the maintenance and updating of the app itself
@@ -71,6 +71,7 @@
 		- #### Drawbacks
 			- Has never been done; it's an experiment
 			- Neither Holochain nor [Holo.host](https://holo.host/) (a web hosting platform for Holochain apps) are public ready; so we would still need to use an alternative backend in the meantime
+			- I have no idea
 			-
 	- #### Headless backend with web components that can be embedded into existing websites
 		- For the page building you can use whatever you want; Mystrikingly, Webflow,
