@@ -100,7 +100,8 @@
 	- Let's split the features into parts and create a rough roadmap with 2-weeks milestones
 		- Profile page for each facilitator
 		- Event page for each event
-		- Calendar view of events on
+		- Calendar view of events in chronological order and with filtering by event type and location
+		- Facilitators page
 		-
 	- Here is a rough roadmap:
 		-
