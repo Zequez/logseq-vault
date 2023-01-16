@@ -13,11 +13,11 @@
 			- [GrapeJS](https://grapesjs.com) as visual page editor
 		- Custom code to tie it all together
 		- Maintenance
-		  background-color:: green
-			- $0 while the app stays within the limits of free options
-			- Supabase is the most likely to hit the limit, then [it's $25/month](https://supabase.com/pricing)
-			- Very unlikely that limits are hit on Vercel, if it did, it would be [$20/month]
-		- Benefits:
+			- $0 while the app stays within the limits of free options; which is quite high.
+			- Supabase is the most likely to hit the limit, then it's  [$25/month](https://supabase.com/pricing)
+			- Very unlikely that limits are hit on Vercel, if it did, it would be [$20/month](https://vercel.com/pricing)
+		- Benefits
+			-
 			-
 	- ### Alternative web architecture
 		- Every facilitator has their own personal website
