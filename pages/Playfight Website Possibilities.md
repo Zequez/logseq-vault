@@ -110,7 +110,9 @@
 		- Event registration page
 			- Add membership sign if not logged in
 			- Just event registration if not logged in
-		- Page layout with either member name/avatar or
+		- Page layout with either member name/avatar
+		- Recreate existing pages from Strikingly
+		- Setup site translation to other languages
 		-
 		-
 	- Here is a rough roadmap:
