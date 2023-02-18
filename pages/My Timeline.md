@@ -32,4 +32,8 @@
 - 1995
 - 1994
 - 1992
-	- 14 Dic 10:40 - I was born under the sun signs of Sagitarrius,
+	- 14 Dic 10:40 - I was born under the sun signs of:
+		- Sun - Sagitarius
+		- Moon - Leo
+		- Ascendant - Aquarius
+		- Tzolkin - Spectral Sun
