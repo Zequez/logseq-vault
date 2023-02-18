@@ -13,4 +13,4 @@
 - 2012
 - 2011
 - 2010
-	- Dic - End of High School
+	- Dic - End of High School at Don Orione School
