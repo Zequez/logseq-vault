@@ -13,7 +13,7 @@
 - 2017
 	- 21 Dec - End Europe tip
 	- 5 Nov - Start Europe trip
-	- 15 May - Move in to apartment on Tucuman & Roca
+	- 15 May - Move out of parents house to apartment on Tucumán & Roca
 - 2016
 - 2015
 - 2014
