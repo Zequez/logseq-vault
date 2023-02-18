@@ -11,7 +11,8 @@
 	- Feb - Adopt veganism as core value
 - 2018
 - 2017
-	- 21 Dec - Come back from Europe tip
+	- 21 Dec - End Europe tip
+	- 5 Nov - Start Europe trip
 - 2016
 - 2015
 - 2014
