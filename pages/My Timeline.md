@@ -2,9 +2,9 @@
 - 2022
 - 2021
 	- 7 Nov - My son Coral is born
-	- Jan - End bicimochileada
+	- Jan - End bicycle backpacking trip with Cele
 - 2020
-	- Nov - Start
+	- Nov - Start bicycle backpacking trip with Cele
 - 2019
 	- Sep - We move in together with partner Celeste
 	- Aug - Meet current partner Celeste
