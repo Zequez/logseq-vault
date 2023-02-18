@@ -5,6 +5,8 @@
 - 2020
 - 2019
 	- Sep - We move in together with partner Celeste
+	- Aug - Meet current partner Celeste
+	- Feb - Adopt veganism as core value
 - 2018
 - 2017
 - 2016
