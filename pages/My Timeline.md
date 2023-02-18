@@ -15,4 +15,21 @@
 	- Mar - Start systems engineering in Tandil
 - 2010
 	- Dic - End of high school at Don Orione School
-- 20
+- 2009
+- 2008
+- 2007
+- 2006
+- 2005
+- 2004
+- 2003
+- 2002
+- 2001
+- 2000
+- 1999
+- 1998
+- 1997
+- 1996
+- 1995
+- 1994
+- 1992
+	- 14 Dic 10:40 - I was born under the sun signs of Sagitarrius,
