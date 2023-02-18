@@ -11,10 +11,11 @@
 	- Feb - Adopt veganism as core value
 - 2018
 - 2017
-	- 21 Dec - End Europe tip
+	- 21 Dec - End Europe trip
 	- 5 Nov - Start Europe trip
 	- 15 May - Move out of parents house to apartment on Tucumán & Roca
 - 2016
+	- 7 Dec - End New York and Boston trip
 - 2015
 - 2014
 - 2013
