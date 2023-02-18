@@ -17,7 +17,7 @@
 - 2016
 	- 7 Dec - End New York and Boston trip
 	- 24 Oct - Start New York and Boston trip
-	- 20 Mar - Adopt Meri the cat
+	- 20 Mar - Adopt Meridas the cat
 - 2015
 - 2014
 - 2013
