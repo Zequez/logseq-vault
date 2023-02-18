@@ -4,6 +4,7 @@
 	- 7 Nov - My son Coral is born
 - 2020
 - 2019
+	- Sep - We move in together with partner Celeste
 - 2018
 - 2017
 - 2016
