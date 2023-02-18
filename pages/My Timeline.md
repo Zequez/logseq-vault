@@ -1,7 +1,7 @@
 - 2023
 - 2022
 - 2021
-	- 7 Nov - Nace mi hijo Coral
+	- 7 Nov - My son Coral is born
 - 2020
 - 2019
 - 2018
@@ -13,3 +13,4 @@
 - 2012
 - 2011
 - 2010
+	- Dic - End of High School
