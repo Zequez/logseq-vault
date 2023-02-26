@@ -102,5 +102,10 @@
 			- Cuando yo en lo sutil me di a mi mismo razones convincentes por las cuales efectivamente todo aquello que me dice que no es resuelto con que efectivamente aprendí como mito con el que resolverlo. Yo voy a moverme con paradigmas de iniciación, de magia, que resuelven lo que con los paradigmas imperantes no se pueden resolver.
 				- Me convenzo => Me venzo con argumentos.
 				- Me tengo que convencer intelectualmente hasta sentir.
-					-
+					- Ahí se puso en juego la emoción => Fuerza motriz, movimiento.
+					- Mi universo se pone en marcha cuando el sentimiento se dispara cuando ahora sí me convencí intelectualmente que:
+						- Quiero
+						- Puedo
+						- Debo lograr
+					- Esto lo hago yo con mi alineación de motivos hasta estar convencido. Cuando me convencí recién ahí me pongo en marcha hasta la cuestión.
 	-
