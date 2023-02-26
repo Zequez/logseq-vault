@@ -13,3 +13,5 @@
 	- Cuando se convierte en un paradigma cultural, ya no sirve.
 - La idea de encontrar la luz, y que la oscuridad es un problema demuestra que no tenés la más mínima idea de como es el camino.
 - Gurú: Significa oscuridad y luz.
+- ![](https://edipo.org/n/wp-content/uploads/2016/03/Peirce-Completo-integrado-EAM.jpg)
+-
