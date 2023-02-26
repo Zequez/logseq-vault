@@ -66,5 +66,7 @@
 	- Donde se encontraron las fuerzas oscuras con las fuerzas de luz, es inédamente luminoso.
 - Rompiendo todo esquema mental de que la luz es buena y la oscuridad es mala. A partir de esto, podemos avanzar.
 - Nos encarnamos para dejar de encarnarnos.
-- Ser humano
+- Ser humano significa estar sujeto a condicionamientos atemporales
+	- Lo que nos hace creer dependiendo la época, lo que es posible y lo que no.
+	- Ningún condicionamiento externo nos generó realidad propia, la realidad propia
 	-
