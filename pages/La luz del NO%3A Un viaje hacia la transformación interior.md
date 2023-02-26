@@ -90,5 +90,8 @@
 		- 2 La palabra
 		- 3 El sentimiento
 		- Si no se alínean no cae la flecha. El maestro exigiendo que ambos hemisferios estén alinéados para lo que quieres crear.
-	-
+	- Deja de ser la presa: Sé el cazador.
+		- Por qué no lo voy a lograr? Por qué pensamientos y sentimientos no lo voy a lograr? Ir a buscar al no, ir a buscar a la sombra.
+		- Naciste para disolver lo que no, no para aprender a disimularlo. Disolver lo que decide sobre tí.
+		-
 	-
