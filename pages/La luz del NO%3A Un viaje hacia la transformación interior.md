@@ -17,7 +17,9 @@
 - 4 estados luminosos de la mente
 	- En cultura moderna lo anclan al hemisferio interno; no es así.
 - Contingente: Lo que uno cree que no puede manejar
-- Ejes de luz
-	- Posible -> Necesario = Eje de luz / Eje de lo que sí / Eje de lo denso
-	- Imposible -> Contingente = Eje de lo que no
+- Posible -> Necesario = Eje de luz / Eje de lo que sí / Eje de lo denso
+- Imposible -> Contingente = Eje de lo que no
+- No se puede iluminar algo con el polo positivo de la batería nomás
+- El mago nos conecta con un mundo más allá de lo humano, más allá del ego, más allá del no.
+	-
 	-
