@@ -108,4 +108,6 @@
 						- Puedo
 						- Debo lograr
 					- Esto lo hago yo con mi alineación de motivos hasta estar convencido. Cuando me convencí recién ahí me pongo en marcha hasta la cuestión.
+- Disuelves la cárcel mental hasta que sentís que la disolviste.
+- Cuando ante lo que te dice que no puedes no te detienes,
 	-
