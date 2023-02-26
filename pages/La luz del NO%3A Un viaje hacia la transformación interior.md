@@ -10,4 +10,5 @@
 - Cuestiones de lo iniciático
 - Si llega por los canales de los medios masivos de comunicación, cumple función de arqueotipo que se decide como paradigma y a tí no te da lugar, no da lugar de 1-1
 	- Uno no puede ser el objeto de un paradigma que lo lleve a su iniciación
+	- Cuando se convierte en un paradigma cultural, ya no sirve.
 -
