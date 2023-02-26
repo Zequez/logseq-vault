@@ -42,5 +42,7 @@
 - De los 4 paradigmas viene todo lo que nos van a decir
 	- Lo que sí y lo que no.
 - Hay una parte del esquema que la humanidad intenta sacar; la parte más oscura.
-	-
+- Bhagavad Gita
+	- El diálogo más importante de la historia de la humanidad
+	- El primer diálogo de
 	-
