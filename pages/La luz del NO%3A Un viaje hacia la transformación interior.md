@@ -116,7 +116,8 @@
 		- Perciben
 		- Recuerdan: que lo que antes me frenaba, ahora no me frena.
 	- Expansoras
--
+- Ir a buscarlo hasta convencerme de que ya no me frena.
+	- Ponerse un desafío que te oblige a generar resultados que te dicen qu
 	-
 -
 -
