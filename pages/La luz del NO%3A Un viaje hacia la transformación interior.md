@@ -69,4 +69,5 @@
 - Ser humano significa estar sujeto a condicionamientos atemporales
 	- Lo que nos hace creer dependiendo la época, lo que es posible y lo que no.
 	- Ningún condicionamiento externo nos generó realidad propia, la realidad propia la generamos nosotres.
+- Todos los no que nos hacen de cárcel vienen de los no maternos y los no paternos.
 	-
