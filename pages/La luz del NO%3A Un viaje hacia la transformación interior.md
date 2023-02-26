@@ -71,5 +71,9 @@
 	- Ningún condicionamiento externo nos generó realidad propia, la realidad propia la generamos nosotres.
 - Todos los no que nos hacen de cárcel vienen de los no maternos y los no paternos.
 	- En todas las encarnaciones traemos los mismos patrones de no.
--
+- ![Screen Shot 2023-02-26 at 10.31.21.png](../assets/Screen_Shot_2023-02-26_at_10.31.21_1677418292857_0.png)
+	- Saturno - Neptuno - Urano
+		- Triángulo del super-no
+	-
+	-
 	-
