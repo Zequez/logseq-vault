@@ -26,5 +26,8 @@
 	- La dignidad genera realidad propia.
 - Hay gente que tiene tendencia a lo luminoso, y gente que tiene tendencia a lo nebuloso.
 - No se pueden unir energías de luz y de sombras al gusto del "YO".
+	-
 -
+- La lengua en el centro de tu universo.
+	- Con las orejas
 	-
