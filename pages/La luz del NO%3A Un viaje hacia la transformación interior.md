@@ -85,7 +85,9 @@
 		- Los conflictos que nos dicen que no es lo que nos hacen entrar en una camino esotérico.
 	- Pensamiento y sentimiento aprender a ponerlos alineados para lo que quiero generar. Se aprende, aprenderlo significa ir a buscarlo. Ir a buscar lo que sale al cruce.
 	- Lo que se busca de encarnación en encarnación es "Qué hiciste con los no; no como mejorase lo sí"; ahí está el motivo por el que nos encarnamos.
-	- 1 Ketsher Cabeza Corona
-	- 2 La palabra
-	- 3 El sentimiento
+	- Los 3 primeros pasos
+		- 1 Ketsher Cabeza Corona
+		- 2 La palabra
+		- 3 El sentimiento
+		- Si no se alínean no cae la flecha. El maestro exigiendo que ambos hemisferios estén alinéados para lo que quieres crear.
 	-
