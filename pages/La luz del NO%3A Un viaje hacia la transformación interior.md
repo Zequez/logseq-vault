@@ -50,5 +50,8 @@
 		- Entre la fuerza de la luz y la oscuridad
 	- Todos los problemas que el humano tiene por querer evitar algunas de las fuerzas que de acuerdo a cada cultura hay que evitar.
 		- Algunas culturas evitan las fuerzas espirituales, y en otras las racionales.
-	-
+	- Un día el personaje principal decide que hay un combate que no quiere hacer.
+		- Ese combate lo lleva a combatir con su familia.
+		- Ahí se encarna Krishna; te enseña a escuchar con qué conduces tu carro en la vida.
+			- Le dice que haga el combate.
 	-
