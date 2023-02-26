@@ -2,5 +2,8 @@
 - Entrevista: José Luis Parise - Victor Brossah
 - José Luis Parise: Director escuela edipo.org
 - arteritual.com
+- Luz / Oscuridad
+- Sí / No
+- Placer / Búsqueda de crecimiento
 -
 -
