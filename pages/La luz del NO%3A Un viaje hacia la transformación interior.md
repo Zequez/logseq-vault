@@ -91,3 +91,4 @@
 		- 3 El sentimiento
 		- Si no se alínean no cae la flecha. El maestro exigiendo que ambos hemisferios estén alinéados para lo que quieres crear.
 	-
+	-
