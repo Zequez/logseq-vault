@@ -34,4 +34,11 @@
 	- Alrededor 4 fichas que detienen la luz del sol
 		- La periferia es tu realidad; la luz necesita pasar por la sombra de los 4 glifos
 - No hay fuerzas buenas y malas; solo fuerzas que nos gustan y fuerzas que no.
--
+- 4 glifos son los 4 paradigmas
+	- Religión: Mal/Bien
+	- Economía: Tienes / No Tienes
+	- Ciencia
+	- Política: Puedes / No puedes
+- De los 4 paradigmas viene todo lo que nos van a decir
+	- Lo que sí y lo que no.
+	-
