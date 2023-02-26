@@ -41,4 +41,6 @@
 	- Política: Puedes / No puedes
 - De los 4 paradigmas viene todo lo que nos van a decir
 	- Lo que sí y lo que no.
+- Hay una parte del esquema que la humanidad intenta sacar; la parte más oscura.
+	-
 	-
