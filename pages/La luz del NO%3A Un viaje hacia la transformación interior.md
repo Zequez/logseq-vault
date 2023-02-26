@@ -44,5 +44,9 @@
 - Hay una parte del esquema que la humanidad intenta sacar; la parte más oscura.
 - Bhagavad Gita
 	- El diálogo más importante de la historia de la humanidad
-	- El primer diálogo de
+	- El primer diálogo de la humanidad y lo divino
+	- Enseña al humano el camino desde lo humano y desde lo divino
+	- Lo divino se manifiesta en un escenario de combate
+		- Entre la fuerza de la luz y la oscuridad
+	- Todos los problemas que el humano tiene por querer evitar a
 	-
