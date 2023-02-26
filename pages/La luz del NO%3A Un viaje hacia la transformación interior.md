@@ -11,4 +11,5 @@
 - Si llega por los canales de los medios masivos de comunicación, cumple función de arqueotipo que se decide como paradigma y a tí no te da lugar, no da lugar de 1-1
 	- Uno no puede ser el objeto de un paradigma que lo lleve a su iniciación
 	- Cuando se convierte en un paradigma cultural, ya no sirve.
--
+- La idea de encontrar la luz, y que la oscuridad es un problema demuestra que no tenés la más mínima idea de como es el camino.
+- Gurú: Significa oscuridad y luz.
