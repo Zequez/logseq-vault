@@ -96,4 +96,7 @@
 	- En nuestro corazón hay pensamientos.
 		- Yo voy a sentir en el corazón de acuerdo lo que  yo sienta (escucha) que le estoy dicienod a mi pensamiento que effectivamente es posible o no.
 		- Si uno entiende que el corazón tiene neuronas, el coRAZÓN entiende razón.
+		- Necesitamos darnos razones hasta que esas razones venzan a los no. De por qué sí voy a lograr lo que digo que quiero lograr.
+			- Esto no es ponerse a repetir idiotamente.
+			-
 	-
