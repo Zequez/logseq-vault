@@ -94,5 +94,6 @@
 		- Por qué no lo voy a lograr? Por qué pensamientos y sentimientos no lo voy a lograr? Ir a buscar al no, ir a buscar a la sombra.
 		- Naciste para disolver lo que no, no para aprender a disimularlo. Disolver lo que decide sobre tí.
 	- En nuestro corazón hay pensamientos.
-		-
+		- Yo voy a sentir en el corazón de acuerdo lo que  yo sienta (escucha) que le estoy dicienod a mi pensamiento que effectivamente es posible o no.
+		- Si uno entiende que el corazón tiene neuronas, el coRAZÓN entiende razón.
 	-
