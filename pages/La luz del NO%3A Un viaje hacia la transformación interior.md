@@ -6,5 +6,7 @@
 - Sí / No
 - Placer / Búsqueda de crecimiento
 - Nuestra propia carcel
--
+- Láminas de esquemas de culturas originarias
+- Cuestiones de lo iniciático
+- Si llega por los canales de los medios de comunicación
 -
