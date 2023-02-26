@@ -16,8 +16,8 @@
 - ![](https://edipo.org/n/wp-content/uploads/2016/03/Peirce-Completo-integrado-EAM.jpg)
 - 4 estados luminosos de la mente
 	- En cultura moderna lo anclan al hemisferio interno; no es así.
-- Contingente:
+- Contingente: Lo que uno cree que no puede manejar
 - Ejes de luz
-	- Posible -> Necesario
-	- Imposible -> Contingente
+	- Posible -> Necesario = Eje de luz / Eje de lo que sí / Eje de lo denso
+	- Imposible -> Contingente = Eje de lo que no
 	-
