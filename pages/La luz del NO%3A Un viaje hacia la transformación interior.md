@@ -64,5 +64,5 @@
 	- Venus => Estrella de lucifer
 - En el momento en que el agujero negro se conectó con la estrella supermasiva se liberó una enorme cantidad de energía en forma de luz; tan brillante que nunca se había visto en el Universo.
 	- Donde se encontraron las fuerzas oscuras con las fuerzas de luz, es inédamente luminoso.
--
+- Rompiendo todo esquema mental de que la luz es buena y la oscuridad es mala. A partir de esto, podemos avanzar.
 	-
