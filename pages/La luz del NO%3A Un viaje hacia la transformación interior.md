@@ -32,4 +32,6 @@
 	- La lengua en el centro de tu universo.
 	- Con las orejas (depredadores) salir a cazar lo que quiere
 	- Alrededor 4 fichas que detienen la luz del sol
-		-
+		- La periferia es tu realidad; la luz necesita pasar por la sombra de los 4 glifos
+- No hay fuerzas buenas y malas; solo fuerzas que nos gustan y fuerzas que no.
+-
