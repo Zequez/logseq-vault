@@ -93,5 +93,6 @@
 	- Deja de ser la presa: Sé el cazador.
 		- Por qué no lo voy a lograr? Por qué pensamientos y sentimientos no lo voy a lograr? Ir a buscar al no, ir a buscar a la sombra.
 		- Naciste para disolver lo que no, no para aprender a disimularlo. Disolver lo que decide sobre tí.
+	- En nuestro corazón hay pensamientos.
 		-
 	-
