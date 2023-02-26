@@ -62,5 +62,7 @@
 - Hay que conectar con las fuerzas oscuras para dar a luz la era de luz.
 - Apocalipsis 22:16: Cristo se nombra lucero; lucifer.
 	- Venus => Estrella de lucifer
-- En el momento en que el agujero negro se conectó con la estrella supermasiva se liberó una
+- En el momento en que el agujero negro se conectó con la estrella supermasiva se liberó una enorme cantidad de energía en forma de luz; tan brillante que nunca se había visto en el Universo.
+	- Donde se encontraron las fuerzas oscuras con las fuerzas de luz, es inédamente luminoso.
+-
 	-
