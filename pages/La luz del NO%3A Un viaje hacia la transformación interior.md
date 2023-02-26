@@ -48,5 +48,7 @@
 	- Enseña al humano el camino desde lo humano y desde lo divino
 	- Lo divino se manifiesta en un escenario de combate
 		- Entre la fuerza de la luz y la oscuridad
-	- Todos los problemas que el humano tiene por querer evitar a
+	- Todos los problemas que el humano tiene por querer evitar algunas de las fuerzas que de acuerdo a cada cultura hay que evitar.
+		- Algunas culturas evitan las fuerzas espirituales, y en otras las racionales.
+	-
 	-
