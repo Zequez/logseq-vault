@@ -98,5 +98,6 @@
 		- Si uno entiende que el corazón tiene neuronas, el coRAZÓN entiende razón.
 		- Necesitamos darnos razones hasta que esas razones venzan a los no. De por qué sí voy a lograr lo que digo que quiero lograr.
 			- Esto no es ponerse a repetir idiotamente.
-			-
+			- Yo voy a buscar un mito/paradigma que lo que yo quiera lograr en lo denso es la degradación en 11 pasos.
+			- Cuando yo en lo sutil me di a mi mismo razones convincentes por las cuales efectivamente todo aquello que me dice que no es resuelto con que efectivamente aprendí como mito con el que resolverlo
 	-
