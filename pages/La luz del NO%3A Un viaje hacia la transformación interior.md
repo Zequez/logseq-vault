@@ -21,5 +21,8 @@
 - Imposible -> Contingente = Eje de lo que no
 - No se puede iluminar algo con el polo positivo de la batería nomás
 - El mago nos conecta con un mundo más allá de lo humano, más allá del ego, más allá del no.
-	-
+- La magia es un puente que une lo humano con lo divino.
+- Magia: General realidad propia, sin incidir en la vida de los demás.
+	- La dignidad genera realidad propia.
+-
 	-
