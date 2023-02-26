@@ -25,6 +25,6 @@
 - Magia: General realidad propia, sin incidir en la vida de los demás.
 	- La dignidad genera realidad propia.
 - Hay gente que tiene tendencia a lo luminoso, y gente que tiene tendencia a lo nebuloso.
--
+- No se pueden unir energías de luz y de sombras al gusto del "YO".
 -
 	-
