@@ -83,4 +83,5 @@
 	- Les tres se conectan las fuerzas oscuras para generar divinidad.
 	- Conectar con la oscuridad que hay en los conflictos.
 		- Los conflictos que nos dicen que no es lo que nos hacen entrar en una camino esotérico.
+	- Pensamiento y sentimiento aprender a ponerlos alineados para lo que quiero generar. Se aprende, aprenderlo significa ir a buscarlo. Ir a buscar lo que sale al cruce.
 	-
