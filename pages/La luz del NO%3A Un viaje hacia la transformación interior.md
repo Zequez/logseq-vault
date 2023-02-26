@@ -56,6 +56,7 @@
 			- Le dice que haga el combate.
 	- Primer capítulo: El lamento de Arjuna
 	- El prejuicio previo que la luz es buena y la oscuridad mala los debarata desde el principio.
-	-
+	- Si no aprendemos a usar las fuerzas de las tinieblas, las fuerzas de la luz son limitadas y malditas.
+		- Se nos transforma en esa luz como un lugar limitante que como los paradigmas nos dicen lo que es posible y se terminó.
 - El humano no ha resuelto sus problemas.
 	-
