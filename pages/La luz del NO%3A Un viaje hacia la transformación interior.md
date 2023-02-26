@@ -66,3 +66,4 @@
 	- Donde se encontraron las fuerzas oscuras con las fuerzas de luz, es inédamente luminoso.
 - Rompiendo todo esquema mental de que la luz es buena y la oscuridad es mala. A partir de esto, podemos avanzar.
 	-
+	-
