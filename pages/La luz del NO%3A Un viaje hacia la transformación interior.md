@@ -54,4 +54,5 @@
 		- Ese combate lo lleva a combatir con su familia.
 		- Ahí se encarna Krishna; te enseña a escuchar con qué conduces tu carro en la vida.
 			- Le dice que haga el combate.
+- El humano no ha resuelto sus problemas.
 	-
