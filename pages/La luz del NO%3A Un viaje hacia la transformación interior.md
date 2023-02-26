@@ -117,7 +117,7 @@
 		- Recuerdan: que lo que antes me frenaba, ahora no me frena.
 	- Expansoras
 - Ir a buscarlo hasta convencerme de que ya no me frena.
-	- Ponerse un desafío que te oblige a generar resultados que te dicen qu
+	- Ponerse un desafío que te oblige a generar resultados que te estás seguro que no vas a lograr. Para que entonces tengas que disolver los no que te vienen por los que cuales te frenarías.
 	-
 -
 -
