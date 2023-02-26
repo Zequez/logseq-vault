@@ -62,5 +62,5 @@
 - Hay que conectar con las fuerzas oscuras para dar a luz la era de luz.
 - Apocalipsis 22:16: Cristo se nombra lucero; lucifer.
 	- Venus => Estrella de lucifer
--
+- En el momento en que el agujero negro se conectó con la estrella supermasiva se liberó una
 	-
