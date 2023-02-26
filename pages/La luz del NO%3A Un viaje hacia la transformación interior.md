@@ -60,5 +60,6 @@
 		- Se nos transforma en esa luz como un lugar limitante que como los paradigmas nos dicen lo que es posible y se terminó.
 - El humano no ha resuelto sus problemas.
 - Hay que conectar con las fuerzas oscuras para dar a luz la era de luz.
+- Apocalipsis 22:16: Cristo se nombra lucero; lucifer.
 	-
 	-
