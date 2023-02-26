@@ -74,6 +74,9 @@
 - ![Screen Shot 2023-02-26 at 10.31.21.png](../assets/Screen_Shot_2023-02-26_at_10.31.21_1677418292857_0.png)
 	- Saturno - Neptuno - Urano
 		- Triángulo del super-no
+	- Neptuno = Cabeza
+	- Saturno = Via paterna
+	- Urano = Via materna
 	-
 	-
 	-
