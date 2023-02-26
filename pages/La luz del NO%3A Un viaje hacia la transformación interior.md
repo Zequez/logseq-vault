@@ -55,6 +55,7 @@
 		- Ahí se encarna Krishna; te enseña a escuchar con qué conduces tu carro en la vida.
 			- Le dice que haga el combate.
 	- Primer capítulo: El lamento de Arjuna
-	- El prejucio previo que la luz es buena y
+	- El prejuicio previo que la luz es buena y la oscuridad mala los debarata desde el principio.
+	-
 - El humano no ha resuelto sus problemas.
 	-
