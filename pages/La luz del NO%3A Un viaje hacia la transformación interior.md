@@ -77,6 +77,7 @@
 	- Neptuno = Cabeza
 	- Saturno = Via paterna
 	- Urano = Via materna
-	-
+	- Cristo se tuvo que ir a buscar a las fuerzas que no; recién después de eso se declara kirios (aquel que puede crear realidad propia)
+	- Buaddha se va a buscar a Mara (Mara = la oscuridad)
 	-
 	-
