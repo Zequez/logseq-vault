@@ -114,8 +114,9 @@
 	- 3 características
 		- Aprenden
 		- Perciben
-		- Recuerdan
+		- Recuerdan: que lo que antes me frenaba, ahora no me frena.
 	- Expansoras
+-
 	-
 -
 -
