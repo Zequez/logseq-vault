@@ -70,4 +70,6 @@
 	- Lo que nos hace creer dependiendo la época, lo que es posible y lo que no.
 	- Ningún condicionamiento externo nos generó realidad propia, la realidad propia la generamos nosotres.
 - Todos los no que nos hacen de cárcel vienen de los no maternos y los no paternos.
+	- En todas las encarnaciones traemos los mismos patrones de no.
+-
 	-
