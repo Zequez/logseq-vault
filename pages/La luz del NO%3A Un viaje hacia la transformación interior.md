@@ -79,6 +79,8 @@
 	- Urano = Via materna
 	- Cristo se tuvo que ir a buscar a las fuerzas que no; recién después de eso se declara kirios (aquel que puede crear realidad propia)
 	- Buddha se va a buscar a Mara (Mara representa la oscuridad; el no)
-	- Ambos se conectan las fuerzas oscuras
-	-
+	- Mahoma lo mismo, se tiene que conectar con Shaitan (el satán del kurán)
+	- Les tres se conectan las fuerzas oscuras para generar divinidad.
+	- Conectar con la oscuridad que hay en los conflictos.
+		- Los conflictos que nos dicen que no es lo que nos hacen entrar en una camino esotérico.
 	-
