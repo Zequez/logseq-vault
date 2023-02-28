@@ -5,5 +5,6 @@
 	- Make a prompt that shows a modal using archy.site/auth that allows you to pick a key to use on the site (it's sent up an iframe through an event) ####
 		- Keep keys on localstorage on the root domain so that I don't need to ask the user every time.
 	- Fix issue where the editor is not loaded correctly on new pages ##
-	- Make a video showing how Archy Collab works
+	- Make a video showing how Archy Collab works ####
+	- Share video
 	-
