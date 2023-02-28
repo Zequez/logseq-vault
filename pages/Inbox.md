@@ -6,5 +6,11 @@
 		- Keep keys on localstorage on the root domain so that I don't need to ask the user every time.
 	- Fix issue where the editor is not loaded correctly on new pages ##
 	- Make a video showing how Archy Collab works ####
-	- Share video
+		- Upload video to YouTube
+		- Share video on Facebook
+		- Share post on Instagram
+		- Share video on LinkedIn
+	- Schedule meeting with Agustín
+	- Schedule meeting with Dawson
+	- Schedule meeting with
 	-
