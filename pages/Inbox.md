@@ -14,5 +14,6 @@
 	- Schedule meeting with Agustín
 	- Schedule meeting with Dawson
 	- Schedule meeting with Atomic Server Dev
-	-
+	- Research possible investors
+	- Research clients markets
 	-
