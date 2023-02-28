@@ -1,0 +1,3 @@
+- Archy Collab
+	- Make the editor resizable ##
+	- Fix issue where the editor is not loaded
