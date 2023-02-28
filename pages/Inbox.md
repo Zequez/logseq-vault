@@ -1,3 +1,7 @@
 - Archy Collab
-	- Make the editor resizable ##
-	- Fix issue where the editor is not loaded
+	- Make the editor resizable and put buttons on bottom ##
+	- Make it so when I change the page, after the iframe reloads, it scrolls back to the last position #
+	- Make a page where people can get a key ####
+	- Make a prompt
+	- Fix issue where the editor is not loaded correctly on new pages ##
+	-
