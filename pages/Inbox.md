@@ -17,4 +17,7 @@
 	- Schedule meeting with Atomic Server Dev
 	- Research possible investors
 	- Research clients markets
+- Explore how to use ChatGPT with Telegram
+	- https://github.com/altryne/chatGPT-telegram-bot
+	-
 	-
