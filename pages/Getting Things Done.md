@@ -1,7 +1,9 @@
 - # Core process
 	- *Collect* things that command our attention
 	- *Process* what they mean and what to do about them
-	- *Organize*
+	- *Organize* the results which we
+	- *Review* as options for what we choose to
+	- *Do*
 	-
 - # Stuff
 	- What is it?
