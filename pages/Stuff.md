@@ -5,5 +5,8 @@
 - Pay back owed to Dad
 - Pay back owed to Mom
 - Pay back owed to Alex
-- Pay back owed to
+- Pay back owed to Nacho
+- Pay MCMJ week of food
+- Pay MCMJ owed request
+-
 -
