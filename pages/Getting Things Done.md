@@ -5,8 +5,8 @@
 	- *Review* as options for what we choose to
 	- *Do*
 - Separate the stages as you move through the day, you don't need to do them all at once.
-- Open loops is any stuff that's still outside of your organization system and uses up energy in your mind.
-- # Stuff
+- Open loops is any stuff that's still outside of your organization system and takes up energy from you.
+- # [[Stuff]]
 	- What is it?
 	- Is it actionable?
 		- ## No
