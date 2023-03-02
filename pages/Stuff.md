@@ -11,7 +11,10 @@
 - Find clients that want me to build them websites with [[Collaborative Web Project]]
 - Hire coach
 - Participate in [[Expand the Box]]
-- Organize office space
-- Build outdoors wa
+- Organize room/office space
+- Build outdoors washing space to liberate room/office space
+- Build outdoors workshop to liberate room/office space
+- Build sound-insulated room for emotional healing processes
+-
 -
 -
