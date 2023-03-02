@@ -1,2 +1,3 @@
 - Respond to messages from social networks
-- Network with the appropiate people to secure funding for
+- Network with the appropriate people to secure funding for [[Collaborative Web Project]]
+-
