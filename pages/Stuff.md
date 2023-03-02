@@ -14,6 +14,9 @@
 - Build outdoors washing space to liberate room/office space
 - Build outdoors workshop to liberate room/office space
 - Build sound-insulated room for emotional healing processes
+  :LOGBOOK:
+  CLOCK: [2023-03-02 Thu 11:21:41]--[2023-03-02 Thu 11:21:41] =>  00:00:00
+  :END:
 - Do a 1-week of emotional healing process
 - Create a leads database with business/personal/professional cards I receive
 - Set up a papers inbox for all the papers that need processing
