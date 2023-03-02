@@ -17,5 +17,6 @@
 - Build sound-insulated room for emotional healing processes
 - Do a 1-week of emotional healing process
 - Create a leads database with business/personal/professional cards I receive
+- Set up a cards inbox for the
 -
 -
