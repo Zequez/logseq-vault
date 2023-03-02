@@ -7,20 +7,14 @@
 		- Someday / maybe
 		- Reference
 	- ## Yes
-	  
-	    
-	  
-	  What is the next action?
-		- Multi-step project -> Project plans -> What's the next action?
-		- Will it take more than 2 minutes?
-### Yes
-
-      
-
-Do it
-### No
-	- Delegate it: Counting with someone else to do it
-	- Defer it: Calendar / Next actions
+		- What is the next action?
+			- Multi-step project -> Project plans -> What's the next action?
+			- Will it take more than 2 minutes?
+				- ### No
+					- Do it
+				- ### Yes
+					- Delegate it: Counting with someone else to do it
+					- Defer it: Calendar / Next actions
 ## Review
 
   
