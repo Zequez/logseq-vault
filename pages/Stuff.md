@@ -21,6 +21,10 @@
 - Define what I'll do this evening with Coral
 - Reach out to Nacho to ask him about the substitute work for his trip
 - ## Is it actionable?
-- No -> [[Trash]]
+- No -> [[Trash]] [[Someday / Maybe]] [[Reference]]
+- Yes -> What is the next action?
+	- [[Project planning]]
+	- [[]]
+	-
 -
 -
