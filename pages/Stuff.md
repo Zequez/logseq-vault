@@ -16,6 +16,6 @@
 - Build outdoors workshop to liberate room/office space
 - Build sound-insulated room for emotional healing processes
 - Do a 1-week of emotional healing process
-- Create a leads database with
+- Create a leads database with business/personal/professional cards I receive
 -
 -
