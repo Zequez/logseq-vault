@@ -1,3 +1,8 @@
+- # Core process
+	- *Collect* things that command our attention
+	- *Process* what they mean and what to do about them
+	- *Organize*
+	-
 - # Stuff
 	- What is it?
 	- Is it actionable?
