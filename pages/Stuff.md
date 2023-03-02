@@ -15,6 +15,7 @@
 - Build outdoors washing space to liberate room/office space
 - Build outdoors workshop to liberate room/office space
 - Build sound-insulated room for emotional healing processes
+- Do a 1-week of emotional healing process
 -
 -
 -
