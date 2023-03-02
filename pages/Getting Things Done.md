@@ -4,7 +4,7 @@
 	- *Organize* the results which we
 	- *Review* as options for what we choose to
 	- *Do*
-	-
+- Separate the stages as you move through the day, you don't need to do them all at once.
 - # Stuff
 	- What is it?
 	- Is it actionable?
