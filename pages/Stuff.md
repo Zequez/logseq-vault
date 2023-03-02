@@ -1,3 +1,9 @@
 - Respond to messages from social networks
 - Network with the appropriate people to secure funding for [[Collaborative Web Project]]
+- Take laptop for battery recall change before it explodes
+- Pay March rent
+- Pay back owed to Dad
+- Pay back owed to Mom
+- Pay back owed to Alex
+- Pay back owed to
 -
