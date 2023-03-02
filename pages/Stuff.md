@@ -19,6 +19,8 @@
 - Set up a papers inbox for all the papers that need processing
 - Define what I'll do this evening with Coral
 - Reach out to Nacho to ask him about the substitute work for his trip
+- Participate in [[Expand the Box]]
+	- Plan
 - ## Is it actionable?
 - No -> [[Trash]] [[Someday / Maybe]] [[Reference]]
 - Yes -> What is the next action?
