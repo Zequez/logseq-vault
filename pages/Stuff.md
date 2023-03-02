@@ -19,6 +19,6 @@
 - Create a leads database with business/personal/professional cards I receive
 - Set up a papers inbox for all the papers that need processing
 - Define what I'll do this evening with Coral
--
+- Reach out
 -
 -
