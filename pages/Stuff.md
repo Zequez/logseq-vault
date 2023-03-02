@@ -1,0 +1,2 @@
+- Respond to messages from social networks
+- Network with the appropiate people to secure funding for
