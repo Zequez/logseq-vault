@@ -10,6 +10,8 @@
 - Pay MCMJ owed request
 - Find clients that want me to build them websites with [[Collaborative Web Project]]
 - Hire coach
-- Participate in ETB
+- Participate in [[Expand the Box]]
+- Organize office space
+- Build outdoors wa
 -
 -
