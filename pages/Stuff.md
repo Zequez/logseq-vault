@@ -8,5 +8,8 @@
 - Pay back owed to Nacho
 - Pay MCMJ week of food
 - Pay MCMJ owed request
+- Find clients that want me to build them websites with [[Collaborative Web Project]]
+- Hire coach
+- Participate in ETB
 -
 -
