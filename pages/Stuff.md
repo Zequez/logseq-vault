@@ -24,6 +24,12 @@
 - Reach out to Nacho to ask him about the substitute work for his trip
 - Participate in [[Expand the Box]]
 	- Plan
+- Removeción Teflón Ollas
+- Atomic Server Holochain compiler
+- Deshidratador calefactor/solar
+- Ruedas + grandes carrito Coral
+- Cocina de Tierra
+- Agua
 - ## Is it actionable?
 - No -> [[Trash]] [[Someday / Maybe]] [[Reference]]
 - Yes -> What is the next action?
