@@ -46,7 +46,9 @@
 - Heartmath course
 - Catch up on social networks
 - Research multi-social-network-management
-- Watch OneStutteringMind
+- Watch OneStutteringMind GTD video
+	- https://hub.logseq.com/use-cases/1Sr4awszMQzD4GM5KvWim7/how-to-apply-the-getting-things-done-framework-in-logseq/dcUE2Q65vhnJcZ5cFVUxx9
+- Armarles un sitio web para la via orgánica
 - ## Is it actionable?
 - No -> [[Trash]] [[Someday / Maybe]] [[Reference]]
 - Yes -> What is the next action?
