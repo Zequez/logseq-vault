@@ -29,7 +29,15 @@
 - Deshidratador calefactor/solar
 - Ruedas + grandes carrito Coral
 - Cocina de Tierra
-- Agua
+- Ponerle agua al auto
+- Cambio aceite auto
+- Cambio correa auto
+- Arreglo sapito auto
+- Reunión con Cassius
+- Actualizar perfil Upwork
+- Agregar sistema templates a Archy Collab
+- Conectar con Fran
+- con
 - ## Is it actionable?
 - No -> [[Trash]] [[Someday / Maybe]] [[Reference]]
 - Yes -> What is the next action?
