@@ -37,7 +37,16 @@
 - Actualizar perfil Upwork
 - Agregar sistema templates a Archy Collab
 - Conectar con Fran
-- con
+- Conectar con Agustín
+- Conectar con Dawson
+- Zapatillas Coral
+- Publicar en grupo FB vegan
+- Pagar $2 Google
+- Investigar afiliación Airtm como side-income
+- Heartmath course
+- Catch up on social networks
+- Research multi-social-network-management
+- Watch OneStutteringMind
 - ## Is it actionable?
 - No -> [[Trash]] [[Someday / Maybe]] [[Reference]]
 - Yes -> What is the next action?
