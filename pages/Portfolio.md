@@ -5,17 +5,19 @@
 - 2022
 	- ...[[Portfolio/Ubiquity UI]]
 - 2021
-	- ...[[Portfolio/Linkedin Sales Navigator Scraper Frontend Tooling]]
+	- ...[[Portfolio/LinkedIn Sales Navigator Scraper Extension Frontend Tooling]]
 	- ...[[Portfolio/Agent Centric Prototyping Service]]
 	- ...[[Portfolio/Offering Game]]
 	- ...[[Portfolio/Santuario]]
 - 2020
+	- ...[[Portfolio/Covid Heroes]]
 	- ...[[Portfolio/Zequez.space]]
 	- ... [[Portfolio/Mandelbrot Sandbox]]
 	- ... [[Portfolio/The Hero Journey]]
 - 2019
 	- [[Portfolio/GGFilter]]
 - 2018
+	- ...[[Portfolio/Home Actions]]
 	- ... [[Portfolio/Reddit Diet]]
 - 2017
 	- ... [[Portfolio/Oculus Graph Sandbox]]
