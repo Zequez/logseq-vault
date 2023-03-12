@@ -1,9 +1,15 @@
-- [[Portfolio/]]
+-
+- 2020
+	- ...[]
+	- ... [[Portfolio/Mandelbrot Sandbox]]
+	- ... [[Portfolio/The Hero Journey]]
 - 2019
 	- [[Portfolio/GGFilter]]
+- 2018
+	- ... [[Portfolio/Reddit Diet]]
 - 2017
-	- [[Portfolio/Oculus Graph Sandbox]]
-	- [[Portfolio/Reddit Placebot]]
+	- ... [[Portfolio/Oculus Graph Sandbox]]
+	- ... [[Portfolio/Reddit Placebot]]
 - 2015
 	- [[Portfolio/FactorioMods]]
 - 2014
