@@ -1,6 +1,6 @@
-end-date:: 2012-07-01
+end-date:: 2012-07
 
-- start-date:: 2012-04-23
+- start-date:: 2012-04
 - url:: https://github.com/Zequez/mapa-de-transporte
 - skills:: Web Development, JavaScript, Ruby, HTML, SQL, Front-end Development, Ruby on Rails, CoffeeScript, CSS
 - ## Description
