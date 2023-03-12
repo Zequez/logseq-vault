@@ -2,7 +2,7 @@ url:: https://github.com/Zequez/FactorioMods
 
 - end-date:: 2015-07
 - start-date:: 2014-06
-- skills:
+- skills:: Ruby on Rails, CSS, HTML, JavaScript, React
 -
 - ## Description
 	- FactorioMods was a fan-made web app made on Rails to host Factorio mods (Factorio is a videogame).
