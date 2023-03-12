@@ -1,6 +1,7 @@
 -
 - 2021
 	- ...[[Agent Centric Prototyping Service]]
+	- ...[[Offering Game]]
 	-
 - 2020
 	- ...[[Zequez.space]]
