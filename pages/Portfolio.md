@@ -1,6 +1,9 @@
 -
+- 2021
+	- ...[[Agent Centric Prototyping Service]]
+	-
 - 2020
-	- ...[]
+	- ...[[Zequez.space]]
 	- ... [[Portfolio/Mandelbrot Sandbox]]
 	- ... [[Portfolio/The Hero Journey]]
 - 2019
