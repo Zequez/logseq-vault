@@ -2,6 +2,7 @@ url:: https://github.com/Zequez?tab=repositories&q=ggfilter
 
 - start-date:: 2016-01
 - end-date:: 2019-01
+-
 - ## Description
 	- GGFilter was a filterable database of games; scraped from Steam and from the Oculus Store.
 	- It was in 3 parts, all equally important.
