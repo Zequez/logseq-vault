@@ -1,3 +1,7 @@
+start-date::
+
+- end-date::
+- url:: https://github.com/Zequez/playtimeforthebuck.github.io
 -
 - ## Description
 	- Initially when Steam started the reviews system, I saw that they included the playing time of the person for each review. So I though, *"wouldn't it be nice to see the average playing time for every game?"* and if you divide it by the price of the game, you can see... the *playtime for the buck*.
