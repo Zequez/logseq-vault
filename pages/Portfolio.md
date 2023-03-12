@@ -1,6 +1,9 @@
--
+- [[Portfolio/]]
 - 2019
 	- [[Portfolio/GGFilter]]
+- 2017
+	- [[Portfolio/Oculus Graph Sandbox]]
+	- [[Portfolio/Reddit Placebot]]
 - 2015
 	- [[Portfolio/FactorioMods]]
 - 2014
