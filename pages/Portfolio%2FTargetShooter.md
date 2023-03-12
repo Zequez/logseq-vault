@@ -1,6 +1,9 @@
 url:: http://oldsite.zequez.space/sandbox/blindmice/
 
 - url:: https://github.com/Zequez/zequez.github.io/tree/master/sandbox/blindmice
+- start-date:: 2011
+- end-date:: 2011
+-
 - ## Description
 	- Little game I made while learning JS canvas and having fun.
 	- You basically find yourself in a canvas, and different targets appear, and you have to click them
