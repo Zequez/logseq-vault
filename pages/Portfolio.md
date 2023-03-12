@@ -5,6 +5,7 @@
 - 2022
 	- ...[[Portfolio/Ubiquity UI]]
 - 2021
+	- ...[[Portfolio/Linkedin Sales Navigator Scraper Frontend Tooling]]
 	- ...[[Portfolio/Agent Centric Prototyping Service]]
 	- ...[[Portfolio/Offering Game]]
 	- ...[[Portfolio/Santuario]]
