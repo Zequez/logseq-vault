@@ -1,4 +1,7 @@
--
+- ## Description
+	- Little game I made while learning JS canvas and having fun.
+	-
+	-
+	-
 - ## Screenshots
-	-
-	-
+	- ![target-shooter.png](../assets/target-shooter_1678635699801_0.png)
