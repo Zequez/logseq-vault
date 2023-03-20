@@ -2,6 +2,7 @@ start-date:: 2014-04
 
 - end-date:: 2014-12
 - url:: https://github.com/Zequez?tab=repositories&q=ptb
+- url:: http://playtimeforthebuck.zequez.space/
 - skills:: Ruby, CoffeeScript, CSS, HTML, Web Scraping
 - ## Description
 	- Initially when Steam started the reviews system, I saw that they included the playing time of the person for each review. So I though, *"wouldn't it be nice to see the average playing time for every game?"* and if you divide it by the price of the game, you can see... the *playtime for the buck*.
