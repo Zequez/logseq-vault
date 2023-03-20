@@ -1,4 +1,4 @@
 - ## Description
 - This project is about creating a collaborative web building environment where we all share the same tools, and the websites can be edited effortlessly. It's sort of like a community led Wix or Squarespace, but simpler to use.
-- I created it with the goal of use it for my own projects because I was fed up. My personal website is actually hosted on this platform.
+- I created it with the goal of use it for my own projects because I was fed up with the frontend tooling and deployment workflows. My personal website is actually hosted on this platform. Whenever I want to edit my website now, I can just got to my website, activate the editor, edit the HTML, commit, and be done! No more opening VSCode, doing commits, pushing, and having a whole
 - Right now it only allows you to edit the websites as raw HTML, but visual editing tools, and AI-assisted web building are in the roadmap.
