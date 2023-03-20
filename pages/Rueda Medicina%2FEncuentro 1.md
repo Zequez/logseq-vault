@@ -1,9 +1,10 @@
 - Compas:
 	- Agustina: Santa Fé
 	- Daniela: Mercedes
-	- Evelina: Perú / Italia -> Vive en Rivera Maya (Conoce a Lisa)
-	- Mariela: Rosario -> Vive en Capilla del Monte
+	- Evelina: Perú / Italia -> Vive en Rivera Maya (referida de Lisa)
+	- Mariela: Rosario -> Vive en Capilla del Monte (donde conoció a Romi)
 - Compas Avanzadas:
 	- Romina
 	- Lisa
+	- Cele
 	-
