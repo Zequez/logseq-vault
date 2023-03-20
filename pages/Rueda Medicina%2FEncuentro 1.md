@@ -10,6 +10,9 @@
 	- Lisa:
 	- Cele
 -
-- Todo es energía, todo está vivo, todo tiene un espíritu
-- Técnicas para detener el diálogo interior
+- Enseñanzas en orden que aprendió Romi
+	- Todo es energía, todo está vivo, todo tiene un espíritu
+	- Conectar con elementales
+	- Técnicas para detener el diálogo interior
+	- Viaje de tambor; maraca, y poder personal para sanar.
 -
