@@ -12,7 +12,7 @@
 - 2020
 	- ...[[Portfolio/Covid Heroes]]
 	- ...[[Portfolio/Zequez.space]]
-	- ... [[Portfolio/Mandelbrot Sandbox]]
+	- [[Portfolio/Mandelbrot Sandbox]]
 	- ... [[Portfolio/The Hero Journey]]
 - 2019
 	- [[Portfolio/Zequez.com]]
