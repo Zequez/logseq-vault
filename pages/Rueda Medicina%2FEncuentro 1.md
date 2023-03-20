@@ -11,4 +11,5 @@
 	- Cele
 -
 - Todo es energía, todo está vivo, todo tiene un espíritu
+- Técnicas para detener el diálogo interior
 -
