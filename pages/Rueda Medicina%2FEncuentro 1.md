@@ -5,7 +5,7 @@
 	- Evelina: Perú / Italia -> Vive en Rivera Maya (referida de Lisa)
 	- Mariela: Rosario -> Vive en Capilla del Monte (donde conoció a Romi)
 - Compas Avanzadas:
-	- Romina
+	- Romina Castañeda
 	- Lisa:
 	- Cele
 	-
