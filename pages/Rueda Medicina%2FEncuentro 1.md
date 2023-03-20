@@ -1,3 +1,5 @@
 - Compas:
 	- Agustina: Santa Fé
+	- Evelina: Rivera Maya
+	- Daniela: Mercedes
 	-
