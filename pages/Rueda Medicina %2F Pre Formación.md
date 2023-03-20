@@ -1,0 +1,121 @@
+- Nos enraizamos, conectamos cielo y tierra y nos paramos en el corazón
+- Todo es energía
+- Todo lo que nos rodea es madre tierra, hasta el aparato más electrónico
+- Vivimos tomando de la tierra
+- Chamanismo andino
+	- Concepto de Aini
+		- Reciprocidad sagrada
+		- Todo lo que damos al Ailu (la comunidad) nos va a volver naturalmente
+		- Todo lo que damos va a volver miltiplicado por donde sea
+		- Dar sin mirar a quien
+		- Desde el corazón
+		- Sin esperar nada a cambio
+	- Ofrenda a la tierra; despacho
+		- Abrirle la boca a la tierra y darle de comer
+		- Para agradecer a la tierra todo lo que ella nos da
+		- Principios básicos para ingresar a la rueda
+- Cada elemento tiene a sus elementales
+	- Viento
+		- Silfos, sílfides
+	- Tierra
+	- Fuego
+	- Agua
+- Comunicarse con los espíritus de la naturaleza (intencionar algo)
+	- Pedir permiso para entrar en contacto con su energía
+	- Se le dice qué le vamos a ofrendar (puede ser algo simple, pluma, pensamiento, gratitud, etc)
+	- Le voy a pedir un mensaje
+	- Le voy a agradecer
+- Todo está vivo a nuestro alrededor, y todo nos está hablando y guiando constantemente para que evolucionemos.
+- Cómo me vinculo con todo lo que me rodea?
+- No existe la comparación; cada uno de nosotres somos necesarios en esta creación.
+- Nuestro cuerpo tiene todas las herramientas para auto-sanarse.
+- El significado de la rueda medicina es un círculo sin principio ni fin
+	- Constante ciclo, vida, muerte, transformación/renacimiento.
+	- La rueda medicina se hacía en la antigüedad con piedras, con un rezo una intención a cada una.
+- [Corte internet]
+- Todo nos lleva a estar en el centro
+- Iniciamos la rueda en el oeste
+	- Cosmovisión de la serpiente
+		- Serpiente representa la kundalini, fuerza de sexualidad; el respiro, la respiración, fuerza creativa, fuerza dadora de vida.
+	- Dirección de los ancestros
+	- Color negro
+	- Arquetipo del héroe
+		- Es el llamado a hacernos responsables de nuestra historia personal
+		- Yo me hago cargo
+	- 3 heridas portales: herida de la víctima, del herida verdugo/juzgador, herida del salvador.
+	- Nos lleva a tomar nuestro poder personal
+		- A partir de hoy lo vivo diferente.
+- Dirección del sur
+	- Animal de poder del jaguar
+		- Es un animal que caza en el agua
+		- Fortaleza, astucia, ve de noche
+		- Equilibrio, un pie en la tierra y un pie en el agua
+	- Seguir buceando en la incomodidad
+		- Una incomodidad que termina agradando
+	- Agua, emociones, sangre, niños y niñas interiores
+	- Nos volvemos a mirar desde nuestra infancia
+	- Color rojo
+	- Arquetipo del guerrero/mercader
+		- Negocia con su realidad
+	- 3 heridas portales: dolor/angustia, ira/bronca/rencor/enojo, dudas e incertidumbre.
+		- Aceptar las emociones, están ahí para despertarme, como un gran tesoro
+		- El llanto es la medicina de nuestro cuerpo
+		- Risa también lo es
+	- Honrar nuestras emociones, no evitarlas
+- Dirección norte
+	- Nivel colibrí
+	- Elemento: viento
+	- Color: blanco
+	- Comunicación
+	- Mente verdadera o alma
+	- No hay tanta racionalización, puramente sensitivo; conectado con la música, poesía, arte, belleza
+	- No hay heridas portales
+	- Vemos todo con belleza
+	- Poder de intención, manifestación, sueños
+	- 3 portales que abrimos: fuerza de nuestra imaginación, visualización, e intención.
+	- Auto-sanarnos a través de la luz, trabajamos con la alquimia
+	- Alquimia: transformar todo lo denso a lo sutil, y desde lo sutil transformar lo denso
+	- Arquetipo: visionario
+- Dirección este
+	- Nivel águila
+	- Fuego sagrado del espíritu
+	- El lenguaje de la energía
+	- Expande los límites
+	- Arquetipo: mago
+	- No-mente
+	- Adueñarnos de nuestras proyecciones
+	- Herramienta: Alquimia indígena, nos ayuda a integrar todos los niveles de percepción
+- Cada nivel de percepción integra al anterior; es cíclica, las limpiezas se dan por capas.
+- Principios del chamanismo
+	- Impecabilidad
+	- Borrar nuestra historia personal
+		- Poder mirar con ojos de aprendizaje todo lo que transitamos hasta este día
+	- Responsabilidad: me hago cargo
+- Herramienta para sacar el enojo: escribirlo en un papel
+- Chamanismo trans-cultural; escuela de Michael Harner
+	- [Corte internet] lo sagrado de este camino
+	- Está adaptado a nosotres hoy
+- Viaje de tambor
+	- Conocer mundo inferior, mundo del medio, mundo superior
+		- Nos conectamos con nuestros animales de poder
+	- En cada mundo se hacen distintas consultas
+	- Mundo inferior (raíces)
+		- Viven los animales de poder y la madre tierra
+	- Mundo del medio (tronco)
+		- Es el mundo donde nosotres vivimos
+		- Viven los elementales de la naturaleza
+		- Nuestros gemelos sagrados; los guardianes de nuestro inconsciente
+	- Mundo de arriba (copa)
+		- Seres más sutiles
+	- Curso de extracción chamánica
+		- Cirugía energética
+		- Herramienta muy poderosa
+- Chamanismo andino energías
+	- Shami (energía sutil, refinada, positiva)
+	- Hucha (energía pesada, pensamientos densos, insultos, adicciones)
+	- Estas energías tienen que estar en equilibrio
+- La desestructuración de nuestro ego
+	- Entender que somos canales, yo no sano a nadie, quienes sirven realmente son nuestros aliados
+- Animales que se me presentaron
+	- Ciervo y sapo
+	-
