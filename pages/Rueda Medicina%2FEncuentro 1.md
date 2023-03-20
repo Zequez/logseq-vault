@@ -1,7 +1,8 @@
 - Compas:
 	- Agustina: Santa Fé
-	- Evelina: Rivera Maya
 	- Daniela: Mercedes
+	- Evelina: Rivera Maya
+	- Mariela
 - Compas Avanzadas:
 	- Romina
 	- Lisa
