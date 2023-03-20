@@ -21,5 +21,6 @@
 - En el chamanismo: Dios = El Gran Espíritu
 - Labor de conscientización del uso especializado de la energia
 	- Magia = Saber utilizar nuestra energía vital
-	-
+- Todes somos hijos
+-
 -
