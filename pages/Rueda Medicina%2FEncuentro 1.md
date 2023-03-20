@@ -1,8 +1,8 @@
 - Compas:
 	- Agustina: Santa Fé
 	- Daniela: Mercedes
-	- Evelina: Rivera Maya
-	- Mariela
+	- Evelina: Perú / Italia -> Vive en Rivera Maya (Conoce a Lisa)
+	- Mariela: Rosario -> Vive en Capilla del Monte
 - Compas Avanzadas:
 	- Romina
 	- Lisa
