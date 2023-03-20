@@ -2,7 +2,7 @@ start-date:: 2014-04
 
 - end-date:: 2014-12
 - url:: https://github.com/Zequez?tab=repositories&q=ptb
-- skills:: Ruby, CoffeeScript, CSS, HTML
+- skills:: Ruby, CoffeeScript, CSS, HTML, Web Scraping
 - ## Description
 	- Initially when Steam started the reviews system, I saw that they included the playing time of the person for each review. So I though, *"wouldn't it be nice to see the average playing time for every game?"* and if you divide it by the price of the game, you can see... the *playtime for the buck*.
 	- The idea was to scrap all the games and  all the reviews and make a database with them, then I could analyze the data and sort it however I wanted! I ended up adding much more than playtime/buck, you can filter and sort games in multiple ways.
