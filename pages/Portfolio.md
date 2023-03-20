@@ -15,6 +15,7 @@
 	- ... [[Portfolio/Mandelbrot Sandbox]]
 	- ... [[Portfolio/The Hero Journey]]
 - 2019
+	- [[Portfolio/Zequez.com]]
 	- [[Portfolio/GGFilter]]
 - 2018
 	- ...[[Portfolio/Home Actions]]
