@@ -1,3 +1,5 @@
+- Spaceholder:
+	- Romina Castañeda
 - Compas:
 	- Micaela: A una hora de Rosario
 	- Agustina: Santa Fé
@@ -5,7 +7,5 @@
 	- Evelina: Perú / Italia -> Vive en Rivera Maya (referida de Lisa)
 	- Mariela: Rosario -> Vive en Capilla del Monte (donde conoció a Romi)
 - Compas Avanzadas:
-	- Romina Castañeda
 	- Lisa:
 	- Cele
-	-
