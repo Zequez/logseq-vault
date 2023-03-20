@@ -9,3 +9,6 @@
 - Compas Avanzadas:
 	- Lisa:
 	- Cele
+-
+- Todo es energía, todo está vivo, todo tiene un espíritu
+-
