@@ -11,7 +11,7 @@
 	- ...[[Portfolio/Santuario]]
 - 2020
 	- ...[[Portfolio/Covid Heroes]]
-	- ...[[Portfolio/Zequez.space]]
+	- [[Portfolio/Zequez.space]]
 	- [[Portfolio/Mandelbrot Sandbox]]
 	- ... [[Portfolio/The Hero Journey]]
 - 2019
