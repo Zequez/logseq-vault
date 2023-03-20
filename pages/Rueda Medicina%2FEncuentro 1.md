@@ -5,6 +5,6 @@
 	- Mariela: Rosario -> Vive en Capilla del Monte (donde conoció a Romi)
 - Compas Avanzadas:
 	- Romina
-	- Lisa
+	- Lisa:
 	- Cele
 	-
