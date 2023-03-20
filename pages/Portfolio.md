@@ -1,6 +1,6 @@
 -
 - 2023
-	- ...[[Portfolio/Archy Collab]]
+	- [[Portfolio/Archy Collab]]
 	- ...[[Portfolio/Google Sheets Based Website]]
 - 2022
 	- ...[[Portfolio/Ubiquity UI]]

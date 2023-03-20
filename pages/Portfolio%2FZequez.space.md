@@ -1,7 +1,7 @@
 title:: Portfolio/Zequez.space
 
 - url:: https://zequez.space
-- skills:: TypeScript, React, HTML, CSS, SVG, Gatsby.js
+- skills:: TypeScript, React, HTML, CSS, SVG, Gatsby.js, Tailwind
 - ## Description
 - This was my personal website for a while. It's still online.
 - I had fun writing an SVG generator that created the background randomly. And I added a lot of fun visual effects.
