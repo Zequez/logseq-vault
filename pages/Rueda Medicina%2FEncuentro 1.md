@@ -17,4 +17,6 @@
 	- Viaje de tambor; maraca, y poder personal para sanar
 -
 - Comenzamos por la dirección del oeste
+- Los modulos están canalizados a través de la Madre Tierra
+-
 -
