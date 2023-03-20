@@ -1,5 +1,5 @@
 - Compas:
-	- Micaela: A una hora di ro
+	- Micaela: A una hora de Rosario
 	- Agustina: Santa Fé
 	- Daniela: Mercedes
 	- Evelina: Perú / Italia -> Vive en Rivera Maya (referida de Lisa)
