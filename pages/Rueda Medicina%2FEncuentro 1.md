@@ -14,5 +14,6 @@
 	- Todo es energía, todo está vivo, todo tiene un espíritu
 	- Conectar con elementales
 	- Técnicas para detener el diálogo interior
-	- Viaje de tambor; maraca, y poder personal para sanar.
+	- Viaje de tambor; maraca, y poder personal para sanar
+	-
 -
