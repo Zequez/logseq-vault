@@ -15,5 +15,6 @@
 	- Conectar con elementales
 	- Técnicas para detener el diálogo interior
 	- Viaje de tambor; maraca, y poder personal para sanar
-	-
+-
+- Comenzamos por la dirección del oeste
 -
