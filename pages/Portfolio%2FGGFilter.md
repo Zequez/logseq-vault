@@ -9,6 +9,7 @@ url:: https://github.com/Zequez?tab=repositories&q=ggfilter
 	- The scrapers are bundled in a pure ruby gem with different submodules for each type of scraping: games list, game pages and reviews from Steam, and video cards benchmarks (for the system requirements index).
 	- The Rails server works mostly as an API and has the Rake tasks to run the different scrapers on cronjobs.
 	- The client is made with React+Redux and it communicates with the server through the API.
+	- The project is not under active development and after the free Heroku shut down, so did GGFilter; thes
 - ## Screenshots
 	- ![ggfilter.png](../assets/ggfilter_1678634618028_0.png)
 -
