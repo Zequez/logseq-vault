@@ -22,5 +22,7 @@
 - Labor de conscientización del uso especializado de la energia
 	- Magia = Saber utilizar nuestra energía vital
 - Todes somos hijos
--
+- En el chamanismo no existe la palabra esfuerzo
+	- Sí existe la voluntad, y la constancia
+	-
 -
