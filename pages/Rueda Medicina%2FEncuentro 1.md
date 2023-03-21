@@ -27,5 +27,9 @@
 - No hay ni buenos ni malos; hay circumstancias que las elegimos transitar
 - Bruxismo: exceso de control; se cura aflojando la mandíbula
 	- Cuando hacemos meditaciones, dejar caer la mandíbula
-	-
+- Expectativa que surgió: "Me tiene que salir bien" EHP
+- Altar es nuestra extensión
+	- Tiene representados los 4 elementos; nosotres somos los cuatro elementos
+		- Cuerpo físico: Tierra
+		-
 -
