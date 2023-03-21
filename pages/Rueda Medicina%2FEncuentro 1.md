@@ -83,6 +83,9 @@
 - Yo tengo un don, lo voy a descubrir
 	- El don que no tenga desarrollado lo voy a desarrollar con el tiempo
 -
--
+- Tarea:
+	- Lo mismo que hicimos en la rueda pero hincados con las manos en la tierra y pedir un mensaje a la tierra
+	- Ya al cielo con las manos arriba; y pedir un mensaje
+	- Y también a nuestro corazón; y pedir un mensaje
 	-
 -
