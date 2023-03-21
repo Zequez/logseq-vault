@@ -67,8 +67,13 @@
 		- [[Rueda dirección norte]]: Mente / Colibrí / Visionario / Blanco
 		- [[Rueda dirección este]]: Espíritu / Águila / Mago / Amarillo
 	-
-- Ajó: Por todas mis emociones?
+- Ajó
   background-color:: yellow
+	- Una bendición
+	- Te celebro
+	- Asentir
+	- Cuando pasamos a otro rumbo
+	- De la tradición Lakota
 - Mensaje para el equinoccio
 	-
 -
