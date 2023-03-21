@@ -59,7 +59,10 @@
 		- Adultez
 		- Muerte (trascendencia)
 	- Como humanos estamos transformándonos constantemente: Vida -> Muerte -> Vida
-	-
+	- Herramienta de transformación enregética para armonizar el mundo externo e interno
+	- Desde el centro está la misma distancia a todos los puntos
+	- El centro se divide en 4 direcciones
+	- Oeste
 	-
 - Mensaje para el equinoccio
 	-
