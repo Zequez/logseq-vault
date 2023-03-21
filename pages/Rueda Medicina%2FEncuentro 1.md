@@ -31,5 +31,8 @@
 - Altar es nuestra extensión
 	- Tiene representados los 4 elementos; nosotres somos los cuatro elementos
 		- Cuerpo físico: Tierra
-		-
+		- Sangre: Agua
+		- Mental: Aire
+		- Energía espiritual (debajo del ombligo): Fuego
+	- Se conjuga el poder de conectar
 -
