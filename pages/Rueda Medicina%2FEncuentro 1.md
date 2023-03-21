@@ -28,8 +28,10 @@
 - Bruxismo: exceso de control; se cura aflojando la mandíbula
 	- Cuando hacemos meditaciones, dejar caer la mandíbula
 - Expectativa que surgió: "Me tiene que salir bien" EHP
-- [[Altar Chamánico]] es nuestra extensión
-	- Es el espacio de rezo
+- [[Altar Chamánico]]
+	- Es nuestra extensión; un espacio personal
+	- Podés poner cosas personales de otras culturas o religiones, no hay drama
+	- Es el espacio de rezo, meditación
 	- Tiene representados los 4 elementos; nosotres somos los cuatro elementos
 		- Cuerpo físico: Tierra
 		- Sangre: Agua
