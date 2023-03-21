@@ -62,12 +62,12 @@
 	- Herramienta de transformación enregética para armonizar el mundo externo e interno
 	- Desde el centro está la misma distancia a todos los puntos
 	- El centro se divide en 4 direcciones
-		- [[Rueda dirección oeste]]: Cuerpo físico / Serpiente
-		- [[Rueda dirección sur]]: Emociones / Jaguar / Guerrero
-		- [[Rueda dirección norte]]: Mente / Colibrí / Visionario
-		- [[Rueda dirección este]]: Espiritualidad / Águila / Mago
+		- [[Rueda dirección oeste]]: Cuerpo físico / Serpiente / Héroe / Negro
+		- [[Rueda dirección sur]]: Emociones / Jaguar / Guerrero / Rojo
+		- [[Rueda dirección norte]]: Mente / Colibrí / Visionario / Blanco
+		- [[Rueda dirección este]]: Espiritualidad / Águila / Mago / Amarillo
 	-
-	-
+- Ajó: Por todas mis emociones
 - Mensaje para el equinoccio
 	-
 -
