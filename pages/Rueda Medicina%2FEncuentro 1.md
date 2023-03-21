@@ -25,5 +25,5 @@
 - En el chamanismo no existe la palabra esfuerzo
 	- Sí existe la voluntad, y la constancia
 - No hay ni buenos ni malos; hay circumstancias que las elegimos transitar
--
+- Bruxismo: exceso
 -
