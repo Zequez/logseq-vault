@@ -1,0 +1,13 @@
+- Nivel colibrí
+- Elemento: viento
+- Color: blanco
+- Comunicación
+- Mente verdadera o alma
+- No hay tanta racionalización, puramente sensitivo; conectado con la música, poesía, arte, belleza
+- No hay heridas portales
+- Vemos todo con belleza
+- Poder de intención, manifestación, sueños
+- 3 portales que abrimos: fuerza de nuestra imaginación, visualización, e intención.
+- Auto-sanarnos a través de la luz, trabajamos con la alquimia
+- Alquimia: transformar todo lo denso a lo sutil, y desde lo sutil transformar lo denso
+- Arquetipo: visionario

@@ -1,0 +1,8 @@
+- Nivel águila
+- Fuego sagrado del espíritu
+- El lenguaje de la energía
+- Expande los límites
+- Arquetipo: mago
+- No-mente
+- Adueñarnos de nuestras proyecciones
+- Herramienta: Alquimia indígena, nos ayuda a integrar todos los niveles de percepción

@@ -1,0 +1,16 @@
+- Animal de poder del jaguar
+	- Es un animal que caza en el agua
+	- Fortaleza, astucia, ve de noche
+	- Equilibrio, un pie en la tierra y un pie en el agua
+- Seguir buceando en la incomodidad
+	- Una incomodidad que termina agradando
+- Agua, emociones, sangre, niños y niñas interiores
+- Nos volvemos a mirar desde nuestra infancia
+- Color rojo
+- Arquetipo del guerrero/mercader
+	- Negocia con su realidad
+- 3 heridas portales: dolor/angustia, ira/bronca/rencor/enojo, dudas e incertidumbre.
+	- Aceptar las emociones, están ahí para despertarme, como un gran tesoro
+	- El llanto es la medicina de nuestro cuerpo
+	- Risa también lo es
+- Honrar nuestras emociones, no evitarlas
