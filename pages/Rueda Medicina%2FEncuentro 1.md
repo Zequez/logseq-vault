@@ -41,7 +41,11 @@
 	- Podés tener un altar portátil; conviene tener 2 si querés tener uno portátil, y dejar uno en la casa
 	- Es un espacio de protección
 	- El altar se activa: eleva la vibración de todo el lugar
-	-
+	- Elementos:
+		- Aire: Representado por incienso
+		- Tierra: Representado por tierra
+		- Agua: Representado por agua
+		- Fuego: Representado por fuego
 - Árbol de la Vida
 -
 	-
