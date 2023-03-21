@@ -34,17 +34,7 @@
 	- La rueda medicina se hacía en la antigüedad con piedras, con un rezo una intención a cada una.
 - [Corte internet]
 - Todo nos lleva a estar en el centro
-- Iniciamos la rueda en el oeste
-	- Cosmovisión de la serpiente
-		- Serpiente representa la kundalini, fuerza de sexualidad; el respiro, la respiración, fuerza creativa, fuerza dadora de vida.
-	- Dirección de los ancestros
-	- Color negro
-	- Arquetipo del héroe
-		- Es el llamado a hacernos responsables de nuestra historia personal
-		- Yo me hago cargo
-	- 3 heridas portales: herida de la víctima, del herida verdugo/juzgador, herida del salvador.
-	- Nos lleva a tomar nuestro poder personal
-		- A partir de hoy lo vivo diferente.
+- [[Rueda dirección oeste]]
 - Dirección del sur
 	- Animal de poder del jaguar
 		- Es un animal que caza en el agua

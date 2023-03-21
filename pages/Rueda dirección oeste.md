@@ -1,0 +1,10 @@
+- Cosmovisión de la serpiente
+	- Serpiente representa la kundalini, fuerza de sexualidad; el respiro, la respiración, fuerza creativa, fuerza dadora de vida.
+- Dirección de los ancestros
+- Color negro
+- Arquetipo del héroe
+	- Es el llamado a hacernos responsables de nuestra historia personal
+	- Yo me hago cargo
+- 3 heridas portales: herida de la víctima, del herida verdugo/juzgador, herida del salvador.
+- Nos lleva a tomar nuestro poder personal
+	- A partir de hoy lo vivo diferente.

@@ -62,7 +62,8 @@
 	- Herramienta de transformación enregética para armonizar el mundo externo e interno
 	- Desde el centro está la misma distancia a todos los puntos
 	- El centro se divide en 4 direcciones
-	- Oeste
+	- {{embed [[Rueda dirección oeste]] }}
+	-
 	-
 - Mensaje para el equinoccio
 	-
