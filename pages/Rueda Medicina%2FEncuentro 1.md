@@ -65,9 +65,10 @@
 		- [[Rueda dirección oeste]]: Cuerpo físico / Serpiente / Héroe / Negro
 		- [[Rueda dirección sur]]: Emociones / Jaguar / Guerrero / Rojo
 		- [[Rueda dirección norte]]: Mente / Colibrí / Visionario / Blanco
-		- [[Rueda dirección este]]: Espiritualidad / Águila / Mago / Amarillo
+		- [[Rueda dirección este]]: Espíritu / Águila / Mago / Amarillo
 	-
-- Ajó: Por todas mis emociones
+- Ajó: Por todas mis emociones?
+  background-color:: yellow
 - Mensaje para el equinoccio
 	-
 -
