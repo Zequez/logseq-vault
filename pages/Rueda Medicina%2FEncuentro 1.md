@@ -76,7 +76,9 @@
 	- Hayaya
 	- In'lack Etch
 - Conectando
-	-
+	- Pedir un mensaje
+	- La primera respuesta es Dios (la verdad)
+	- Estar atento a lenguaje del cuerpo, a donde va tu atención
 - Mensaje para el equinoccio
 -
 -
