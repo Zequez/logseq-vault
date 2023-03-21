@@ -25,5 +25,7 @@
 - En el chamanismo no existe la palabra esfuerzo
 	- Sí existe la voluntad, y la constancia
 - No hay ni buenos ni malos; hay circumstancias que las elegimos transitar
-- Bruxismo: exceso
+- Bruxismo: exceso de control; se cura aflojando la mandíbula
+	- Cuando hacemos meditaciones, dejar caer la mandíbula
+	-
 -
