@@ -47,5 +47,12 @@
 		- Agua: Representado por agua
 		- Fuego: Representado por fuego
 - Árbol de la Vida
+- [[Rueda Medicina]]
+	- Espacio circular
+	- Cada piedra en la rueda medicina representa algo
+	- Representa la consciencia de que todo tiene un inicio, punto medio, final, y un nuevo comienzo
+		- Es una espiral que se va elevando en consciencia
+	-
+	-
 -
 	-
