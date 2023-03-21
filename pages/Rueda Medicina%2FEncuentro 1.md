@@ -87,7 +87,8 @@
 	- Otoño: paso a paso a la introspección
 		- Rituales de amor propio
 	- Así como nos vaciamos de lo que no; hay que llenarnos con algo: amor propio
-	- Luna nueva en aries: direccionar, foco
+	- Luna nueva en aries: direccionar, foco, como quiero estar de acá a 6 meses?
+		-
 -
 - Tarea:
 	- Lo mismo que hicimos en la rueda pero hincados con las manos en la tierra y pedir un mensaje a la tierra
