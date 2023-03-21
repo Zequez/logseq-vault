@@ -80,6 +80,8 @@
 	- La primera respuesta es Dios (la verdad)
 	- Estar atento a lenguaje del cuerpo, a donde va tu atención
 - Mensaje para el equinoccio
+- Yo tengo un don, lo voy a descubrir
+	- El don que no tenga desarrollado lo voy a desarrollar con el tiempo
 -
 -
 	-
