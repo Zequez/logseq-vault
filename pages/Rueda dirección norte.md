@@ -1,6 +1,7 @@
 - Nivel colibrí
-- Elemento: viento
+- Elemento: viento / aire
 - Color: blanco
+- Representa: Claridad de la mente
 - Comunicación
 - Mente verdadera o alma
 - No hay tanta racionalización, puramente sensitivo; conectado con la música, poesía, arte, belleza
