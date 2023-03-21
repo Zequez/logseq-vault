@@ -63,9 +63,9 @@
 	- Desde el centro está la misma distancia a todos los puntos
 	- El centro se divide en 4 direcciones
 		- [[Rueda dirección oeste]]: Cuerpo físico
-		- [[Rueda dirección sur]]: Espiritualidad
+		- [[Rueda dirección sur]]: Emociones
 		- [[Rueda dirección norte]]: Mente
-		- [[Rueda dirección este]]
+		- [[Rueda dirección este]]: Espiritualidad
 	-
 	-
 - Mensaje para el equinoccio
