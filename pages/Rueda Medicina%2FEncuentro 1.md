@@ -83,6 +83,8 @@
 	- El don que no tenga desarrollado lo voy a desarrollar con el tiempo
 - Mensaje para el equinoccio
 	- Hoy y mañana son días para cerrar ciclos
+	- Tirar todo lo que tenemos que tirar
+	- Otoño: paso a paso a la introspección
 	-
 -
 - Tarea:
