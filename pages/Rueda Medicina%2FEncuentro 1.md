@@ -66,14 +66,16 @@
 		- [[Rueda dirección sur]]: Emociones / Jaguar / Guerrero / Rojo
 		- [[Rueda dirección norte]]: Mente / Colibrí / Visionario / Blanco
 		- [[Rueda dirección este]]: Espíritu / Águila / Mago / Amarillo
+- Bendiciones / Saludos
+	- Ajó
+		- Una bendición
+		- Te celebro
+		- Asentir
+		- Cuando pasamos a otro rumbo
+		- De la tradición Lakota
+	- Hayaya
+	- In'lack Etch
 	-
-- Ajó
-  background-color:: yellow
-	- Una bendición
-	- Te celebro
-	- Asentir
-	- Cuando pasamos a otro rumbo
-	- De la tradición Lakota
 - Mensaje para el equinoccio
 	-
 -
