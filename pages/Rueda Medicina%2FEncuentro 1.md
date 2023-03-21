@@ -38,6 +38,7 @@
 		- Mental: Aire
 		- Energía espiritual (debajo del ombligo): Fuego
 	- Se conjuga el poder de conectar cielo y tierra
+	-
 - Árbol de la Vida
 -
 	-
