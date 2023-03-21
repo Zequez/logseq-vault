@@ -53,7 +53,15 @@
 	- Representa la consciencia de que todo tiene un inicio, punto medio, final, y un nuevo comienzo
 		- Es una espiral que se va elevando en consciencia
 	- Los ciclos se repiten
+	- Representa las etapas de vida
+		- Niñes
+		- Madurez
+		- Adultez
+		- Muerte (trascendencia)
+	- Como humanos estamos transformándonos constantemente: Vida -> Muerte -> Vida
 	-
+	-
+- Mensaje para el equinoccio
 	-
 -
 	-
