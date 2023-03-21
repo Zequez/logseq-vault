@@ -29,7 +29,6 @@
 	- Cuando hacemos meditaciones, dejar caer la mandíbula
 - Expectativa que surgió: "Me tiene que salir bien" EHP
 - [[Altar Chamánico]]
-	-
 	- Es nuestra extensión; un espacio personal
 	- Podés poner cosas personales de otras culturas o religiones, no hay drama
 	- Es el espacio de rezo, meditación
